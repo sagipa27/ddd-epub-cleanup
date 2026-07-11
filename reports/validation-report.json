@@ -1,9 +1,197 @@
 {
-  "file": "cleaned-html/chapter-5.xhtml",
-  "generatedAt": "2026-07-11T16:51:22.945Z",
-  "bodyTextLength": 82371,
+  "file": "cleaned-html/all.xhtml",
+  "generatedAt": "2026-07-11T17:13:59.364Z",
+  "bodyTextLength": 812538,
   "errors": [],
   "warnings": [
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Finishing:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Schedules"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Validation"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Subsumption"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Advantages"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Disadvantages"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Advantages"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Disadvantage"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Advantages"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Disadvantages"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Advantages"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Disadvantages"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
     {
       "type": "suspicious-one-word-paragraph",
       "text": "Therefore:"
@@ -14,8 +202,8 @@
     }
   ],
   "errorCount": 0,
-  "warningCount": 2,
-  "textLengthBefore": 82388,
-  "textLengthAfter": 82371,
-  "textLengthPctChange": -0.02
+  "warningCount": 49,
+  "textLengthBefore": 813373,
+  "textLengthAfter": 812538,
+  "textLengthPctChange": -0.1
 }

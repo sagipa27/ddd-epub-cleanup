@@ -1,6 +1,49 @@
 {
-  "generatedAt": "2026-07-11T16:51:02.659Z",
+  "generatedAt": "2026-07-11T17:12:33.594Z",
   "pagesProcessed": [
+    "pf1",
+    "pf2",
+    "pf3",
+    "pf4",
+    "pf5",
+    "pf6",
+    "pf7",
+    "pf8",
+    "pf9",
+    "pfa",
+    "pfb",
+    "pfc",
+    "pfd",
+    "pfe",
+    "pff",
+    "pf10",
+    "pf11",
+    "pf12",
+    "pf13",
+    "pf14",
+    "pf15",
+    "pf16",
+    "pf17",
+    "pf18",
+    "pf19",
+    "pf1a",
+    "pf1b",
+    "pf1c",
+    "pf1d",
+    "pf1e",
+    "pf1f",
+    "pf20",
+    "pf21",
+    "pf22",
+    "pf23",
+    "pf24",
+    "pf25",
+    "pf26",
+    "pf27",
+    "pf28",
+    "pf29",
+    "pf2a",
+    "pf2b",
     "pf2c",
     "pf2d",
     "pf2e",
@@ -26,112 +69,700 @@
     "pf42",
     "pf43",
     "pf44",
-    "pf45"
+    "pf45",
+    "pf46",
+    "pf47",
+    "pf48",
+    "pf49",
+    "pf4a",
+    "pf4b",
+    "pf4c",
+    "pf4d",
+    "pf4e",
+    "pf4f",
+    "pf50",
+    "pf51",
+    "pf52",
+    "pf53",
+    "pf54",
+    "pf55",
+    "pf56",
+    "pf57",
+    "pf58",
+    "pf59",
+    "pf5a",
+    "pf5b",
+    "pf5c",
+    "pf5d",
+    "pf5e",
+    "pf5f",
+    "pf60",
+    "pf61",
+    "pf62",
+    "pf63",
+    "pf64",
+    "pf65",
+    "pf66",
+    "pf67",
+    "pf68",
+    "pf69",
+    "pf6a",
+    "pf6b",
+    "pf6c",
+    "pf6d",
+    "pf6e",
+    "pf6f",
+    "pf70",
+    "pf71",
+    "pf72",
+    "pf73",
+    "pf74",
+    "pf75",
+    "pf76",
+    "pf77",
+    "pf78",
+    "pf79",
+    "pf7a",
+    "pf7b",
+    "pf7c",
+    "pf7d",
+    "pf7e",
+    "pf7f",
+    "pf80",
+    "pf81",
+    "pf82",
+    "pf83",
+    "pf84",
+    "pf85",
+    "pf86",
+    "pf87",
+    "pf88",
+    "pf89",
+    "pf8a",
+    "pf8b",
+    "pf8c",
+    "pf8d",
+    "pf8e",
+    "pf8f",
+    "pf90",
+    "pf91",
+    "pf92",
+    "pf93",
+    "pf94",
+    "pf95",
+    "pf96",
+    "pf97",
+    "pf98",
+    "pf99",
+    "pf9a",
+    "pf9b",
+    "pf9c",
+    "pf9d",
+    "pf9e",
+    "pf9f",
+    "pfa0",
+    "pfa1",
+    "pfa2",
+    "pfa3",
+    "pfa4",
+    "pfa5",
+    "pfa6",
+    "pfa7",
+    "pfa8",
+    "pfa9",
+    "pfaa",
+    "pfab",
+    "pfac",
+    "pfad",
+    "pfae",
+    "pfaf",
+    "pfb0",
+    "pfb1",
+    "pfb2",
+    "pfb3",
+    "pfb4",
+    "pfb5",
+    "pfb6",
+    "pfb7",
+    "pfb8",
+    "pfb9",
+    "pfba",
+    "pfbb",
+    "pfbc",
+    "pfbd",
+    "pfbe",
+    "pfbf",
+    "pfc0",
+    "pfc1",
+    "pfc2",
+    "pfc3",
+    "pfc4",
+    "pfc5",
+    "pfc6",
+    "pfc7",
+    "pfc8",
+    "pfc9",
+    "pfca",
+    "pfcb",
+    "pfcc",
+    "pfcd",
+    "pfce",
+    "pfcf",
+    "pfd0",
+    "pfd1",
+    "pfd2",
+    "pfd3",
+    "pfd4",
+    "pfd5",
+    "pfd6",
+    "pfd7",
+    "pfd8",
+    "pfd9",
+    "pfda",
+    "pfdb",
+    "pfdc",
+    "pfdd",
+    "pfde",
+    "pfdf",
+    "pfe0",
+    "pfe1",
+    "pfe2",
+    "pfe3",
+    "pfe4",
+    "pfe5",
+    "pfe6",
+    "pfe7",
+    "pfe8",
+    "pfe9",
+    "pfea",
+    "pfeb",
+    "pfec",
+    "pfed",
+    "pfee",
+    "pfef",
+    "pff0",
+    "pff1",
+    "pff2",
+    "pff3",
+    "pff4",
+    "pff5",
+    "pff6",
+    "pff7",
+    "pff8",
+    "pff9",
+    "pffa",
+    "pffb",
+    "pffc",
+    "pffd",
+    "pffe",
+    "pfff",
+    "pf100",
+    "pf101",
+    "pf102",
+    "pf103",
+    "pf104",
+    "pf105",
+    "pf106",
+    "pf107",
+    "pf108",
+    "pf109",
+    "pf10a",
+    "pf10b",
+    "pf10c",
+    "pf10d",
+    "pf10e",
+    "pf10f",
+    "pf110",
+    "pf111",
+    "pf112",
+    "pf113",
+    "pf114",
+    "pf115",
+    "pf116",
+    "pf117",
+    "pf118",
+    "pf119",
+    "pf11a",
+    "pf11b",
+    "pf11c",
+    "pf11d",
+    "pf11e",
+    "pf11f",
+    "pf120",
+    "pf121",
+    "pf122",
+    "pf123",
+    "pf124",
+    "pf125",
+    "pf126",
+    "pf127",
+    "pf128",
+    "pf129",
+    "pf12a",
+    "pf12b",
+    "pf12c",
+    "pf12d",
+    "pf12e",
+    "pf12f",
+    "pf130",
+    "pf131",
+    "pf132",
+    "pf133",
+    "pf134",
+    "pf135",
+    "pf136",
+    "pf137",
+    "pf138",
+    "pf139",
+    "pf13a",
+    "pf13b",
+    "pf13c",
+    "pf13d",
+    "pf13e",
+    "pf13f",
+    "pf140",
+    "pf141",
+    "pf142",
+    "pf143",
+    "pf144"
   ],
-  "headersRemoved": 26,
+  "headersRemoved": 323,
   "headerSamples": [
     {
-      "page": "pf2c",
-      "text": "48"
+      "page": "pf2",
+      "text": "4"
     },
     {
-      "page": "pf2d",
-      "text": "A Model Expressed in Software 49"
+      "page": "pf3",
+      "text": "Crunching Knowledge 5"
     },
     {
-      "page": "pf2e",
-      "text": "A Model Expressed in Software 50"
+      "page": "pf4",
+      "text": "Crunching Knowledge 6"
     },
     {
-      "page": "pf2f",
-      "text": "A Model Expressed in Software 51"
+      "page": "pf5",
+      "text": "Crunching Knowledge 7"
     },
     {
-      "page": "pf30",
-      "text": "A Model Expressed in Software 52"
+      "page": "pf6",
+      "text": "Crunching Knowledge 8"
     },
     {
-      "page": "pf31",
-      "text": "A Model Expressed in Software 53"
+      "page": "pf7",
+      "text": "Crunching Knowledge 9"
     },
     {
-      "page": "pf32",
-      "text": "A Model Expressed in Software 54"
+      "page": "pf8",
+      "text": "Crunching Knowledge 10"
     },
     {
-      "page": "pf33",
-      "text": "A Model Expressed in Software 55"
+      "page": "pf9",
+      "text": "Crunching Knowledge 11"
     },
     {
-      "page": "pf34",
-      "text": "A Model Expressed in Software 56"
+      "page": "pfa",
+      "text": "Crunching Knowledge 12"
     },
     {
-      "page": "pf35",
-      "text": "A Model Expressed in Software 57"
+      "page": "pfb",
+      "text": "Crunching Knowledge 13"
     },
     {
-      "page": "pf36",
-      "text": "A Model Expressed in Software 58"
+      "page": "pfc",
+      "text": "14"
     },
     {
-      "page": "pf37",
-      "text": "A Model Expressed in Software 59"
+      "page": "pfd",
+      "text": "Communication and the Use of Language 15"
     },
     {
-      "page": "pf38",
-      "text": "A Model Expressed in Software 60"
+      "page": "pfe",
+      "text": "Communication and the Use of Language 16"
     },
     {
-      "page": "pf39",
-      "text": "A Model Expressed in Software 61"
+      "page": "pff",
+      "text": "Communication and the Use of Language 17"
     },
     {
-      "page": "pf3a",
-      "text": "A Model Expressed in Software 62"
+      "page": "pf10",
+      "text": "Communication and the Use of Language 18"
     },
     {
-      "page": "pf3b",
-      "text": "A Model Expressed in Software 63"
+      "page": "pf11",
+      "text": "Communication and the Use of Language 19"
     },
     {
-      "page": "pf3c",
-      "text": "A Model Expressed in Software 64"
+      "page": "pf12",
+      "text": "Communication and the Use of Language 20"
     },
     {
-      "page": "pf3d",
-      "text": "A Model Expressed in Software 65"
+      "page": "pf13",
+      "text": "Communication and the Use of Language 21"
     },
     {
-      "page": "pf3e",
-      "text": "A Model Expressed in Software 66"
+      "page": "pf14",
+      "text": "Communication and the Use of Language 22"
     },
     {
-      "page": "pf3f",
-      "text": "A Model Expressed in Software 67"
+      "page": "pf15",
+      "text": "Communication and the Use of Language 23"
     },
     {
-      "page": "pf40",
-      "text": "A Model Expressed in Software 68"
+      "page": "pf16",
+      "text": "Communication and the Use of Language 24"
     },
     {
-      "page": "pf41",
-      "text": "A Model Expressed in Software 69"
+      "page": "pf17",
+      "text": "Communication and the Use of Language 25"
     },
     {
-      "page": "pf42",
-      "text": "A Model Expressed in Software 70"
+      "page": "pf18",
+      "text": "Communication and the Use of Language 26"
     },
     {
-      "page": "pf43",
-      "text": "A Model Expressed in Software 71"
+      "page": "pf19",
+      "text": "27"
     },
     {
-      "page": "pf44",
-      "text": "A Model Expressed in Software 72"
+      "page": "pf1a",
+      "text": "Binding Model and Implementation 28"
     }
   ],
   "hyphenRepairs": [
+    {
+      "before": " ironed out collisions and am- / biguities in their terminology"
+    },
+    {
+      "before": "instorming and refining; ques- / tioning and explaining. The mo"
+    },
+    {
+      "before": "ndreds of facts that the engi- / neers understood but that were"
+    },
+    {
+      "before": "l digital features of the com- / ponents. A software specialist"
+    },
+    {
+      "before": " and what was not, and to com- / municate better with the PCB e"
+    },
+    {
+      "before": "meant. But as the project pro- / ceeded, any of us could take t"
+    },
+    {
+      "before": "usly understood without trans- / lation."
+    },
+    {
+      "before": "e model as it became more com- / plete, but equally important, "
+    },
+    {
+      "before": "ith sketches and a brainstorm- / ing attitude, turned our discu"
+    },
+    {
+      "before": "odel, in which hundreds of ex- / perimental variations could be"
+    },
+    {
+      "before": " As the team went through sce- / narios, the spoken expressions"
+    },
+    {
+      "before": "s, and analysts digest and ab- / stract and pass the result alo"
+    },
+    {
+      "before": "rtunity to learn from the pro- / grammers or gain experience wi"
+    },
+    {
+      "before": " with domain experts, the con- / cepts are naive. That shallown"
+    },
+    {
+      "before": " Because analysts and program- / mers are feeding into it, it i"
+    },
+    {
+      "before": "mately interacts with program- / ming and design. And in a virt"
+    },
+    {
+      "before": "d something move on. Reorgani- / zation scatters the team, and "
+    },
+    {
+      "before": "t. And with typical design ap- / proaches, the code and documen"
+    },
+    {
+      "before": "g continuous learning (Keriev- / sky 2003). For developers, thi"
+    },
+    {
+      "before": "g hops. The core of the appli- / cation turned out to lie else-"
+    },
+    {
+      "before": "plementation. A voyage of dis- / covery has to start somewhere."
+    },
+    {
+      "before": "sociate each Cargo with a Voy- / age, recording and tracking th"
+    },
+    {
+      "before": "ied to every detail of the do- / main. Chapter 15, “Distillatio"
+    },
+    {
+      "before": "en code, that should be intel- / ligible to domain experts (wit"
+    },
+    {
+      "before": "seemed important in the begin- / ning, or we shift their perspe"
+    },
+    {
+      "before": "ely carried out by subcontrac- / tors or by operational people "
+    },
+    {
+      "before": "leading to the release of pay- / ments."
+    },
+    {
+      "before": "ures for handling these trans- / fers of responsibility were no"
+    },
+    {
+      "before": "ationship between those opera- / tions and those responsibiliti"
+    },
+    {
+      "before": "al diagrams and casual conver- / sation reemphasized in Agile p"
+    },
+    {
+      "before": "ommon denominator. With a con- / scious effort by the team, the"
+    },
+    {
+      "before": "on. That language can be ubiq- / uitous in the team's work."
+    },
+    {
+      "before": " approach a model that is com- / plete and comprehensible, made"
+    },
+    {
+      "before": "ness versus how it works tech- / nically. Are the user and deve"
+    },
+    {
+      "before": "e based on the new Route Spec- / ification."
+    },
+    {
+      "before": "ute Specification. Then, when- / ever you change anything in th"
+    },
+    {
+      "before": " could discuss precisely, con- / cretely. They discussed the “r"
+    },
+    {
+      "before": "ication features and miscommu- / nications. The domain-model-ba"
+    },
+    {
+      "before": "be described in terms of rela- / tionships and interactions in "
+    },
+    {
+      "before": "nguistic abilities to the mod- / eling effort, just as it is vi"
+    },
+    {
+      "before": "gin. The pidgin is not as com- / prehensive as the speakers' or"
+    },
+    {
+      "before": "discussions—especially discus- / sions in which developers and "
+    },
+    {
+      "before": "? Then how do you know the ab- / stractions are sound? Do you u"
+    },
+    {
+      "before": " the model to collect require- / ments. After all, shouldn't re"
+    },
+    {
+      "before": " the reframing of the require- / ments in the refined UBIQUITOU"
+    },
+    {
+      "before": "ese are extensions to the lan- / guage. These dialects should n"
+    },
+    {
+      "before": "s of those objects. In a meet- / ing, I would flesh out those m"
+    },
+    {
+      "before": " try different thought experi- / ments, and the sketch will tak"
+    },
+    {
+      "before": "grams, but they cannot be sta- / ted. So, this task falls to su"
+    },
+    {
+      "before": "mpt I've seen to use the code- / generation capabilities of the"
+    },
+    {
+      "before": "gy that allows executable pro- / grams to be written in a UML-l"
+    },
+    {
+      "before": "t they are not design specifi- / cations in every detail. They "
+    },
+    {
+      "before": "n fill in the nuances of mean- / ing. This is why I prefer to t"
+    },
+    {
+      "before": "ments of a program and execut- / able tests. Even comments adde"
+    },
+    {
+      "before": "lm the reader with detail. Al- / though its behavior is unambig"
+    },
+    {
+      "before": " Written documents should com- / plement the code and the talki"
+    },
+    {
+      "before": "hese are good things to commu- / nicate because they are genera"
+    },
+    {
+      "before": "-written code can be very com- / municative, but the message it"
+    },
+    {
+      "before": " of the code is not. Good pro- / gramming style keeps this conn"
+    },
+    {
+      "before": "ntation, design, and team com- / munication. Having separate mo"
+    },
+    {
+      "before": "tive styles tailored to a par- / ticular topic. Visual metaphor"
+    },
+    {
+      "before": " often present clearer explan- / ations, educating developers a"
+    },
+    {
+      "before": "nfusion, everyone must be con- / scious of the distinction."
+    },
+    {
+      "before": "s software model diagrams. To- / gether they are easier to unde"
+    },
+    {
+      "before": "r objects, and this web of as- / sociations had few natural bor"
+    },
+    {
+      "before": "mented in Java. The old appli- / cation had been hacked togethe"
+    },
+    {
+      "before": "e very similar! Both had func- / tionality, but were bloated, v"
+    },
+    {
+      "before": "in much insight about the pur- / pose of the system by reading "
+    },
+    {
+      "before": "eval Islamic scientists. A ro- / tating web (called a rete) rep"
+    },
+    {
+      "before": " from different latitudes. Ro- / [figure] / (continues after figure)"
+    },
+    {
+      "before": "ding only; mixing in implemen- / tation concerns is thought to "
+    },
+    {
+      "before": "he design and the loosely con- / nected model is not cost-effec"
+    },
+    {
+      "before": "fort. Very specific, unantici- / pated problems always arise. A"
+    },
+    {
+      "before": "mpromised by technical consid- / erations. Nor can we accept cl"
+    },
+    {
+      "before": "modeling paradigm, and it pro- / vides implementations of the m"
+    },
+    {
+      "before": "uage. Those languages are pro- / cedural in the sense that the "
+    },
+    {
+      "before": " There are often tens of thou- / sands of nets. Special softwar"
+    },
+    {
+      "before": "ting and string matching func- / tions, and if the language sup"
+    },
+    {
+      "before": "into a model we can base soft- / ware on."
+    },
+    {
+      "before": "tion of the model with the im- / plementation and the technolog"
+    },
+    {
+      "before": "s separated from the implemen- / tation process, he or she neve"
+    },
+    {
+      "before": "the constraints of implementa- / tion. The basic constraint of "
+    },
+    {
+      "before": "odel supports an effective im- / plementation and abstracts key"
+    },
+    {
+      "before": "arge projects still need tech- / nical leaders who coordinate h"
+    },
+    {
+      "before": " over networks, display infor- / mation to users, and so on. So"
+    },
+    {
+      "before": "driven objects becomes imprac- / tical. Automated testing is aw"
+    },
+    {
+      "before": "ut through experience and con- / vention, the industry has conv"
+    },
+    {
+      "before": " the layers “beneath” it. Com- / munication upward must pass th"
+    },
+    {
+      "before": " of these four conceptual lay- / ers:"
+    },
+    {
+      "before": "patterns to provide loose cou- / pling to the layers above. Con"
+    },
+    {
+      "before": "tant not because projects fre- / quently need to replace user i"
+    },
+    {
+      "before": "use a clean separation of con- / cerns keeps the design of each"
+    },
+    {
+      "before": "ng. Indeed, such technical ca- / pabilities are most often offe"
+    },
+    {
+      "before": "pplication needs to send an e- / mail, some message-sending int"
+    },
+    {
+      "before": "hat integrate many infrastruc- / ture needs often require the o"
+    },
+    {
+      "before": "expressing a model. But frame- / works can easily get in the wa"
+    },
+    {
+      "before": " sometimes teams choose frame- / works that don't serve them we"
+    },
+    {
+      "before": "mance and the pace of develop- / ment. Instead, current best pr"
+    },
+    {
+      "before": "r larger grain objects, imple- / menting most business logic wi"
+    },
+    {
+      "before": "t looking for a one-size-fits- / all solution. Judiciously appl"
+    },
+    {
+      "before": " If this is done right, appli- / cation developers will increas"
+    },
+    {
+      "before": " less sophisticated design ap- / proach that I call the SMART U"
+    },
+    {
+      "before": "ry and display, with few busi- / ness rules. Staff is not compo"
+    },
+    {
+      "before": "hort time lines and modest ex- / pectations. Long before the te"
+    },
+    {
+      "before": "n into small functions and im- / plement them as separate user "
+    },
+    {
+      "before": "ed UI building and visual pro- / gramming tools available."
+    },
+    {
+      "before": "l be able to quickly redo por- / tions they can't figure out, b"
+    },
+    {
+      "before": "ould be localized to each par- / ticular UI."
+    },
+    {
+      "before": "ard additional simple applica- / tions. There is no graceful pa"
+    },
+    {
+      "before": "nents that are not fully inte- / grated into your model. You ha"
+    },
+    {
+      "before": "ed domain model can become un- / wieldy all by itself. Chapter "
+    },
     {
       "before": "expressed as actions or opera- / tions, rather than as objects."
     },
@@ -332,9 +963,1748 @@
     },
     {
       "before": "e object model than other com- / ponents, because it acts as th"
+    },
+    {
+      "before": "ate on AGGREGATES, encapsulat- / ing the complexity of specific"
+    },
+    {
+      "before": "e in your database system, ig- / nores a basic modeling issue."
+    },
+    {
+      "before": "system, we have to prevent si- / multaneous changes to interdep"
+    },
+    {
+      "before": "e wrong has serious consequen- / ces."
+    },
+    {
+      "before": "intaining its invariants). Da- / tabases allow various locking "
+    },
+    {
+      "before": "oints looser and strict invar- / iants tighter."
+    },
+    {
+      "before": "internal ENTITIES to other ob- / jects, but those objects can u"
+    },
+    {
+      "before": "ges to the internals. This ar- / rangement makes it practical t"
+    },
+    {
+      "before": "hen this locking will get cum- / bersome."
+    },
+    {
+      "before": "r internals and their associa- / tions. An object should be dis"
+    },
+    {
+      "before": " are a necessity of the imple- / mentation. To solve this probl"
+    },
+    {
+      "before": "s information that will be em- / bedded in the Trade Order (sta"
+    },
+    {
+      "before": "tation of Trade Order. For ex- / ample, it might be refactored "
+    },
+    {
+      "before": "reference to the root, and en- / suring that the product AGGREG"
+    },
+    {
+      "before": "an actually obscure simple ob- / jects that don't use polymorph"
+    },
+    {
+      "before": "RIES. The threshold for choos- / ing to use a little FACTORY ME"
+    },
+    {
+      "before": "oving, and retrieving its con- / tents—can still talk to the in"
+    },
+    {
+      "before": "der's AGGREGATE already refer- / enced the Part, anyway. So giv"
+    },
+    {
+      "before": "to take just the essential at- / tributes required to make a va"
+    },
+    {
+      "before": "eation, with two major differ- / ences."
+    },
+    {
+      "before": "an object already exists some- / where in the system (such as i"
+    },
+    {
+      "before": "titution. Object-mapping tech- / nologies may provide some or a"
+    },
+    {
+      "before": "o keep the web of objects man- / ageable. Whether to provide a "
+    },
+    {
+      "before": ", by making easier the conver- / sion of the query result into "
+    },
+    {
+      "before": " domain objects. If the infra- / structure makes it easy to do "
+    },
+    {
+      "before": "st database access infrastruc- / ture quickly swamps the client"
+    },
+    {
+      "before": "n ourselves with transient ob- / jects. Transients (typically V"
+    },
+    {
+      "before": "ent objects that are more con- / venient to find by traversal. "
+    },
+    {
+      "before": "search based on object attrib- / utes. Such access is needed fo"
+    },
+    {
+      "before": "S with complex internal struc- / ture, and sometimes enumerated"
+    },
+    {
+      "before": "base access mechanisms compli- / cates the client and obscures "
+    },
+    {
+      "before": "le conceptual framework to en- / capsulate those solutions and "
+    },
+    {
+      "before": "w talk to a simple, intention- / revealing interface, and ask f"
+    },
+    {
+      "before": "nt focused on the model, dele- / gating all object storage and "
+    },
+    {
+      "before": " complex combination of param- / eters; selecting objects based"
+    },
+    {
+      "before": "t, or a sum of a numerical at- / tribute that was intended by t"
+    },
+    {
+      "before": "and is greatly aided by a sup- / portive infrastructure."
+    },
+    {
+      "before": " on the infrastructure availa- / ble, it may be a modest framew"
+    },
+    {
+      "before": " addition of specialized hard- / coded queries. They might be c"
+    },
+    {
+      "before": "very simple, completely decou- / pled from the implementation o"
+    },
+    {
+      "before": "d components can be character- / ized. (This is one of the main"
+    },
+    {
+      "before": "ep compositional object struc- / tures. In just the same way, t"
+    },
+    {
+      "before": "done. Encapsulating the mecha- / nisms of storage, retrieval, a"
+    },
+    {
+      "before": "more freedom to change the im- / plementation of a REPOSITORY t"
+    },
+    {
+      "before": "ere calling the mechanisms di- / rectly. You can take advantage"
+    },
+    {
+      "before": "ce, by varying the query tech- / nique or by caching objects in"
+    },
+    {
+      "before": "by providing an easily manipu- / lated, dummy in-memory strateg"
+    },
+    {
+      "before": "ink carefully about the infra- / structure you are committed to"
+    },
+    {
+      "before": "ies. The FACTORY makes new ob- / jects; the REPOSITORY finds ol"
+    },
+    {
+      "before": " software systems is the rela- / tional database. This reality "
+    },
+    {
+      "before": "for creating and managing map- / pings between the two. Apart f"
+    },
+    {
+      "before": "r the objects, it is worth ac- / cepting some model limitations"
+    },
+    {
+      "before": "sign models—apply to this mis- / match. This does entail some s"
+    },
+    {
+      "before": "ject model, and sometimes com- / promises have to be made in th"
+    },
+    {
+      "before": "ects should correspond meticu- / lously to those of the relatio"
+    },
+    {
+      "before": "tical team deals with require- / ments and implementation issue"
+    },
+    {
+      "before": " opposed to the Delivery Spec- / ification, which describes goa"
+    },
+    {
+      "before": "he corresponding Carrier Move- / ment. A successful delivery wo"
+    },
+    {
+      "before": "TITIES. In practice, all ship- / ping companies assign tracking"
+    },
+    {
+      "before": "hat understanding of our busi- / ness. This also reduces the im"
+    },
+    {
+      "before": "are tricky to maintain. Imple- / mentation choices can help by "
+    },
+    {
+      "before": "ed two possible database quer- / ies that would search for thes"
+    },
+    {
+      "before": "ATES, so we can limit our con- / sideration to these, since non"
+    },
+    {
+      "before": "d Cargo object referenced, be- / cause they are ENTITIES outsid"
+    },
+    {
+      "before": "ng outside the AGGREGATE boun- / dary at all."
+    },
+    {
+      "before": "ructor. We would like the con- / structor to produce an object "
+    },
+    {
+      "before": "namely Cargo, so that the com- / position of Cargo is encapsula"
+    },
+    {
+      "before": "vent is an ENTITY, all attrib- / utes that define its identity "
+    },
+    {
+      "before": "ated and how it should be ini- / tialized."
+    },
+    {
+      "before": "s, from Cargo to Delivery His- / tory to History Event and back"
+    },
+    {
+      "before": "eatedly recreated, the associ- / ation with the same Cargo obje"
+    },
+    {
+      "before": "ded work will be avoided alto- / gether."
+    },
+    {
+      "before": "e access pattern includes fre- / quent listing of the full hist"
+    },
+    {
+      "before": "ery of last position, the per- / formance trade-off might favor"
+    },
+    {
+      "before": "ical scheme that is not groun- / ded in the meaning of the obje"
+    },
+    {
+      "before": "sing on what we want to commu- / nicate to others on the projec"
+    },
+    {
+      "before": "nguage. Our company does ship- / ping for customers so that we "
+    },
+    {
+      "before": "erations, or even replaced en- / tirely, but it is now aiding M"
+    },
+    {
+      "before": "oftware to manage client rela- / tionships, sales projections, "
+    },
+    {
+      "before": " queried by the Booking Appli- / cation so that it can either a"
+    },
+    {
+      "before": "lication will have to accommo- / date the other system's design"
+    },
+    {
+      "before": "knowledge that there are cate- / gories of cargo. We should bra"
+    },
+    {
+      "before": "can give us an idea for a mod- / eling solution. The book Analy"
+    },
+    {
+      "before": "y based on the Enterprise Seg- / ment. In both cases, collabora"
+    },
+    {
+      "before": "mplicating their own implemen- / tations. (Notice that the Carg"
+    },
+    {
+      "before": "that the Sales Management Sys- / tem mustn't use dimensions tha"
+    },
+    {
+      "before": "to Enterprise Segments. (With- / out applying the ENTERPRISE SE"
+    },
+    {
+      "before": "int would force the sales sys- / tem to use only dimensions tha"
+    },
+    {
+      "before": "n this design, the Cargo Repo- / sitory need only be designed t"
+    },
+    {
+      "before": "d on the server with the Allo- / cation Checker, reducing messa"
+    },
+    {
+      "before": "same ENTITIES could be segmen- / ted differently for different "
+    },
+    {
+      "before": "e if the Sales Management Sys- / tem is reconfigured because of"
+    },
+    {
+      "before": "it out into a separate “Strat- / egy” object, which could be pa"
+    },
+    {
+      "before": "t at a time: a tweaked associ- / ation here, a shifted responsi"
+    },
+    {
+      "before": "tes the potential for a break- / through of insights. A rush of"
+    },
+    {
+      "before": "ed this by adding Loan Adjust- / ments to the model."
+    },
+    {
+      "before": "ulously account for those pen- / nies. We began to suspect that"
+    },
+    {
+      "before": " revelation had wide repercus- / sions. With the business exper"
+    },
+    {
+      "before": "ial $50MM from the $100MM com- / mitted under the Facility. The"
+    },
+    {
+      "before": " everywhere. Shares of any di- / visible value."
+    },
+    {
+      "before": "and a large amount of special- / case logic was eliminated."
+    },
+    {
+      "before": " could see some small improve- / ments we could make, but none "
+    },
+    {
+      "before": "I've always had tremendous ad- / miration for the courage and t"
+    },
+    {
+      "before": "unding logic, though never ex- / actly simple, stabilized and m"
+    },
+    {
+      "before": "f the whole application. Tech- / nical people and business expe"
+    },
+    {
+      "before": "gs. And timing may be inoppor- / tune."
+    },
+    {
+      "before": "nt ENTITY was missing, its ab- / sence leaving extra responsibi"
+    },
+    {
+      "before": "ecifically, there were signif- / icant rules governing loan dra"
+    },
+    {
+      "before": "rted to realize were being im- / plied by all those complicated"
+    },
+    {
+      "before": "nement comes later, after suc- / cessive iterations of knowledg"
+    },
+    {
+      "before": "doing lots and lots of experi- / mentation."
+    },
+    {
+      "before": "you know, the booking applica- / tion has a menu item that will"
+    },
+    {
+      "before": "stomer. Can you use that some- / how?"
+    },
+    {
+      "before": " of the model opened up oppor- / tunities."
+    },
+    {
+      "before": " the operations support appli- / cation (the sharing of the Iti"
+    },
+    {
+      "before": "-paid within an accounting pe- / riod. Do you have a name for t"
+    },
+    {
+      "before": " interest earned, and the Pay- / ment keeps that number separat"
+    },
+    {
+      "before": "ed. She could see the awkward- / ness of the interest calculati"
+    },
+    {
+      "before": "logy or are based on misunder- / standing. But there is a resid"
+    },
+    {
+      "before": "that the design is getting un- / wieldy, particularly the Inter"
+    },
+    {
+      "before": "omain expert's primary respon- / sibilities lie elsewhere, and "
+    },
+    {
+      "before": "en by another software profes- / sional with development experi"
+    },
+    {
+      "before": ", along with the distilled ex- / perience of people who have tr"
+    },
+    {
+      "before": "oncepts. They often emerge im- / plicitly, and expressing them "
+    },
+    {
+      "before": " This very simple rule was un- / derstandable in its original f"
+    },
+    {
+      "before": "ncept does. Factoring the con- / straint into its own method al"
+    },
+    {
+      "before": "r when the constraint is prom- / inent in the domain yet not pr"
+    },
+    {
+      "before": "rms that this overbooking com- / pensates for last-minute cance"
+    },
+    {
+      "before": "ade explicit, both in the dia- / grams and in the code, by addi"
+    },
+    {
+      "before": " expressing such a process ex- / plicitly, while still encapsul"
+    },
+    {
+      "before": "0, where the pattern is exten- / ded. After reading the initial"
+    },
+    {
+      "before": "other rule, anInvoice.isDelin- / quent() would presumably start"
+    },
+    {
+      "before": "ften refractor the rule evalu- / ation code into the applicatio"
+    },
+    {
+      "before": " the domain code no longer ex- / presses the model."
+    },
+    {
+      "before": "pplying the SPECIFICATION pat- / tern allows a consistent model"
+    },
+    {
+      "before": "an be applied here, but imple- / mentation issues are different"
+    },
+    {
+      "before": "rse, the Invoice objects prob- / ably aren't in memory. There m"
+    },
+    {
+      "before": "g the actual SQL in the infra- / structure layer. This would le"
+    },
+    {
+      "before": "ce Repository. To avoid embed- / ding the rule into the REPOSIT"
+    },
+    {
+      "before": "work the rule out (in this ex- / ample, by using a double dispa"
+    },
+    {
+      "before": "he better factoring of respon- / sibility depends entirely on c"
+    },
+    {
+      "before": "implement the interactions be- / tween SPECIFICATIONS and REPOS"
+    },
+    {
+      "before": "ON could carry only the param- / eters allowed by the stored pr"
+    },
+    {
+      "before": "ION is not a filter for preex- / isting objects, as with queryi"
+    },
+    {
+      "before": "rocedures or a set of instruc- / tions that create the needed o"
+    },
+    {
+      "before": "hat Container has all the fea- / tures specified by the Chemica"
+    },
+    {
+      "before": "ehouse packer example, the ap- / plication team realizes they c"
+    },
+    {
+      "before": "parallel and closing the feed- / back loop, which only reaches "
+    },
+    {
+      "before": "ced by a more effective imple- / mentation. In the meantime, al"
+    },
+    {
+      "before": "ing a change that could aggra- / vate the tangle or break somet"
+    },
+    {
+      "before": ". But more often than not, ex- / cessive layers of abstraction "
+    },
+    {
+      "before": "till be understandable, a ded- / ication to MODEL-DRIVEN DESIGN"
+    },
+    {
+      "before": "arently obvious, so the conse- / quences of a change will be ea"
+    },
+    {
+      "before": "f step-by-step software proce- / dures. The same applies to a c"
+    },
+    {
+      "before": "OUS LANGUAGE so that team mem- / bers can quickly infer their m"
+    },
+    {
+      "before": "object from the client develo- / per's point of view."
+    },
+    {
+      "before": "nal changes affected by opera- / tions? I assume this was based"
+    },
+    {
+      "before": "segregated in different opera- / tions. Ensure that the methods"
+    },
+    {
+      "before": "lt of the computation, is cre- / ated and returned. This is a c"
+    },
+    {
+      "before": "lizers called only during cre- / ation, all their operations ar"
+    },
+    {
+      "before": "main information. Further con- / trol side effects by moving co"
+    },
+    {
+      "before": " a concept fitting the respon- / sibility presents itself."
+    },
+    {
+      "before": "LUE OBJECTS, allow safe combi- / nation of operations. When a F"
+    },
+    {
+      "before": "ow the rule of separating mod- / ification from querying. One c"
+    },
+    {
+      "before": " command may invoke other com- / mands. The developer using the"
+    },
+    {
+      "before": "t and the consequences of exe- / cuting an operation without de"
+    },
+    {
+      "before": "ed for entire AGGREGATES, rig- / orously defining integrity rul"
+    },
+    {
+      "before": "he project's development proc- / ess."
+    },
+    {
+      "before": "loper to understand the conse- / quences of using an operation "
+    },
+    {
+      "before": " properties don't fit the con- / cepts we have invited them to "
+    },
+    {
+      "before": "er the original designers, be- / cause of the knowledge crunchi"
+    },
+    {
+      "before": "SERTIONS, should make encapsu- / lation and abstraction safe."
+    },
+    {
+      "before": "here is rhyme and reason some- / where, or else modeling would "
+    },
+    {
+      "before": "d on a particular set of rela- / tionships in the current model"
+    },
+    {
+      "before": " other analysis, probably pro- / ducing a much more detailed mo"
+    },
+    {
+      "before": "nance burden of irrelevant op- / tions. This is typically an ou"
+    },
+    {
+      "before": "r insight into accounting con- / cepts:"
+    },
+    {
+      "before": "addition of new Accrual Sched- / ules. Those requirements were "
+    },
+    {
+      "before": "ition to making existing func- / tionality clearer and simpler,"
+    },
+    {
+      "before": "ce of CONCEPTUAL CONTOURS sta- / bilizes parts of the model and"
+    },
+    {
+      "before": "ween concepts represents some- / thing fundamental to the meani"
+    },
+    {
+      "before": "d. On the other hand, the Col- / lection size() operation retur"
+    },
+    {
+      "before": "mful than those outside. Like- / wise, when two objects are nat"
+    },
+    {
+      "before": "by arbitrarily reducing every- / thing to primitives. The final"
+    },
+    {
+      "before": " when the dependency is funda- / mental to the concept. Strippi"
+    },
+    {
+      "before": "ts, get introduced at interfa- / ces."
+    },
+    {
+      "before": "l about not introducing extra- / neous concepts, and the proper"
+    },
+    {
+      "before": "menter is effectively an argu- / ment of the operation, so the "
+    },
+    {
+      "before": " was closed under Pigment Col- / ors, and there are several oth"
+    },
+    {
+      "before": "ction containing just the ele- / ments that passed the test."
+    },
+    {
+      "before": " not introduce extraneous con- / cepts that are irrelevant to t"
+    },
+    {
+      "before": "e makes abstraction and encap- / sulation effective. Models can"
+    },
+    {
+      "before": "rework to create complex soft- / ware."
+    },
+    {
+      "before": "specifically excluded. No mat- / ter how MODEL-DRIVEN our desig"
+    },
+    {
+      "before": " on the declaration). This ap- / proach allows another develope"
+    },
+    {
+      "before": "pass them intentionally or un- / intentionally. This is likely "
+    },
+    {
+      "before": "le leaving them complete free- / dom to design."
+    },
+    {
+      "before": "ions for the terms in the lan- / guage."
+    },
+    {
+      "before": "nguage. This may involve modi- / fying grammar declarations and"
+    },
+    {
+      "before": " can be created without bifur- / cating the system."
+    },
+    {
+      "before": "n which you would like to com- / bine them. As just mentioned, "
+    },
+    {
+      "before": " be inefficient in some situa- / tions and quite practical in o"
+    },
+    {
+      "before": "lexity. Don't be afraid to im- / plement only AND, if that is a"
+    },
+    {
+      "before": "elopers had apparently not im- / plemented the “satisfied by” b"
+    },
+    {
+      "before": "until someone changes the reg- / ulations."
+    },
+    {
+      "before": "nt of code, to make the conse- / quences of using it transparen"
+    },
+    {
+      "before": "ly some when we add applyDraw- / down(), calculateFeePaymentSha"
+    },
+    {
+      "before": "of the Facility. The new draw- / down is added to the outstandi"
+    },
+    {
+      "before": "culations, combining them, ex- / pecting them to do what their "
+    },
+    {
+      "before": "t also allows us to build ana- / lytical features based on the "
+    },
+    {
+      "before": "written concisely in a declar- / ative style. For example, the "
+    },
+    {
+      "before": "hods. (See Chapter 15 for dis- / cussion of the CORE DOMAIN.)"
+    },
+    {
+      "before": "mphasizes their conceptual na- / ture. Analysis patterns are no"
+    },
+    {
+      "before": "ficant discussion of implemen- / tation in these patterns, incl"
+    },
+    {
+      "before": "ached, an implementation deci- / sion that is encapsulated by t"
+    },
+    {
+      "before": " change to their model, incor- / porating some of the model ele"
+    },
+    {
+      "before": "m and starts sketching modifi- / cations] By the way, you used "
+    },
+    {
+      "before": "pection revealed slightly dif- / ferent responsibilities in the"
+    },
+    {
+      "before": " abstraction for the implemen- / tation. Data was stored in rel"
+    },
+    {
+      "before": "ticular object-relational map- / ping framework, was to make co"
+    },
+    {
+      "before": "s in which the majority of ac- / count entries result from such"
+    },
+    {
+      "before": " identifying input Account En- / tries. The addition of the thr"
+    },
+    {
+      "before": " UBIQUITOUS LANGUAGE is as im- / portant to the success of the "
+    },
+    {
+      "before": "initions themselves. It elimi- / nates ambiguity and guides dec"
+    },
+    {
+      "before": " a direct link between the Ac- / counts and the Posting Rules. "
+    },
+    {
+      "before": " getting more and more compli- / cated. It is already a combina"
+    },
+    {
+      "before": "els presented in Analysis Pat- / terns, yet they felt they had "
+    },
+    {
+      "before": "des cleanly abstracted vocabu- / lary. It should also give you "
+    },
+    {
+      "before": "our UBIQUITOUS LANGUAGE is en- / hanced when it includes terms "
+    },
+    {
+      "before": "urprised ever to see a compre- / hensive catalog, but industry-"
+    },
+    {
+      "before": "ream consequences that are ex- / pensive if you have to discove"
+    },
+    {
+      "before": "lements that have solved prob- / lems commonly encountered in a"
+    },
+    {
+      "before": "EGIES. Then they can be repre- / sented explicitly, passed into"
+    },
+    {
+      "before": "itional way, looking for a se- / quence of Legs with a low magn"
+    },
+    {
+      "before": "outing Service can now be con- / trolled and extended by instal"
+    },
+    {
+      "before": "licy. The STRATEGIES illustra- / ted in Figure 12.2 (fastest or"
+    },
+    {
+      "before": "could make a reasonable proto- / type implementation, but it is"
+    },
+    {
+      "before": "ave to add an additional moti- / vation, another layer of meani"
+    },
+    {
+      "before": "ions of different types of ob- / jects."
+    },
+    {
+      "before": "EIGHTS. This is an implementa- / tion option available for VALU"
+    },
+    {
+      "before": "g, superimposed on the conven- / tional micro-refactoring appro"
+    },
+    {
+      "before": " Feeding the knowledge-crunch- / ing process this way leads to "
+    },
+    {
+      "before": "sign patterns can often be em- / ployed in the domain layer whe"
+    },
+    {
+      "before": "e code again and again. Refac- / toring toward deeper insight b"
+    },
+    {
+      "before": "e users. This makes for flexi- / bility where change is most co"
+    },
+    {
+      "before": "on a declarative style. Devel- / opment suddenly comes to the b"
+    },
+    {
+      "before": "a few more methods and associ- / ations, they got something tha"
+    },
+    {
+      "before": "ors). When their code was com- / bined without resolving these "
+    },
+    {
+      "before": "g, and that it contain no con- / tradictory rules. The internal"
+    },
+    {
+      "before": "of terms. Every logical state- / ment about the domain would be"
+    },
+    {
+      "before": "d institution of specific pro- / cesses. Total unification of t"
+    },
+    {
+      "before": "sed on distinct models is com- / bined, software becomes buggy,"
+    },
+    {
+      "before": " application (its primary con- / sumer), and therefore the book"
+    },
+    {
+      "before": "each object, including persis- / tence. Because this team has c"
+    },
+    {
+      "before": " unless they put in place pro- / cesses to manage the situation"
+    },
+    {
+      "before": " the modeling team and the ap- / plication team. Information ha"
+    },
+    {
+      "before": "with cooperation from the mod- / eling team. There is no clearl"
+    },
+    {
+      "before": "sk of the informal sharing be- / tween the booking model team a"
+    },
+    {
+      "before": " on each other's code, databa- / ses that have weird contradict"
+    },
+    {
+      "before": " corrupting the existing func- / tionality, and so they proceed"
+    },
+    {
+      "before": " members. The team must culti- / vate a shared understanding of"
+    },
+    {
+      "before": "ctices help, but the most fun- / damental is constantly hammeri"
+    },
+    {
+      "before": "UAGE. Meanwhile, the implemen- / tation artifacts are being int"
+    },
+    {
+      "before": "dom formally included, is con- / ceptual integration."
+    },
+    {
+      "before": " defining the relationship be- / tween the different contexts a"
+    },
+    {
+      "before": "t translation for any communi- / cation and highlighting any sh"
+    },
+    {
+      "before": " various patterns of relation- / ships between CONTEXTS that ar"
+    },
+    {
+      "before": " completely entangled but con- / tains inconsistencies? Put a d"
+    },
+    {
+      "before": "nter can be repaired, and pro- / cesses can be put in place to "
+    },
+    {
+      "before": "NS. The results of those func- / tions are characterized with A"
+    },
+    {
+      "before": "team is simply too big and un- / wieldy. So separate BOUNDED CO"
+    },
+    {
+      "before": "eams that worked largely inde- / pendently. An analogy to this "
+    },
+    {
+      "before": "of the database design associ- / ated with that part of the mod"
+    },
+    {
+      "before": "ponsible for downstream deliv- / erables. It takes a lot of ext"
+    },
+    {
+      "before": "rectly with their fellow “cus- / tomers” the trade-offs for the"
+    },
+    {
+      "before": "ailable to the upstream devel- / opers just as conventional cus"
+    },
+    {
+      "before": "development. Both parties ben- / efit from the formalization of"
+    },
+    {
+      "before": "y remain priorities. This sit- / uation is in contrast to the p"
+    },
+    {
+      "before": " more lucrative specialty car- / goes. In that case they might "
+    },
+    {
+      "before": "ntation, they use a data ware- / house with tools for building "
+    },
+    {
+      "before": "ructured the software develop- / ment project so that the proje"
+    },
+    {
+      "before": " for each iteration, represen- / tatives of the downstream team"
+    },
+    {
+      "before": "mportant to the supplier. Per- / haps the supplier has many sma"
+    },
+    {
+      "before": " that the upstream will accom- / modate downstream needs. Somet"
+    },
+    {
+      "before": " your application to the capa- / bilities of the upstream model"
+    },
+    {
+      "before": "s. It is very unappealing emo- / tionally, which is why we choo"
+    },
+    {
+      "before": "t is not interested in collab- / oration."
+    },
+    {
+      "before": "is primitive data, whose mean- / ing is unambiguous and must be"
+    },
+    {
+      "before": "ctions from one model and pro- / tocol to another."
+    },
+    {
+      "before": "rd enough job without simulta- / neously dealing with a subsyst"
+    },
+    {
+      "before": "ACADE and at worst end up cre- / ating yet another model, one t"
+    },
+    {
+      "before": "ly not even an object. Our em- / phasis is on translation betwe"
+    },
+    {
+      "before": "cide where to place these com- / munication links. If you have "
+    },
+    {
+      "before": "m while making a gradual tran- / sition, probably makes it wort"
+    },
+    {
+      "before": "regulated commerce with neigh- / bors while providing an impedi"
+    },
+    {
+      "before": "he Great Wall, the Wall's con- / struction was immensely expens"
+    },
+    {
+      "before": "ogy could provide certain fea- / tures very easily, but it is d"
+    },
+    {
+      "before": "these functions could be inte- / grated by organizing links on "
+    },
+    {
+      "before": "t overnight. Dropping the bag- / gage of these extraneous featu"
+    },
+    {
+      "before": "omplete isolation. If integra- / tion turns out to be needed af"
+    },
+    {
+      "before": "tion of the models with a min- / imum of cost. But when you fin"
+    },
+    {
+      "before": " readily available to the com- / munity that might be intereste"
+    },
+    {
+      "before": "B2 to store its data. The com- / pany wanted the flexibility to"
+    },
+    {
+      "before": "hat had a free runtime distri- / bution license. Btrieve is not"
+    },
+    {
+      "before": "horoughly documented. The com- / plexity would have been mitiga"
+    },
+    {
+      "before": "tifying the subset. The appli- / cation it was integrated into "
+    },
+    {
+      "before": "model very fully anyway. When- / ever anyone wanted to share da"
+    },
+    {
+      "before": " a new abstraction that incor- / porates the “aliveness” of a s"
+    },
+    {
+      "before": "re.” Better to lack the water- / spewing ability than to have a"
+    },
+    {
+      "before": "each model's expression of lo- / cation will do. When more inte"
+    },
+    {
+      "before": "cisions, or at least the deci- / sions have to be propagated to"
+    },
+    {
+      "before": "grated. A technically advanta- / geous unification may be impos"
+    },
+    {
+      "before": "TEXTS is impractical. Integra- / tion is limited to those parts"
+    },
+    {
+      "before": "eck into it, and if the devel- / opment is not well integrated,"
+    },
+    {
+      "before": "al to find semantic contradic- / tions in different parts of su"
+    },
+    {
+      "before": "r simple tools. If your appli- / cation is really an extension "
+    },
+    {
+      "before": "job than the application func- / tionality itself. And there is"
+    },
+    {
+      "before": "at their modeling efforts con- / stantly clash. It may be that "
+    },
+    {
+      "before": "eir own specialized terminolo- / gies, which may have diverged "
+    },
+    {
+      "before": "ound these models and the spe- / cialized jargon they are based"
+    },
+    {
+      "before": " of one object that has a com- / plicated translation ranging u"
+    },
+    {
+      "before": "SUPPLIER TEAMS deploy new ver- / sions, they have to coordinate"
+    },
+    {
+      "before": "ployment environment and tech- / nology. But the BOUNDED CONTEX"
+    },
+    {
+      "before": "ward the hot spots. The trans- / lation interfaces have been ma"
+    },
+    {
+      "before": "es around that current organi- / zation. Improve your CONTINUOU"
+    },
+    {
+      "before": "r the other CONTEXT to be com- / patible. This decision can be "
+    },
+    {
+      "before": "ing any terms that are not al- / ready being translated. This j"
+    },
+    {
+      "before": " and participate in any neces- / sary revisions of the concepts"
+    },
+    {
+      "before": "h specialized ones. An advant- / age of a SHARED KERNEL is that"
+    },
+    {
+      "before": "eds. Without any ongoing inte- / gration overhead, you have eli"
+    },
+    {
+      "before": "not necessarily), the more fa- / vored BOUNDED CONTEXT could ev"
+    },
+    {
+      "before": " INTEGRATION (shared code own- / ership, frequent integration, "
+    },
+    {
+      "before": "e trained to use the new soft- / ware. A parallel period someti"
+    },
+    {
+      "before": "be protected. Related communi- / cation problems will at least "
+    },
+    {
+      "before": " naturally occurring, are mis- / applied to solve problems othe"
+    },
+    {
+      "before": "as a whole, or to analyze com- / pletely. By choice or by chanc"
+    },
+    {
+      "before": "wn the CONTEXTS into more man- / ageable pieces. This fragmenta"
+    },
+    {
+      "before": "omain may be unmanageably com- / plex."
+    },
+    {
+      "before": "dge and priorities. Now, step- / ping back for a strategic view"
+    },
+    {
+      "before": "le part, the part that distin- / guishes our software and makes"
+    },
+    {
+      "before": "ge transfer. With the compart- / mentalization of work, smooth "
+    },
+    {
+      "before": " behavior already exists else- / where, and so the system becom"
+    },
+    {
+      "before": "rstood without specialized do- / main knowledge."
+    },
+    {
+      "before": " are perceived to build trans- / ferable professional skills an"
+    },
+    {
+      "before": " flexible features of the com- / ment model."
+    },
+    {
+      "before": "e during planning and develop- / ment."
+    },
+    {
+      "before": "oes are consolidated for ship- / ping, how liability is transfe"
+    },
+    {
+      "before": "assign them to supporting com- / ponents, sustaining a vicious "
+    },
+    {
+      "before": "design is interesting, techni- / cally challenging work when ap"
+    },
+    {
+      "before": "ilitating the use of sophisti- / cated principles that team mem"
+    },
+    {
+      "before": " of this art. As the field ad- / vances, more workable framewor"
+    },
+    {
+      "before": " stable team accumulating spe- / cialized knowledge and crunchi"
+    },
+    {
+      "before": "mmunicating specialized knowl- / edge. Anything extraneous make"
+    },
+    {
+      "before": "ow requirements that used com- / mercially available external w"
+    },
+    {
+      "before": "so seen success with an error- / logging package that was deepl"
+    },
+    {
+      "before": "The more generic the subcompo- / nent, and the more distilled i"
+    },
+    {
+      "before": "the secret to success in math- / ematics was, “Plagiarize! Plag"
+    },
+    {
+      "before": "ing the team, but without dis- / sipating knowledge of the CORE"
+    },
+    {
+      "before": "ain generic, because the spec- / ification is being passed outs"
+    },
+    {
+      "before": "de, because code has to be un- / derstood. (Still, overhead is "
+    },
+    {
+      "before": "to specify or even write auto- / mated acceptance tests for the"
+    },
+    {
+      "before": "ause little proprietary infor- / mation or business practice wi"
+    },
+    {
+      "before": "ntation in C. He reverse-engi- / neered the logic and wrote an "
+    },
+    {
+      "before": "o be gathered from North Amer- / ica, where time zone conversio"
+    },
+    {
+      "before": "ources could be diverted with- / out stunting it."
+    },
+    {
+      "before": "attention to other issues con- / tinued this neglect."
+    },
+    {
+      "before": "fic conversion might have suf- / ficed."
+    },
+    {
+      "before": "t the need to focus its devel- / opment is already there. In la"
+    },
+    {
+      "before": "r all to see), but these tech- / niques can fold nicely into th"
+    },
+    {
+      "before": "nce diagrams, nonstandard dia- / grams particular to the domain"
+    },
+    {
+      "before": "thing from the detailed compo- / sition of insurance policies t"
+    },
+    {
+      "before": "hips between people. The qual- / ity of the factoring of these "
+    },
+    {
+      "before": " presented the essential, dif- / ferentiating concepts we neede"
+    },
+    {
+      "before": " that uses UML diagrams exten- / sively could use a “stereotype"
+    },
+    {
+      "before": "ory of the model, without par- / ticularly trying to elucidate "
+    },
+    {
+      "before": "omething different. Dissemina- / tion of the model change to th"
+    },
+    {
+      "before": "orm and guide, they do not ac- / tually modify the model or the"
+    },
+    {
+      "before": "d design. Hiding complex algo- / rithms in methods with intenti"
+    },
+    {
+      "before": "at” from the “how.” This tech- / nique makes a design simpler t"
+    },
+    {
+      "before": "ightweight framework. Particu- / larly watch for formalisms or "
+    },
+    {
+      "before": " the other elements of the do- / main can focus on expressing t"
+    },
+    {
+      "before": "IN or a GENERIC SUBDOMAIN for- / mulates a fact, rule, or probl"
+    },
+    {
+      "before": "ecific branches of the organi- / zational tree, searching for s"
+    },
+    {
+      "before": "ive style of describing organ- / izations that was much clearer"
+    },
+    {
+      "before": "t the comparisons and combina- / tions can be left to the frame"
+    },
+    {
+      "before": "iously unrecognized model con- / cepts that would make the mech"
+    },
+    {
+      "before": "of the software. This is some- / times the case with highly spe"
+    },
+    {
+      "before": "previous example, other devel- / opers redesigned it to elimina"
+    },
+    {
+      "before": "d MECHANISMS. Pragmatic refac- / toring retains the important v"
+    },
+    {
+      "before": "ile shedding the unneeded com- / plications."
+    },
+    {
+      "before": "rules of the CORE while encap- / sulating the means of computin"
+    },
+    {
+      "before": " the CORE DOMAIN to make mean- / ingful statements rather than "
+    },
+    {
+      "before": "s words are combined into sen- / tences. At that point, client "
+    },
+    {
+      "before": "n, because the greatest value- / added of enterprise software c"
+    },
+    {
+      "before": "e for cargo shipping coordina- / tion."
+    },
+    {
+      "before": "going to be used by the front- / line operators of the company."
+    },
+    {
+      "before": "into a separate package (Bill- / ing). We can keep that, and fu"
+    },
+    {
+      "before": "according to customer require- / ments. Extracting the classes "
+    },
+    {
+      "before": "actual delivery time, the Cus- / tomer is not as relevant to op"
+    },
+    {
+      "before": " other model, the correct Cus- / tomer had to be found, accordi"
+    },
+    {
+      "before": "illing the Customer's require- / ments, so at first Customer se"
+    },
+    {
+      "before": "mer Agreement is available di- / rectly. And the basic model of"
+    },
+    {
+      "before": "te MODULES, either many refer- / ences will have to be created "
+    },
+    {
+      "before": "uch of the value of the parti- / tioning, or the interaction wi"
+    },
+    {
+      "before": "hat case, separating these ab- / stractions decouples the MODUL"
+    },
+    {
+      "before": "es most of the interaction be- / tween significant components. "
+    },
+    {
+      "before": "its own MODULE, while the spe- / cialized, detailed implementat"
+    },
+    {
+      "before": "e application as insight deep- / ened). Of course, the ABSTRACT"
+    },
+    {
+      "before": " CORE DOMAIN, through continu- / ously refactoring toward deepe"
+    },
+    {
+      "before": "e do you start? In the XP com- / munity, the answer tends to be"
+    },
+    {
+      "before": "mulator for a satellite commu- / nications system. Work was pro"
+    },
+    {
+      "before": " represent the physical infra- / structure, the basic ability t"
+    },
+    {
+      "before": " Then there would be a packet- / routing layer that brought tog"
+    },
+    {
+      "before": "ss the definitions of the con- / ceptual layers themselves were"
+    },
+    {
+      "before": "ile the CORE DOMAIN would ide- / ally be so clear and easily un"
+    },
+    {
+      "before": "ually span more than one, pro- / viding the conceptual organiza"
+    },
+    {
+      "before": "application developers the fa- / miliarity and technical power "
+    },
+    {
+      "before": "Needs vary widely from one ap- / plication to the next."
+    },
+    {
+      "before": "ind that the prescribed struc- / ture is prohibiting you from t"
+    },
+    {
+      "before": "blems? The managers and archi- / tecture teams may even be open"
+    },
+    {
+      "before": "n, possibly changing to a com- / pletely different type of stru"
+    },
+    {
+      "before": "iding over-constrictive struc- / tures. A really nice fit of st"
+    },
+    {
+      "before": "t is counterproductive. A per- / suasive metaphor introduces th"
+    },
+    {
+      "before": "tructure in general is not es- / sential. In the 12 practices o"
+    },
+    {
+      "before": "ble and useful? This stratifi- / cation suggests layering, one "
+    },
+    {
+      "before": "ined around major responsibil- / ities, uniting the two powerfu"
+    },
+    {
+      "before": "lly assigned to individual ob- / jects, as examples will illust"
+    },
+    {
+      "before": "S to the cargo shipping appli- / cation discussed in the exampl"
+    },
+    {
+      "before": " they are having trouble coor- / dinating how all the parts fit"
+    },
+    {
+      "before": " cultivate long-term relation- / ships with customers, and most"
+    },
+    {
+      "before": "so this is additional informa- / tion imposed for the sake of t"
+    },
+    {
+      "before": "ied when considering transfor- / mations of the structure as mu"
+    },
+    {
+      "before": "yer (another name for the “Ca- / pability” layer in the example"
+    },
+    {
+      "before": "nto another layer, above Oper- / ations."
+    },
+    {
+      "before": "s can facilitate phased intro- / ductions or higher-level enhan"
+    },
+    {
+      "before": "es the STRATEGY pattern is ap- / plied. Policy works well in co"
+    },
+    {
+      "before": " current operations. An insur- / ance company's ability to take"
+    },
+    {
+      "before": "domain in which both are prom- / inent, say a transportation co"
+    },
+    {
+      "before": "portant domain concept. Devel- / opers could refactor to make t"
+    },
+    {
+      "before": "e model objects makes them un- / wieldy. The more flexibility y"
+    },
+    {
+      "before": "focuses on the application do- / main, in contrast to familiar "
+    },
+    {
+      "before": "oes not strive for full gener- / ality. Just as a SPECIFICATION"
+    },
+    {
+      "before": "describe the structure and be- / havior of the language constru"
+    },
+    {
+      "before": "focuses on the application do- / main, in contrast to familiar "
+    },
+    {
+      "before": "a very specialized set of con- / straints on a set of objects a"
+    },
+    {
+      "before": "development, but also any sce- / nario for which a user could c"
+    },
+    {
+      "before": "y-to-day edits were in the op- / erational level. A nice fit. A"
+    },
+    {
+      "before": "ut the system and helps devel- / opers grapple with the model."
+    },
+    {
+      "before": " of RESPONSIBILITY LAYERS, es- / pecially the “policy” layer, b"
+    },
+    {
+      "before": "e structures, providing an ad- / ditional dimension of organiza"
+    },
+    {
+      "before": "te a framework that allows di- / verse implementations of those"
+    },
+    {
+      "before": "f components. All these strat- / egies can coexist easily withi"
+    },
+    {
+      "before": " CORE. These interface defini- / tions include both behavior an"
+    },
+    {
+      "before": "ghtly coupled to CORBA to pro- / vide persistence, transactions"
+    },
+    {
+      "before": "e to include additional infor- / mation such as the dates of bi"
+    },
+    {
+      "before": "to correct the situation, per- / haps by rerouting the part to "
+    },
+    {
+      "before": "large-scale structure through- / out the project life cycle. Th"
+    },
+    {
+      "before": "toring. To do this, the struc- / ture must be understood by the"
+    },
+    {
+      "before": "n across a large team (or mul- / tiple teams)."
+    },
+    {
+      "before": "nderstand its current arrange- / ment, and the preexisting stru"
+    },
+    {
+      "before": "ings, the shoulders have loos- / ened up, and the jacket is eas"
+    },
+    {
+      "before": " of ideas. On the Extreme Pro- / gramming teams I have seen, su"
+    },
+    {
+      "before": "eems to have emerged spontane- / ously, often in the person of "
+    },
+    {
+      "before": "impact of the design, partici- / pants may decide to adopt it, "
+    },
+    {
+      "before": "he only possibility. An archi- / tecture team can act as a peer"
+    },
+    {
+      "before": "tors with development, discov- / ering patterns along with the "
+    },
+    {
+      "before": "is involvement with the appli- / cation development teams. An e"
+    },
+    {
+      "before": "structure in response to deep- / ening insight."
+    },
+    {
+      "before": " won't have the design sophis- / tication to follow it."
+    },
+    {
+      "before": " be necessary to hire more ad- / vanced designers. It may help "
+    },
+    {
+      "before": "hey have less feel for the ob- / stacles they might be placing "
+    },
+    {
+      "before": "e time, the architects' enthu- / siasm for their primary respon"
+    },
+    {
+      "before": "ts write application code. Ev- / eryone talks to everyone. It i"
+    },
+    {
+      "before": "opment team can lead to a con- / tinuously refined set of servi"
+    },
+    {
+      "before": "ation development without get- / ting in the way. Architectures"
+    },
+    {
+      "before": "ication development, for prac- / tical purposes, with no archit"
+    },
+    {
+      "before": " design are likely to fail be- / cause they underestimate the d"
+    },
+    {
+      "before": "erges, well adapted to circum- / stances."
+    },
+    {
+      "before": " failed in its marketing func- / tion and was eventually euthan"
+    },
+    {
+      "before": "ntinued to value domain knowl- / edge on the development team. "
+    },
+    {
+      "before": "e software continues to be en- / hanced with new features. It i"
+    },
+    {
+      "before": "suite and a distillation docu- / ment. The new team members use"
+    },
+    {
+      "before": "ented. When I heard their com- / ments a year later, I realized"
+    },
+    {
+      "before": "eam leaders and by a customer- / focused architecture team. We "
+    },
+    {
+      "before": "ystems. The whole was held to- / gether by a shared set of conc"
+    },
+    {
+      "before": " models were distilled and ex- / pressed in ever more supple de"
+    },
+    {
+      "before": "ng culture) survived the tran- / sition and was revitalized. To"
+    },
+    {
+      "before": "eing assimilated into the pur- / chasing company, the members o"
+    },
+    {
+      "before": "'t easy to develop production- / quality software that clearly "
+    },
+    {
+      "before": " challenging to talented soft- / ware engineers, domain-driven "
+    },
+    {
+      "before": "are that works. Armies of pro- / grammers with rudimentary skil"
+    },
+    {
+      "before": "oftware. I look forward to ex- / perimenting with new tools and"
+    },
+    {
+      "before": "ty. Modeling requires imagina- / tion and self-discipline. Tool"
+    },
+    {
+      "before": "c; even the breakdown of func- / tions into parts is sometimes "
+    },
+    {
+      "before": "of object-oriented design, ev- / erything is an object, a refer"
+    },
+    {
+      "before": "s and does not support an eco- / nomical discussion of a domain"
+    },
+    {
+      "before": "nguage enables economical dis- / cussion of house design."
+    },
+    {
+      "before": "ensive infrastructure require- / ments. Bathtubs and toilets ty"
+    },
+    {
+      "before": "east the equivalent of distin- / guishing bolts from springs."
+    },
+    {
+      "before": "r introductions and other nar- / rative segments, rather than w"
+    },
+    {
+      "before": "engthier discussions of imple- / mentation. To keep the core pa"
+    },
+    {
+      "before": " such long implementation dis- / cussions out, after the patter"
+    },
+    {
+      "before": "ns, are often outside the pat- / terns.]"
+    },
+    {
+      "before": "e purpose of data changes. Ex- / ternal references are restrict"
+    },
+    {
+      "before": " an invariant of a design ele- / ment."
+    },
+    {
+      "before": "ent and what can develop inde- / pendently."
+    },
+    {
+      "before": "e, setting a variable). An op- / eration that intentionally cre"
+    },
+    {
+      "before": "es actually controls the soft- / ware. An executable specificat"
+    },
+    {
+      "before": "e domain and naive interpreta- / tions."
+    },
+    {
+      "before": "el or design but is never men- / tioned."
+    },
+    {
+      "before": " all times, except during spe- / cifically transient situations"
+    },
+    {
+      "before": " deletion, typically with con- / straints to ensure integrity w"
+    },
+    {
+      "before": "behavior which emulates a col- / lection of objects."
+    },
+    {
+      "before": "ly. Equally important, it lev- / erages that same deep model to"
+    },
+    {
+      "before": "m-biguous and no rules contra- / dict."
+    },
+    {
+      "before": ": Embrace Change. Addison-Wes- / ley."
+    },
+    {
+      "before": "erlad, and M. Stal. 1996. Pat- / tern-Oriented Software Archite"
+    },
+    {
+      "before": "ojects: A Manager's Guide. Ad- / dison-Wesley."
+    },
+    {
+      "before": ".” Proceedings of PLoP 97 Con- / ference."
+    },
+    {
+      "before": "ic Application Frameworks. Wi- / ley."
+    },
+    {
+      "before": "of Existing Code. Addison-Wes- / ley."
+    },
+    {
+      "before": ". 1995. Design Patterns. Addi- / son-Wesley."
+    },
+    {
+      "before": "n Extreme Programming Perspec- / tives, Michele Marchesi et al."
+    },
+    {
+      "before": "he Mind Creates Language. Har- / perCollins."
+    },
+    {
+      "before": "straint Language: Precise Mod- / eling with UML. Addison-Wesley"
     }
   ],
   "warnings": [
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "in",
+      "before": "ushes. They'll be the same for every in-",
+      "after": "stance?"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "re",
+      "before": "s of detailed figures, combining and re-",
+      "after": "combining them looking for the underlyin"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "out",
+      "before": "ented again. Crucial subsystems are out-",
+      "after": "sourced in such a way that code is deliv"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "domain",
+      "before": "al knowledge, along with general domain-",
+      "after": "modeling skills (such as those in this b"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "For first you write a sentence,"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Then mix the bits, and sort them out"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Just as they chance to fall:"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "The order of the phrases makes"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "No difference at all."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "model",
+      "before": "incomplete—or wrong. By using the model-",
+      "after": "based language pervasively and not being"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "re",
+      "before": "the team to exercising that language re-",
+      "after": "lentlessly in all communication within t"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "de",
+      "before": "y or inconsistency that will trip up de-",
+      "after": "sign."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "re",
+      "before": "nto the Routing Service, and it will re-",
+      "after": "populate the table. We'll have to have a"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "self",
+      "before": "y unnatural, and required a lot of self-",
+      "after": "discipline. But eventually my classmates"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "over",
+      "before": "he design that fulfills them? This over-",
+      "after": "looks the reality that all language is b"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "co",
+      "before": "ing Model Integrity,” deals with the co-",
+      "after": "existence of models on the same project."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "de",
+      "before": "a domain expert wouldn't understand. De-",
+      "after": "velopers have an extensive jargon that t"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "in",
+      "before": "re not so easily illustrated. Object in-",
+      "after": "teraction diagrams can illustrate some t"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "de",
+      "before": "o the model's intended style of use. De-",
+      "after": "pending on the philosophy of the team, t"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "re",
+      "before": "yst, didn't translate into storable, re-",
+      "after": "trievable units that could be manipulate"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "short",
+      "before": "phisticated, they still have some short-",
+      "after": "comings."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "inter",
+      "before": "ou wanted richer functionality or inter-",
+      "after": "activity, you would have to pay for ever"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Service Responsibility | Net List import Reads Net List file, creates instance of Net for each entry | Net Rule export Given a collection of Nets, writes all at"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Class Responsibility | Net Repository Provides access to Nets by name | Inferred Bus Factory Given a collection of Nets, uses naming conventions to infer Buses,"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "short",
+      "before": "are actually just a collection of short-",
+      "after": "cut files, then expose this fact to the "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": " in the behavior of UI widgets and data-",
+      "after": "base scripts. This happens because it is"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "User InterfaceResponsible for showing information to the user and interpreting the user's commands. The external actor might | (or Presenta- | tion Layer) | som"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "inter",
+      "before": "forwardly by calling their public inter-",
+      "after": "faces, holding references to them (at le"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "de",
+      "before": "ks can also straitjacket application de-",
+      "after": "velopers."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "re",
+      "before": "cause the lack of abstraction limits re-",
+      "after": "factoring options."
+    },
     {
       "type": "ambiguous-hyphen",
       "prefix": "in",
@@ -400,9 +2770,791 @@
       "prefix": "object",
       "before": "ns to integrate with the popular object-",
       "after": "oriented platforms. This makes integrati"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "in",
+      "before": " within some specified time. But the in-",
+      "after": "variants applied within an AGGREGATE wil"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "oots can be obtained directly with data-",
+      "after": "base queries. All other objects must be "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "de",
+      "before": "esponsibilities can produce ungainly de-",
+      "after": "signs that are hard to understand. Makin"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "in",
+      "before": "rmation, such as a count of how many in-",
+      "after": "stances meet some criteria. They can eve"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "in",
+      "before": "p access through a well-known global in-",
+      "after": "terface. Provide methods to add and remo"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "re",
+      "before": "rovided by almost all REPOSITORIES); re-",
+      "after": "questing a collection of objects with a "
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "“Multiple Customers are involved with a Cargo, each playing a different role.” | “The Cargo delivery goal is specified.” | “A series of Carrier Movements satisf"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "inter",
+      "before": "appropriate in some cases, but an inter-",
+      "after": "national company could not use that. Thi"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": " number of times that they didn't under-",
+      "after": "stand it. They had deferred to our softw"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "re",
+      "before": "sive refactorings have tweaked their re-",
+      "after": "sponsibilities repeatedly, changed their"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Accrual Basis Accounting. This method recognizes income when it is earned, even if it is not paid. All expenses | also show when they are incurred whether they "
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Ph.D., by Suzanne Caplan (Adams Media, 2000)"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Chemical Container Specification | TNT Armored container | Sand"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Biological Samples Must not share container with explosives | Ammonia Ventilated container"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Container Features Contents Specification Satisfied? | Armored 20 lbs. TNT | 500 lbs. sand | ✓"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "50 lbs. biological samples | ✓"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Ammonia | ✗"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "de",
+      "before": "rst, that same software has to serve de-",
+      "after": "velopers. This is especially true in a p"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": "consequences of using a method very pre-",
+      "after": "dictable. Complex logic can be done safe"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "de",
+      "before": "can have different side effects. The de-",
+      "after": "veloper using them will want to know whi"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "post",
+      "before": "in detail in Meyer 1988. Briefly, “post-",
+      "after": "conditions” describe the side effects of"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "inter",
+      "before": "s. They will be extrapolating and inter-",
+      "after": "polating the concepts of the model, so i"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Total volume of paint is unchanged by mixing."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "re",
+      "before": "ke it unsuitable for its application re-",
+      "after": "quirements. There seems to be a dilemma."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": "ALING INTERFACES, combined with the pre-",
+      "after": "dictability given by SIDE-EFFECT-FREE FU"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "de",
+      "before": "n an important subset, the number of de-",
+      "after": "pendencies can be reduced to zero, resul"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "If we take two real numbers and multiply them together, we get another real number. [The real numbers are all | the rational numbers and all the irrational numb"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "object",
+      "before": "piled, often into a conventional object-",
+      "after": "oriented language, where a library of cl"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": "ng features, as well as modifying under-",
+      "after": "lying class libraries. I'm all in favor "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "de",
+      "before": "e territory. Many of the benefits of de-",
+      "after": "clarative design are obtained once you h"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": " both volatile and explosive would, pre-",
+      "after": "sumably, need both of these SPECIFICATIO"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "SPECIFICATION Stack Content for “Cheap Container” | Top AndSpecificationOperator (FLY WEIGHT) | NotSpecificationOperator (FLY WEIGHT) | Armored | NotSpecificati"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Socrates on SPECIFICATIONS | All men are mortal."
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Socrates is a man."
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Therefore, Socrates is mortal."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "sub",
+      "before": "more depth how to choose and manage sub-",
+      "after": "domains."
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Analysis patterns are groups of concepts that represent a common construction in business modeling. It may be | relevant to only one domain or it may span many "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "de",
+      "before": "mple where he is looking even beyond de-",
+      "after": "ployment, to the implications of specifi"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "When we build a new [accounting] practice, we create a network of new instances of the posting rule. We can do | this without any recompilation or rebuilding of"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "sub",
+      "before": "enerating Accruals. They hoped that sub-",
+      "after": "sequent refactorings and deeper insight "
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Point of view affects one's interpretation of what is and isn't a pattern. One person's pattern can be another person's | primitive building block. For this boo"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": "any other technical design patterns pre-",
+      "after": "sented over the years. Some of them corr"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Define a family of algorithms, encapsulate each one, and make them interchangeable. STRATEGY lets the algo- | rithm vary independently from clients that use it."
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Compose objects into tree structures to represent part-whole hierarchies. COMPOSITE lets clients treat individual | objects and compositions of objects uniforml"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "ld, although the validation of the data-",
+      "after": "entry application required it and even p"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "de",
+      "before": "ial for different CONTEXTS) and some de-",
+      "after": "marcation."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": "a process of CONTINUOUS INTEGRATION pre-",
+      "after": "serves unity of the model within a BOUND"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "re",
+      "before": "h these issues is the subject of the re-",
+      "after": "maining patterns in this chapter."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "re",
+      "before": "n is passed in, an Itinerary will be re-",
+      "after": "turned."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "well",
+      "before": "ake it perform well and to draw on well-",
+      "after": "established algorithms, the solution nee"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "up",
+      "before": "ting changes are too cumbersome. The up-",
+      "after": "stream team may even be inhibited, worri"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "down",
+      "before": "p that often emerges, in which the down-",
+      "after": "stream team has to come begging to the u"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "re",
+      "before": " Otherwise, you will at best diffuse re-",
+      "after": "sponsibility for translation into multip"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "one",
+      "before": "as idiosyncratic needs. Then, use a one-",
+      "after": "off translator to augment the protocol f"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "It was six men of Indostan"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "To learning much inclined,"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Who went to see the Elephant"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "(Though all of them were blind),"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "That each by observation"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Might satisfy his mind."
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "The First approached the Elephant,"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "And happening to fall"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Against his broad and sturdy side,"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "At once began to bawl:"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "\"God bless me! but the Elephant"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Is very like a wall!\""
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "                   . . ."
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "The Third approached the animal,"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "And happening to take"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "The squirming trunk within his hands,"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Thus boldly up and spake:"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "\"I see,\" quoth he, \"the Elephant"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Is very like a snake.\""
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "The Fourth reached out his eager hand,"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "And felt about the knee."
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "\"What most this wondrous beast is like"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "\"'Tis clear enough the Elephant"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Is very like a tree!\""
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "                   . . ."
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "The Sixth no sooner had begun"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "About the beast to grope,"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Than, seizing on the swinging tail"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "That fell within his scope,"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "\"I see,\" quoth he, \"the Elephant"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Is very like a rope!\""
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "And so these men of Indostan"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Disputed loud and long,"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Each in his own opinion"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Exceeding stiff and strong,"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Though each was partly in the right,"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "And all were in the wrong!"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "                 . . ."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "inter",
+      "before": "than ten people working on highly inter-",
+      "after": "related functionality."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "sub",
+      "before": "ires control over the design of the sub-",
+      "after": "systems involved."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": " will create a pool of people who under-",
+      "after": "stand both models, and will begin to con"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "de",
+      "before": "sible, taking priority over most new de-",
+      "after": "velopment. But don't take on more than y"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "inter",
+      "before": "change language, using a standard inter-",
+      "after": "change paradigm such as XML, if at all p"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "inter",
+      "before": "ing. Therefore, do not equate the inter-",
+      "after": "change language and the model of the hos"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "—James Clerk Maxwell, A Treatise on Electricity and Magnetism, 1873"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "de",
+      "before": "improve communication and help guide de-",
+      "after": "cision making—and still requires little "
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Shipping Project's Strategy Insurance Project's Strategy | AdvantagesAdvantage"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Disadvantage• Long-term programmers were assigned who could have been | Disadvantages"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "repositories of domain knowledge. | Shipping Project's Strategy Insurance Project's Strategy"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "This is part of a DOMAIN VISION STATEMENT This, though important, is not part of a DOMAIN VISION | STATEMENT | Airline Booking SystemAirline Booking System | Th"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": "direction. Some bridge between the high-",
+      "after": "level STATEMENT and the full detail of t"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "sub",
+      "before": "dentifying and clarifying all these sub-",
+      "after": "domains, and some of them don't seem wor"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": ". . . Increase visibility of operations and provide tools to fulfill customer requirements faster and more reliably..."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "re",
+      "before": "ore, but often distillation requires re-",
+      "after": "factoring the classes themselves to sepa"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "de",
+      "before": "ctivity (as discussed in Chapter 5). De-",
+      "after": "velopers and domain experts collaborate "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "well",
+      "before": "oo complicated, decomposition into well-",
+      "after": "named MODULES, a certain amount of disti"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "large",
+      "before": " become prominent over the years, large-",
+      "after": "scale structure in the domain layer has "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "over",
+      "before": "inually reexamine the metaphor for over-",
+      "after": "extension or inaptness, and be ready to "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "back",
+      "before": "nd activities take place against a back-",
+      "after": "ground of other elements that change ind"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "inter",
+      "before": "e. This means changing the Router inter-",
+      "after": "face to include objects that policies mi"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "in",
+      "before": " equipment. In financial services or in-",
+      "after": "surance, to name two, the potential is t"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "[A KNOWLEDGE LEVEL is] a group of objects that describes how another group of objects should behave. [Martin | Fowler, “Accountability,” www.martinfowler.com]"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": "ore tailored system would require under-",
+      "after": "standing and coding for all those quirks"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Office administrators are hourly employees with defined-benefit retirement plans."
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "An Employee Type is assigned to either Retirement Plan or either payroll. | Employees are constrained by the Employee Type."
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Fowler Terminology POSA Terminology | 2 | Knowledge Level Meta Level | Operations Level Base Level | 2"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "An Employee Type is assigned to either Retirement Plan or either payroll."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "inter",
+      "before": "behind the encapsulated component inter-",
+      "after": "faces, so that this structure can be esp"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "de",
+      "before": "t models. Multiple components can be de-",
+      "after": "veloped within a single CONTEXT if the t"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "in",
+      "before": "ementation. The combination of those in-",
+      "after": "terfaces and the protocol for using them"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "non",
+      "before": "ings to the panel. A medium-weight, non-",
+      "after": "stretch fabric such as a cotton duck or "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "two",
+      "before": "e done in a way that doesn't create two-",
+      "after": "way dependencies from the lower layers t"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "large",
+      "before": "ract in many ways. For example, a large-",
+      "after": "scale structure can exist within one BOU"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "de",
+      "before": "mind set that emphasizes application de-",
+      "after": "velopment."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "domain",
+      "before": "alization takes the steam out of domain-",
+      "after": "driven design."
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Without a planning process of some kind, there is not a chance in the world that the University of Oregon will ever | come to possess an order anywhere near as "
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "cannot easily adapt to the natural and unpredictable changes that inevitably arise in the life of a community. As | these changes occur . . . the master plan be"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "in",
+      "before": "osely based on a project for a major in-",
+      "after": "ternational container-shipping company. "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "de",
+      "before": "lities and expressive models. Others de-",
+      "after": "livered stiff software that reduced the "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "domain",
+      "before": "ven so, any project committed to domain-",
+      "after": "driven design will be recognizable in a "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": "g characteristic is a priority on under-",
+      "after": "standing the target domain and incorpora"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "re",
+      "before": "erstand. Moreover, every team has to re-",
+      "after": "invent the wheel (or the gear, or the wi"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "in",
+      "before": "e room because both require the same in-",
+      "after": "frastructure (water and drainage) and bo"
     }
   ],
   "imagesExtracted": [
+    {
+      "page": "pf1",
+      "file": "pf1-fig1.png"
+    },
+    {
+      "page": "pf2",
+      "file": "pf2-fig1.png"
+    },
+    {
+      "page": "pf2",
+      "file": "pf2-fig2.png"
+    },
+    {
+      "page": "pf3",
+      "file": "pf3-fig1.png"
+    },
+    {
+      "page": "pf4",
+      "file": "pf4-fig1.png"
+    },
+    {
+      "page": "pf4",
+      "file": "pf4-fig2.png"
+    },
+    {
+      "page": "pf5",
+      "file": "pf5-fig1.png"
+    },
+    {
+      "page": "pf5",
+      "file": "pf5-fig2.png"
+    },
+    {
+      "page": "pf9",
+      "file": "pf9-fig1.png"
+    },
+    {
+      "page": "pf9",
+      "file": "pf9-fig2.png"
+    },
+    {
+      "page": "pfa",
+      "file": "pfa-fig1.png"
+    },
+    {
+      "page": "pff",
+      "file": "pff-fig1.png"
+    },
+    {
+      "page": "pff",
+      "file": "pff-fig2.png"
+    },
+    {
+      "page": "pf10",
+      "file": "pf10-fig1.png"
+    },
+    {
+      "page": "pf13",
+      "file": "pf13-fig1.png"
+    },
+    {
+      "page": "pf17",
+      "file": "pf17-fig1.png"
+    },
+    {
+      "page": "pf18",
+      "file": "pf18-fig1.png"
+    },
+    {
+      "page": "pf1a",
+      "file": "pf1a-fig1.png"
+    },
+    {
+      "page": "pf1a",
+      "file": "pf1a-fig2.png"
+    },
+    {
+      "page": "pf1c",
+      "file": "pf1c-fig1.png"
+    },
+    {
+      "page": "pf1d",
+      "file": "pf1d-fig1.png"
+    },
+    {
+      "page": "pf1f",
+      "file": "pf1f-fig1.png"
+    },
+    {
+      "page": "pf24",
+      "file": "pf24-fig1.png"
+    },
+    {
+      "page": "pf26",
+      "file": "pf26-fig1.png"
+    },
+    {
+      "page": "pf26",
+      "file": "pf26-fig2.png"
+    },
     {
       "page": "pf2e",
       "file": "pf2e-fig1.png"
@@ -446,21 +3598,790 @@
     {
       "page": "pf3b",
       "file": "pf3b-fig1.png"
+    },
+    {
+      "page": "pf46",
+      "file": "pf46-fig1.png"
+    },
+    {
+      "page": "pf47",
+      "file": "pf47-fig1.png"
+    },
+    {
+      "page": "pf49",
+      "file": "pf49-fig1.png"
+    },
+    {
+      "page": "pf49",
+      "file": "pf49-fig2.png"
+    },
+    {
+      "page": "pf4a",
+      "file": "pf4a-fig1.png"
+    },
+    {
+      "page": "pf4b",
+      "file": "pf4b-fig1.png"
+    },
+    {
+      "page": "pf4b",
+      "file": "pf4b-fig2.png"
+    },
+    {
+      "page": "pf4c",
+      "file": "pf4c-fig1.png"
+    },
+    {
+      "page": "pf4c",
+      "file": "pf4c-fig2.png"
+    },
+    {
+      "page": "pf4c",
+      "file": "pf4c-fig3.png"
+    },
+    {
+      "page": "pf4d",
+      "file": "pf4d-fig1.png"
+    },
+    {
+      "page": "pf4d",
+      "file": "pf4d-fig2.png"
+    },
+    {
+      "page": "pf4d",
+      "file": "pf4d-fig3.png"
+    },
+    {
+      "page": "pf4e",
+      "file": "pf4e-fig1.png"
+    },
+    {
+      "page": "pf4f",
+      "file": "pf4f-fig1.png"
+    },
+    {
+      "page": "pf50",
+      "file": "pf50-fig1.png"
+    },
+    {
+      "page": "pf51",
+      "file": "pf51-fig1.png"
+    },
+    {
+      "page": "pf52",
+      "file": "pf52-fig1.png"
+    },
+    {
+      "page": "pf52",
+      "file": "pf52-fig2.png"
+    },
+    {
+      "page": "pf55",
+      "file": "pf55-fig1.png"
+    },
+    {
+      "page": "pf55",
+      "file": "pf55-fig2.png"
+    },
+    {
+      "page": "pf55",
+      "file": "pf55-fig3.png"
+    },
+    {
+      "page": "pf55",
+      "file": "pf55-fig4.png"
+    },
+    {
+      "page": "pf56",
+      "file": "pf56-fig1.png"
+    },
+    {
+      "page": "pf59",
+      "file": "pf59-fig1.png"
+    },
+    {
+      "page": "pf5a",
+      "file": "pf5a-fig1.png"
+    },
+    {
+      "page": "pf5a",
+      "file": "pf5a-fig2.png"
+    },
+    {
+      "page": "pf5b",
+      "file": "pf5b-fig1.png"
+    },
+    {
+      "page": "pf5d",
+      "file": "pf5d-fig1.png"
+    },
+    {
+      "page": "pf5d",
+      "file": "pf5d-fig2.png"
+    },
+    {
+      "page": "pf5d",
+      "file": "pf5d-fig3.png"
+    },
+    {
+      "page": "pf5d",
+      "file": "pf5d-fig4.png"
+    },
+    {
+      "page": "pf5d",
+      "file": "pf5d-fig5.png"
+    },
+    {
+      "page": "pf5d",
+      "file": "pf5d-fig6.png"
+    },
+    {
+      "page": "pf61",
+      "file": "pf61-fig1.png"
+    },
+    {
+      "page": "pf64",
+      "file": "pf64-fig1.png"
+    },
+    {
+      "page": "pf66",
+      "file": "pf66-fig1.png"
+    },
+    {
+      "page": "pf67",
+      "file": "pf67-fig1.png"
+    },
+    {
+      "page": "pf6a",
+      "file": "pf6a-fig1.png"
+    },
+    {
+      "page": "pf6b",
+      "file": "pf6b-fig1.png"
+    },
+    {
+      "page": "pf6d",
+      "file": "pf6d-fig1.png"
+    },
+    {
+      "page": "pf6e",
+      "file": "pf6e-fig1.png"
+    },
+    {
+      "page": "pf6f",
+      "file": "pf6f-fig1.png"
+    },
+    {
+      "page": "pf70",
+      "file": "pf70-fig1.png"
+    },
+    {
+      "page": "pf71",
+      "file": "pf71-fig1.png"
+    },
+    {
+      "page": "pf73",
+      "file": "pf73-fig1.png"
+    },
+    {
+      "page": "pf74",
+      "file": "pf74-fig1.png"
+    },
+    {
+      "page": "pf74",
+      "file": "pf74-fig2.png"
+    },
+    {
+      "page": "pf75",
+      "file": "pf75-fig1.png"
+    },
+    {
+      "page": "pf75",
+      "file": "pf75-fig2.png"
+    },
+    {
+      "page": "pf76",
+      "file": "pf76-fig1.png"
+    },
+    {
+      "page": "pf76",
+      "file": "pf76-fig2.png"
+    },
+    {
+      "page": "pf76",
+      "file": "pf76-fig3.png"
+    },
+    {
+      "page": "pf77",
+      "file": "pf77-fig1.png"
+    },
+    {
+      "page": "pf77",
+      "file": "pf77-fig2.png"
+    },
+    {
+      "page": "pf7a",
+      "file": "pf7a-fig1.png"
+    },
+    {
+      "page": "pf7c",
+      "file": "pf7c-fig1.png"
+    },
+    {
+      "page": "pf7d",
+      "file": "pf7d-fig1.png"
+    },
+    {
+      "page": "pf7e",
+      "file": "pf7e-fig1.png"
+    },
+    {
+      "page": "pf7f",
+      "file": "pf7f-fig1.png"
+    },
+    {
+      "page": "pf80",
+      "file": "pf80-fig1.png"
+    },
+    {
+      "page": "pf81",
+      "file": "pf81-fig1.png"
+    },
+    {
+      "page": "pf81",
+      "file": "pf81-fig2.png"
+    },
+    {
+      "page": "pf82",
+      "file": "pf82-fig1.png"
+    },
+    {
+      "page": "pf83",
+      "file": "pf83-fig1.png"
+    },
+    {
+      "page": "pf85",
+      "file": "pf85-fig1.png"
+    },
+    {
+      "page": "pf86",
+      "file": "pf86-fig1.png"
+    },
+    {
+      "page": "pf87",
+      "file": "pf87-fig1.png"
+    },
+    {
+      "page": "pf88",
+      "file": "pf88-fig1.png"
+    },
+    {
+      "page": "pf89",
+      "file": "pf89-fig1.png"
+    },
+    {
+      "page": "pf8a",
+      "file": "pf8a-fig1.png"
+    },
+    {
+      "page": "pf8c",
+      "file": "pf8c-fig1.png"
+    },
+    {
+      "page": "pf8f",
+      "file": "pf8f-fig1.png"
+    },
+    {
+      "page": "pf92",
+      "file": "pf92-fig1.png"
+    },
+    {
+      "page": "pf93",
+      "file": "pf93-fig1.png"
+    },
+    {
+      "page": "pf95",
+      "file": "pf95-fig1.png"
+    },
+    {
+      "page": "pf96",
+      "file": "pf96-fig1.png"
+    },
+    {
+      "page": "pf97",
+      "file": "pf97-fig1.png"
+    },
+    {
+      "page": "pf99",
+      "file": "pf99-fig1.png"
+    },
+    {
+      "page": "pf9a",
+      "file": "pf9a-fig1.png"
+    },
+    {
+      "page": "pf9a",
+      "file": "pf9a-fig2.png"
+    },
+    {
+      "page": "pf9b",
+      "file": "pf9b-fig1.png"
+    },
+    {
+      "page": "pf9b",
+      "file": "pf9b-fig2.png"
+    },
+    {
+      "page": "pf9b",
+      "file": "pf9b-fig3.png"
+    },
+    {
+      "page": "pf9d",
+      "file": "pf9d-fig1.png"
+    },
+    {
+      "page": "pf9e",
+      "file": "pf9e-fig1.png"
+    },
+    {
+      "page": "pfa1",
+      "file": "pfa1-fig1.png"
+    },
+    {
+      "page": "pfa2",
+      "file": "pfa2-fig1.png"
+    },
+    {
+      "page": "pfa2",
+      "file": "pfa2-fig2.png"
+    },
+    {
+      "page": "pfa7",
+      "file": "pfa7-fig1.png"
+    },
+    {
+      "page": "pfaa",
+      "file": "pfaa-fig1.png"
+    },
+    {
+      "page": "pfac",
+      "file": "pfac-fig1.png"
+    },
+    {
+      "page": "pfac",
+      "file": "pfac-fig2.png"
+    },
+    {
+      "page": "pfaf",
+      "file": "pfaf-fig1.png"
+    },
+    {
+      "page": "pfaf",
+      "file": "pfaf-fig2.png"
+    },
+    {
+      "page": "pfb1",
+      "file": "pfb1-fig1.png"
+    },
+    {
+      "page": "pfb1",
+      "file": "pfb1-fig2.png"
+    },
+    {
+      "page": "pfb2",
+      "file": "pfb2-fig1.png"
+    },
+    {
+      "page": "pfb6",
+      "file": "pfb6-fig1.png"
+    },
+    {
+      "page": "pfb7",
+      "file": "pfb7-fig1.png"
+    },
+    {
+      "page": "pfb7",
+      "file": "pfb7-fig2.png"
+    },
+    {
+      "page": "pfb8",
+      "file": "pfb8-fig1.png"
+    },
+    {
+      "page": "pfb9",
+      "file": "pfb9-fig1.png"
+    },
+    {
+      "page": "pfb9",
+      "file": "pfb9-fig2.png"
+    },
+    {
+      "page": "pfba",
+      "file": "pfba-fig1.png"
+    },
+    {
+      "page": "pfbb",
+      "file": "pfbb-fig1.png"
+    },
+    {
+      "page": "pfbc",
+      "file": "pfbc-fig1.png"
+    },
+    {
+      "page": "pfbd",
+      "file": "pfbd-fig1.png"
+    },
+    {
+      "page": "pfbd",
+      "file": "pfbd-fig2.png"
+    },
+    {
+      "page": "pfc0",
+      "file": "pfc0-fig1.png"
+    },
+    {
+      "page": "pfc1",
+      "file": "pfc1-fig1.png"
+    },
+    {
+      "page": "pfc1",
+      "file": "pfc1-fig2.png"
+    },
+    {
+      "page": "pfc2",
+      "file": "pfc2-fig1.png"
+    },
+    {
+      "page": "pfc3",
+      "file": "pfc3-fig1.png"
+    },
+    {
+      "page": "pfc4",
+      "file": "pfc4-fig1.png"
+    },
+    {
+      "page": "pfc4",
+      "file": "pfc4-fig2.png"
+    },
+    {
+      "page": "pfc4",
+      "file": "pfc4-fig3.png"
+    },
+    {
+      "page": "pfc5",
+      "file": "pfc5-fig1.png"
+    },
+    {
+      "page": "pfc6",
+      "file": "pfc6-fig1.png"
+    },
+    {
+      "page": "pfc7",
+      "file": "pfc7-fig1.png"
+    },
+    {
+      "page": "pfcf",
+      "file": "pfcf-fig1.png"
+    },
+    {
+      "page": "pfcf",
+      "file": "pfcf-fig2.png"
+    },
+    {
+      "page": "pfd0",
+      "file": "pfd0-fig1.png"
+    },
+    {
+      "page": "pfd3",
+      "file": "pfd3-fig1.png"
+    },
+    {
+      "page": "pfd5",
+      "file": "pfd5-fig1.png"
+    },
+    {
+      "page": "pfd6",
+      "file": "pfd6-fig1.png"
+    },
+    {
+      "page": "pfd7",
+      "file": "pfd7-fig1.png"
+    },
+    {
+      "page": "pfd8",
+      "file": "pfd8-fig1.png"
+    },
+    {
+      "page": "pfd8",
+      "file": "pfd8-fig2.png"
+    },
+    {
+      "page": "pfd8",
+      "file": "pfd8-fig3.png"
+    },
+    {
+      "page": "pfd9",
+      "file": "pfd9-fig1.png"
+    },
+    {
+      "page": "pfd9",
+      "file": "pfd9-fig2.png"
+    },
+    {
+      "page": "pfd9",
+      "file": "pfd9-fig3.png"
+    },
+    {
+      "page": "pfdb",
+      "file": "pfdb-fig1.png"
+    },
+    {
+      "page": "pfdd",
+      "file": "pfdd-fig1.png"
+    },
+    {
+      "page": "pfe0",
+      "file": "pfe0-fig1.png"
+    },
+    {
+      "page": "pfe1",
+      "file": "pfe1-fig1.png"
+    },
+    {
+      "page": "pfe2",
+      "file": "pfe2-fig1.png"
+    },
+    {
+      "page": "pfe4",
+      "file": "pfe4-fig1.png"
+    },
+    {
+      "page": "pfe6",
+      "file": "pfe6-fig1.png"
+    },
+    {
+      "page": "pfeb",
+      "file": "pfeb-fig1.png"
+    },
+    {
+      "page": "pfec",
+      "file": "pfec-fig1.png"
+    },
+    {
+      "page": "pfec",
+      "file": "pfec-fig2.png"
+    },
+    {
+      "page": "pfec",
+      "file": "pfec-fig3.png"
+    },
+    {
+      "page": "pfed",
+      "file": "pfed-fig1.png"
+    },
+    {
+      "page": "pff1",
+      "file": "pff1-fig1.png"
+    },
+    {
+      "page": "pff7",
+      "file": "pff7-fig1.png"
+    },
+    {
+      "page": "pff8",
+      "file": "pff8-fig1.png"
+    },
+    {
+      "page": "pff8",
+      "file": "pff8-fig2.png"
+    },
+    {
+      "page": "pf109",
+      "file": "pf109-fig1.png"
+    },
+    {
+      "page": "pf10b",
+      "file": "pf10b-fig1.png"
+    },
+    {
+      "page": "pf10d",
+      "file": "pf10d-fig1.png"
+    },
+    {
+      "page": "pf10e",
+      "file": "pf10e-fig1.png"
+    },
+    {
+      "page": "pf10e",
+      "file": "pf10e-fig2.png"
+    },
+    {
+      "page": "pf10e",
+      "file": "pf10e-fig3.png"
+    },
+    {
+      "page": "pf110",
+      "file": "pf110-fig1.png"
+    },
+    {
+      "page": "pf112",
+      "file": "pf112-fig1.png"
+    },
+    {
+      "page": "pf116",
+      "file": "pf116-fig1.png"
+    },
+    {
+      "page": "pf116",
+      "file": "pf116-fig2.png"
+    },
+    {
+      "page": "pf117",
+      "file": "pf117-fig1.png"
+    },
+    {
+      "page": "pf118",
+      "file": "pf118-fig1.png"
+    },
+    {
+      "page": "pf119",
+      "file": "pf119-fig1.png"
+    },
+    {
+      "page": "pf119",
+      "file": "pf119-fig2.png"
+    },
+    {
+      "page": "pf11a",
+      "file": "pf11a-fig1.png"
+    },
+    {
+      "page": "pf11a",
+      "file": "pf11a-fig2.png"
+    },
+    {
+      "page": "pf11b",
+      "file": "pf11b-fig1.png"
+    },
+    {
+      "page": "pf11b",
+      "file": "pf11b-fig2.png"
+    },
+    {
+      "page": "pf11c",
+      "file": "pf11c-fig1.png"
+    },
+    {
+      "page": "pf11d",
+      "file": "pf11d-fig1.png"
+    },
+    {
+      "page": "pf11f",
+      "file": "pf11f-fig1.png"
+    },
+    {
+      "page": "pf11f",
+      "file": "pf11f-fig2.png"
+    },
+    {
+      "page": "pf120",
+      "file": "pf120-fig1.png"
+    },
+    {
+      "page": "pf121",
+      "file": "pf121-fig1.png"
+    },
+    {
+      "page": "pf121",
+      "file": "pf121-fig2.png"
+    },
+    {
+      "page": "pf122",
+      "file": "pf122-fig1.png"
+    },
+    {
+      "page": "pf122",
+      "file": "pf122-fig2.png"
+    },
+    {
+      "page": "pf122",
+      "file": "pf122-fig3.png"
+    },
+    {
+      "page": "pf123",
+      "file": "pf123-fig1.png"
+    },
+    {
+      "page": "pf124",
+      "file": "pf124-fig1.png"
+    },
+    {
+      "page": "pf125",
+      "file": "pf125-fig1.png"
+    },
+    {
+      "page": "pf126",
+      "file": "pf126-fig1.png"
+    },
+    {
+      "page": "pf126",
+      "file": "pf126-fig2.png"
+    },
+    {
+      "page": "pf128",
+      "file": "pf128-fig1.png"
+    },
+    {
+      "page": "pf129",
+      "file": "pf129-fig1.png"
+    },
+    {
+      "page": "pf12d",
+      "file": "pf12d-fig1.png"
+    },
+    {
+      "page": "pf12e",
+      "file": "pf12e-fig1.png"
+    },
+    {
+      "page": "pf12e",
+      "file": "pf12e-fig2.png"
+    },
+    {
+      "page": "pf12f",
+      "file": "pf12f-fig1.png"
+    },
+    {
+      "page": "pf12f",
+      "file": "pf12f-fig2.png"
+    },
+    {
+      "page": "pf130",
+      "file": "pf130-fig1.png"
+    },
+    {
+      "page": "pf137",
+      "file": "pf137-fig1.png"
+    },
+    {
+      "page": "pf137",
+      "file": "pf137-fig2.png"
     }
   ],
   "blocksByType": {
-    "h1": 1,
-    "p": 188,
-    "h2": 6,
-    "ol": 2,
-    "figure": 11,
-    "figure-caption": 4,
-    "h3": 20,
-    "code": 6,
-    "table-like": 6,
-    "attribution": 5,
-    "ul": 6
+    "figure": 228,
+    "h1": 22,
+    "p": 1996,
+    "dialogue": 142,
+    "h2": 106,
+    "h3": 159,
+    "code": 86,
+    "ol": 41,
+    "table-like": 84,
+    "attribution": 33,
+    "figure-caption": 128,
+    "ul": 36
   },
-  "textLengthBefore": 82388,
-  "textLengthAfter": 82371
+  "textLengthBefore": 813373,
+  "textLengthAfter": 811499
 }

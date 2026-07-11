@@ -33,8 +33,7 @@
 <p>Constraining the traversal direction of a many-to-many association effectively reduces its implementation to one-to-many—a much easier design.</p>
 <p>Consistently constraining associations in ways that reflect the bias of the domain not only makes those associations more communicative and simpler to implement, it also gives significance to the remaining bidirectional associations. When the bidirectionality of a relationship is a semantic characteristic of the domain, when it's needed for application functionality, the retention of both traversal directions conveys that.</p>
 <p>Of course, the ultimate simplification is to eliminate an association altogether, if it is not essential to the job at hand or the fundamental meaning of the model objects.</p>
-<h3>Example</h3>
-<h3>Associations in a Brokerage Account</h3>
+<h3>Example Associations in a Brokerage Account</h3>
 <figure><img src="images/pf2f-fig1.png" alt=""/></figure>
 <p>One Java implementation of <strong>Brokerage Account</strong> in this model would be</p>
 <pre><code>public class BrokerageAccount {
@@ -192,8 +191,7 @@ public class BrokerageAccount {
 <figure><img src="images/pf39-fig1.png" alt=""/></figure>
 <p class="attribution"><em>Just to reiterate: If a VALUE's implementation is to be mutable, then it must not be shared. Whether you will be sharing or not, design VALUE OBJECTS as immutable when you can.</em></p>
 <p>Defining VALUE OBJECTS and designating them as immutable is a case of following a general rule: Avoiding unnecessary constraints in a model leaves developers free to do purely technical performance tuning. Explicitly defining the essential constraints lets developers tweak the design while keeping safe from changing meaningful behavior. Such design tweaks are often very specific to the technology in use on a particular project.</p>
-<h3>Example</h3>
-<h3>Tuning a Database with VALUE OBJECTS</h3>
+<h3>Example Tuning a Database with VALUE OBJECTS</h3>
 <p>Databases, at the lowest level, have to place data in a physical location on a disk, and it takes time for physical parts to move around and read that data. Sophisticated databases attempt to cluster these physical addresses so that related data can be fetched from the disk in a single physical operation.</p>
 <p>If an object is referenced by many other objects, some of those objects will not be located nearby (on the same page), requiring an additional physical operation to get the data. By making a copy, rather than sharing a reference to the same instance, a VALUE OBJECT that is acting as an attribute of many ENTITIES can be stored on the same page as each ENTITY that uses it. This technique of storing multiple copies of the same data is called denormalization and is often used when access time is more critical than storage space or simplicity of maintenance.</p>
 <p>In a relational database, you might want to put a particular VALUE in the table of the ENTITY that owns it, rather than creating an association to a separate table. In a distributed system, holding a reference to a VALUE OBJECT on another server will probably make for slow responses to messages; instead, a copy of the whole object should be passed to the other server. We can freely make these copies because we are dealing with VALUE OBJECTS.</p>
@@ -256,8 +254,7 @@ ApplicationFunds Transfer App Service</pre>
 <p>MODULES need to coevolve with the rest of the model. This means refactoring MODULES right along with the model and code. But this refactoring often doesn't happen. Changing MODULES tends to require widespread updates to the code. Such changes can be disruptive to team communication and can even throw a monkey wrench into development tools, such as source code control systems. As a result, MODULE structures and names often reflect much earlier forms of the model than the classes do.</p>
 <p>Inevitable early mistakes in MODULE choices lead to high coupling, which makes it hard to refactor. The lack of refactoring just keeps increasing the inertia. It can only be overcome by biting the bullet and reorganizing MODULES based on experience of where the trouble spots lie.</p>
 <p>Some development tools and programming systems exacerbate the problem. Whatever development technology the implementation will be based on, we need to look for ways of minimizing the work of refactoring MODULES, and minimizing clutter in communicating to other developers.</p>
-<h3>Example</h3>
-<h3>Package Coding Conventions in Java</h3>
+<h3>Example Package Coding Conventions in Java</h3>
 <p>In Java, imports (dependencies) must be declared in some individual class. A modeler probably thinks of packages as depending on other packages, but this can't be stated in Java. Common coding conventions encourage the import of specific classes, resulting in code like this:</p>
 <pre><code>ClassA1
 import packageB.ClassB1;
