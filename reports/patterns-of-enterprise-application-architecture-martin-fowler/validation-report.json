@@ -1,0 +1,450 @@
+{
+  "file": "cleaned-html/patterns-of-enterprise-application-architecture-martin-fowler/all.xhtml",
+  "generatedAt": "2026-07-11T18:59:44.927Z",
+  "bodyTextLength": 1031939,
+  "errors": [],
+  "warnings": [
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "—Martin"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Acknowledgments"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Colophon"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Architecture"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": " on measurement. However, some architec-"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "ovement, such as doubling how many serv-"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Patterns"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "ea; the value lies in helping you commu-"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Layering"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": " to do this. The great advantage of run-"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "t. If you read some objects, it’s impor-"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "gs up. In this case you may have a Gate-"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "skillID"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Inheritance"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "but just return it to the pool for some-"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Concurrency"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Deadlocks"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": " a result we prefer very simple and con-"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Transactions"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "ACID"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "abase transaction is a group of SQL com-"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": ".NET"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "1"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "1"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "1"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Domain"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "IntegrationGateway"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "sources. Figure 9.8 shows the class dia-"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "dition to the application-specific meth-"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "«interface»"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "javax.ejb.EJBLocalObject"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "javax.ejb.SessionBean"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "1"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Database"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "new"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "pper? If the domain model is pretty sim-"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Artist"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Object-Relational"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "commit"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "save"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "update"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "select"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "commit"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "save"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "update"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "load"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "select"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "new"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "commit"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "the Unit of Work with the currently exe-"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "class"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "0..1"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "IDataSource"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "1"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Object-Relational"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "n’t easily determine what value got gen-"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "e database. This step is made a lot eas-"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "skillID"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "«table»"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "L element and create the list of depart-"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "1"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "1"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "1"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "1"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "1"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "1"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "1"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "1"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Object-Relational"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "y, an XML stream over the Internet, per-"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": " of domain objects. Each strategy imple-"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "nst the various advantages of Front Con-"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "playing some information about a record-"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "o recognize /artist as a call to Artist-"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "process"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "read"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "create"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "new"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "run"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "forward"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "command"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "object"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "getState"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "getZip"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "sData method creates a copy of the orig-"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "1"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "1"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": " works well as a complement to its opti-"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "getCustomer(129)"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "getCustomer(129)"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Lock"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Address"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Address"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "1"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "he path to your root. This not only pre-"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Address"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "1"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "success"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "acquireLock"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Gateway"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Money"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "lookupPluginByType"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "new"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Plugin"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Plugin"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Column"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "ion you use an expression like aReserva-"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": " some horrible expression such as ((Per-"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "W"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "X"
+    }
+  ],
+  "errorCount": 0,
+  "warningCount": 110
+}

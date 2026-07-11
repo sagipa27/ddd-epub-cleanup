@@ -1,0 +1,4755 @@
+{
+  "generatedAt": "2026-07-11T18:58:57.223Z",
+  "pagesProcessed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237,
+    238,
+    239,
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260,
+    261,
+    262,
+    263,
+    264,
+    265,
+    266,
+    267,
+    268,
+    269,
+    270,
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280,
+    281,
+    282,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289,
+    290,
+    291,
+    292,
+    293,
+    294,
+    295,
+    296,
+    297,
+    298,
+    299,
+    300,
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    307,
+    308,
+    309,
+    310,
+    311,
+    312,
+    313,
+    314,
+    315,
+    316,
+    317,
+    318,
+    319,
+    320,
+    321,
+    322,
+    323,
+    324,
+    325,
+    326,
+    327,
+    328,
+    329,
+    330,
+    331,
+    332,
+    333,
+    334,
+    335,
+    336,
+    337,
+    338,
+    339,
+    340,
+    341,
+    342,
+    343,
+    344,
+    345,
+    346,
+    347,
+    348,
+    349,
+    350,
+    351,
+    352,
+    353,
+    354,
+    355,
+    356,
+    357,
+    358,
+    359,
+    360,
+    361,
+    362,
+    363,
+    364,
+    365,
+    366,
+    367,
+    368,
+    369,
+    370,
+    371,
+    372,
+    373,
+    374,
+    375,
+    376,
+    377,
+    378,
+    379,
+    380,
+    381,
+    382,
+    383,
+    384,
+    385,
+    386,
+    387,
+    388,
+    389,
+    390,
+    391,
+    392,
+    393,
+    394,
+    395,
+    396,
+    397,
+    398,
+    399,
+    400,
+    401,
+    402,
+    403,
+    404,
+    405,
+    406,
+    407,
+    408,
+    409,
+    410,
+    411,
+    412,
+    413,
+    414,
+    415,
+    416,
+    417,
+    418,
+    419,
+    420,
+    421,
+    422,
+    423,
+    424,
+    425,
+    426,
+    427,
+    428,
+    429,
+    430,
+    431,
+    432,
+    433,
+    434,
+    435,
+    436,
+    437,
+    438,
+    439,
+    440,
+    441,
+    442,
+    443,
+    444,
+    445,
+    446,
+    447,
+    448,
+    449,
+    450,
+    451,
+    452,
+    453,
+    454,
+    455,
+    456,
+    457,
+    458,
+    459,
+    460,
+    461,
+    462,
+    463,
+    464,
+    465,
+    466,
+    467,
+    468,
+    469,
+    470,
+    471,
+    472,
+    473,
+    474,
+    475,
+    476,
+    477,
+    478,
+    479,
+    480,
+    481,
+    482,
+    483,
+    484,
+    485,
+    486,
+    487,
+    488,
+    489,
+    490,
+    491,
+    492,
+    493,
+    494,
+    495,
+    496,
+    497,
+    498,
+    499,
+    500,
+    501,
+    502,
+    503,
+    504,
+    505,
+    506,
+    507,
+    508,
+    509,
+    510,
+    511,
+    512,
+    513,
+    514,
+    515,
+    516,
+    517,
+    518,
+    519,
+    520,
+    521,
+    522,
+    523,
+    524,
+    525,
+    526,
+    527,
+    528,
+    529,
+    530,
+    531,
+    532,
+    533,
+    534,
+    535,
+    536,
+    537,
+    538,
+    539,
+    540,
+    541,
+    542,
+    543,
+    544,
+    545,
+    546,
+    547,
+    548,
+    549,
+    550,
+    551,
+    552,
+    553,
+    554,
+    555,
+    556,
+    557,
+    558,
+    559
+  ],
+  "headersRemoved": 173,
+  "headerSamples": [
+    {
+      "page": 12,
+      "text": "When to Use It . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 203"
+    },
+    {
+      "page": 14,
+      "text": "When to Use It . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 324"
+    },
+    {
+      "page": 16,
+      "text": "When to Use It . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 451"
+    },
+    {
+      "page": 44,
+      "text": "THE THREE PRINCIPAL LAYERS 19"
+    },
+    {
+      "page": 48,
+      "text": "CHOOSING WHERE TO RUN YOUR LAYERS 23"
+    },
+    {
+      "page": 52,
+      "text": "ORGANIZING DOMAIN LOGIC 27"
+    },
+    {
+      "page": 54,
+      "text": "MAKING A CHOICE 29"
+    },
+    {
+      "page": 56,
+      "text": "SERVICE LAYER 31"
+    },
+    {
+      "page": 60,
+      "text": "ARCHITECTURAL PATTERNS 35"
+    },
+    {
+      "page": 62,
+      "text": "ARCHITECTURAL PATTERNS 37"
+    },
+    {
+      "page": 64,
+      "text": "THE BEHAVIORAL PROBLEM 39"
+    },
+    {
+      "page": 66,
+      "text": "STRUCTURAL MAPPING PATTERNS 41"
+    },
+    {
+      "page": 68,
+      "text": "STRUCTURAL MAPPING PATTERNS 43"
+    },
+    {
+      "page": 72,
+      "text": "BUILDING THE MAPPING 47"
+    },
+    {
+      "page": 74,
+      "text": "USING METADATA 49"
+    },
+    {
+      "page": 76,
+      "text": "DATABASE CONNECTIONS 51"
+    },
+    {
+      "page": 78,
+      "text": "FURTHER READING 53"
+    },
+    {
+      "page": 82,
+      "text": "57"
+    },
+    {
+      "page": 84,
+      "text": "VIEW PATTERNS 59"
+    },
+    {
+      "page": 86,
+      "text": "FURTHER READING 61"
+    },
+    {
+      "page": 90,
+      "text": "EXECUTION CONTEXTS 65"
+    },
+    {
+      "page": 94,
+      "text": "OPTIMISTIC AND PESSIMISTIC CONCURRENCY CONTROL 69"
+    },
+    {
+      "page": 98,
+      "text": "TRANSACTIONS 73"
+    },
+    {
+      "page": 102,
+      "text": "PATTERNS FOR OFFLINE CONCURRENCY CONTROL 77"
+    },
+    {
+      "page": 104,
+      "text": "APPLICATION SERVER CONCURRENCY 79"
+    }
+  ],
+  "hyphenRepairs": [
+    {
+      "before": "tronic, mechanical, photocopy- / ing, recording, or otherwise, "
+    },
+    {
+      "before": " make the problem more tracta- / ble. Indeed, I believe that th"
+    },
+    {
+      "before": " part a set of narrative chap- / ters on a number of important "
+    },
+    {
+      "before": "hitecture of enterprise appli- / cations and their solutions. H"
+    },
+    {
+      "before": "second part, organized as pat- / terns. These patterns are a re"
+    },
+    {
+      "before": "rs; then you dip into the pat- / terns chapters of Part 2 as yo"
+    },
+    {
+      "before": "he heart of iterative develop- / ment is the notion that you sh"
+    },
+    {
+      "before": "ware as soon as you have some- / thing useful to the user, even"
+    },
+    {
+      "before": "essaging and asynchronous com- / munication, security, error ha"
+    },
+    {
+      "before": "pplication integration, archi- / tectural refactoring, structur"
+    },
+    {
+      "before": "creasingly making use of asyn- / chronous message-based communi"
+    },
+    {
+      "before": "he patterns. My choice of lan- / guage for them is based on wha"
+    },
+    {
+      "before": "C++. Essentially most C++ pro- / grammers can read Java but not"
+    },
+    {
+      "before": " you choose which of the tool- / supported patterns to use. Usi"
+    },
+    {
+      "before": "ng exercise at building frame- / works, which wasn’t what the p"
+    },
+    {
+      "before": " of them. If you’ve been work- / ing in enterprise applications"
+    },
+    {
+      "before": "ook. Indeed, I claim the oppo- / site—this is a book of (for ou"
+    },
+    {
+      "before": "s over the years. Lots of peo- / ple have helped in lots of way"
+    },
+    {
+      "before": "att and Rob Mee for their con- / tribution, which arose from Ro"
+    },
+    {
+      "before": "in North Carolina. Their fine- / tooth comb has injected all so"
+    },
+    {
+      "before": "cluding this particularly hei- / nous mixed metaphor. In partic"
+    },
+    {
+      "before": "ticular I’d like to thank Col- / leen Roe, David Muirhead, and "
+    },
+    {
+      "before": ". My thanks to: Ariel Gertzen- / stein, Bosko Zivaljevic , Brad"
+    },
+    {
+      "before": "e, Brian Marick, Federico Bal- / aguer, Joseph Yoder, John Bran"
+    },
+    {
+      "before": " can remember. But I do remem- / ber that he came up with the n"
+    },
+    {
+      "before": "e (496). Jim Odell was respon- / sible for getting me into the "
+    },
+    {
+      "before": "s, Mark Bernstein, Graham Ber- / risford, Bjorn Beskow, Bryan B"
+    },
+    {
+      "before": "ealey, Christian Heller, Rich- / ard Henderson, Kyle Hermenean,"
+    },
+    {
+      "before": ".NET and on IntelliJ’s wonder- / ful Idea—the first IDE that’s "
+    },
+    {
+      "before": "dinating the editing, composi- / tion, proofreading, indexing, "
+    },
+    {
+      "before": "k a more significant construc- / tion project was going on in B"
+    },
+    {
+      "before": ". The Zakim bridge is a cable- / stayed bridge, a style that ha"
+    },
+    {
+      "before": "r systems is hard. As the com- / plexity of the system gets gre"
+    },
+    {
+      "before": "ilding the software gets expo- / nentially harder. As in any pr"
+    },
+    {
+      "before": "nd stretching them into a myr- / iad of subtly contradictory me"
+    },
+    {
+      "before": "iggest sufferers is “architec- / ture.” I tend to look at “arch"
+    },
+    {
+      "before": " to define, with little agree- / ment. There are two common ele"
+    },
+    {
+      "before": " to state a system’s architec- / ture; rather, there are multip"
+    },
+    {
+      "before": " remarkable posting on a mail- / ing list, and he did one on ar"
+    },
+    {
+      "before": " in the form of the major com- / ponents of the system and how "
+    },
+    {
+      "before": " right early on. The architec- / tural pattern I like the most "
+    },
+    {
+      "before": "nontrivial enterprise applica- / tions use a layered architectu"
+    },
+    {
+      "before": ". I don’t go into those situa- / tions, focusing instead on the"
+    },
+    {
+      "before": "ll all of it software develop- / ment. However, there are disti"
+    },
+    {
+      "before": "very hard multithreading prob- / lems, and we don’t have hardwa"
+    },
+    {
+      "before": "l all tests of logical reason- / ing. Although some techniques "
+    },
+    {
+      "before": "elevant for all kinds of soft- / ware, many are relevant for on"
+    },
+    {
+      "before": "e applications include “infor- / mation systems” or, for those "
+    },
+    {
+      "before": "? I can’t give a precise defi- / nition, but I can give some in"
+    },
+    {
+      "before": "ng systems and compilers. Dur- / ing that time there’ll be many"
+    },
+    {
+      "before": "stalls a completely new appli- / cation to handle a job, the da"
+    },
+    {
+      "before": "ases has turned into a subpro- / fession of its own."
+    },
+    {
+      "before": "ystem properly. But even with- / out that many people, there ar"
+    },
+    {
+      "before": "way that causes errors. Trans- / action manager tools handle so"
+    },
+    {
+      "before": "ns. Users of enterprise appli- / cations vary from occasional t"
+    },
+    {
+      "before": "ly they will have little tech- / nical expertise. Thus, the dat"
+    },
+    {
+      "before": "nd. Usually they need to inte- / grate with other enterprise ap"
+    },
+    {
+      "before": "tegration, they run into prob- / lems with differences in busin"
+    },
+    {
+      "before": "ting cycle and thus won a cou- / ple of million dollars in busi"
+    },
+    {
+      "before": "e to the enterprise. Many peo- / ple assume that, since small s"
+    },
+    {
+      "before": "n needs to be not only reason- / ably efficient in terms of res"
+    },
+    {
+      "before": "e communication with an inven- / tory system to help with avail"
+    },
+    {
+      "before": "e processing of leasing agree- / ments. In some ways this is a "
+    },
+    {
+      "before": "nd late payments, and validat- / ing data as a lease is booked "
+    },
+    {
+      "before": "two hundred tables and connec- / tions to packages for asset va"
+    },
+    {
+      "before": "acking system for a small com- / pany. Such a system has few us"
+    },
+    {
+      "before": " this book I don’t give a sin- / gle solution for your enterpri"
+    },
+    {
+      "before": "rument it, and then use a dis- / ciplined optimization process "
+    },
+    {
+      "before": ", if you upgrade to a new ver- / sion of your virtual machine, "
+    },
+    {
+      "before": "erformance actually hurts per- / formance in the new environmen"
+    },
+    {
+      "before": "eloper, I can usually do noth- / ing to improve latency. Latenc"
+    },
+    {
+      "before": "he complexity of your transac- / tion. For your particular syst"
+    },
+    {
+      "before": "e difficult to talk about per- / formance when a technique impr"
+    },
+    {
+      "before": "user’s perspective responsive- / ness may be more important tha"
+    },
+    {
+      "before": "r a point at which the perfor- / mance dips below an acceptable"
+    },
+    {
+      "before": "’t affect all of these perfor- / mance factors equally. Say we "
+    },
+    {
+      "before": "rsion of Word. But newer hard- / ware is often cheaper than mak"
+    },
+    {
+      "before": "n less powerful systems. Simi- / larly, adding more servers is "
+    },
+    {
+      "before": "t of me doesn’t want to regur- / gitate their history yet anoth"
+    },
+    {
+      "before": " an opportunity for me to pro- / vide my view of patterns and w"
+    },
+    {
+      "before": "tion for many pattern enthusi- / asts: “Each pattern describes "
+    },
+    {
+      "before": "solution, one that’s both com- / mon and effective in dealing w"
+    },
+    {
+      "before": "g that you always have to fin- / ish them off in the oven of yo"
+    },
+    {
+      "before": ". I hope you won’t be too dis- / appointed (I did try to warn y"
+    },
+    {
+      "before": "rn but rather that we “discov- / ered” one. Our role is to note"
+    },
+    {
+      "before": " (361) and you know these pat- / terns, you have a very clear i"
+    },
+    {
+      "before": " put a discussion of implemen- / tation issues and variations t"
+    },
+    {
+      "before": " The discussion is as indepen- / dent as possible of any partic"
+    },
+    {
+      "before": "nd the pattern, so I’ve elimi- / nated any discussion that I do"
+    },
+    {
+      "before": "en’t read. I also haven’t men- / tioned items that I think are "
+    },
+    {
+      "before": "s a simple example of the pat- / tern in use, illustrated with "
+    },
+    {
+      "before": "st number of professional pro- / grammers can read. It’s absolu"
+    },
+    {
+      "before": "t look exactly like this exam- / ple so don’t treat it as some "
+    },
+    {
+      "before": "worked hard to keep each exam- / ple as simple as I can, while "
+    },
+    {
+      "before": "ent examples instead of a con- / nected running examples. Indep"
+    },
+    {
+      "before": "e easier to understand in iso- / lation, but give less guidance"
+    },
+    {
+      "before": "ard to understand any one pat- / tern without understanding all"
+    },
+    {
+      "before": " in the example. While in the- / ory it’s possible to produce e"
+    },
+    {
+      "before": "patterns is by no means a com- / prehensive guide to enterprise"
+    },
+    {
+      "before": " that understanding has devel- / oped as I’ve been writing the "
+    },
+    {
+      "before": "en these patterns to help pro- / vide a beginning, so you can r"
+    },
+    {
+      "before": "g. You’ll have your own strug- / gles on top of these. Always r"
+    },
+    {
+      "before": "stand how to build an FTP ser- / vice on top of TCP without kno"
+    },
+    {
+      "before": "gs well. As a result you some- / times get cascading changes. T"
+    },
+    {
+      "before": "le of this in a layered enter- / prise application is adding a "
+    },
+    {
+      "before": "another. However, the encapsu- / lation of an underlying functi"
+    },
+    {
+      "before": "n the early days of batch sys- / tems, I don’t sense that peopl"
+    },
+    {
+      "before": "lculations, and the like. Usu- / ally people would write these "
+    },
+    {
+      "before": " the database as stored proce- / dures. However, stored procedu"
+    },
+    {
+      "before": "ng popularity, the object-ori- / ented world was rising. The ob"
+    },
+    {
+      "before": "t way. And although the three- / layer approach had many benefi"
+    },
+    {
+      "before": "c often runs on either a desk- / top or the database server. In"
+    },
+    {
+      "before": " have two nodes but three dis- / tinct layers. With a local dat"
+    },
+    {
+      "before": " an architecture of three pri- / mary layers: presentation, dom"
+    },
+    {
+      "before": "rowser.) The primary responsi- / bilities of the presentation l"
+    },
+    {
+      "before": "do for the domain you’re work- / ing with. It involves calculat"
+    },
+    {
+      "before": " of information (e.g., in Win- / dows or HTML, handling of user"
+    },
+    {
+      "before": "requests, command-line invoca- / tions, batch API)"
+    },
+    {
+      "before": "ses, messaging systems, trans- / action managers, other package"
+    },
+    {
+      "before": "Cockburn’s Hexagonal Architec- / ture pattern [wiki], which vis"
+    },
+    {
+      "before": "think there is a good distinc- / tion to be made between an int"
+    },
+    {
+      "before": "he core, this is the real dis- / tinction I make between presen"
+    },
+    {
+      "before": "sponsibility layers of presen- / tation, domain, and data sourc"
+    },
+    {
+      "before": "rise application, how you sep- / arate them depends on how comp"
+    },
+    {
+      "before": "arate subroutines. As the sys- / tem gets more complex, I would"
+    },
+    {
+      "before": "easier to modify the presenta- / tion without serious ramificat"
+    },
+    {
+      "before": "and depends upon the architec- / tural patterns used for the da"
+    },
+    {
+      "before": "in logic seems to be that peo- / ple often find it difficult to"
+    },
+    {
+      "before": "to hell or a perfectly reason- / able thing to do that only a d"
+    },
+    {
+      "before": "er to run processing on a cli- / ent, on a desktop machine, or "
+    },
+    {
+      "before": "terface pretty much means run- / ning on the server. There are "
+    },
+    {
+      "before": " deal with disconnected opera- / tion. In this case you can sti"
+    },
+    {
+      "before": "grade performance and add com- / plexity, as you have to add th"
+    },
+    {
+      "before": "ese things are what Jens Cold- / ewey refers to as complexity b"
+    },
+    {
+      "before": "three primary patterns: Trans- / action Script (110), Domain Mo"
+    },
+    {
+      "before": "ces get separated into subrou- / tines, and these subroutines c"
+    },
+    {
+      "before": ", at least on a first approxi- / mation, is organized primarily"
+    },
+    {
+      "before": "to this domain model, so ship- / ment object might contain the "
+    },
+    {
+      "before": "e shipping charge for a deliv- / ery. There might still be rout"
+    },
+    {
+      "before": "s for the two approaches (Fig- / ures 2.1 and 2.2). The essenti"
+    },
+    {
+      "before": "to deal with the database map- / ping. The richer your Domain M"
+    },
+    {
+      "before": "cord Set (508). Thus, the cli- / ent of a contract Table Module"
+    },
+    {
+      "before": "ddle ground between a Transac- / tion Script (110) and a Domain"
+    },
+    {
+      "before": " However, you can’t use a num- / ber of the techniques that a D"
+    },
+    {
+      "before": " uses for finer grained struc- / ture of the logic, such as inh"
+    },
+    {
+      "before": "lated data to the GUI for dis- / play. You can also use the Tab"
+    },
+    {
+      "before": " the way back for further val- / idations and calculations. A n"
+    },
+    {
+      "before": "hat won’t be paid back. Never- / theless, as the complexity of "
+    },
+    {
+      "before": "e on that x axis your applica- / tion lies. The good news is th"
+    },
+    {
+      "before": "ecause of the data source com- / plexity. Still, the better the"
+    },
+    {
+      "before": " depends very much on the sup- / port for a common Record Set ("
+    },
+    {
+      "before": "ripts (110) in a .NET environ- / ment. However, if there’s no s"
+    },
+    {
+      "before": "6), however, going to Transac- / tion Script (110) is usually l"
+    },
+    {
+      "before": "rate properties file is a com- / mon choice for this, but .NET’"
+    },
+    {
+      "before": "even mix of behavior: the con- / troller-entity style. This nam"
+    },
+    {
+      "before": " go whole hog and make it dom- / inant. The one exception to th"
+    },
+    {
+      "before": "ational databases is the pres- / ence of SQL, a mostly standard"
+    },
+    {
+      "before": "cated vendor-specific enhance- / ments, its core syntax is comm"
+    },
+    {
+      "before": "s and commands. Although vari- / ous techniques exist for embed"
+    },
+    {
+      "before": "at’s returned by a query (Fig- / ure 3.1). This Row Data Gatewa"
+    },
+    {
+      "before": "mon for GUI tools to have con- / trols that work with a Record "
+    },
+    {
+      "before": "this. I find the clear separa- / tion of SQL and domain logic t"
+    },
+    {
+      "before": "16) is an uncomplicated struc- / ture that actually corresponds"
+    },
+    {
+      "before": "objects often have only moder- / ately complex business logic. "
+    },
+    {
+      "before": "f a Gateway (466) doesn’t pro- / vide a great deal of value. As"
+    },
+    {
+      "before": "ic into smaller classes. Rela- / tional databases don’t handle "
+    },
+    {
+      "before": "l (116) from the database com- / pletely, by making your indire"
+    },
+    {
+      "before": "is Data Mapper (165) (see Fig- / ure 3.4) handles all of the lo"
+    },
+    {
+      "before": "ependently. It’s the most com- / plicated of the database mappi"
+    },
+    {
+      "before": "its benefit is complete isola- / tion of the two layers."
+    },
+    {
+      "before": "the primary persistence mecha- / nism for a Domain Model (116)."
+    },
+    {
+      "before": "for querying views as for que- / rying tables."
+    },
+    {
+      "before": "query with an appropriate pat- / tern is a very good way to imp"
+    },
+    {
+      "before": "date logic does proper valida- / tion, you shouldn’t get incons"
+    },
+    {
+      "before": "tch” between objects and rela- / tions. Thus, there followed a "
+    },
+    {
+      "before": "roup together updates and per- / mit sharing of the data store."
+    },
+    {
+      "before": "ong time. SQL provides a rela- / tively standard interface for "
+    },
+    {
+      "before": "you’re concerned about perfor- / mance, all I can say is that I"
+    },
+    {
+      "before": "idea to be aware of these pat- / terns. Good O/R tools give you"
+    },
+    {
+      "before": ". This is the issue of concur- / rency, which is a very tricky "
+    },
+    {
+      "before": "ut a Unit of Work (184), typi- / cally the domain layer acts as"
+    },
+    {
+      "before": "om factoring the database map- / ping controller behavior into "
+    },
+    {
+      "before": "updates will be properly coor- / dinated. As a benefit you may "
+    },
+    {
+      "before": "e database. Don’t forget, how- / ever, that the primary purpose"
+    },
+    {
+      "before": "ave the object reference modi- / fied so that, instead of point"
+    },
+    {
+      "before": "rns a collection of the appro- / priate row-based objects."
+    },
+    {
+      "before": "icular, never do repeated que- / ries on the same table to get "
+    },
+    {
+      "before": ". Therefore, consider a situa- / tion where you need to get 50 "
+    },
+    {
+      "before": "se. These things involve clus- / tering commonly referenced dat"
+    },
+    {
+      "before": "g, but your particular circum- / stances will always have their"
+    },
+    {
+      "before": " Database systems and applica- / tion servers often have sophis"
+    },
+    {
+      "before": "single field, while normaliza- / tion forces all relation links"
+    },
+    {
+      "before": "er object naturally has a col- / lection of line item objects t"
+    },
+    {
+      "before": "bject references and the rela- / tional keys. It’s a tedious pr"
+    },
+    {
+      "before": "he collection. Saving the col- / lection involves saving each o"
+    },
+    {
+      "before": "(248) (see Figure 3.7) to cre- / ate a new relational table jus"
+    },
+    {
+      "before": "t’s common to use ordered col- / lections such as lists and arr"
+    },
+    {
+      "before": "akes testing easier. Neverthe- / less, it’s very difficult to m"
+    },
+    {
+      "before": "cking to the end of the trans- / action. If you have this capab"
+    },
+    {
+      "before": "ects clearly shouldn’t be rep- / resented as their own table in"
+    },
+    {
+      "before": " the moment. As a result Seri- / alized LOB (272) is best used "
+    },
+    {
+      "before": " it too much, it ends up turn- / ing your database into little "
+    },
+    {
+      "before": "ass hierarchy linked by inher- / itance. Since there’s no stand"
+    },
+    {
+      "before": "ake into account your own cir- / cumstances and preferences, mu"
+    },
+    {
+      "before": " it’s easy to do and is resil- / ient to many refactorings. I t"
+    },
+    {
+      "before": "tiple inheritance using varia- / tions of the trio of inheritan"
+    },
+    {
+      "before": " your Domain Model (116) with- / out regard to the database so "
+    },
+    {
+      "before": "es. Spending six months build- / ing a database-free Domain Mod"
+    },
+    {
+      "before": "el (116) and include Data Map- / pers (165) to persist the data"
+    },
+    {
+      "before": "annoyance is inversely propor- / tional to the amount of the di"
+    },
+    {
+      "before": "database and sometimes in mes- / sages. You may want to pull si"
+    },
+    {
+      "before": "mple and repetitive—and repet- / itive code is a sign of someth"
+    },
+    {
+      "before": " connection must be open. Que- / ries return a Record Set (508)"
+    },
+    {
+      "before": " You also can’t close the con- / nection with every command bec"
+    },
+    {
+      "before": "se days provide automatic mem- / ory management and garbage col"
+    },
+    {
+      "before": "connection during garbage col- / lection. The good thing about "
+    },
+    {
+      "before": "en the garbage collector actu- / ally reclaims the memory, and "
+    },
+    {
+      "before": "a bit later than when the con- / nection lost its last referenc"
+    },
+    {
+      "before": " data, you can open a new con- / nection, and transaction, to w"
+    },
+    {
+      "before": "tional indices to get informa- / tion from columns, as a column"
+    },
+    {
+      "before": " a find operation on the gate- / way. As a result it’s usually "
+    },
+    {
+      "before": "static SQL that can be precom- / piled, rather than dynamic SQL"
+    },
+    {
+      "before": "compiled each time. Most plat- / forms give you a mechanism for"
+    },
+    {
+      "before": "ns other than those on concur- / rency. Again, you’ll need to m"
+    },
+    {
+      "before": "mon UI approach, and easy uni- / versal access. Also, many envi"
+    },
+    {
+      "before": " can handle many kinds of pro- / grams. These programs may be d"
+    },
+    {
+      "before": " be added to a server by plac- / ing them in an appropriate dir"
+    },
+    {
+      "before": "e for CGI scripts. Other plat- / forms, such as Java servlets, "
+    },
+    {
+      "before": "nprogrammers, who would other- / wise be comfortable preparing "
+    },
+    {
+      "before": "sed on the input, such as dif- / ferent display formats for cla"
+    },
+    {
+      "before": " the use of the word “control- / ler.” Controller is used in a "
+    },
+    {
+      "before": "rocessing into separate Trans- / action Script (110) or Domain "
+    },
+    {
+      "before": "d “controller.” A lot of user- / interface designs separate the"
+    },
+    {
+      "before": "to indicate where dynamic con- / tent needs to go. Quite a few "
+    },
+    {
+      "before": " very messy code that’s diffi- / cult to maintain. As a result "
+    },
+    {
+      "before": " domain oriented data and ren- / ders it in HTML. I say “mostly"
+    },
+    {
+      "before": "e to come up with a good logi- / cal screen structure."
+    },
+    {
+      "before": "stomers, such as multiple air- / lines fronting the same basic "
+    },
+    {
+      "before": "ance by using a different sec- / ond stage. In a similar way yo"
+    },
+    {
+      "before": "p View (365) to handle differ- / ent output devices, with separ"
+    },
+    {
+      "before": " can have the two share a com- / mon logical screen, which may "
+    },
+    {
+      "before": ") goes further in this separa- / tion by having only one object"
+    },
+    {
+      "before": "configure the Web server when- / ever you change the action str"
+    },
+    {
+      "before": "of software development. When- / ever you have multiple process"
+    },
+    {
+      "before": "away with a naive view of con- / currency is transaction manage"
+    },
+    {
+      "before": "ency in an enterprise applica- / tion. As long as you do all yo"
+    },
+    {
+      "before": "on within a transaction, noth- / ing really bad will happen to "
+    },
+    {
+      "before": "o manage concurrency in situa- / tions where data spans transac"
+    },
+    {
+      "before": "gly head for enterprise devel- / opers is application servers—s"
+    },
+    {
+      "before": "is a general treatment of con- / currency in software developme"
+    },
+    {
+      "before": "problems that concurrency con- / trol systems try to prevent. T"
+    },
+    {
+      "before": "e, which contains two subpack- / ages for locking and multiphas"
+    },
+    {
+      "before": "o classes to the locking pack- / age and three classes to the f"
+    },
+    {
+      "before": "ss and likelihood of the fail- / ures and the need for people t"
+    },
+    {
+      "before": ", this does bring up an impor- / tant point: If you can tolerat"
+    },
+    {
+      "before": " can avoid any form of concur- / rency control. This is rare, b"
+    },
+    {
+      "before": "ks on and for which it option- / ally sends back a response. Du"
+    },
+    {
+      "before": "tocol that may not be so obvi- / ous to the server."
+    },
+    {
+      "before": " that provides a lot of isola- / tion for the internal data it "
+    },
+    {
+      "before": "systems to have a process han- / dle only one request at a time"
+    },
+    {
+      "before": "ser to an application (a busi- / ness transaction). We’ll dig i"
+    },
+    {
+      "before": "for a while, and software peo- / ple have come up with various "
+    },
+    {
+      "before": "erprise applications two solu- / tions are particularly importa"
+    },
+    {
+      "before": "e active agent, such as a pro- / cess or thread, has access to "
+    },
+    {
+      "before": "ouble because they use a tech- / nique that forces everyone to "
+    },
+    {
+      "before": "ency all the time. With isola- / tion you arrange things so tha"
+    },
+    {
+      "before": "o ensure that as much program- / ming as possible is done in on"
+    },
+    {
+      "before": "ta you’re sharing can be modi- / fied. So one way to avoid conc"
+    },
+    {
+      "before": "s the whole point of many sys- / tems is data modification. But"
+    },
+    {
+      "before": "se from editing it. So if Mar- / tin is first to check out, Dav"
+    },
+    {
+      "before": "tic locks. (There is a reason- / able argument that says that o"
+    },
+    {
+      "before": " pessimistic locks is the fre- / quency and severity of conflic"
+    },
+    {
+      "before": "ciently rare, or if the conse- / quences are no big deal, you s"
+    },
+    {
+      "before": "tions to a proper book on con- / currency, but here are a few h"
+    },
+    {
+      "before": " systems will spot this incon- / sistent read, but others requi"
+    },
+    {
+      "before": "ual discipline to enforce con- / sistency, such as updating you"
+    },
+    {
+      "before": " the essential problem in con- / currency. Pessimistic locks ha"
+    },
+    {
+      "before": "r of your update with the ver- / sion marker of the shared data"
+    },
+    {
+      "before": "lation is based on where some- / body lives, that address has t"
+    },
+    {
+      "before": "you don’t is an involved exer- / cise whichever form of concurr"
+    },
+    {
+      "before": "e kind of timestamp or immuta- / ble label, and the database re"
+    },
+    {
+      "before": "auses pain for victims. A sim- / ilar approach is to give every"
+    },
+    {
+      "before": "lock when it occurs, other ap- / proaches try to stop deadlocks"
+    },
+    {
+      "before": "a victim. It’s a drastic tech- / nique, but it’s simple to impl"
+    },
+    {
+      "before": ", entering your PIN, and with- / drawing cash is a transaction."
+    },
+    {
+      "before": " inadequate balance is discov- / ered. Second, all participatin"
+    },
+    {
+      "before": "ent might make this last prop- / erty optional during the above"
+    },
+    {
+      "before": "ctional concept. Thus, if Mar- / tin is transferring some money"
+    },
+    {
+      "before": "ransaction must be made perma- / nent. This translates to “Must"
+    },
+    {
+      "before": "control concurrency. “Transac- / tional resource” is a bit of a"
+    },
+    {
+      "before": " A transaction that spans mul- / tiple requests is generally kn"
+    },
+    {
+      "before": "y because of business transac- / tions that span multiple reque"
+    },
+    {
+      "before": "each level below allows a par- / ticular kind of inconsistent r"
+    },
+    {
+      "before": "t. Serializability can’t guar- / antee that every run through t"
+    },
+    {
+      "before": "avid then commits his transac- / tion, after which Martin looks"
+    },
+    {
+      "before": "ltiphase. It’s called an unre- / peatable read because, if Mart"
+    },
+    {
+      "before": "he total for the locking pack- / age after David committed, he "
+    },
+    {
+      "before": "Martin might look at the lock- / ing package when David adds th"
+    },
+    {
+      "before": "o balance liveness versus cor- / rectness for it."
+    },
+    {
+      "before": "ctions supported by RDBMS sys- / tems and transaction monitors."
+    },
+    {
+      "before": "to the user of a business sys- / tem. To an online banking syst"
+    },
+    {
+      "before": "roperties of a business trans- / action is to execute the entir"
+    },
+    {
+      "before": " within a single system trans- / action. Unfortunately business"
+    },
+    {
+      "before": "u do it. Using a long transac- / tion means you avoid a lot of "
+    },
+    {
+      "before": "en system transactions—a prob- / lem we call offline concurrenc"
+    },
+    {
+      "before": "execute within a system trans- / action in order to maintain th"
+    },
+    {
+      "before": "ts implies rather simple busi- / ness transactions."
+    },
+    {
+      "before": "iple transactions the applica- / tion’s responsibility is to en"
+    },
+    {
+      "before": "ead over several system trans- / actions, there’s no guarantee "
+    },
+    {
+      "before": "inconsistent to cause applica- / tion failures."
+    },
+    {
+      "before": ". In the user’s view each ses- / sion is a sequence of business"
+    },
+    {
+      "before": "transactions execute in a sin- / gle client session. While it’s"
+    },
+    {
+      "before": "ction system deal with concur- / rency problems. Handling concu"
+    },
+    {
+      "before": "n business and system transac- / tions means you sometimes just"
+    },
+    {
+      "before": ". The patterns that we’ve pro- / vided here are some techniques"
+    },
+    {
+      "before": "en do that. By leaving concur- / rency control in the hands of "
+    },
+    {
+      "before": "st choice because it’s an eas- / ier approach to program and yi"
+    },
+    {
+      "before": "ss. The limitation of Optimis- / tic Offline Lock (416) is that"
+    },
+    {
+      "before": "put an hour’s work into enter- / ing details about a lease, and"
+    },
+    {
+      "before": "s users lose faith in the sys- / tem. Your alternative is Pessi"
+    },
+    {
+      "before": " it’s a purely technical deci- / sion that can be decided on af"
+    },
+    {
+      "before": "ystem. Similarly domain knowl- / edge is needed to choose good "
+    },
+    {
+      "before": "erms of multiple sessions run- / ning against a shared data sou"
+    },
+    {
+      "before": "urrency doesn’t involve trans- / actions, so working with them "
+    },
+    {
+      "before": " away from the relatively con- / trolled transactional world."
+    },
+    {
+      "before": "s-per-session, where each ses- / sion runs in its own process. "
+    },
+    {
+      "before": "t one time but can handle mul- / tiple requests from different "
+    },
+    {
+      "before": " for request over process-per- / session is that you have to en"
+    },
+    {
+      "before": "esses running to handle a rea- / sonable load. You can further "
+    },
+    {
+      "before": " more requests with less hard- / ware this way, so your server "
+    },
+    {
+      "before": "The problem with using thread- / per-request is that there’s no"
+    },
+    {
+      "before": "st limits the damage. Particu- / larly with a less experienced "
+    },
+    {
+      "before": "object creation is very depen- / dent on the virtual machine an"
+    },
+    {
+      "before": "hink we can create in one sec- / ond on Martin’s 600Mhz P3 with"
+    },
+    {
+      "before": "still some areas that develop- / ers need to avoid. One is stat"
+    },
+    {
+      "before": "ssion, and thus make a compar- / atively safe zone, some object"
+    },
+    {
+      "before": "reate and thus need to be han- / dled differently—the most comm"
+    },
+    {
+      "before": "urn it when done. These opera- / tions will need to be synchron"
+    },
+    {
+      "before": "er systems. I think the funda- / mental issue is realizing that"
+    },
+    {
+      "before": "ou invoke a method on a state- / less server the values of the "
+    },
+    {
+      "before": "ll the ISBNs visited by a par- / ticular client IP address. You"
+    },
+    {
+      "before": " other sessions. Here’s a com- / pletely unrealistic yet helpfu"
+    },
+    {
+      "before": "e hundred objects. But 90 per- / cent of the time these objects"
+    },
+    {
+      "before": " users we have, the more valu- / able stateless servers are. As"
+    },
+    {
+      "before": "n, which implies that the ses- / sion has to be stateful. If I "
+    },
+    {
+      "before": "nd don’t buy anything, my ses- / sion is stateless, but if I bu"
+    },
+    {
+      "before": "other sessions and their busi- / ness transactions. (I’ll conti"
+    },
+    {
+      "before": "ch session does only one busi- / ness transaction at any one ti"
+    },
+    {
+      "before": " held in the database and vis- / ible to all sessions. Session "
+    },
+    {
+      "before": "on, it has many of the proper- / ties that people usually think"
+    },
+    {
+      "before": "with isolation. With many fin- / gers in the pot, a number of t"
+    },
+    {
+      "before": "torage, but it involves break- / ing up the data into tables an"
+    },
+    {
+      "before": " the server. Using Client Ses- / sion State (456) means that se"
+    },
+    {
+      "before": "our team put it, three Shakes- / peare plays worth. Admittedly,"
+    },
+    {
+      "before": "better balancing of your serv- / ers, particularly if your sess"
+    },
+    {
+      "before": "on State (462) and Server Ses- / sion State (458)."
+    },
+    {
+      "before": " (and maybe do some transform- / ing as well). This implies tha"
+    },
+    {
+      "before": "stly idle users. For that rea- / son Database Session State (46"
+    },
+    {
+      "before": "o south, and a network connec- / tion can disappear into the et"
+    },
+    {
+      "before": "t a session identifier in Cli- / ent Session State (456) even i"
+    },
+    {
+      "before": "e is held using the other pat- / terns."
+    },
+    {
+      "before": "two or three times a year dur- / ing design reviews. Proudly th"
+    },
+    {
+      "before": "end it’s a some kind of order- / ing system. He shows me a desi"
+    },
+    {
+      "before": "er like Figure 7.1. With sepa- / rate remote objects for custom"
+    },
+    {
+      "before": " know anything about real dis- / tributed object stuff at all."
+    },
+    {
+      "before": "e and get shown the door imme- / diately? Or do I slowly try to"
+    },
+    {
+      "before": "ight? The latter is more remu- / nerative but much tougher sinc"
+    },
+    {
+      "before": "sing nodes. Also, their power- / ful middleware provides transp"
+    },
+    {
+      "before": "e of them. Although our proto- / typical architect was distribu"
+    },
+    {
+      "before": "ay he was for performance rea- / sons, in fact his design will "
+    },
+    {
+      "before": " processes is orders of magni- / tude slower. Make that a proce"
+    },
+    {
+      "before": "ace. Whenever two objects com- / municate you have to choose wh"
+    },
+    {
+      "before": " object could ever be in sepa- / rate processes you have to use"
+    },
+    {
+      "before": " Object Design: Don’t distrib- / ute your objects!"
+    },
+    {
+      "before": "divide is a typical inter-pro- / cess divide."
+    },
+    {
+      "before": " process, so again you’re dis- / tributing. At least a good pac"
+    },
+    {
+      "before": "rable phrase, is to be “parsi- / monious with object distributi"
+    },
+    {
+      "before": "te grandma first if you possi- / bly can."
+    },
+    {
+      "before": "equivalent of a horse and car- / riage. All sorts of places in "
+    },
+    {
+      "before": " difficulties that the coarse- / grained interface introduces. "
+    },
+    {
+      "before": " also need to transfer coarse- / grained objects. When you ask "
+    },
+    {
+      "before": "you need to send that informa- / tion in one block. You usually"
+    },
+    {
+      "before": "ant that it not reference any- / thing that isn’t shared over t"
+    },
+    {
+      "before": "res and strings can add a con- / siderable burden to the remote"
+    },
+    {
+      "before": "lications have seen a signifi- / cant performance improvement b"
+    },
+    {
+      "before": "synchronous. Digging into pat- / terns for message-based work i"
+    },
+    {
+      "before": "ey’re the best use of Web ser- / vices, even though most of the"
+    },
+    {
+      "before": "at of the advice given in ear- / lier chapters. I must admit th"
+    },
+    {
+      "before": "st forever in stone. Architec- / tural refactoring is hard, and"
+    },
+    {
+      "before": "Fowler CI], test driven devel- / opment [Beck TDD], and refacto"
+    },
+    {
+      "before": "table with. It nicely encapsu- / lates the logic of each system"
+    },
+    {
+      "before": "icularly susceptible to dupli- / cate code. If you have a simpl"
+    },
+    {
+      "before": " with little more than a shop- / ping cart running off a basic "
+    },
+    {
+      "before": "way. After all, if an applica- / tion is simple enough to write"
+    },
+    {
+      "before": "rthy problem? Also, my experi- / ences lead me to have no doubt"
+    },
+    {
+      "before": "ce it, object models and rela- / tional models don’t fit well t"
+    },
+    {
+      "before": "lexity of many of the O/R map- / ping patterns I describe is th"
+    },
+    {
+      "before": "representing a reasonable fac- / toring of the domain logic."
+    },
+    {
+      "before": " the architecture, and in the- / ory that’s the way you should "
+    },
+    {
+      "before": "that match it. It’s a particu- / larly strong choice for .NET e"
+    },
+    {
+      "before": "on even in the simplest appli- / cations. The database patterns"
+    },
+    {
+      "before": " the facilities of your imple- / mentation platform and on wher"
+    },
+    {
+      "before": " your platform. Having a plat- / form that provides a lot of to"
+    },
+    {
+      "before": "ith Record Set (508), particu- / larly UI tools or transactiona"
+    },
+    {
+      "before": " mapping patterns in this con- / text. The structural mapping i"
+    },
+    {
+      "before": "l want a database mapping pat- / tern that works well with Reco"
+    },
+    {
+      "before": "(508) has some kind of concur- / rency control mechanism built "
+    },
+    {
+      "before": "omplicated. The degree of com- / plication depends on the compl"
+    },
+    {
+      "before": "he other layers. But Data Map- / per (165) is also the most com"
+    },
+    {
+      "before": "ons that make the mapping eas- / ier to do, I’d strongly sugges"
+    },
+    {
+      "before": "f the patterns in the O/R map- / ping section come into play. I"
+    },
+    {
+      "before": "nt of your clients. My prefer- / ence is to pick an HTML browse"
+    },
+    {
+      "before": "e how to structure your appli- / cation. I certainly recommend "
+    },
+    {
+      "before": "nt Controller (344) and a Tem- / plate View (350)."
+    },
+    {
+      "before": "s server pages or XSLT in pro- / gramming. Template Views (350)"
+    },
+    {
+      "before": "n the same process. My prefer- / ence is to have everything run"
+    },
+    {
+      "before": "u read remember that I’m writ- / ing in early 2002, when everyo"
+    },
+    {
+      "before": "ap your entity beans with ses- / sion beans acting as Remote Fa"
+    },
+    {
+      "before": "ant it to be entirely indepen- / dent of the EJB structure so t"
+    },
+    {
+      "before": "able compromise between Trans- / action Script (110) and Domain"
+    },
+    {
+      "before": "r, most stored procedure envi- / ronments don’t give you good s"
+    },
+    {
+      "before": "hanisms for your stored proce- / dures, and stored procedures w"
+    },
+    {
+      "before": "ve seen there’s no strong rea- / sons either way. In any case I"
+    },
+    {
+      "before": "her than application construc- / tion. You shouldn’t try to bre"
+    },
+    {
+      "before": "ers, but my approach to layer- / ing isn’t the only one that ma"
+    },
+    {
+      "before": "y it places additional mediat- / ing layers between the basic t"
+    },
+    {
+      "before": "esentation, business, integra- / tion, and resource. Simple cor"
+    },
+    {
+      "before": " for the business and integra- / tion layers. The resource laye"
+    },
+    {
+      "before": "a Domain Model (116), reflect- / ing the common idea of splitti"
+    },
+    {
+      "before": "into two parts. This is a com- / mon approach, reinforced by th"
+    },
+    {
+      "before": "main layer is based on a sepa- / ration of workflow logic from "
+    },
+    {
+      "before": " case and also some communica- / tion with other infrastructure"
+    },
+    {
+      "before": " I tend to look at it as occa- / sionally useful rather than ma"
+    },
+    {
+      "before": "h harder to maintain. On occa- / sion, however, it’s a valuable"
+    },
+    {
+      "before": "nique. Nilsson’s stored proce- / dure layers contain both data "
+    },
+    {
+      "before": "ures where each procedure han- / dles a single request from the"
+    },
+    {
+      "before": "rily organized by the transac- / tions that you carry out with "
+    },
+    {
+      "before": "ill, put them in classes sepa- / rate from those that handle pr"
+    },
+    {
+      "before": "ards, and some by company pol- / icy. Revenue tracking ends up "
+    },
+    {
+      "before": "ign a contract for a word pro- / cessor you can book all the re"
+    },
+    {
+      "before": "calculate the revenue recogni- / tions for a contract and one t"
+    },
+    {
+      "before": " table. I can define an appro- / priate find method on the gate"
+    },
+    {
+      "before": "isting contract, I use a simi- / lar split. The script on the s"
+    },
+    {
+      "before": "es get more complicated. Typi- / cal revenue recognition rules "
+    },
+    {
+      "before": "o a lot of change, it’s impor- / tant to be able to modify, bui"
+    },
+    {
+      "before": "involved in it. This will cer- / tainly not be all objects and "
+    },
+    {
+      "before": " that some of the order behav- / ior is only needed for it. If "
+    },
+    {
+      "before": "bloating occurs much less fre- / quently than predicted. If it "
+    },
+    {
+      "before": "faces you get terrible perfor- / mance. You can avoid this prob"
+    },
+    {
+      "before": "EJB (maybe that’s why EJB ven- / dors don’t encourage you to us"
+    },
+    {
+      "before": " other more sophisticated pat- / terns, you’re better off with "
+    },
+    {
+      "before": "h, and I want to keep as inde- / pendent as possible from the d"
+    },
+    {
+      "before": "d use a Domain Model is a sig- / nificant exercise—one that has"
+    },
+    {
+      "before": "n OO design, my current favor- / ite is [Larman]. For examples "
+    },
+    {
+      "before": "and Odell]. For an understand- / ing of the patterns you’ll see"
+    },
+    {
+      "before": "n understand it; yet that sim- / plicity hides the Domain Model"
+    },
+    {
+      "before": "s, in this small example (Fig- / ure 9.3) contains both behavio"
+    },
+    {
+      "before": "en the humble Revenue Recogni- / tion class contains a simple m"
+    },
+    {
+      "before": "ff via the product to a strat- / egy hierarchy. The strategy pa"
+    },
+    {
+      "before": "instance of recognition strat- / egy, which determines which al"
+    },
+    {
+      "before": "e no conditionals in this cal- / culation. You set up the decis"
+    },
+    {
+      "before": " algorithms and into the rela- / tionships between objects. The"
+    },
+    {
+      "before": "parts of the system. Any algo- / rithm that’s dependent on the "
+    },
+    {
+      "before": "n some kind of identity refer- / ence. Often this will be the p"
+    },
+    {
+      "before": "ta structure that’s table ori- / ented. The tabular data is nor"
+    },
+    {
+      "before": "capsulation in that the behav- / ior is close to the data it wi"
+    },
+    {
+      "before": "e or if a Table Module manipu- / lated the data on the way out."
+    },
+    {
+      "before": "l power of objects in organiz- / ing complex logic. You can’t h"
+    },
+    {
+      "before": "e Record Set (508) is the pri- / mary repository of data in an "
+    },
+    {
+      "before": "as record sets. In this situa- / tion Table Module allows you t"
+    },
+    {
+      "before": "ble Module. To recap, our mis- / sion is to recognize revenue o"
+    },
+    {
+      "before": "s the .NET system class corre- / sponding to a table within the"
+    },
+    {
+      "before": "revenue recognition for a con- / tract, updating the revenue re"
+    },
+    {
+      "before": "accordingly. The amount recog- / nized depends on the kind of p"
+    },
+    {
+      "before": "th the assumption of the envi- / ronment that different parts o"
+    },
+    {
+      "before": "the UI, so column access func- / tions only make sense when the"
+    },
+    {
+      "before": "ers, user interfaces, integra- / tion gateways, and others. Des"
+    },
+    {
+      "before": "ctions may be complex, involv- / ing transactions across multip"
+    },
+    {
+      "before": "rolling transactions and coor- / dinating responses in the impl"
+    },
+    {
+      "before": "f different ways, without vio- / lating the defining characteri"
+    },
+    {
+      "before": "as notifying contract adminis- / trators, and integrated applic"
+    },
+    {
+      "before": "ognition calculations). Appli- / cation logic is sometimes refe"
+    },
+    {
+      "before": "ction Scripts (110) for avoid- / ing domain logic duplication a"
+    },
+    {
+      "before": "6) implements all of the busi- / ness logic. The thin facades e"
+    },
+    {
+      "before": "xhibiting the defining charac- / teristics of Service Layer."
+    },
+    {
+      "before": "logic but delegate to encapsu- / lated domain object classes fo"
+    },
+    {
+      "before": "ized several to a class defin- / ing a subject area of related "
+    },
+    {
+      "before": "ass forms an application “ser- / vice,” and it’s common for ser"
+    },
+    {
+      "before": "of dealing with object distri- / bution. It likely entails a lo"
+    },
+    {
+      "before": "ain Model (116) and rich edit- / ing UIs for complex update use"
+    },
+    {
+      "before": "he operations needed on a Ser- / vice Layer boundary is pretty "
+    },
+    {
+      "before": "always a one-to-one correspon- / dence between CRUD use cases a"
+    },
+    {
+      "before": "ainer-managed transaction ser- / vices, especially in interserv"
+    },
+    {
+      "before": "sses. It’s just so darned con- / venient to implement a Service"
+    },
+    {
+      "before": "beans with session beans. Ser- / vice Layer is motivated instea"
+    },
+    {
+      "before": "sponsibility to avoid duplica- / tion and promote reusability; "
+    },
+    {
+      "before": "ommon set of application oper- / ations available to many kinds"
+    },
+    {
+      "before": "ith container-managed transac- / tions, even in an undistribute"
+    },
+    {
+      "before": "our Page Controllers can manu- / ally control transactions and "
+    },
+    {
+      "before": "c of application responsibili- / ties that must be coordinated "
+    },
+    {
+      "before": "or [Cockburn UC] is very help- / ful. An earlier background ref"
+    },
+    {
+      "before": "ate for domain logic in a Ser- / vice Layer operation. It uses "
+    },
+    {
+      "before": "t approach to implement a Ser- / vice Layer, first with POJOs a"
+    },
+    {
+      "before": "nario to include some applica- / tion logic. Suppose the use ca"
+    },
+    {
+      "before": "n require that, when the reve- / nue recognitions for a contrac"
+    },
+    {
+      "before": "esignated contract administra- / tor and by publishing a messag"
+    },
+    {
+      "before": "iner manage distributed trans- / actions by implementing applic"
+    },
+    {
+      "before": "ations of the bean implementa- / tion class methods required by"
+    },
+    {
+      "before": "in operation scripts of a Ser- / vice Layer. Responsibilities a"
+    },
+    {
+      "before": " Supertype (475) provides con- / venient access to these other "
+    },
+    {
+      "before": "iminating the need for a sepa- / rate Service Layer. However, I"
+    },
+    {
+      "before": " object classes are less reus- / able across applications if th"
+    },
+    {
+      "before": "in a Service Layer implementa- / tion—for example, domain facad"
+    },
+    {
+      "before": "an be designed for local invo- / cation, remote invocation, or "
+    },
+    {
+      "before": "nt, regardless of these varia- / tions, this pattern lays the f"
+    },
+    {
+      "before": "nd SQL easily so they can fig- / ure out how to tune and evolve"
+    },
+    {
+      "before": "way is how it returns informa- / tion from a query. Even a simp"
+    },
+    {
+      "before": "rd sets in your own code. Nev- / ertheless, in many environment"
+    },
+    {
+      "before": "e through the Table Data Gate- / way, the returned data can be "
+    },
+    {
+      "before": " can have the Table Data Gate- / way return the appropriate dom"
+    },
+    {
+      "before": "e domain objects and the gate- / way. The two are closely conne"
+    },
+    {
+      "before": "n make updates to the underly- / ing tables, then encapsulating"
+    },
+    {
+      "before": "is convenient for the Transac- / tion Script (110) to work with"
+    },
+    {
+      "before": " imply either Table Data Gate- / way or Row Data Gateway (152)."
+    },
+    {
+      "before": "quite fit in the .NET environ- / ment since it doesn’t take adv"
+    },
+    {
+      "before": "often makes sense to have sep- / arate finder objects so that e"
+    },
+    {
+      "before": "se, you can choose not to pro- / vide update operations."
+    },
+    {
+      "before": "tomatically built for you dur- / ing your automated build proce"
+    },
+    {
+      "before": " the same job without an addi- / tional layer of code. If the m"
+    },
+    {
+      "before": ", Data Mapper (165) works bet- / ter, as it’s better at decoupl"
+    },
+    {
+      "before": "e leads you to three data rep- / resentations: one in the busin"
+    },
+    {
+      "before": "sed very nicely with Data Map- / per (165). Although this seems"
+    },
+    {
+      "before": "riteria we can provide a suit- / able finder method."
+    },
+    {
+      "before": "eway (152). The principal dif- / ference is that a Row Data Gat"
+    },
+    {
+      "before": "domain logic. Like most bound- / aries in software, the line be"
+    },
+    {
+      "before": "nd validations based on a sin- / gle record work well in this s"
+    },
+    {
+      "before": " Record has the primary advan- / tage of simplicity. It’s easy "
+    },
+    {
+      "before": "use your object’s direct rela- / tionships, collections, inheri"
+    },
+    {
+      "before": "ion, sits directly in the Per- / son class."
+    },
+    {
+      "before": " schemas, and this data trans- / fer becomes a complexity in it"
+    },
+    {
+      "before": "tuted, either for testing pur- / poses or to allow a single dom"
+    },
+    {
+      "before": "ith the mapper designer decid- / ing exactly how much to pull b"
+    },
+    {
+      "before": "know a fair bit about how cli- / ents use the objects in order "
+    },
+    {
+      "before": "te things by loading some ini- / tial objects. Then control mov"
+    },
+    {
+      "before": "sibility by packaging the map- / pers closer to the domain obje"
+    },
+    {
+      "before": "ch a way that they’re not mis- / taken for regular getters and "
+    },
+    {
+      "before": "ain objects are mapped to col- / umns in the database. The simp"
+    },
+    {
+      "before": "r each domain object. The map- / per does the mapping through a"
+    },
+    {
+      "before": "ither in a class or in a sepa- / rate file. The great advantage"
+    },
+    {
+      "before": " all the variation in the map- / pers can be handled through da"
+    },
+    {
+      "before": "erson Mapper class also imple- / ments the finder and Identity "
+    },
+    {
+      "before": "r, I’ve added an abstract map- / per Layer Supertype (475) to i"
+    },
+    {
+      "before": "here there’s repetitive state- / ment invocation code. On the w"
+    },
+    {
+      "before": " an object according to a par- / ticular surrogate ID. Much of "
+    },
+    {
+      "before": "ite generic, so it can be han- / dled by a suitable Layer Super"
+    },
+    {
+      "before": "is is an argument for the map- / per using reflection to set th"
+    },
+    {
+      "before": "mpletely bypass Java’s protec- / tion mechanisms."
+    },
+    {
+      "before": "on open for the whole interac- / tion, which is impractical if "
+    },
+    {
+      "before": " do during a business transac- / tion that can affect the datab"
+    },
+    {
+      "before": "suited to aspect-oriented pro- / gramming. I’ve also come acros"
+    },
+    {
+      "before": "hey’re read. Rather than mark- / ing objects as dirty the Unit "
+    },
+    {
+      "before": "opy at read time and then com- / pares the object at commit tim"
+    },
+    {
+      "before": "al integrity when the transac- / tion commits rather than with "
+    },
+    {
+      "before": ", the Unit of Work is the nat- / ural place to sort out the upd"
+    },
+    {
+      "before": "eatly reduce the risk of dead- / locks. The Unit of Work is an "
+    },
+    {
+      "before": "g that has multiple SQL state- / ments and then submitting as o"
+    },
+    {
+      "before": " essentially an in-memory mir- / ror image of the result of one"
+    },
+    {
+      "before": ", Unit of Work is a firm plat- / form for more complicated situ"
+    },
+    {
+      "before": " for a given business transac- / tion and then commit them to t"
+    },
+    {
+      "before": "ted with the business transac- / tion execution thread we shoul"
+    },
+    {
+      "before": "e Unit of Work where appropri- / ate. This can be done either e"
+    },
+    {
+      "before": "plistic, in that it skips sys- / tem transaction control. If yo"
+    },
+    {
+      "before": "one with just about any execu- / tion context."
+    },
+    {
+      "before": "In a simple case, with an iso- / morphic schema, you’ll have on"
+    },
+    {
+      "before": " start this gives you compile- / time checking in a strongly ty"
+    },
+    {
+      "before": "er to see what maps are avail- / able and what they’re called. "
+    },
+    {
+      "before": " good argument for encapsulat- / ing different kinds of databas"
+    },
+    {
+      "before": "t really know about the intri- / cacies of the mapping."
+    },
+    {
+      "before": "g them separate can make poly- / morphic references much more a"
+    },
+    {
+      "before": "ur keys unique across inherit- / ance trees, which can be awkwa"
+    },
+    {
+      "before": "s isolated from any other ses- / sion’s instance. Thus, you nee"
+    },
+    {
+      "before": "entity Map for a session; oth- / erwise, you need to provide tr"
+    },
+    {
+      "before": "ut it being shared across ses- / sions. In performance-intensiv"
+    },
+    {
+      "before": "es to objects that aren’t com- / pletely read-only but are upda"
+    },
+    {
+      "before": "u don’t mind flushing the pro- / cess-wide Identity Map and pot"
+    },
+    {
+      "before": "lows that you don’t need Iden- / tity Map for them. Still, Iden"
+    },
+    {
+      "before": "fline Lock (416) and Pessimis- / tic Offline Lock (426)."
+    },
+    {
+      "before": "r using the object, who other- / wise has to load all the objec"
+    },
+    {
+      "before": "hese proxies will have differ- / ent object identities, yet the"
+    },
+    {
+      "before": "llection classes to write vir- / tual collections for."
+    },
+    {
+      "before": " loading is if you fill a col- / lection with Lazy Loads and th"
+    },
+    {
+      "before": "he domain developers from hav- / ing to deal with lazy loading "
+    },
+    {
+      "before": " use cases work best with dif- / ferent varieties of laziness. "
+    },
+    {
+      "before": "the appropriate mapper depend- / ing on the use case. A variati"
+    },
+    {
+      "before": "rees of laziness, but in prac- / tice you really need only two:"
+    },
+    {
+      "before": "enough of a load for identifi- / cation purposes in a list. Add"
+    },
+    {
+      "before": "rresponds to a single interac- / tion with a UI. The best time "
+    },
+    {
+      "before": " to the program, so my prefer- / ence is not to use it unless I"
+    },
+    {
+      "before": "u tend to see them used every- / where. I’ll begin our explorat"
+    },
+    {
+      "before": "ery accessor needs to be modi- / fied so that it will trigger a"
+    },
+    {
+      "before": "n ideal target for aspect-ori- / ented programming for post-pro"
+    },
+    {
+      "before": "d to use an interesting combi- / nation of Registry (480) and S"
+    },
+    {
+      "before": "h would actually be more suit- / able for most cases in .NET."
+    },
+    {
+      "before": " will end up setting the prop- / erty to a ghost of the departm"
+    },
+    {
+      "before": "query. For this we need a spe- / cial list implementation that "
+    },
+    {
+      "before": "le function in it is a reason- / able alternative way of doing "
+    },
+    {
+      "before": "here it appears. In this exam- / ple, a more sophisticated mapp"
+    },
+    {
+      "before": " all the elements in a collec- / tion together helps eliminate "
+    },
+    {
+      "before": "n place. There’s a lot of dis- / cussion and material on this i"
+    },
+    {
+      "before": "l or meaningless keys. A mean- / ingful key is something like t"
+    },
+    {
+      "before": "ype with a fast equality oper- / ation. The other important ope"
+    },
+    {
+      "before": "e next key. Hence a long inte- / ger type is often the best bet"
+    },
+    {
+      "before": "re painful. Your DBA’s prefer- / ences may well decide the issu"
+    },
+    {
+      "before": "om deleted objects with a sim- / ple database script that compa"
+    },
+    {
+      "before": "que keys. If you’re using Con- / crete Table Inheritance (293) "
+    },
+    {
+      "before": "tance (285), life is much eas- / ier with keys that are unique "
+    },
+    {
+      "before": "f objects that act as the ele- / ments of the key. The key beha"
+    },
+    {
+      "before": "you can do all of the key han- / dling in a Layer Supertype (47"
+    },
+    {
+      "before": "used by users putting the ele- / ments of the key in the wrong "
+    },
+    {
+      "before": "commits so you can save every- / thing within the transaction. "
+    },
+    {
+      "before": "lly don’t give you this infor- / mation, so you usually can’t u"
+    },
+    {
+      "before": "s, time of the day in nanosec- / onds, chip ID numbers, and pro"
+    },
+    {
+      "before": "also lead to performance prob- / lems, particularly with indexe"
+    },
+    {
+      "before": "rts are rare, but your perfor- / mance will be toasted if you h"
+    },
+    {
+      "before": "he key table is lost to every- / one. Fortunately, numbers are "
+    },
+    {
+      "before": "ransaction to commit the busi- / ness transaction."
+    },
+    {
+      "before": " a different transaction, con- / tention is not so much of a pr"
+    },
+    {
+      "before": "ou get multiple keys in a sin- / gle call. But if you can’t arr"
+    },
+    {
+      "before": "to be queried within the rela- / tional database, Serialized LO"
+    },
+    {
+      "before": " table’s primary key is a com- / pound of the order’s primary k"
+    },
+    {
+      "before": "ement. The line item is a com- / pound key, so it needs to over"
+    },
+    {
+      "before": "ng an empty object and insert- / ing it directly into the Ident"
+    },
+    {
+      "before": "o the database without provid- / ing the correct order as well."
+    },
+    {
+      "before": "lways messy approach of imple- / menting the superclass method "
+    },
+    {
+      "before": "ily hold collections of refer- / ences to other objects. Such a"
+    },
+    {
+      "before": "the first normal form of rela- / tional databases."
+    },
+    {
+      "before": "tion can be replaced by a for- / eign key in the database. Put "
+    },
+    {
+      "before": "rack back to the album, effec- / tively making the association "
+    },
+    {
+      "before": "y new object will be automati- / cally inserted first. In eithe"
+    },
+    {
+      "before": "ng items removed from the col- / lection since they will be upd"
+    },
+    {
+      "before": "ad procedure. This avoids hav- / ing to make special case decis"
+    },
+    {
+      "before": " is with many-to-many associa- / tions. Foreign keys are single"
+    },
+    {
+      "before": "ping (262). If so, it can sim- / plify your handling of the col"
+    },
+    {
+      "before": "fetched from the cache; other- / wise, it would be loaded from "
+    },
+    {
+      "before": " you have a field that consti- / tutes a collection. Here I’ll "
+    },
+    {
+      "before": "re and are constrained to sin- / gle-valued fields only. When y"
+    },
+    {
+      "before": "elationship. Then use Associa- / tion Table Mapping to map the "
+    },
+    {
+      "before": "ing is a many-to-many associa- / tion, since there are really n"
+    },
+    {
+      "before": "for any other form of associa- / tion. However, because it’s mo"
+    },
+    {
+      "before": "to the sticky details of mini- / mizing queries. With other rel"
+    },
+    {
+      "before": "t set by focusing on the asso- / ciative table itself, loading "
+    },
+    {
+      "before": "ns] is a way of turning a com- / plicated method into an object"
+    },
+    {
+      "before": " it helps bring out their nar- / row scope.)"
+    },
+    {
+      "before": "row without altering the posi- / tion of the cursor. Most of th"
+    },
+    {
+      "before": "ppearance in the employee map- / per’s Identity Map (195)."
+    },
+    {
+      "before": " album mapper perform the map- / ping for the tracks as well—tr"
+    },
+    {
+      "before": "ependents controlled by a sin- / gle primary owner."
+    },
+    {
+      "before": "ependents should have a refer- / ence to a dependent. Strictly "
+    },
+    {
+      "before": " having a nonpersistent refer- / ence is itself a good source o"
+    },
+    {
+      "before": "position to show the relation- / ship between an owner and its "
+    },
+    {
+      "before": "s can be handled through dele- / tion and insertion. Thus, if y"
+    },
+    {
+      "before": "d then reinsert all the depen- / dents. This saves you from hav"
+    },
+    {
+      "before": "ice you have to make the occa- / sional compromise."
+    },
+    {
+      "before": "mpossible to refer to a depen- / dent from outside the graph, w"
+    },
+    {
+      "before": "th ends (a one-to-one associa- / tion). Occasionally you may us"
+    },
+    {
+      "before": ", Serialized LOB (272) is usu- / ally the better choice."
+    },
+    {
+      "before": "his may be important for sepa- / rate reporting mechanisms on t"
+    },
+    {
+      "before": "ion pattern to represent orga- / nizational hierarchies, and yo"
+    },
+    {
+      "before": "gn key, however, its manipula- / tion of the schema requires ma"
+    },
+    {
+      "before": " as a binary (BLOB) or as tex- / tual characters (CLOB). The BL"
+    },
+    {
+      "before": "mple to program (if your plat- / form supports it) and that it "
+    },
+    {
+      "before": "o the field is utterly impene- / trable to casual viewing. The "
+    },
+    {
+      "before": "ve to write your own. Further- / more, XML is a widely supporte"
+    },
+    {
+      "before": "ose the direct human readabil- / ity, but it’s an option if spa"
+    },
+    {
+      "before": "nships.) If you want your cus- / tomer data to be updated for e"
+    },
+    {
+      "before": "l approach. Its main disadvan- / tage is that you can’t query t"
+    },
+    {
+      "before": "SQL route outside the applica- / tion. This graph can then be h"
+    },
+    {
+      "before": "objects outside the LOB refer- / ence objects buried in it. To "
+    },
+    {
+      "before": "B into a suitable table struc- / ture. The fact that a reportin"
+    },
+    {
+      "before": " (I’m also using an early ver- / sion of JDOM)."
+    },
+    {
+      "before": "nt our nice inheritance struc- / tures in relational tables. Wh"
+    },
+    {
+      "before": " out which subclass to instan- / tiate. On saving the data the "
+    },
+    {
+      "before": "apping the fields in an inher- / itance hierarchy to a relation"
+    },
+    {
+      "before": "natives are Class Table Inher- / itance (285) and Concrete Tabl"
+    },
+    {
+      "before": "rimming wasted space, particu- / larly if you keep your optiona"
+    },
+    {
+      "before": "ge, with many indexes and fre- / quent locking, which may hurt "
+    },
+    {
+      "before": "rows that have a certain prop- / erty or that copy a subset of "
+    },
+    {
+      "before": "d on the superclass and imple- / mented in the subclasses."
+    },
+    {
+      "before": " 101 in the players table cor- / respond to the same domain obj"
+    },
+    {
+      "before": "t each table have its own pri- / mary keys and use foreign keys"
+    },
+    {
+      "before": "object is declared on the map- / per superclass. It has two sta"
+    },
+    {
+      "before": " deletes a row from the corre- / sponding table in the database"
+    },
+    {
+      "before": "tabases don’t support inherit- / ance—a fact that complicates o"
+    },
+    {
+      "before": " implies Concrete Table Inher- / itance, where there’s a table "
+    },
+    {
+      "before": "eed this is if you have a col- / lection of players and you’re "
+    },
+    {
+      "before": "ntegrity in the database. Con- / sider an object model like Fig"
+    },
+    {
+      "before": "on’t have to do as much alter- / ation as with Class Table Inhe"
+    },
+    {
+      "before": "an coexist in a single hierar- / chy. So you might use Concrete"
+    },
+    {
+      "before": "ble to inherit the find opera- / tion and still declare a speci"
+    },
+    {
+      "before": "erarchy which loads the behav- / ior for its corresponding doma"
+    },
+    {
+      "before": " superclass mapper, that actu- / ally gets awkward. While concr"
+    },
+    {
+      "before": "used only by the concrete map- / per objects. A separate player"
+    },
+    {
+      "before": "d for the interface for opera- / tions at the player level. The"
+    },
+    {
+      "before": " possible to show a code exam- / ple for this case. You can fin"
+    },
+    {
+      "before": "n each of the inheritance map- / ping pattern sections: Single "
+    },
+    {
+      "before": "bject-Relational Metadata Map- / ping Patterns"
+    },
+    {
+      "before": "Metadata Mapping allows devel- / opers to define the mappings i"
+    },
+    {
+      "before": "r form, which can then be pro- / cessed by generic code to carr"
+    },
+    {
+      "before": "ssing in the appropriate argu- / ment. By treating methods (and"
+    },
+    {
+      "before": "king full advantage of reflec- / tion’s flexibility."
+    },
+    {
+      "before": " since any changes to the map- / ping require recompiling and r"
+    },
+    {
+      "before": " can even do this during runt- / ime, rereading the metadata wh"
+    },
+    {
+      "before": "you’re using—in some a reflec- / tive call can be an order of m"
+    },
+    {
+      "before": "abase schema changes, the map- / ping information is right ther"
+    },
+    {
+      "before": "rsing. If you use code genera- / tion, access and parsing take "
+    },
+    {
+      "before": "he build and not during execu- / tion. If you use reflective pr"
+    },
+    {
+      "before": " then you can keep the in-mem- / ory representation."
+    },
+    {
+      "before": "oblem, there are a lot of dif- / ferent factors to keep in meta"
+    },
+    {
+      "before": "ed code or the reflective rou- / tines. Since these special cas"
+    },
+    {
+      "before": "the overriding, alter the gen- / erated/reflective code to isol"
+    },
+    {
+      "before": " evaluate the trade-offs your- / self. Compare adding new mappi"
+    },
+    {
+      "before": " it doesn’t. Your own measure- / ments will reveal whether this"
+    },
+    {
+      "before": "nd the usage. Still, any auto- / mated update will get lost whe"
+    },
+    {
+      "before": " programming, and tedious pro- / gramming is a sign that someth"
+    },
+    {
+      "before": " question is how they’re popu- / lated. For this example I’m go"
+    },
+    {
+      "before": "accesses by an order of magni- / tude on my little laptop."
+    },
+    {
+      "before": "capability on the generic map- / per, you can have a query that"
+    },
+    {
+      "before": "ethods, but that makes it dif- / ficult to form more ad hoc que"
+    },
+    {
+      "before": " duplication in the SQL state- / ments should the database sche"
+    },
+    {
+      "before": "an create this query by refer- / ring to classes and fields rat"
+    },
+    {
+      "before": " represent queries in the lan- / guage of the in-memory objects"
+    },
+    {
+      "before": "ore sophisticated needs: keep- / ing database schemas encapsula"
+    },
+    {
+      "before": "t want to build these capabil- / ities themselves, but most peo"
+    },
+    {
+      "before": "ry Object do so with a commer- / cial tool. My inclination is t"
+    },
+    {
+      "before": "lity to no more than you actu- / ally use."
+    },
+    {
+      "before": "class that it’s for and a col- / lection of criteria that corre"
+    },
+    {
+      "before": "an provide an appropriate cre- / ation method."
+    },
+    {
+      "before": "ng a query for person and add- / ing a criterion."
+    },
+    {
+      "before": "sume that my mapper class sup- / ports a method that finds obje"
+    },
+    {
+      "before": "de encapsulated by the Reposi- / client the repository a Person"
+    },
+    {
+      "before": "o encounter in an object-rela- / tional mapping tool than to bu"
+    },
+    {
+      "before": "mple example of the specifica- / tion pattern), add() that dire"
+    },
+    {
+      "before": "e, a browser-based system fea- / turing a lot of query pages ne"
+    },
+    {
+      "before": "apsulates the query to be per- / formed in a pure object-orient"
+    },
+    {
+      "before": "ficantly faster. Creating fix- / ture for unit tests can also b"
+    },
+    {
+      "before": "d if all we have to do is con- / struct some domain objects and"
+    },
+    {
+      "before": "Repository pattern allows dif- / ferent querying strategies to "
+    },
+    {
+      "before": "and Fowler]. A better descrip- / tion is currently in the works"
+    },
+    {
+      "before": "s a criteria object represent- / ing the search criteria to be "
+    },
+    {
+      "before": "e using reflection to interro- / gate the domain objects for th"
+    },
+    {
+      "before": " are handled by the third mem- / ber of the MVC trinity: the co"
+    },
+    {
+      "before": "ller takes user input, manipu- / lates the model, and causes th"
+    },
+    {
+      "before": "ations: separating the presen- / tation from the model and sepa"
+    },
+    {
+      "before": "odel is one of the most funda- / mental heuristics of good soft"
+    },
+    {
+      "before": "paration is important for sev- / eral reasons."
+    },
+    {
+      "before": "ps database interactions. Cer- / tainly you will use different "
+    },
+    {
+      "before": "iew allows you to develop mul- / tiple presentations—indeed, en"
+    },
+    {
+      "before": "rent customer pages at differ- / ent points in an application."
+    },
+    {
+      "before": "oesn’t depend on the presenta- / tion. People programming in th"
+    },
+    {
+      "before": "o the model from one presenta- / tion, the others need to chang"
+    },
+    {
+      "before": "this without creating a depen- / dency you usually need an impl"
+    },
+    {
+      "before": "ple of why you’d want to sepa- / rate them is to support editab"
+    },
+    {
+      "before": "t help that the word “control- / ler” is used in both contexts."
+    },
+    {
+      "before": " important, so I’d only recom- / mend doing it when it is reall"
+    },
+    {
+      "before": "ing a server page usually com- / bines the Page Controller and "
+    },
+    {
+      "before": "al server page, or it may for- / ward to a different server pag"
+    },
+    {
+      "before": "s out the controller’s respon- / sibilities and finally forward"
+    },
+    {
+      "before": "e-off is thus the greater com- / plexity of Front Controller (3"
+    },
+    {
+      "before": " your controller logic is sim- / ple, Front Controller (344) ad"
+    },
+    {
+      "before": "salient points. First the con- / troller needs to create the ne"
+    },
+    {
+      "before": "properly. In this case it cre- / ates a helper and puts it into"
+    },
+    {
+      "before": " as helpers rather than creat- / ing a separate helper class. T"
+    },
+    {
+      "before": "request handler while delegat- / ing control to the helper to a"
+    },
+    {
+      "before": " view and, unless the control- / ler forwards to a different JS"
+    },
+    {
+      "before": "ht as well make them for prop- / erty access too."
+    },
+    {
+      "before": "ly right . . . and also proba- / bly intelligent enough to figu"
+    },
+    {
+      "before": " be calculated by the applica- / tion—a tiny but pedagogically "
+    },
+    {
+      "before": "e allows you to embed program- / ming logic directly into the p"
+    },
+    {
+      "before": "handling into a number of com- / mon steps. This way we can def"
+    },
+    {
+      "before": " is a single query to the bat- / ting table."
+    },
+    {
+      "before": " this pattern. However, I sus- / pect you’ll find this to lack "
+    },
+    {
+      "before": "ure, so you can find the exam- / ple continued later (page 350)"
+    },
+    {
+      "before": "hings you need to do when han- / dling a request. These things "
+    },
+    {
+      "before": "ernationalization, and provid- / ing particular views for certa"
+    },
+    {
+      "before": "any knowledge of the Web envi- / ronment, although they’re ofte"
+    },
+    {
+      "before": "HTTP information. The Web han- / dler itself is usually a fairl"
+    },
+    {
+      "before": "gic, compile time error check- / ing on the dispatch, and lots "
+    },
+    {
+      "before": "enerate Web handler and a dis- / patcher. The degenerate Web ha"
+    },
+    {
+      "before": "ework. This makes testing eas- / ier because test code can driv"
+    },
+    {
+      "before": "mands are part of the control- / ler. As a result the commands "
+    },
+    {
+      "before": "commands without changing any- / thing. They also ease porting "
+    },
+    {
+      "before": "and.” Once it has the new com- / mand it initializes it with th"
+    },
+    {
+      "before": ". They all need to be initial- / ized with information from the"
+    },
+    {
+      "before": " handling in Fortran and stan- / dard Pascal), creating and con"
+    },
+    {
+      "before": "r than fiddle with string con- / catenation in a programming la"
+    },
+    {
+      "before": "calls to gather dynamic infor- / mation. Since the static part "
+    },
+    {
+      "before": "anner, often with WYSIWYG edi- / tors, often by people who aren"
+    },
+    {
+      "before": "ectively and what the alterna- / tive is."
+    },
+    {
+      "before": "ou use but more and more plat- / forms now give you the ability"
+    },
+    {
+      "before": " than the basic form of a Tem- / plate View in that they allow "
+    },
+    {
+      "before": "however, this feature is actu- / ally a big problem and you’re "
+    },
+    {
+      "before": "page makes it too easy to min- / gle the different layers of an"
+    },
+    {
+      "before": " and makes it a more pure Tem- / plate View. The resulting simp"
+    },
+    {
+      "before": "e option is to move the condi- / tion into the helper. The page"
+    },
+    {
+      "before": "you always need the names dis- / played but sometimes you want "
+    },
+    {
+      "before": "e done based on a single Bool- / ean property of the helper. Pu"
+    },
+    {
+      "before": "s beyond the view, it’s impor- / tant to ensure that these resp"
+    },
+    {
+      "before": "olve program logic, which pro- / gram logic everywhere, should "
+    },
+    {
+      "before": "s. First, the common implemen- / tations make it too easy to pu"
+    },
+    {
+      "before": " logic in the helper. The sec- / ond weakness is that Template "
+    },
+    {
+      "before": "L and leave less room for con- / fusing errors."
+    },
+    {
+      "before": "ntribution to humanity is pro- / viding odd statistics for ecce"
+    },
+    {
+      "before": " scriptlet, you define a sepa- / rate code behind class."
+    },
+    {
+      "before": "calls a method in the particu- / lar page’s code behind to prep"
+    },
+    {
+      "before": "ual Studio. Visual Studio pro- / vides a data grid control that"
+    },
+    {
+      "before": "tion about the table’s appear- / ance. In this case we can sele"
+    },
+    {
+      "before": "s is the strength, and limita- / tion, of this scheme. The stre"
+    },
+    {
+      "before": "t this is that XSLT is a func- / tional programming language, s"
+    },
+    {
+      "before": " calling routines, XSLT recog- / nizes elements in the domain d"
+    },
+    {
+      "before": "ourselves, perhaps by populat- / ing a Data Transfer Object (40"
+    },
+    {
+      "before": "I. In simpler cases a Transac- / tion Script (110) can return X"
+    },
+    {
+      "before": "o, XSLT can be an awkward lan- / guage to master because of its"
+    },
+    {
+      "before": "’s also easy to run the Trans- / form View and capture the outp"
+    },
+    {
+      "before": "orm View than it is using Tem- / plate View (350). If you need "
+    },
+    {
+      "before": "of something that isn’t possi- / ble with cascading style sheet"
+    },
+    {
+      "before": "ult because presentation deci- / sions are often duplicated acr"
+    },
+    {
+      "before": "o a logical presentation with- / out any specific formatting; t"
+    },
+    {
+      "before": "make a global change by alter- / ing the second stage, or you c"
+    },
+    {
+      "before": "nd the like. As such it’s cer- / tainly presentation-oriented a"
+    },
+    {
+      "before": "esulting screen must be deriv- / able from the presentation-ori"
+    },
+    {
+      "before": "es these classes into a struc- / ture that models a logical scr"
+    },
+    {
+      "before": "t helps to think of two situa- / tions: multiappearance Web app"
+    },
+    {
+      "before": "single-appearance Web applica- / tions. Multiappearance apps ar"
+    },
+    {
+      "before": "’s hard to find enough common- / ality between the screens to g"
+    },
+    {
+      "before": "sed to it it’s not that diffi- / cult, and may help reduce repe"
+    },
+    {
+      "before": "es is providing different sec- / ond stages for different devic"
+    },
+    {
+      "before": "o logical screen XML; the sec- / ond transforms the logical scr"
+    },
+    {
+      "before": "iest way to think about imple- / menting Two Step View, plenty "
+    },
+    {
+      "before": "a comma-separated list of col- / umn names."
+    },
+    {
+      "before": "tion is rather less constrain- / ing on the uniformity of the s"
+    },
+    {
+      "before": " the flow logic in an Applica- / tion Controller. Input control"
+    },
+    {
+      "before": " and run a block of code. Lan- / guages that can manipulate fun"
+    },
+    {
+      "before": "ts that are part of the Appli- / cation Controller layer, or th"
+    },
+    {
+      "before": "first level this decision man- / ifests itself in whether the A"
+    },
+    {
+      "before": "ver, reusing a single Applica- / tion Controller may reduce the"
+    },
+    {
+      "before": "troller is particularly amena- / ble to using metadata to repre"
+    },
+    {
+      "before": " request placed in an Applica- / tion Controller (379). As you "
+    },
+    {
+      "before": " user interfaces. They’re par- / ticularly appropriate when you"
+    },
+    {
+      "before": " simple state model for a cou- / ple of commands on an asset (F"
+    },
+    {
+      "before": ", ask the application control- / ler for a view, and, finally, "
+    },
+    {
+      "before": "ontroller is an asset applica- / tion controller. It uses a res"
+    },
+    {
+      "before": "ds to do, the Application Con- / troller comes into play again "
+    },
+    {
+      "before": "een objects, and that interac- / tion usually requires lots of "
+    },
+    {
+      "before": "e same machine. Such a perfor- / mance effect cannot be ignored"
+    },
+    {
+      "before": "r of calls needed to get some- / thing done. Not only does this"
+    },
+    {
+      "before": " Programming becomes more dif- / ficult and your productivity s"
+    },
+    {
+      "before": "roblem. I recognize that fine- / grained objects are the right "
+    },
+    {
+      "before": "access to them, I make a sepa- / rate facade object that acts a"
+    },
+    {
+      "before": "om a coarse-grained to a fine- / grained interface."
+    },
+    {
+      "before": "e Facade replaces all the get- / ting and setting methods of th"
+    },
+    {
+      "before": "der lines, and maybe some cus- / tomer data as well."
+    },
+    {
+      "before": " with Remote Facade. Some peo- / ple like to make fairly small "
+    },
+    {
+      "before": "emote Facades. For even a mod- / erate-sized application I migh"
+    },
+    {
+      "before": "call on the same box is suffi- / ciently large that you need a "
+    },
+    {
+      "before": "ace for any inter-process com- / munication regardless of where"
+    },
+    {
+      "before": "u don’t need this kind of con- / version. Thus, I wouldn’t use "
+    },
+    {
+      "before": "essage-based remote communica- / tion. Indeed, an asynchronous "
+    },
+    {
+      "before": ", a good choice for a distrib- / uted facade is a session bean "
+    },
+    {
+      "before": "isn’t the only way to use ses- / sion beans. They can also be u"
+    },
+    {
+      "before": "ote interfaces. A single logi- / cal Java session bean has thre"
+    },
+    {
+      "before": "g more than a packaging mecha- / nism, which is as it should be"
+    },
+    {
+      "before": "er and run tests on it, allow- / ing a faster testing turnaroun"
+    },
+    {
+      "before": "en with the latest technologi- / cal flip-flops."
+    },
+    {
+      "before": "onality in a fine-grained man- / ner and then layer a Remote Fa"
+    },
+    {
+      "before": "indeed, for this kind of prob- / lem you’re better off using a "
+    },
+    {
+      "before": "one. I can now invoke the ser- / vice by sending a SOAP message"
+    },
+    {
+      "before": "ing approach. Design an appli- / cation without distribution, t"
+    },
+    {
+      "before": " this is often awkward to pro- / gram—indeed, it’s often imposs"
+    },
+    {
+      "before": "m “Value Object” for this pat- / tern. I use it to mean somethi"
+    },
+    {
+      "before": "sks for a suitable Data Trans- / fer Object. The Data Transfer "
+    },
+    {
+      "before": "e items, the delivery informa- / tion—all sorts of stuff."
+    },
+    {
+      "before": "simple, being primitives, sim- / ple classes like strings and d"
+    },
+    {
+      "before": "ect around the needs of a par- / ticular client. That’s why you"
+    },
+    {
+      "before": "request. Different Data Trans- / fer Objects make it easier to "
+    },
+    {
+      "before": "e to do with the naming confu- / sion with Value Object (486)."
+    },
+    {
+      "before": "generic collection data struc- / ture. I’ve seen arrays used fo"
+    },
+    {
+      "before": "e that because the array indi- / ces obscure the code. The best"
+    },
+    {
+      "before": "uilt in serialization for sim- / ple objects. For example, Java"
+    },
+    {
+      "before": "uilt-in serialization, it usu- / ally works right out of the bo"
+    },
+    {
+      "before": "sfer Objects are simple struc- / tures that don’t deal with the"
+    },
+    {
+      "before": "u can usually create one your- / self. I’ve seen several code g"
+    },
+    {
+      "before": "he connection and use the con- / nector to adapt to the foreign"
+    },
+    {
+      "before": "n mechanism can make the prob- / lems more or less painful. Wit"
+    },
+    {
+      "before": "t of fragility into the commu- / nication lines."
+    },
+    {
+      "before": "in Objects A Data Transfer Ob- / ject doesn’t know about how to"
+    },
+    {
+      "before": "odel independent of the exter- / nal interfaces."
+    },
+    {
+      "before": "embler is that the Data Trans- / fer Object can easily be gener"
+    },
+    {
+      "before": "everal pass-by reference argu- / ments. The problem is that man"
+    },
+    {
+      "before": " to hide the precise represen- / tation behind an explicit inte"
+    },
+    {
+      "before": "alue Object, which I said ear- / lier is equivalent to my Data "
+    },
+    {
+      "before": "alue Object (486) is a differ- / ent pattern entirely. This is "
+    },
+    {
+      "before": "reating a new album and updat- / ing an existing one. Here’s th"
+    },
+    {
+      "before": "pdate. In this code I’m updat- / ing the album since I have oth"
+    },
+    {
+      "before": "ture of the server Data Trans- / fer Object and don’t change th"
+    },
+    {
+      "before": "ements in the XML DOM. To per- / form the serialization I need "
+    },
+    {
+      "before": "ext. Since the track is trans- / ferred only in the context of "
+    },
+    {
+      "before": " sense, obtaining a lock indi- / cating it’s okay to go ahead w"
+    },
+    {
+      "before": " expectation that session con- / flict isn’t likely allows mult"
+    },
+    {
+      "before": "unt of 0 the business transac- / tion must rollback the system "
+    },
+    {
+      "before": "uite useful when managing con- / currency conflicts. When infor"
+    },
+    {
+      "before": "failed update due to a concur- / rency violation a proper appli"
+    },
+    {
+      "before": "n timestamp rather than a ver- / sion count for your optimistic"
+    },
+    {
+      "before": "e problem is that this compli- / cates the UPDATE statement wit"
+    },
+    {
+      "before": "rge and then looks up the cus- / tomer’s address to calculate t"
+    },
+    {
+      "before": "ing the charge generation ses- / sion a separate customer maint"
+    },
+    {
+      "before": " by the charge generation ses- / sion might be invalid, but sin"
+    },
+    {
+      "before": " problematic business transac- / tion within a long-running tra"
+    },
+    {
+      "before": "ne Lock by itself doesn’t pro- / vide adequate solutions to som"
+    },
+    {
+      "before": "s that we all should be famil- / iar with: source code manageme"
+    },
+    {
+      "before": "n an SCM system detects a con- / flict between programmers it u"
+    },
+    {
+      "before": "casionally useful to know ear- / lier if a conflict has occurre"
+    },
+    {
+      "before": "onflict management in any sys- / tem you build. The pessimistic"
+    },
+    {
+      "before": "on required to implement Opti- / mistic Offline Lock—namely, mo"
+    },
+    {
+      "before": " a locking strategy by forget- / ting to code a bit of locking "
+    },
+    {
+      "before": "object being loaded at differ- / ent times in a business transa"
+    },
+    {
+      "before": "efined behavior in your appli- / cation as well as make a mess "
+    },
+    {
+      "before": "method that each concrete map- / per must implement to extract "
+    },
+    {
+      "before": "s the same data within a busi- / ness transaction, one of them "
+    },
+    {
+      "before": "e end of the business transac- / tion, the victims will do all "
+    },
+    {
+      "before": "have been wasted. If this hap- / pens a lot on lengthy business"
+    },
+    {
+      "before": "efining procedures for a busi- / ness transaction to use locks."
+    },
+    {
+      "before": "ly restrict a system’s concur- / rency. For most enterprise sys"
+    },
+    {
+      "before": " provide the restrictive lock- / ing of the exclusive read lock"
+    },
+    {
+      "before": "ased concurrency of the exclu- / sive write lock. Called the re"
+    },
+    {
+      "before": "sive. A record can’t be write- / locked if any other business t"
+    },
+    {
+      "before": "bout maximizing system concur- / rency, meeting business needs,"
+    },
+    {
+      "before": "of records can result an inef- / fective Pessimistic Offline Lo"
+    },
+    {
+      "before": "onset of the business transac- / tion or that degrades the conc"
+    },
+    {
+      "before": "not a bad idea to include Pes- / simistic Offline Lock in your "
+    },
+    {
+      "before": "cult to pass a business trans- / action to the lock manager. In"
+    },
+    {
+      "before": "your disposal. The terms “ses- / sion” and “business transactio"
+    },
+    {
+      "before": "erchangeable. As long as busi- / ness transactions execute seri"
+    },
+    {
+      "before": "g to which a business transac- / tion must use the lock manager"
+    },
+    {
+      "before": "t’s look at when first. Gener- / ally, the business transaction"
+    },
+    {
+      "before": "ocked it, which usually trans- / lates to acquiring the lock be"
+    },
+    {
+      "before": "object again within the trans- / action. Still, unless you have"
+    },
+    {
+      "before": "ing until late in the transac- / tion to acquire a particularly"
+    },
+    {
+      "before": "your programming language pro- / vides. If you need concurrency"
+    },
+    {
+      "before": "fords, be aware you are enter- / ing complex territory."
+    },
+    {
+      "before": "erts and so it becomes impera- / tive to avoid inconsistent rea"
+    },
+    {
+      "before": "stem might get us into perfor- / mance trouble, but a separate "
+    },
+    {
+      "before": " transaction for lock acquisi- / tion and a less strict isolati"
+    },
+    {
+      "before": "quickly gets complicated. Sim- / ply have your lock manager thr"
+    },
+    {
+      "before": " as soon as a lock is unavail- / able. This removes the burden "
+    },
+    {
+      "before": "rather than make your applica- / tion handle timeouts. Web appl"
+    },
+    {
+      "before": "l almost surely create tremen- / dous data contention problems,"
+    },
+    {
+      "before": "dit an object. Then we’ll dem- / onstrate how the lock manager "
+    },
+    {
+      "before": "ted during the business trans- / action. They’ll be associated "
+    },
+    {
+      "before": "cation session when the corre- / sponding HTTP session expires."
+    },
+    {
+      "before": "ds of a single system transac- / tion. To ensure this we can de"
+    },
+    {
+      "before": "] it with a transactional com- / mand object. Be sure that all "
+    },
+    {
+      "before": ". The methods that define sys- / tem transaction boundaries dep"
+    },
+    {
+      "before": "eployment context. It’s manda- / tory to roll back the system t"
+    },
+    {
+      "before": "lock. Implicit Lock (449) dis- / cusses other foolproof approac"
+    },
+    {
+      "before": "fline Lock requires at a mini- / mum choreographing an applicat"
+    },
+    {
+      "before": "g a separate lock for individ- / ual objects presents a number "
+    },
+    {
+      "before": "s tricky as you get more lock- / ing groups. And what if the gr"
+    },
+    {
+      "before": "s performance. And with Pessi- / mistic Offline Lock (426) a la"
+    },
+    {
+      "before": "his makes only one lock neces- / sary for locking the entire se"
+    },
+    {
+      "before": "h item in a group share a ver- / sion (see Figure 16.2) creates"
+    },
+    {
+      "before": " contention, which means shar- / ing the same version, not an e"
+    },
+    {
+      "before": "ggregate as a cluster of asso- / ciated objects that we treat a"
+    },
+    {
+      "before": "ocking the root locks all mem- / bers of the aggregate. The roo"
+    },
+    {
+      "before": "ill require a join to the ver- / sion table. But loading object"
+    },
+    {
+      "before": "g to the root can be a perfor- / mance hit as well. The root lo"
+    },
+    {
+      "before": "ations abound, and the subtle- / ties are even more numerous. B"
+    },
+    {
+      "before": "l requirements such as perfor- / mance. Beware of creating unna"
+    },
+    {
+      "before": "Layer Supertype (475), a rela- / tional database as our persist"
+    },
+    {
+      "before": "s okay to delete a shared ver- / sion. If you’re sharing a vers"
+    },
+    {
+      "before": "Once your version gets compli- / cated you might consider makin"
+    },
+    {
+      "before": "reate the shared version. Cus- / tomer will have an addAddress("
+    },
+    {
+      "before": "ing we can easily do is incre- / ment the version within the sy"
+    },
+    {
+      "before": "here we obtained the Pessimis- / tic Offline Lock (426). Once t"
+    },
+    {
+      "before": "ents the version. Your produc- / tion code will, of course, req"
+    },
+    {
+      "before": "xception handling and transac- / tion control than the example "
+    },
+    {
+      "before": "d. It simply provides a conve- / nient increment() method to mo"
+    },
+    {
+      "before": "nships, so we’ll use child-to- / parent navigation to find the "
+    },
+    {
+      "before": "render an entire offline lock- / ing scheme useless. Failing to"
+    },
+    {
+      "before": "ategy allows a business trans- / action to create inconsistent "
+    },
+    {
+      "before": "coded the same locking mechan- / ics a few times over in your a"
+    },
+    {
+      "before": "riteria, and storing an incre- / mented version when changing t"
+    },
+    {
+      "before": "write lock, such as the regis- / tration of a dirty object with"
+    },
+    {
+      "before": ")—that a user not have to per- / form work twice."
+    },
+    {
+      "before": " types most greatly limit sys- / tem concurrency. Avoiding Impl"
+    },
+    {
+      "before": "’t allow them to ignore conse- / quences. For example, if devel"
+    },
+    {
+      "before": "d to think about deadlock pos- / sibilities. The danger with Im"
+    },
+    {
+      "before": "are far too numerous to demon- / strate them all here."
+    },
+    {
+      "before": "ad lock. Our architecture con- / tains a Domain Model (116), an"
+    },
+    {
+      "before": " a domain object before allow- / ing a business transaction to "
+    },
+    {
+      "before": "ications you can consider put- / ting all of the session data o"
+    },
+    {
+      "before": " can use a cookie by serializ- / ing the session state into it."
+    },
+    {
+      "before": "re a performance burden. With- / out encryption you have to be "
+    },
+    {
+      "before": "eeds to do is to give the ses- / sion ID and the session object"
+    },
+    {
+      "before": "arely a concern, large serial- / ized graphs will take longer t"
+    },
+    {
+      "before": " shared server. This will sup- / port clustering and failover a"
+    },
+    {
+      "before": "ing the serialized Server Ses- / sion State in the database usi"
+    },
+    {
+      "before": "advantage is that the specifi- / cation doesn’t ask the applica"
+    },
+    {
+      "before": "BLOB in DB2, which allows mul- / tiple application servers to g"
+    },
+    {
+      "before": "ted apps with a couple of hun- / dred of concurrent users and n"
+    },
+    {
+      "before": "r, but the performance differ- / ence only appears under a heav"
+    },
+    {
+      "before": "e built-in session state capa- / bility. By default .NET stores"
+    },
+    {
+      "before": "nd a state service in the con- / figuration file, so you don’t "
+    },
+    {
+      "before": "res at least a session ID num- / ber to be stored on the client"
+    },
+    {
+      "before": "nd all the data for a particu- / lar session. All queries that "
+    },
+    {
+      "before": " field’s meaning to avoid get- / ting session data. Views will "
+    },
+    {
+      "before": "trick and remove the invasive- / ness, but they often impose co"
+    },
+    {
+      "before": "you would add tables for pend- / ing orders and pending order l"
+    },
+    {
+      "before": "ion data you save to the pend- / ing table; when it becomes rec"
+    },
+    {
+      "before": " Validation rules as well typ- / ically aren’t applied when sav"
+    },
+    {
+      "before": "You may face different valida- / tion rules depending on where "
+    },
+    {
+      "before": "dates. If you update an exist- / ing order in a session that al"
+    },
+    {
+      "before": "whether JDBC and SQL for rela- / tional databases or W3C or JDO"
+    },
+    {
+      "before": "point at which to apply a Ser- / vice Stub (504). You can often"
+    },
+    {
+      "before": " the essential roles of adapt- / ing the external service and p"
+    },
+    {
+      "before": "te a wrapper class for a rela- / tional table, or an XML schema"
+    },
+    {
+      "before": "tion to your needs are reason- / ably complicated, because each"
+    },
+    {
+      "before": "andled by a single class. Con- / versely, if the wrapping of th"
+    },
+    {
+      "before": "n the system becomes much eas- / ier to read."
+    },
+    {
+      "before": "his, another choice for decou- / pling them is a Mapper (473). "
+    },
+    {
+      "before": "h Enterprise Application Inte- / gration (EAI) software. We dec"
+    },
+    {
+      "before": " the generic interface is awk- / ward to use because it isn’t e"
+    },
+    {
+      "before": "unknown message type and send- / ing a message where one of the"
+    },
+    {
+      "before": "raise the same error it proba- / bly isn’t worth it."
+    },
+    {
+      "before": "est objects that use the gate- / way without the message-sendin"
+    },
+    {
+      "before": "(504); it works if reimplemen- / tation of the service isn’t to"
+    },
+    {
+      "before": "n you need to ensure that nei- / ther subsystem has a dependenc"
+    },
+    {
+      "before": "ubsystems is particularly com- / plicated and somewhat independ"
+    },
+    {
+      "before": "omain Model (116). Common fea- / tures, such as the storage and"
+    },
+    {
+      "before": "plementation in separate pack- / ages and the implementation pa"
+    },
+    {
+      "before": "endency to the interface pack- / age. Other packages can depend"
+    },
+    {
+      "before": "ntime without some implementa- / tion of the interface. This ca"
+    },
+    {
+      "before": "le time using a separate pack- / age that ties the two together"
+    },
+    {
+      "before": "kages, a third interface pack- / age is better. It’s also bette"
+    },
+    {
+      "before": "se for the interface. For lan- / guages that have an interface "
+    },
+    {
+      "before": "ava and C#, the interface key- / word is the obvious choice. Ho"
+    },
+    {
+      "before": "e common, but optional, imple- / mentation behavior in it."
+    },
+    {
+      "before": "up. Any objects that use Sepa- / rated Interface can either the"
+    },
+    {
+      "before": "ed or have factories instanti- / ated at startup."
+    },
+    {
+      "before": "n cases into a framework pack- / age that needs to call some pa"
+    },
+    {
+      "before": "application development. Keep- / ing separate interfaces and im"
+    },
+    {
+      "before": "cts, the two are quite differ- / ent, although people often mak"
+    },
+    {
+      "before": "tatic field is an option. How- / ever, I rarely use static muta"
+    },
+    {
+      "before": "plications, but can be a prob- / lem for multi-threaded applica"
+    },
+    {
+      "before": "ty of writing the synchroniza- / tion code is likely to drive y"
+    },
+    {
+      "before": "for immutable data, since any- / thing that can’t change isn’t "
+    },
+    {
+      "before": " give you some form of thread- / specific storage, such as Java"
+    },
+    {
+      "before": "a object. A request for a con- / nection results in a lookup in"
+    },
+    {
+      "before": " ID that’s held in thread-spe- / cific storage."
+    },
+    {
+      "before": " some may have several. Regis- / tries are usually divided up b"
+    },
+    {
+      "before": " execution context. My prefer- / ence is to divide them up by h"
+    },
+    {
+      "before": "to add a reference to the com- / mon data to objects when they’"
+    },
+    {
+      "before": "ass because it keeps the meth- / ods explicit, so there’s no co"
+    },
+    {
+      "before": "source code or generated docu- / mentation to see what’s availa"
+    },
+    {
+      "before": " language as well as to encap- / sulate the structure of the Re"
+    },
+    {
+      "before": "m has finder objects to encap- / sulate the database queries. T"
+    },
+    {
+      "before": "ully called thread local vari- / ables. You can use them to cre"
+    },
+    {
+      "before": "of ID number, such as the pri- / mary key in a relational datab"
+    },
+    {
+      "before": "changes too. Whether it’s cor- / rect or not, it isn’t what peo"
+    },
+    {
+      "before": "th small values like this peo- / ple expect to change a hire da"
+    },
+    {
+      "before": "formance, particularly in lan- / guages like Java that don’t tr"
+    },
+    {
+      "before": "stead as a class. The environ- / ment then treats it with value"
+    },
+    {
+      "before": "once you involve multiple cur- / rencies you want to avoid addi"
+    },
+    {
+      "before": "em. Of course, it’s still sur- / prising that none of the mains"
+    },
+    {
+      "before": "integral type or a fixed deci- / mal type. The decimal type is "
+    },
+    {
+      "before": "lations, the integral for oth- / ers. You should absolutely avo"
+    },
+    {
+      "before": " can use money objects as eas- / ily as you use numbers. But ar"
+    },
+    {
+      "before": "ons for money have some impor- / tant differences to money oper"
+    },
+    {
+      "before": "ng, particularly when allocat- / ing money between different pl"
+    },
+    {
+      "before": ".5 cents and 1.5 cents. Which- / ever way I round these I get i"
+    },
+    {
+      "before": "er to round. To encourage peo- / ple to remember I’ve seen some"
+    },
+    {
+      "before": "for the former, but an alloca- / tor works better for the latte"
+    },
+    {
+      "before": "nies. Like the addition opera- / tion, conversions need to be c"
+    },
+    {
+      "before": "on in object-oriented environ- / ments. The primary reason is t"
+    },
+    {
+      "before": "easier. The most common objec- / tion to Money is performance, "
+    },
+    {
+      "before": "e amount. If anyone needs con- / vincing that a floating point "
+    },
+    {
+      "before": "aks if someone uses four frac- / tional digits."
+    },
+    {
+      "before": "literal amounts, a helper con- / structor can be useful."
+    },
+    {
+      "before": "t doesn’t do the usual conver- / sion into the cent-based amoun"
+    },
+    {
+      "before": "’re providing a default round- / ing mode but you can set one y"
+    },
+    {
+      "before": "l checks, you make a null cus- / tomer object. Take all of the "
+    },
+    {
+      "before": "tic just like any other float- / ing point number."
+    },
+    {
+      "before": "s contract you get a null con- / tract back."
+    },
+    {
+      "before": "plementation by writing a fac- / tory method. Suppose you defin"
+    },
+    {
+      "before": "entry specifying the implemen- / tation of a requested interfac"
+    },
+    {
+      "before": "d when you add new implementa- / tions to your configuration op"
+    },
+    {
+      "before": "enever you add a new implemen- / tation to the code base. To en"
+    },
+    {
+      "before": "mple to specify a new configu- / ration anywhere on your machin"
+    },
+    {
+      "before": "ith a Gateway (466). The Gate- / way (466) should not be a clas"
+    },
+    {
+      "before": "However, a lot of our applica- / tion functionality depends on "
+    },
+    {
+      "before": " charged, so we need to accom- / modate tax exemption in our Se"
+    },
+    {
+      "before": "nt that exempt a specific com- / bination of address and produc"
+    },
+    {
+      "before": "t the underlying data is rela- / tional, and they provide UI wi"
+    },
+    {
+      "before": "ke and let you eat it, by pro- / viding an in-memory structure "
+    },
+    {
+      "before": "ord Set around a network with- / out having to worry about data"
+    },
+    {
+      "before": "e an ADO.NET data set can con- / tain many tables and the relat"
+    },
+    {
+      "before": "t Practices and Design Strate- / gies. Prentice Hall, 2001."
+    },
+    {
+      "before": "ction Processing. Morgan Kauf- / mann, 1997."
+    },
+    {
+      "before": "th IBM Websphere. Addison-Wes- / ley, 2001."
+    },
+    {
+      "before": "s use cases and the interface- / controller-entity approach to "
+    },
+    {
+      "before": "rn-Oriented Software Architec- / ture, Volume 2. New York: John"
+    },
+    {
+      "before": " evolution of layers in enter- / prise, 18–19"
+    },
+    {
+      "before": " for off line concurrency con- / trol, 76–78"
+    },
+    {
+      "before": "atomicity, consistency, isola- / tion, and durability), 71–76"
+    },
+    {
+      "before": "mapping to relational, contin- / ued"
+    },
+    {
+      "before": " to proprietary messaging ser- / organizing, 25–32 vice (Java),"
+    },
+    {
+      "before": "gle query for multiple employ- / ees (Java), 256–61"
+    },
+    {
+      "before": " to proprietary messaging ser- / vice (Java), 468–72"
+    },
+    {
+      "before": "as view with separate control- / gateway to proprietary messagi"
+    },
+    {
+      "before": "gle query for multiple employ- / methods for Identity Map, 198–"
+    },
+    {
+      "before": " layers in enterprise applica- / tions, 18–19"
+    },
+    {
+      "before": "lational metadata mapping pat- / terns, 305–27"
+    },
+    {
+      "before": "ing with distribution boundar- / ways to store, 84–86 ies, 91–9"
+    },
+    {
+      "before": "JSP as view with separate con- / troller (Java), 355–57"
+    },
+    {
+      "before": " isolation, reducing for live- / ness, 73–74"
+    },
+    {
+      "before": "JSP as view with separate con- / system, 74–76 troller (Java), "
+    }
+  ],
+  "warnings": [
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "sub",
+      "before": " of material from this work, please sub-",
+      "after": "mit a written request to:"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "back",
+      "before": "enterprise application projects: a back-",
+      "after": "end leasing system. Essentially it deals"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "third",
+      "before": ", and integrate our software with third-",
+      "after": "party packages. All of this on a new tec"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "top",
+      "before": "plication architecture. The primary top-",
+      "after": "ics I talk about are"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": " who want to improve either their under-",
+      "after": "standing of architectural issues or thei"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "out",
+      "before": "imported the code examples into the out-",
+      "after": "put, which saved me from the usual night"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": "ed through the cracks. Irv Hershman pre-",
+      "after": "pared the index."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "inter",
+      "before": "-based systems that talk over the Inter-",
+      "after": "net this goes up by orders of magnitude."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "short",
+      "before": "l, I think such thinking tends to short-",
+      "after": "change the cumulative effect of many sma"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "inter",
+      "before": "s the responsiveness of your user inter-",
+      "after": "face, even though it doesn’t improve res"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": " with a focus on making the ideas under-",
+      "after": "standable. As a result several things fa"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "sub",
+      "before": "f layers, you imagine the principal sub-",
+      "after": "systems in the software arranged in some"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "inter",
+      "before": "systems: The client held the user inter-",
+      "after": "face and other application code, and the"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "he server was usually a relational data-",
+      "after": "base. Common client tools were VB, Power"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": "system. In this approach you have a pre-",
+      "after": "sentation layer for your UI, a domain la"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": " is a lot of similarity between the pre-",
+      "after": "sentation and data source layers in that"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "inter",
+      "before": "ny system as a core surrounded by inter-",
+      "after": "faces to external systems. In Hexagonal "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "sub",
+      "before": " kind of separation—at least at the sub-",
+      "after": "routine level."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": "s it easier to substitute different pre-",
+      "after": "sentations on the same foundation and ma"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "ase so that you have one class per data-",
+      "after": "base table. These classes then form a Ga"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "(116) coupled to the schema of the data-",
+      "after": "base. As a result there’s some transform"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "r methods is that they work on the data-",
+      "after": "base state, not the object state. If you"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "r, careful use of indexes, and the data-",
+      "after": "base’s ability to cache in memory. These"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "multi",
+      "before": "rder since the order can’t have a multi-",
+      "after": "valued field."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "ed objects in a single read. Often data-",
+      "after": "bases perform poorly with small highly i"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "super",
+      "before": "oes reduce lock contention on the super-",
+      "after": "class table. In some databases Single Ta"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "meta",
+      "before": "on boiling down the mapping into a meta-",
+      "after": "data file that details how columns in th"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "hand",
+      "before": "data, in this book I’ve focused on hand-",
+      "after": "written examples because I think they’re"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "inter",
+      "before": "r the connection is closed. Other inter-",
+      "after": "faces provide only connected Record Sets"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": "e completely separated from the Web pre-",
+      "after": "sentation. This makes it easier to modif"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "inter",
+      "before": "all requests. This single handler inter-",
+      "after": "prets the URL to figure out what kind of"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "that’s manipulated during multiple data-",
+      "after": "base transactions."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "inter",
+      "before": "s the Order class and changes the inter-",
+      "after": "face. David compiles and checks in; Mart"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "ver use long transactions. If your data-",
+      "after": "base has only modest concurrency needs, "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "sub",
+      "before": "lashing updates, there are the more sub-",
+      "after": "tle problems of inconsistent reads. When"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "multi",
+      "before": "sible to design a system that has multi-",
+      "after": "ple sessions for one business transactio"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "multi",
+      "before": "self: How does that server handle multi-",
+      "after": "ple requests concurrently and how does t"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "ta that’s very small. I don’t like Data-",
+      "after": "base Session State (462) unless you need"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "inter",
+      "before": "f both worlds by layering an HTTP inter-",
+      "after": "face over an object-oriented interface. "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": "y immortal knowledge, I certainly under-",
+      "after": "stand their answer that advice is often "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": "odel View Controller (330) as the under-",
+      "after": "pinning for your design. That done, you’"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": " and avoid any remote calls between pre-",
+      "after": "sentation and domain. If you’re using PO"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "inter",
+      "before": "ur psyche, however, that a remote inter-",
+      "after": "face must always be coarse-grained, so k"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "one",
+      "before": "oday, one-third in thirty days, and one-",
+      "after": "third in sixty days. There’s no basis fo"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": " Model can look different from the data-",
+      "after": "base design, with inheritance, strategie"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "re",
+      "before": "e by the fact that it’s hard to spot re-",
+      "after": "entrant behavior. As a result, some peop"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "inter",
+      "before": "grained objects with fine-grained inter-",
+      "after": "faces. Entity beans may be remotable (pr"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "inter",
+      "before": " quite easily by only using local inter-",
+      "after": "faces for your entity beans in a Domain "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "out",
+      "before": "is quick to build, can run and test out-",
+      "after": "side an EJB container, and is independen"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "ic with one class per table in the data-",
+      "after": "base, and a single instance of a class c"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "teresting queries and views in the data-",
+      "after": "base you can have Table Modules for them"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "well",
+      "before": "ss logic into the application in a well-",
+      "after": "organized manner, without losing the way"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "multi",
+      "before": "se access. You may have to access multi-",
+      "after": "ple databases with all those annoying li"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": "ive Records, and they are easy to under-",
+      "after": "stand. Their primary problem is that the"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": " not seem worth doing. With simple data-",
+      "after": "base mapping examples other patterns usu"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "in",
+      "before": "ap a database table to an equivalent in-",
+      "after": "memory class on a field-to-field basis. "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "object",
+      "before": "’ve been sorted out. The various object-",
+      "after": "relational mapping patterns in this book"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "’re likely to pull back the entire data-",
+      "after": "base with a request. Again, mapping laye"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "derstand how they’re stored in the data-",
+      "after": "base. You can modify the Domain Model (1"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "super",
+      "before": "of this can be handled in a Layer Super-",
+      "after": "type (475), including checking the Ident"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": " a series of objects arranged like data-",
+      "after": "base tables, rows, and columns. The data"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "u return it. If not, you go to the data-",
+      "after": "base, putting the objects into the map f"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "the session works only if you have data-",
+      "after": "base-unique keys (see the discussion in "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "o manage any object brought from a data-",
+      "after": "base and modified. The key reason is tha"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "eed to access the object through a data-",
+      "after": "base key. In this case the map is merely"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "sub",
+      "before": "ficiency you want to load the right sub-",
+      "after": "graph for the right use case."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "sub",
+      "before": "an abstract method for a particular sub-",
+      "after": "class to play its part. For this example"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "what kind of key to choose in your data-",
+      "after": "base. Of course, this isn’t always a cho"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "ue, and sadly it often is. Not all data-",
+      "after": "bases do this the same way. Many that do"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "super",
+      "before": "e interesting keys. In the mapper super-",
+      "after": "type I’ve provided an operation to act a"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "inter",
+      "before": "u have laggardly bits of database inter-",
+      "after": "action. However, it’s an example of how "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "in",
+      "before": " adding a new one. This can make the in-",
+      "after": "memory model harder to work with, but it"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "sub",
+      "before": "hod for serializing itself (and its sub-",
+      "after": "sidiaries recursively) into a DOM as wel"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "lasses lead to wasted space in the data-",
+      "after": "base. How much this is actually a proble"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "nce you have multiple calls to the data-",
+      "after": "base. You can avoid this by doing a join"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "multi",
+      "before": "propriate value. This means using multi-",
+      "after": "ple queries or using an outer join, both"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "super",
+      "before": "the superclass—indeed, on a Layer Super-",
+      "after": "type (475). The insert method creates a "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "meta",
+      "before": "up work is required to prepare the Meta-",
+      "after": "data Mapping framework. Also, while it’s"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "meta",
+      "before": " product producing a sophisticated Meta-",
+      "after": "data Mapping is always worth the effort."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "meta",
+      "before": " using handwritten code with using Meta-",
+      "after": "data Mapping. If you use reflection, loo"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "statement of the interface of your data-",
+      "after": "base schema. Thus, alterations to the da"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": " code because it’s the easiest to under-",
+      "after": "stand. However, it does lead to pretty t"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": " direction of the dependencies: the pre-",
+      "after": "sentation depends on the model but the m"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "well",
+      "before": " code has the same relationship to well-",
+      "after": "designed software that professional wres"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": "y out the controller function. This pre-",
+      "after": "serves the simple property of having you"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "domain",
+      "before": " writing a program that looks at domain-",
+      "after": "oriented data and converts it to HTML. T"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": "e team working on the view software pre-",
+      "after": "fers. The presence of tools is a key fac"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": "e, which here has alternating rows high-",
+      "after": "lighted in different colors. This is a g"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "second",
+      "before": "st-stage module per page and one second-",
+      "after": "stage module for the entire application "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "inter",
+      "before": "d up into broad areas of the user inter-",
+      "after": "face and build separate Application Cont"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": "ame Application Controller for each pre-",
+      "after": "sentation, but don’t be too eager. Often"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "meta",
+      "before": " state machine’s control flow. The meta-",
+      "after": "data can either be set up by programming"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "in",
+      "before": " of magnitude more expensive than an in-",
+      "after": "process call—even if both processes are "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "sing Client Session State (456) or Data-",
+      "after": "base Session State (462), or an implemen"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": "ness transactions. The better you under-",
+      "after": "stand your concurrency issues, the bette"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "super",
+      "before": " make sure that your domain Layer Super-",
+      "after": "type (475) is capable of storing any inf"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "time",
+      "before": ". Another option is to associate a time-",
+      "after": "stamp with each lock and consider invali"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "super",
+      "before": " shared version. The domain Layer Super-",
+      "after": "type (475) contains a version object rat"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": " Four] for persistent storage. This pre-",
+      "after": "sents two questions: In what form do you"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "ning the session table into twelve data-",
+      "after": "base segments and every two hours rotati"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "aren’t objects, such as relational data-",
+      "after": "base tables, CICS transactions, and XML "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": "into account. Anyone who needs to under-",
+      "after": "stand a resource needs to understand its"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "inter",
+      "before": " both translate from the explicit inter-",
+      "after": "face to the generic interface and transl"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "sub",
+      "before": " mapping between. Sometimes a third sub-",
+      "after": "system drives the mapping and invokes th"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "thread scoped. A good example is a data-",
+      "after": "base connection. In this case many envir"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "out",
+      "before": "y that looks pseudo-random from the out-",
+      "after": "side. The allocator has faults: You have"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "multi",
+      "before": "oundings applied that made simple multi-",
+      "after": "plication unworkable. Thus, it’s wise to"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "sub",
+      "before": "her the item is the exact type or a sub-",
+      "after": "class. With a strongly typed language yo"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "inter",
+      "before": "riginal tax service Gateway (466) inter-",
+      "after": "face. To take advantage of a Plugin (499"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "object",
+      "before": "308–9 Metadata mapping patterns, object-",
+      "after": "relational, 305–27"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "pearsontechgroup",
+      "suggestion": "pear son tech group"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "Kumarakulasingam",
+      "suggestion": "kumara kula sin gam"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "interfacecontroller",
+      "suggestion": "interface controller"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "objectarchitects",
+      "suggestion": "object architects"
+    }
+  ],
+  "imagesExtracted": [
+    {
+      "page": 1,
+      "file": "p1-fig1.png"
+    },
+    {
+      "page": 559,
+      "file": "p559-fig1.png"
+    },
+    {
+      "page": 559,
+      "file": "p559-fig2.png"
+    }
+  ],
+  "blocksByType": {
+    "attribution": 691,
+    "figure": 3,
+    "code": 575,
+    "p": 2362,
+    "h2": 1,
+    "ol": 2,
+    "dialogue": 87,
+    "ul": 33,
+    "h3": 2,
+    "figure-caption": 73,
+    "h1": 1
+  },
+  "textLengthBefore": 1017080,
+  "textLengthAfter": 1034973
+}

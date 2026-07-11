@@ -11,12 +11,13 @@ const { mergeVisualLines, buildBlocks } = require('./lib/blocks');
 const { renderBlocks, wrapXhtml } = require('./lib/render');
 const { extractFigures, spliceFigures } = require('./lib/figures');
 const { newReport, tally } = require('./lib/report');
+const { runPdfPipeline } = require('./lib/pdfPipeline');
 
 // ---------------------------------------------------------------------------
 // CLI argument parsing
 // ---------------------------------------------------------------------------
 function parseArgs(argv) {
-  const args = { mode: 'dry-run', input: 'source/book.html', output: 'cleaned-html', reportDir: 'reports', scope: 'all' };
+  const args = { mode: 'dry-run', output: 'cleaned-html', reportDir: 'reports', scope: 'all' };
   for (const a of argv) {
     const [k, v] = a.replace(/^--/, '').split('=');
     if (k === 'write') args.mode = 'write';
@@ -24,6 +25,10 @@ function parseArgs(argv) {
     else if (k === 'preview') args.mode = 'preview';
     else args[k] = v;
   }
+  // --pdf=<file> selects the generic any-PDF path (lib/pdfPipeline.js);
+  // otherwise fall back to the original pdf2htmlEX/HTML path, defaulting
+  // --input the same way it always has.
+  if (!args.pdf && !args.input) args.input = 'source/book.html';
   return args;
 }
 
@@ -68,12 +73,9 @@ function resolveScope(order, scope) {
 }
 
 // ---------------------------------------------------------------------------
-// Main
+// pdf2htmlEX/HTML path (the original "Domain-Driven Design" pipeline)
 // ---------------------------------------------------------------------------
-function main() {
-  const args = parseArgs(process.argv.slice(2));
-  const report = newReport();
-
+function runHtmlPipeline(args, report) {
   console.log(`[cleanup] reading ${args.input} ...`);
   const html = fs.readFileSync(args.input, 'utf8');
   const $ = cheerio.load(html, { xmlMode: false });
@@ -125,6 +127,22 @@ function main() {
   const blocks = buildBlocks(chapterLines, report);
   tally(report, blocks);
   const bodyHtml = renderBlocks(blocks);
+
+  return { bodyHtml, title: title || 'Chapter', textLengthBefore };
+}
+
+// ---------------------------------------------------------------------------
+// Main
+// ---------------------------------------------------------------------------
+async function main() {
+  const args = parseArgs(process.argv.slice(2));
+  const report = newReport();
+
+  const result = args.pdf
+    ? await runPdfPipeline(args, report)
+    : runHtmlPipeline(args, report);
+  const { bodyHtml, title, textLengthBefore } = result;
+
   const textLengthAfter = bodyHtml.replace(/<[^>]+>/g, '').length;
   report.textLengthAfter = textLengthAfter;
 
@@ -152,4 +170,7 @@ function main() {
   console.log(`[cleanup] textLengthBefore=${textLengthBefore} textLengthAfter=${textLengthAfter} delta=${textLengthAfter - textLengthBefore}`);
 }
 
-main();
+main().catch((err) => {
+  console.error('[cleanup] fatal error:', err);
+  process.exit(1);
+});

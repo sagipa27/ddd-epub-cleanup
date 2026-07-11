@@ -1,0 +1,18 @@
+{
+  "generatedAt": "2026-07-11T18:59:32.513Z",
+  "results": [
+    {
+      "file": "pdfs\\Patterns of Enterprise Application Architecture - Martin Fowler.pdf",
+      "slug": "patterns-of-enterprise-application-architecture-martin-fowler",
+      "title": "Patterns of Enterprise Application Architecture",
+      "pages": 559,
+      "chapters": 1,
+      "warnings": 114,
+      "hyphenRepairs": 1125,
+      "imagesExtracted": 3,
+      "xhtml": "cleaned-html\\patterns-of-enterprise-application-architecture-martin-fowler\\all.xhtml",
+      "epub": "cleaned-html\\patterns-of-enterprise-application-architecture-martin-fowler\\patterns-of-enterprise-application-architecture-martin-fowler.epub",
+      "epubError": null
+    }
+  ]
+}

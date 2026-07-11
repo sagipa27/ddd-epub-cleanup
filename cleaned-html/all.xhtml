@@ -101,7 +101,7 @@
 <figure><img src="images/pf9-fig2.png" alt=""/></figure>
 <pre><code>public int makeBooking(Cargo cargo, Voyage voyage) {
    double maxBooking = voyage.capacity() * 1.1;
-   if ((voyage.bookedCargoSize() + cargo.size()) > maxBooking)
+   if ((voyage.bookedCargoSize() + cargo.size()) &gt; maxBooking)
        return –1;
    int confirmation = orderConfirmationSequence.next();
    voyage.addCargo(cargo, confirmation);
@@ -121,7 +121,7 @@
 }</code></pre>
 <p>The new <strong>Overbooking Policy</strong> class contains this method:</p>
 <pre><code>public boolean isAllowed(Cargo cargo, Voyage voyage) {
-   return (cargo.size() + voyage.bookedCargoSize()) <=
+   return (cargo.size() + voyage.bookedCargoSize()) &lt;=
          (voyage.capacity() * 1.1);
 }</code></pre>
 <p>It will be clear to all that overbooking is a distinct policy, and the implementation of that rule is explicit and separate.</p>
@@ -1420,7 +1420,7 @@ due, including taxes, will be shown as expense.</pre>
    private float capacity;
    private float contents;
    public void pourIn(float addedVolume) {
-      if (contents + addedVolume > capacity) {
+      if (contents + addedVolume &gt; capacity) {
          contents = capacity;
       } else {
          contents = contents + addedVolume;
@@ -1436,7 +1436,7 @@ due, including taxes, will be shown as expense.</pre>
       contents = constrainedToCapacity(volumePresent);
    }
    private float constrainedToCapacity(float volumePlacedIn) {
-      if (volumePlacedIn > capacity) return capacity;
+      if (volumePlacedIn &gt; capacity) return capacity;
       return volumePlacedIn;
    }
 }</code></pre>
@@ -1542,7 +1542,7 @@ due, including taxes, will be shown as expense.</pre>
       "SELECT * FROM INVOICE, CUSTOMER" +
       "  WHERE INVOICE.CUST_ID = CUSTOMER.ID" +
       "  AND INVOICE.DUE_DATE + CUSTOMER.GRACE_PERIOD" +
-      "     < " + SQLUtility.dateAsSQL(currentDate);
+      "     &lt; " + SQLUtility.dateAsSQL(currentDate);
 }</code></pre>
 <p>SPECIFICATIONS mesh smoothly with REPOSITORIES, which are the building-block mechanisms for providing query access to domain objects and encapsulating the interface to the database (see Figure 9.15).</p>
 <figure><img src="images/pf8c-fig1.png" alt=""/><figcaption>Figure 9.15. The interaction between REPOSITORY and SPECIFICATION</figcaption></figure>
@@ -1561,7 +1561,7 @@ due, including taxes, will be shown as expense.</pre>
          "SELECT * FROM INVOICE, CUSTOMER" +
          "  WHERE INVOICE.CUST_ID = CUSTOMER.ID" +
          "  AND INVOICE.DUE_DATE + CUSTOMER.GRACE_PERIOD" +
-         "     < " + SQLUtility.dateAsSQL(aDate);
+         "     &lt; " + SQLUtility.dateAsSQL(aDate);
    }
    public Set selectSatisfying(InvoiceSpecification spec) {
       return spec.satisfyingElementsFrom(this);
@@ -1590,7 +1590,7 @@ due, including taxes, will be shown as expense.</pre>
       return
          "SELECT * FROM INVOICE" +
          "  WHERE INVOICE.DUE_DATE" +
-         "     < " + SQLUtility.dateAsSQL(aDate);
+         "     &lt; " + SQLUtility.dateAsSQL(aDate);
    }
    public Set selectSatisfying(InvoiceSpecification spec) {
       return spec.satisfyingElementsFrom(this);
@@ -1690,7 +1690,7 @@ while (it.hasNext()) {
    private double capacity;
    private Set contents; //Drums
    public boolean hasSpaceFor(Drum aDrum) {
-      return remainingSpace() >= aDrum.getSize();
+      return remainingSpace() &gt;= aDrum.getSize();
    }
    public double remainingSpace() {
       double totalContentSize = 0.0;
@@ -1702,7 +1702,7 @@ while (it.hasNext()) {
       return capacity – totalContentSize;
    }
    public boolean canAccommodate(Drum aDrum) {
-      return hasSpaceFor(aDrum) &&
+      return hasSpaceFor(aDrum) &amp;&amp;
          aDrum.getContainerSpecification().isSatisfiedBy(this);
    }
 }
@@ -1963,13 +1963,13 @@ Set lowPaidEmployees = new HashSet();
 Iterator it = employees.iterator();
 while (it.hasNext()) {
    Employee anEmployee = it.next();
-   if (anEmployee.salary() < 40000)
+   if (anEmployee.salary() &lt; 40000)
 lowPaidEmployees.add(anEmployee);
 }</code></pre>
 <p>Conceptually, I've selected a subset of a set. What do I need with this extra concept, <strong>Iterator,</strong> and all its mechanical complexity? In Smalltalk, I would call the “select” operation on the <strong>Collection</strong>, passing in the test as an argument. The return would be a new <strong>Collection </strong>containing just the elements that passed the test.</p>
 <pre><code>employees := (some Set of Employee objects).
 lowPaidEmployees := employees select:
-         [:anEmployee | anEmployee salary < 40000].</code></pre>
+         [:anEmployee | anEmployee salary &lt; 40000].</code></pre>
 <p>The Smalltalk <strong>Collections</strong> provide other such FUNCTIONS that return derived <strong>Collections</strong>, which can be of several concrete classes. The operations are not closed, because they take a “block” as an argument. But blocks are a basic library type in Smalltalk, so they don't add to the developer's mental load. Because the return value matches the implementer, they can be strung together, like a series of filters. They are easy to write and easy to read. They do not introduce extraneous concepts that are irrelevant to the problem of selecting subsets.</p>
 <p>The patterns presented in this chapter illustrate a general style of design and a way of thinking about design. Making software obvious, predictable, and communicative makes abstraction and encapsulation effective. Models can be factored so that objects are simple to use and understand yet still have rich, high-level interfaces.</p>
 <p>These techniques require fairly advanced design skills to apply and sometimes even to write a client. The usefulness of a MODEL-DRIVEN DESIGN is sensitive to the quality of the detailed design and implementation decisions, and it only takes a few confused developers to derail a project from the goal.</p>
@@ -2061,7 +2061,7 @@ public class AndSpecification extends AbstractSpecification {
       other = y;
    }
    public boolean isSatisfiedBy(Object candidate) {
-      return one.isSatisfiedBy(candidate) &&
+      return one.isSatisfiedBy(candidate) &amp;&amp;
          other.isSatisfiedBy(candidate);
    }
 }
@@ -2126,10 +2126,10 @@ Ventilated</pre>
 <pre><code>public class MinimumAgeSpecification {
    int threshold;
    public boolean isSatisfiedBy(Person candidate) {
-      return candidate.getAge() >= threshold;
+      return candidate.getAge() &gt;= threshold;
    }
    public boolean subsumes(MinimumAgeSpecification other) {
-      return threshold >= other.getThreshold();
+      return threshold &gt;= other.getThreshold();
    }
 }</code></pre>
 <p>A JUnit test might contain this:</p>
@@ -2854,13 +2854,13 @@ arrivalNode.locationCode  leg.unloadLocationCode</code></pre>
 <p>Now that the language has been published, tools can be developed that would never have been worth the trouble to write before, when they would have only been usable for one database. For example, a Java application, called the JUMBO Browser, was developed that creates graphical views of chemical structures stored in CML. So if you put your data in the CML format, you'll have access to such visualization tools.</p>
 <p>In fact, CML gained a double advantage by using XML, a sort of “published meta-language.” The learning curve of CML is flattened by people's familiarity with XML; the implementation is eased by various off-the-shelf tools, such as parsers; and documentation is helped by the many books written on all aspects of handling XML.</p>
 <p>Here is a tiny sample of CML. It is only vaguely intelligible to nonspecialists like myself, but the principle is clear.</p>
-<pre><code><CML.ARR ID="array3" EL.TYPE=FLOAT NAME="ATOMIC ORBITAL ELECTRON POPULATIONS" SIZE=30 ↩
-GLO.ENT=CML.THE.AOEPOPS>
+<pre><code>&lt;CML.ARR ID="array3" EL.TYPE=FLOAT NAME="ATOMIC ORBITAL ELECTRON POPULATIONS" SIZE=30 ↩
+GLO.ENT=CML.THE.AOEPOPS&gt;
    1.17947   0.95091   0.97175   1.00000   1.17947   0.95090   0.97174   1.00000
    1.17946   0.98215   0.94049   1.00000   1.17946   0.95091   0.97174   1.00000
    1.17946   0.95091   0.97174   1.00000   1.17946   0.98215   0.94049   1.00000
    0.89789   0.89790   0.89789   0.89789   0.89790   0.89788
-</CML.ARR></code></pre>
+&lt;/CML.ARR&gt;</code></pre>
 <h2>Unifying an Elephant</h2>
 <pre class="table-like">It was six men of Indostan</pre>
 <pre class="table-like">To learning much inclined,</pre>

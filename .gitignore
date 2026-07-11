@@ -1,1 +1,7 @@
 node_modules/
+
+# Batch PDF input folder (batchPdf.js): drop-in books can be large and are
+# user-provided, so they aren't tracked by default; the folder itself is
+# kept via .gitkeep. Remove this line if you do want your PDFs in git
+# (source/book.html, the original example input, is tracked this way).
+pdfs/*.pdf
