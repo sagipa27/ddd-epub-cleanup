@@ -1,0 +1,466 @@
+{
+  "generatedAt": "2026-07-11T16:51:02.659Z",
+  "pagesProcessed": [
+    "pf2c",
+    "pf2d",
+    "pf2e",
+    "pf2f",
+    "pf30",
+    "pf31",
+    "pf32",
+    "pf33",
+    "pf34",
+    "pf35",
+    "pf36",
+    "pf37",
+    "pf38",
+    "pf39",
+    "pf3a",
+    "pf3b",
+    "pf3c",
+    "pf3d",
+    "pf3e",
+    "pf3f",
+    "pf40",
+    "pf41",
+    "pf42",
+    "pf43",
+    "pf44",
+    "pf45"
+  ],
+  "headersRemoved": 26,
+  "headerSamples": [
+    {
+      "page": "pf2c",
+      "text": "48"
+    },
+    {
+      "page": "pf2d",
+      "text": "A Model Expressed in Software 49"
+    },
+    {
+      "page": "pf2e",
+      "text": "A Model Expressed in Software 50"
+    },
+    {
+      "page": "pf2f",
+      "text": "A Model Expressed in Software 51"
+    },
+    {
+      "page": "pf30",
+      "text": "A Model Expressed in Software 52"
+    },
+    {
+      "page": "pf31",
+      "text": "A Model Expressed in Software 53"
+    },
+    {
+      "page": "pf32",
+      "text": "A Model Expressed in Software 54"
+    },
+    {
+      "page": "pf33",
+      "text": "A Model Expressed in Software 55"
+    },
+    {
+      "page": "pf34",
+      "text": "A Model Expressed in Software 56"
+    },
+    {
+      "page": "pf35",
+      "text": "A Model Expressed in Software 57"
+    },
+    {
+      "page": "pf36",
+      "text": "A Model Expressed in Software 58"
+    },
+    {
+      "page": "pf37",
+      "text": "A Model Expressed in Software 59"
+    },
+    {
+      "page": "pf38",
+      "text": "A Model Expressed in Software 60"
+    },
+    {
+      "page": "pf39",
+      "text": "A Model Expressed in Software 61"
+    },
+    {
+      "page": "pf3a",
+      "text": "A Model Expressed in Software 62"
+    },
+    {
+      "page": "pf3b",
+      "text": "A Model Expressed in Software 63"
+    },
+    {
+      "page": "pf3c",
+      "text": "A Model Expressed in Software 64"
+    },
+    {
+      "page": "pf3d",
+      "text": "A Model Expressed in Software 65"
+    },
+    {
+      "page": "pf3e",
+      "text": "A Model Expressed in Software 66"
+    },
+    {
+      "page": "pf3f",
+      "text": "A Model Expressed in Software 67"
+    },
+    {
+      "page": "pf40",
+      "text": "A Model Expressed in Software 68"
+    },
+    {
+      "page": "pf41",
+      "text": "A Model Expressed in Software 69"
+    },
+    {
+      "page": "pf42",
+      "text": "A Model Expressed in Software 70"
+    },
+    {
+      "page": "pf43",
+      "text": "A Model Expressed in Software 71"
+    },
+    {
+      "page": "pf44",
+      "text": "A Model Expressed in Software 72"
+    }
+  ],
+  "hyphenRepairs": [
+    {
+      "before": "expressed as actions or opera- / tions, rather than as objects."
+    },
+    {
+      "before": "ollection in an instance vari- / able. But the design is not ne"
+    },
+    {
+      "before": " number are naturally bidirec- / tional. The same tends to be t"
+    },
+    {
+      "before": "uirements do not call for tra- / versal in both directions, add"
+    },
+    {
+      "before": "uce the relationship to a uni- / directional association, trave"
+    },
+    {
+      "before": "effectively reduces its imple- / mentation to one-to-many—a muc"
+    },
+    {
+      "before": "lationship is a semantic char- / acteristic of the domain, when"
+    },
+    {
+      "before": "r implementation, equally con- / sistent with the model, would "
+    },
+    {
+      "before": "ransform and ultimately disap- / pear. The name may change. Fin"
+    },
+    {
+      "before": "ing from that source, the cus- / tomer object will be retired t"
+    },
+    {
+      "before": "y not match. A sales represen- / tative may have entered an add"
+    },
+    {
+      "before": "cing them in the semantic cat- / egory leads to more lucid mode"
+    },
+    {
+      "before": "ame attributes or even, neces- / sarily, being of the same clas"
+    },
+    {
+      "before": "lem is being handled by a com- / puter program or by hand. Depo"
+    },
+    {
+      "before": "uished. For example, if a Cus- / tomer has many contact phone n"
+    },
+    {
+      "before": "en the phone number is not as- / sociated with identity and sho"
+    },
+    {
+      "before": "ty with another object—distin- / guishable even from another ob"
+    },
+    {
+      "before": "dates propagate through a dis- / tributed database."
+    },
+    {
+      "before": "n be guaranteed or simply con- / strained to be unique within t"
+    },
+    {
+      "before": "ent processing and in distrib- / uted systems. Generating such "
+    },
+    {
+      "before": "pitals that have separate com- / puter systems, ideally each sy"
+    },
+    {
+      "before": "ed as identifiers. But a tele- / phone can be shared. The numbe"
+    },
+    {
+      "before": "l addresses. These address ob- / jects would derive their zip c"
+    },
+    {
+      "before": "ot necessarily simple. For ex- / ample, a color-mixing program "
+    },
+    {
+      "before": "between objects. They are fre- / quently transient, created for"
+    },
+    {
+      "before": " VALUE OBJECTS are used as at- / tributes of ENTITIES (and othe"
+    },
+    {
+      "before": "al basis, secure in the knowl- / edge that the application does"
+    },
+    {
+      "before": "n favor of a mutable implemen- / tation:"
+    },
+    {
+      "before": "ake for slow responses to mes- / sages; instead, a copy of the "
+    },
+    {
+      "before": "to maintain, bidirectional as- / sociations between two VALUE O"
+    },
+    {
+      "before": "nd such associations seem nec- / essary in your model, rethink "
+    },
+    {
+      "before": "ional object models, but prag- / matic designers have come to u"
+    },
+    {
+      "before": "e in the model, without encap- / sulating state, as ENTITIES an"
+    },
+    {
+      "before": " are a common pattern in tech- / nical frameworks, but they can"
+    },
+    {
+      "before": " SERVICE can still have an ab- / stract, intentional definition"
+    },
+    {
+      "before": "d debiting the appropriate ac- / counts, for example) and becau"
+    },
+    {
+      "before": "large systems because they en- / capsulate significant function"
+    },
+    {
+      "before": "vide special publishing mecha- / nisms for SERVICES, with conve"
+    },
+    {
+      "before": "stribution and access capabil- / ities. But such frameworks are"
+    },
+    {
+      "before": "t themselves with MODULES con- / ceived early in the project."
+    },
+    {
+      "before": "s hard to understand as an un- / differentiated soup of ideas ("
+    },
+    {
+      "before": ", and makes it possible to an- / alyze the contents of one MODU"
+    },
+    {
+      "before": "can be disruptive to team com- / munication and can even throw "
+    },
+    {
+      "before": "the problem. Whatever develop- / ment technology the implementa"
+    },
+    {
+      "before": "tion complexity of each compo- / nent, the separation immediate"
+    },
+    {
+      "before": "run project in which each con- / ceptual object was actually br"
+    },
+    {
+      "before": " Next was a layer for superim- / posing application-specific fu"
+    },
+    {
+      "before": " We could have lived with men- / tally connecting all the physi"
+    },
+    {
+      "before": " keep all the code that imple- / ments a single conceptual obje"
+    },
+    {
+      "before": "d other data that must be man- / aged in order to make the syst"
+    },
+    {
+      "before": " tune with the particular mod- / eling paradigm being applied. "
+    },
+    {
+      "before": "GE will be lost. The fundamen- / tals of object-oriented design"
+    },
+    {
+      "before": "l advantages deriving from ma- / turity and widespread adoption"
+    },
+    {
+      "before": "s away from application devel- / opment and introducing technic"
+    },
+    {
+      "before": " to several cutting-edge tech- / nologies, including use of an "
+    },
+    {
+      "before": "of interdependencies that con- / tention became a problem with "
+    },
+    {
+      "before": "is technology. All of us deep- / ened our thinking about the im"
+    },
+    {
+      "before": " but the technical infrastruc- / ture is still patchy or shaky,"
+    },
+    {
+      "before": ", integration tools are avail- / able to connect with almost an"
+    },
+    {
+      "before": "e are MODEL-DRIVEN DESIGNS im- / plemented in Prolog, for examp"
+    },
+    {
+      "before": " objects depends on some math- / ematical relationships."
+    },
+    {
+      "before": " nonobject components as busi- / ness rules engines and workflo"
+    },
+    {
+      "before": "oherent model that spans para- / digms is hard, and making the "
+    },
+    {
+      "before": " choice of tools. An unexpres- / sive implementation negates th"
+    },
+    {
+      "before": "cuss the modeling of unconven- / tional types of concepts using"
+    },
+    {
+      "before": "he most common nonobject tech- / nology, the relational databas"
+    },
+    {
+      "before": "e object model than other com- / ponents, because it acts as th"
+    }
+  ],
+  "warnings": [
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "in",
+      "before": "t. This refinement actually reflects in-",
+      "after": "sight into the domain, as well as making"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Table: BROKERAGE_ACCOUNT | ACCOUNT_NUMBER CUSTOMER_SS_NUMBER"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Table: CUSTOMER | SS_NUMBER NAME"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Table: INVESTMENT | ACCOUNT_NUMBER STOCK_SYMBOL AMOUNT"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "re",
+      "before": " attributes, and associations should re-",
+      "after": "volve around who they are, rather than t"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "de",
+      "before": " design, developers are free to make de-",
+      "after": "cisions about issues such as copying and"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "model",
+      "before": "ther distorts the definition of a model-",
+      "after": "based object or adds meaningless artific"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "Partitioning Services into Layers | ApplicationFunds Transfer App Service"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "DomainFunds Transfer Domain Service"
+    },
+    {
+      "type": "table-needs-review",
+      "sample": "InfrastructureSend Notification Service"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "re",
+      "before": "nting the business logic and the one re-",
+      "after": "sponsible for database access are so ext"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": "give people focal points to guide under-",
+      "after": "standing."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "object",
+      "before": "ns to integrate with the popular object-",
+      "after": "oriented platforms. This makes integrati"
+    }
+  ],
+  "imagesExtracted": [
+    {
+      "page": "pf2e",
+      "file": "pf2e-fig1.png"
+    },
+    {
+      "page": "pf2e",
+      "file": "pf2e-fig2.png"
+    },
+    {
+      "page": "pf2f",
+      "file": "pf2f-fig1.png"
+    },
+    {
+      "page": "pf30",
+      "file": "pf30-fig1.png"
+    },
+    {
+      "page": "pf31",
+      "file": "pf31-fig1.png"
+    },
+    {
+      "page": "pf34",
+      "file": "pf34-fig1.png"
+    },
+    {
+      "page": "pf36",
+      "file": "pf36-fig1.png"
+    },
+    {
+      "page": "pf37",
+      "file": "pf37-fig1.png"
+    },
+    {
+      "page": "pf38",
+      "file": "pf38-fig1.png"
+    },
+    {
+      "page": "pf39",
+      "file": "pf39-fig1.png"
+    },
+    {
+      "page": "pf3b",
+      "file": "pf3b-fig1.png"
+    }
+  ],
+  "blocksByType": {
+    "h1": 1,
+    "p": 188,
+    "h2": 6,
+    "ol": 2,
+    "figure": 11,
+    "figure-caption": 4,
+    "h3": 20,
+    "code": 6,
+    "table-like": 6,
+    "attribution": 5,
+    "ul": 6
+  },
+  "textLengthBefore": 82388,
+  "textLengthAfter": 82371
+}

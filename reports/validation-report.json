@@ -1,0 +1,21 @@
+{
+  "file": "cleaned-html/chapter-5.xhtml",
+  "generatedAt": "2026-07-11T16:51:22.945Z",
+  "bodyTextLength": 82371,
+  "errors": [],
+  "warnings": [
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Therefore:"
+    }
+  ],
+  "errorCount": 0,
+  "warningCount": 2,
+  "textLengthBefore": 82388,
+  "textLengthAfter": 82371,
+  "textLengthPctChange": -0.02
+}

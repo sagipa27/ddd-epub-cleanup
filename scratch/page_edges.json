@@ -1,0 +1,6462 @@
+[
+  {
+    "pageId": "pf2",
+    "dataPageNo": "2",
+    "top": {
+      "x": 705.172363,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff2",
+      "m": "m0",
+      "text": "4"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 140.075828,
+      "fs": 37.727052,
+      "ff": "ff2",
+      "m": "m0",
+      "text": "Expert 2: The “net” box looks just like a component instance."
+    }
+  },
+  {
+    "pageId": "pf3",
+    "dataPageNo": "3",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff2",
+      "m": "m0",
+      "text": "Crunching Knowledge 5"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 263.499879,
+      "fs": 37.727052,
+      "ff": "ff2",
+      "m": "m0",
+      "text": "[With considerable trial-and-error, together we sketched out a scenario.]"
+    }
+  },
+  {
+    "pageId": "pf4",
+    "dataPageNo": "4",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff2",
+      "m": "m0",
+      "text": "Crunching Knowledge 6"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 368.885683,
+      "fs": 37.727052,
+      "ff": "ff2",
+      "m": "m0",
+      "text": "stance?"
+    }
+  },
+  {
+    "pageId": "pf5",
+    "dataPageNo": "5",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff2",
+      "m": "m0",
+      "text": "Crunching Knowledge 7"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 187.795833,
+      "fs": 37.727052,
+      "ff": "ff2",
+      "m": "m0",
+      "text": "and myself."
+    }
+  },
+  {
+    "pageId": "pf6",
+    "dataPageNo": "6",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff2",
+      "m": "m0",
+      "text": "Crunching Knowledge 8"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 227.791224,
+      "fs": 37.727052,
+      "ff": "ff2",
+      "m": "m0",
+      "text": "the team into valuable models."
+    }
+  },
+  {
+    "pageId": "pf7",
+    "dataPageNo": "7",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff2",
+      "m": "m0",
+      "text": "Crunching Knowledge 9"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 157.053002,
+      "fs": 37.727052,
+      "ff": "ff2",
+      "m": "m0",
+      "text": "be rigorous enough to make the application simple to implement and understand."
+    }
+  },
+  {
+    "pageId": "pf8",
+    "dataPageNo": "8",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff2",
+      "m": "m0",
+      "text": "Crunching Knowledge 10"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 157.053002,
+      "fs": 37.727052,
+      "ff": "ff2",
+      "m": "m0",
+      "text": "out, reconciled, or placed out of scope."
+    }
+  },
+  {
+    "pageId": "pf9",
+    "dataPageNo": "9",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff2",
+      "m": "m0",
+      "text": "Crunching Knowledge 11"
+    },
+    "bottom": {
+      "x": 137.232152,
+      "y": 169.587815,
+      "fs": 37.727052,
+      "ff": "ff2",
+      "m": "m0",
+      "text": "with the guidance of a developer."
+    }
+  },
+  {
+    "pageId": "pfa",
+    "dataPageNo": "a",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff2",
+      "m": "m0",
+      "text": "Crunching Knowledge 12"
+    },
+    "bottom": {
+      "x": 137.232152,
+      "y": 153.530238,
+      "fs": 37.727052,
+      "ff": "ff2",
+      "m": "m0",
+      "text": "ligible to domain experts (with guidance), thereby closing the feedback loop."
+    }
+  },
+  {
+    "pageId": "pfb",
+    "dataPageNo": "b",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff2",
+      "m": "m0",
+      "text": "Crunching Knowledge 13"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 466.886416,
+      "fs": 37.727052,
+      "ff": "ff2",
+      "m": "m0",
+      "text": "Knowledge crunching is an exploration, and you can't know where you will end up."
+    }
+  },
+  {
+    "pageId": "pfc",
+    "dataPageNo": "c",
+    "top": {
+      "x": null,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff6",
+      "m": "m0",
+      "text": "14"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 148.606858,
+      "fs": 37.727052,
+      "ff": "ff6",
+      "m": "m0",
+      "text": "are inexact."
+    }
+  },
+  {
+    "pageId": "pfd",
+    "dataPageNo": "d",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff6",
+      "m": "m0",
+      "text": "Communication and the Use of Language 15"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 137.246299,
+      "fs": 37.727052,
+      "ff": "ff6",
+      "m": "m0",
+      "text": "imprecision or contradictions, engaging the domain experts in discovering workable alternatives."
+    }
+  },
+  {
+    "pageId": "pfe",
+    "dataPageNo": "e",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff6",
+      "m": "m0",
+      "text": "Communication and the Use of Language 16"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 344.141452,
+      "fs": 37.727052,
+      "ff": "ff6",
+      "m": "m0",
+      "text": "carry the discussion of what the application must do?"
+    }
+  },
+  {
+    "pageId": "pff",
+    "dataPageNo": "f",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff6",
+      "m": "m0",
+      "text": "Communication and the Use of Language 17"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 327.871661,
+      "fs": 37.727052,
+      "ff": "ff6",
+      "m": "m0",
+      "text": "Developer: Good. We won't."
+    }
+  },
+  {
+    "pageId": "pf10",
+    "dataPageNo": "10",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff6",
+      "m": "m0",
+      "text": "Communication and the Use of Language 18"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 186.395216,
+      "fs": 37.727052,
+      "ff": "ff6",
+      "m": "m0",
+      "text": "more concise."
+    }
+  },
+  {
+    "pageId": "pf11",
+    "dataPageNo": "11",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff6",
+      "m": "m0",
+      "text": "Communication and the Use of Language 19"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 148.564415,
+      "fs": 37.727052,
+      "ff": "ff6",
+      "m": "m0",
+      "text": "to say what you need to say, and then take those new ideas back down to the diagrams and code."
+    }
+  },
+  {
+    "pageId": "pf12",
+    "dataPageNo": "12",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff6",
+      "m": "m0",
+      "text": "Communication and the Use of Language 20"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 240.524104,
+      "fs": 37.727052,
+      "ff": "ff6",
+      "m": "m0",
+      "text": "existence of models on the same project.)"
+    }
+  },
+  {
+    "pageId": "pf13",
+    "dataPageNo": "13",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff6",
+      "m": "m0",
+      "text": "Communication and the Use of Language 21"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": "ff6",
+      "m": "m0",
+      "text": "modeling tool. With all that detail, no one can see the forest for the trees."
+    }
+  },
+  {
+    "pageId": "pf14",
+    "dataPageNo": "14",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff6",
+      "m": "m0",
+      "text": "Communication and the Use of Language 22"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 138.661064,
+      "fs": 37.727052,
+      "ff": "ff6",
+      "m": "m0",
+      "text": "It is left behind by the evolution of the code, or by the evolution of the language of the project."
+    }
+  },
+  {
+    "pageId": "pf15",
+    "dataPageNo": "15",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff6",
+      "m": "m0",
+      "text": "Communication and the Use of Language 23"
+    },
+    "bottom": {
+      "x": null,
+      "y": 182.518762,
+      "fs": 37.727052,
+      "ff": "ff6",
+      "m": "m0",
+      "text": ", something is wrong."
+    }
+  },
+  {
+    "pageId": "pf16",
+    "dataPageNo": "16",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff6",
+      "m": "m0",
+      "text": "Communication and the Use of Language 24"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 182.518762,
+      "fs": 37.727052,
+      "ff": "ff6",
+      "m": "m0",
+      "text": "the more narrowly scoped model."
+    }
+  },
+  {
+    "pageId": "pf17",
+    "dataPageNo": "17",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff6",
+      "m": "m0",
+      "text": "Communication and the Use of Language 25"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 191.559107,
+      "fs": 37.727052,
+      "ff": "ff6",
+      "m": "m0",
+      "text": "detail with the class diagram, but it reinforces key points from the domain."
+    }
+  },
+  {
+    "pageId": "pf18",
+    "dataPageNo": "18",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff6",
+      "m": "m0",
+      "text": "Communication and the Use of Language 26"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 732.706509,
+      "fs": 37.727052,
+      "ff": "ff6",
+      "m": "m0",
+      "text": "gether they are easier to understand than either view alone."
+    }
+  },
+  {
+    "pageId": "pf19",
+    "dataPageNo": "19",
+    "top": {
+      "x": null,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff8",
+      "m": "m0",
+      "text": "27"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": "ff8",
+      "m": "m0",
+      "text": "modeling. . . ."
+    }
+  },
+  {
+    "pageId": "pf1a",
+    "dataPageNo": "1a",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff8",
+      "m": "m0",
+      "text": "Binding Model and Implementation 28"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 134.544099,
+      "fs": 37.727052,
+      "ff": "ff8",
+      "m": "m0",
+      "text": "in mind, and therefore it is likely to be quite impractical for those needs."
+    }
+  },
+  {
+    "pageId": "pf1b",
+    "dataPageNo": "1b",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff8",
+      "m": "m0",
+      "text": "Binding Model and Implementation 29"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 161.297295,
+      "fs": 37.727052,
+      "ff": "ff8",
+      "m": "m0",
+      "text": "model. Its effect must ripple through the rest of the project's activities accordingly."
+    }
+  },
+  {
+    "pageId": "pf1c",
+    "dataPageNo": "1c",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff8",
+      "m": "m0",
+      "text": "Binding Model and Implementation 30"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 142.16968,
+      "fs": 37.727052,
+      "ff": "ff8",
+      "m": "m0",
+      "text": "model is a set of logical rules and facts they operate on."
+    }
+  },
+  {
+    "pageId": "pf1d",
+    "dataPageNo": "1d",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff8",
+      "m": "m0",
+      "text": "Binding Model and Implementation 31"
+    },
+    "bottom": {
+      "x": null,
+      "y": 133.850865,
+      "fs": 31.734672,
+      "ff": "ff8",
+      "m": "m1",
+      "text": "Figure 3.2. An explanatory diagram of buses and nets"
+    }
+  },
+  {
+    "pageId": "pf1e",
+    "dataPageNo": "1e",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff8",
+      "m": "m0",
+      "text": "Binding Model and Implementation 32"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 191.941093,
+      "fs": 37.727052,
+      "ff": "ff8",
+      "m": "m0",
+      "text": "tions, and if the language supported function calls to encapsulate the details, the scripts could begin"
+    }
+  },
+  {
+    "pageId": "pf1f",
+    "dataPageNo": "1f",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff8",
+      "m": "m0",
+      "text": "Binding Model and Implementation 33"
+    },
+    "bottom": {
+      "x": 110.351627,
+      "y": 135.1383,
+      "fs": 28.446197,
+      "ff": null,
+      "m": "m0",
+      "text": "}"
+    }
+  },
+  {
+    "pageId": "pf20",
+    "dataPageNo": "20",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff8",
+      "m": "m0",
+      "text": "Binding Model and Implementation 34"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 155.737271,
+      "fs": 37.727052,
+      "ff": "ff8",
+      "m": "m0",
+      "text": "easily and can include constraints on combining rules and other enhancements."
+    }
+  },
+  {
+    "pageId": "pf21",
+    "dataPageNo": "21",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff8",
+      "m": "m0",
+      "text": "Binding Model and Implementation 35"
+    },
+    "bottom": {
+      "x": 106.544637,
+      "y": 133.564375,
+      "fs": null,
+      "ff": "ff8",
+      "m": "m0",
+      "text": "Brian Marick mentioned this example to me."
+    }
+  },
+  {
+    "pageId": "pf22",
+    "dataPageNo": "22",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff8",
+      "m": "m0",
+      "text": "Binding Model and Implementation 36"
+    },
+    "bottom": {
+      "x": 436.710905,
+      "y": 215.058344,
+      "fs": 37.727052,
+      "ff": "ff8",
+      "m": "m0",
+      "text": ", modeling and implementation."
+    }
+  },
+  {
+    "pageId": "pf23",
+    "dataPageNo": "23",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff8",
+      "m": "m0",
+      "text": "Binding Model and Implementation 37"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 567.674236,
+      "fs": 37.727052,
+      "ff": "ff8",
+      "m": "m0",
+      "text": "which is the subject of the next several chapters."
+    }
+  },
+  {
+    "pageId": "pf24",
+    "dataPageNo": "24",
+    "top": {
+      "x": null,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "40"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 632.007819,
+      "fs": 56.590578,
+      "ff": null,
+      "m": "m0",
+      "text": "Layered Architecture"
+    }
+  },
+  {
+    "pageId": "pf25",
+    "dataPageNo": "25",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Isolating the Domain 41"
+    },
+    "bottom": {
+      "x": null,
+      "y": 198.399493,
+      "fs": 30.181642,
+      "ff": null,
+      "m": "m0",
+      "text": "pattern of interactions between the four layers through an architectural framework."
+    }
+  },
+  {
+    "pageId": "pf26",
+    "dataPageNo": "26",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Isolating the Domain 42"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 133.850865,
+      "fs": 31.734672,
+      "ff": null,
+      "m": "m1",
+      "text": "Figure 4.1. Objects carry out responsibilities consistent with their layer and are more coupled to other objects in their layer."
+    }
+  },
+  {
+    "pageId": "pf27",
+    "dataPageNo": "27",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Isolating the Domain 43"
+    },
+    "bottom": {
+      "x": 564.858854,
+      "y": 199.495935,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": " interface encapsulates."
+    }
+  },
+  {
+    "pageId": "pf28",
+    "dataPageNo": "28",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Isolating the Domain 44"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 179.689233,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "of the program. Isolating the domain implementation is a prerequisite for domain-driven design."
+    }
+  },
+  {
+    "pageId": "pf29",
+    "dataPageNo": "29",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Isolating the Domain 45"
+    },
+    "bottom": {
+      "x": 124.499272,
+      "y": 168.710661,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "and then quickly changing the product to fit their requests."
+    }
+  },
+  {
+    "pageId": "pf2a",
+    "dataPageNo": "2a",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Isolating the Domain 46"
+    },
+    "bottom": {
+      "x": null,
+      "y": 199.835479,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": " UI."
+    }
+  },
+  {
+    "pageId": "pf2b",
+    "dataPageNo": "2b",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Isolating the Domain 47"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 817.749415,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "all that other stuff out of the way so that we can really focus on the domain design."
+    }
+  },
+  {
+    "pageId": "pf2c",
+    "dataPageNo": "2c",
+    "top": {
+      "x": null,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "48"
+    },
+    "bottom": {
+      "x": 233.177232,
+      "y": 228.187358,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": " are part of the model, and they should reflect concepts in the domain."
+    }
+  },
+  {
+    "pageId": "pf2d",
+    "dataPageNo": "2d",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "A Model Expressed in Software 49"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 275.893215,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "“Person” class independent of the far less fundamental concept of “President.”"
+    }
+  },
+  {
+    "pageId": "pf2e",
+    "dataPageNo": "2e",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "A Model Expressed in Software 50"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 237.383327,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "the job at hand or the fundamental meaning of the model objects."
+    }
+  },
+  {
+    "pageId": "pf2f",
+    "dataPageNo": "2f",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "A Model Expressed in Software 51"
+    },
+    "bottom": {
+      "x": 110.351627,
+      "y": 137.363159,
+      "fs": 30.181642,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "     "
+    }
+  },
+  {
+    "pageId": "pf30",
+    "dataPageNo": "30",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "A Model Expressed in Software 52"
+    },
+    "bottom": {
+      "x": 110.351627,
+      "y": 143.046834,
+      "fs": 28.446197,
+      "ff": "ff12",
+      "m": "m0",
+      "text": "  }"
+    }
+  },
+  {
+    "pageId": "pf31",
+    "dataPageNo": "31",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "A Model Expressed in Software 53"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 172.148538,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "was confusing to me, because I had never even visited that ruined place."
+    }
+  },
+  {
+    "pageId": "pf32",
+    "dataPageNo": "32",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "A Model Expressed in Software 54"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 277.30798,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "corruption."
+    }
+  },
+  {
+    "pageId": "pf33",
+    "dataPageNo": "33",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "A Model Expressed in Software 55"
+    },
+    "bottom": {
+      "x": null,
+      "y": 133.565082,
+      "fs": null,
+      "ff": "ff11",
+      "m": "m0",
+      "text": " are a fundamental distinction in a domain model."
+    }
+  },
+  {
+    "pageId": "pf34",
+    "dataPageNo": "34",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "A Model Expressed in Software 56"
+    },
+    "bottom": {
+      "x": 239.422003,
+      "y": 204.773006,
+      "fs": 31.734672,
+      "ff": "ff11",
+      "m": "m1",
+      "text": "Figure 5.5. Attributes associated with identity stay with the ENTITY."
+    }
+  },
+  {
+    "pageId": "pf35",
+    "dataPageNo": "35",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "A Model Expressed in Software 57"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 145.734886,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "their own symbol. Such systems often use an identifier issued by some other institution, typically a"
+    }
+  },
+  {
+    "pageId": "pf36",
+    "dataPageNo": "36",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "A Model Expressed in Software 58"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 143.230753,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "made by each marker. Drawing would no longer be child's play."
+    }
+  },
+  {
+    "pageId": "pf37",
+    "dataPageNo": "37",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "A Model Expressed in Software 59"
+    },
+    "bottom": {
+      "x": 322.001804,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "."
+    }
+  },
+  {
+    "pageId": "pf38",
+    "dataPageNo": "38",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "A Model Expressed in Software 60"
+    },
+    "bottom": {
+      "x": null,
+      "y": 133.564375,
+      "fs": null,
+      "ff": "ff11",
+      "m": "m0",
+      "text": " pattern, by Ward Cunningham."
+    }
+  },
+  {
+    "pageId": "pf39",
+    "dataPageNo": "39",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "A Model Expressed in Software 61"
+    },
+    "bottom": {
+      "x": 353.502949,
+      "y": 223.73085,
+      "fs": 32.067994,
+      "ff": "ff11",
+      "m": "m0",
+      "text": " as immutable when you can."
+    }
+  },
+  {
+    "pageId": "pf3a",
+    "dataPageNo": "3a",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "A Model Expressed in Software 62"
+    },
+    "bottom": {
+      "x": 477.695217,
+      "y": 333.898558,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": ". . . ."
+    }
+  },
+  {
+    "pageId": "pf3b",
+    "dataPageNo": "3b",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "A Model Expressed in Software 63"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 244.740102,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "nical frameworks, but they can also apply in the domain layer."
+    }
+  },
+  {
+    "pageId": "pf3c",
+    "dataPageNo": "3c",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "A Model Expressed in Software 64"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 175.784483,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "any business meaning at all."
+    }
+  },
+  {
+    "pageId": "pf3d",
+    "dataPageNo": "3d",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "A Model Expressed in Software 65"
+    },
+    "bottom": {
+      "x": null,
+      "y": 156.034371,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": " is the most natural way to express a domain concept."
+    }
+  },
+  {
+    "pageId": "pf3e",
+    "dataPageNo": "3e",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "A Model Expressed in Software 66"
+    },
+    "bottom": {
+      "x": 203.286089,
+      "y": 235.20459,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": ", a scale of complexity a human mind can easily handle."
+    }
+  },
+  {
+    "pageId": "pf3f",
+    "dataPageNo": "3f",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "A Model Expressed in Software 67"
+    },
+    "bottom": {
+      "x": 291.39196,
+      "y": 204.079772,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": ", and minimizing clutter in communicating to other developers."
+    }
+  },
+  {
+    "pageId": "pf40",
+    "dataPageNo": "40",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "A Model Expressed in Software 68"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 185.942492,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "tiers also."
+    }
+  },
+  {
+    "pageId": "pf41",
+    "dataPageNo": "41",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "A Model Expressed in Software 69"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 161.297295,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "out the use of other packaging schemes that are tailored to the needs of the domain model."
+    }
+  },
+  {
+    "pageId": "pf42",
+    "dataPageNo": "42",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "A Model Expressed in Software 70"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 141.490593,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "a model to be expressed in software."
+    }
+  },
+  {
+    "pageId": "pf43",
+    "dataPageNo": "43",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "A Model Expressed in Software 71"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 148.564415,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "technologies are fairly well understood, so that knowledgeable teams are less likely to overreach."
+    }
+  },
+  {
+    "pageId": "pf44",
+    "dataPageNo": "44",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "A Model Expressed in Software 72"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 152.808708,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "and it seems like a good complement to the strengths and weaknesses of objects."
+    }
+  },
+  {
+    "pageId": "pf45",
+    "dataPageNo": "45",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "A Model Expressed in Software 73"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 203.740228,
+      "fs": 37.727052,
+      "ff": "ff11",
+      "m": "m0",
+      "text": "challenges of the object life cycle."
+    }
+  },
+  {
+    "pageId": "pf46",
+    "dataPageNo": "46",
+    "top": {
+      "x": null,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "74"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 140.655882,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "This pattern is crucial to maintaining integrity in all phases of the life cycle."
+    }
+  },
+  {
+    "pageId": "pf47",
+    "dataPageNo": "47",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "The Life Cycle of a Domain Object 75"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 144.305974,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "nores a basic modeling issue."
+    }
+  },
+  {
+    "pageId": "pf48",
+    "dataPageNo": "48",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "The Life Cycle of a Domain Object 76"
+    },
+    "bottom": {
+      "x": 106.544637,
+      "y": 133.564375,
+      "fs": null,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "David Siegel devised and used this system on projects in the 1990s but has not published it."
+    }
+  },
+  {
+    "pageId": "pf49",
+    "dataPageNo": "49",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "The Life Cycle of a Domain Object 77"
+    },
+    "bottom": {
+      "x": 307.69995,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "."
+    }
+  },
+  {
+    "pageId": "pf4a",
+    "dataPageNo": "4a",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "The Life Cycle of a Domain Object 78"
+    },
+    "bottom": {
+      "x": 137.232152,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "itself invalid if an item pushes it over the limit. As we'll see, this is not adequate protection."
+    }
+  },
+  {
+    "pageId": "pf4b",
+    "dataPageNo": "4b",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "The Life Cycle of a Domain Object 79"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 289.375921,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "other user's change."
+    }
+  },
+  {
+    "pageId": "pf4c",
+    "dataPageNo": "4c",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "The Life Cycle of a Domain Object 80"
+    },
+    "bottom": {
+      "x": 309.375031,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": " POs:"
+    }
+  },
+  {
+    "pageId": "pf4d",
+    "dataPageNo": "4d",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "The Life Cycle of a Domain Object 81"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "They should, of course, show the prices as of the time they were filled, rather than current prices."
+    }
+  },
+  {
+    "pageId": "pf4e",
+    "dataPageNo": "4e",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "The Life Cycle of a Domain Object 82"
+    },
+    "bottom": {
+      "x": null,
+      "y": 422.858946,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": ", encapsulating the complexity of specific life cycle transitions. . . ."
+    }
+  },
+  {
+    "pageId": "pf4f",
+    "dataPageNo": "4f",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "The Life Cycle of a Domain Object 83"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 163.037455,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "needs, it must know something about the internal structure of the object. In order to enforce all the"
+    }
+  },
+  {
+    "pageId": "pf50",
+    "dataPageNo": "50",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "The Life Cycle of a Domain Object 84"
+    },
+    "bottom": {
+      "x": null,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "   "
+    }
+  },
+  {
+    "pageId": "pf51",
+    "dataPageNo": "51",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "The Life Cycle of a Domain Object 85"
+    },
+    "bottom": {
+      "x": null,
+      "y": 190.63951,
+      "fs": 31.734672,
+      "ff": "ff17",
+      "m": "m1",
+      "text": "Figure 6.13. A FACTORY METHOD encapsulates expansion of an AGGREGATE."
+    }
+  },
+  {
+    "pageId": "pf52",
+    "dataPageNo": "52",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "The Life Cycle of a Domain Object 86"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "The trade-offs favor a bare, public constructor in the following circumstances."
+    }
+  },
+  {
+    "pageId": "pf53",
+    "dataPageNo": "53",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "The Life Cycle of a Domain Object 87"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 198.081171,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "Structure.”)"
+    }
+  },
+  {
+    "pageId": "pf54",
+    "dataPageNo": "54",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "The Life Cycle of a Domain Object 88"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 169.785882,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "complex process of reassembling the parts into a live object."
+    }
+  },
+  {
+    "pageId": "pf55",
+    "dataPageNo": "55",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "The Life Cycle of a Domain Object 89"
+    },
+    "bottom": {
+      "x": 259.937502,
+      "y": 133.850865,
+      "fs": 31.734672,
+      "ff": "ff17",
+      "m": "m1",
+      "text": "Figure 6.17. Reconstituting an ENTITY transmitted as XML"
+    }
+  },
+  {
+    "pageId": "pf56",
+    "dataPageNo": "56",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "The Life Cycle of a Domain Object 90"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 147.828737,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "model cohesive. This self-imposed limitation forced them to create just the kind of endless tangle"
+    }
+  },
+  {
+    "pageId": "pf57",
+    "dataPageNo": "57",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "The Life Cycle of a Domain Object 91"
+    },
+    "bottom": {
+      "x": 377.15781,
+      "y": 148.564415,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": ") live brief lives, used in the client operation that created"
+    }
+  },
+  {
+    "pageId": "pf58",
+    "dataPageNo": "58",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "The Life Cycle of a Domain Object 92"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 226.37646,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "all matching objects of some numerical attribute."
+    }
+  },
+  {
+    "pageId": "pf59",
+    "dataPageNo": "59",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "The Life Cycle of a Domain Object 93"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 176.689932,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "tribute that was intended by the model to be tallied."
+    }
+  },
+  {
+    "pageId": "pf5a",
+    "dataPageNo": "5a",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "The Life Cycle of a Domain Object 94"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "problem hadn't shown up in testing because of the small amount of test data."
+    }
+  },
+  {
+    "pageId": "pf5b",
+    "dataPageNo": "5b",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "The Life Cycle of a Domain Object 95"
+    },
+    "bottom": {
+      "x": 124.499272,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "lated, dummy in-memory strategy."
+    }
+  },
+  {
+    "pageId": "pf5c",
+    "dataPageNo": "5c",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "The Life Cycle of a Domain Object 96"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 161.297295,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "be created), but it is the same conceptual object, still in the middle of its life cycle."
+    }
+  },
+  {
+    "pageId": "pf5d",
+    "dataPageNo": "5d",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "The Life Cycle of a Domain Object 97"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "domain, and a framework that transparently combines them will actually muddle the situation."
+    }
+  },
+  {
+    "pageId": "pf5e",
+    "dataPageNo": "5e",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "The Life Cycle of a Domain Object 98"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 179.689233,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "not lead to total abandonment of the principle of simple mappings."
+    }
+  },
+  {
+    "pageId": "pf5f",
+    "dataPageNo": "5f",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "The Life Cycle of a Domain Object 99"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 778.13601,
+      "fs": 37.727052,
+      "ff": "ff17",
+      "m": "m0",
+      "text": "not an awkward one full of compromises conforming to last year's object model."
+    }
+  },
+  {
+    "pageId": "pf60",
+    "dataPageNo": "60",
+    "top": {
+      "x": null,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "100"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 479.647591,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "needed concepts in a reasonable form, and we'll focus on fine-tuning the details to support design."
+    }
+  },
+  {
+    "pageId": "pf61",
+    "dataPageNo": "61",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Using the Language: An Extended Example 101"
+    },
+    "bottom": {
+      "x": 137.232152,
+      "y": 166.022608,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "think about (and, in fact, could be easily changed later)."
+    }
+  },
+  {
+    "pageId": "pf62",
+    "dataPageNo": "62",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Using the Language: An Extended Example 102"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 185.348291,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "represented. First we'll go through the clear-cut cases and then consider the more ambiguous ones."
+    }
+  },
+  {
+    "pageId": "pf63",
+    "dataPageNo": "63",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Using the Language: An Extended Example 103"
+    },
+    "bottom": {
+      "x": 333.061017,
+      "y": 212.228815,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "."
+    }
+  },
+  {
+    "pageId": "pf64",
+    "dataPageNo": "64",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Using the Language: An Extended Example 104"
+    },
+    "bottom": {
+      "x": null,
+      "y": 197.00595,
+      "fs": 31.734672,
+      "ff": null,
+      "m": "m1",
+      "text": "Figure 7.2. Traversal direction has been constrained on some associations."
+    }
+  },
+  {
+    "pageId": "pf65",
+    "dataPageNo": "65",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Using the Language: An Extended Example 105"
+    },
+    "bottom": {
+      "x": 651.527325,
+      "y": 482.448825,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "."
+    }
+  },
+  {
+    "pageId": "pf66",
+    "dataPageNo": "66",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Using the Language: An Extended Example 106"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 361.896746,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "the system which Cargo has been loaded, so we need a Cargo Repository."
+    }
+  },
+  {
+    "pageId": "pf67",
+    "dataPageNo": "67",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Using the Language: An Extended Example 107"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 224.098689,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "a new one, then use a setter method on Cargo to replace the old one with the new one."
+    }
+  },
+  {
+    "pageId": "pf68",
+    "dataPageNo": "68",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Using the Language: An Extended Example 108"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 168.17305,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "take a Cargo as an argument. The result would be something like this:"
+    }
+  },
+  {
+    "pageId": "pf69",
+    "dataPageNo": "69",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Using the Language: An Extended Example 109"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 218.142531,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "inconsistent."
+    }
+  },
+  {
+    "pageId": "pf6a",
+    "dataPageNo": "6a",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Using the Language: An Extended Example 110"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 209.243662,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "maintaining consistency in the cyclical reference between Cargo and Handling Event."
+    }
+  },
+  {
+    "pageId": "pf6b",
+    "dataPageNo": "6b",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Using the Language: An Extended Example 111"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "pay much for that option."
+    }
+  },
+  {
+    "pageId": "pf6c",
+    "dataPageNo": "6c",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Using the Language: An Extended Example 112"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 693.250143,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "of shipping; it is the story of what the developer was reading at the time."
+    }
+  },
+  {
+    "pageId": "pf6d",
+    "dataPageNo": "6d",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Using the Language: An Extended Example 113"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 251.332905,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "do it. Figure 7.8 shows a straightforward one."
+    }
+  },
+  {
+    "pageId": "pf6e",
+    "dataPageNo": "6e",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Using the Language: An Extended Example 114"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 172.813478,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "they want it checked against these allocations to see if it should be accepted."
+    }
+  },
+  {
+    "pageId": "pf6f",
+    "dataPageNo": "6f",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Using the Language: An Extended Example 115"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 186.112263,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "gories of cargo. We should brainstorm with a domain expert to work out the new concept."
+    }
+  },
+  {
+    "pageId": "pf70",
+    "dataPageNo": "70",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Using the Language: An Extended Example 116"
+    },
+    "bottom": {
+      "x": 296.503504,
+      "y": 258.618941,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": " and make the interaction clear and explicit."
+    }
+  },
+  {
+    "pageId": "pf71",
+    "dataPageNo": "71",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Using the Language: An Extended Example 117"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "methods for deriving specific types of Enterprise Segment. Therefore, the responsibility for deriving"
+    }
+  },
+  {
+    "pageId": "pf72",
+    "dataPageNo": "72",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Using the Language: An Extended Example 118"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 962.055388,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "design and shouldn't be a very disruptive change."
+    }
+  },
+  {
+    "pageId": "pf73",
+    "dataPageNo": "73",
+    "top": {
+      "x": null,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "122"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 147.177946,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "model."
+    }
+  },
+  {
+    "pageId": "pf74",
+    "dataPageNo": "74",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Breakthrough 123"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "ments to the model."
+    }
+  },
+  {
+    "pageId": "pf75",
+    "dataPageNo": "75",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Breakthrough 124"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "shares, resulting in a $50MM Loan divided among the lenders."
+    }
+  },
+  {
+    "pageId": "pf76",
+    "dataPageNo": "76",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Breakthrough 125"
+    },
+    "bottom": {
+      "x": 189.172399,
+      "y": 133.850865,
+      "fs": 31.734672,
+      "ff": null,
+      "m": "m1",
+      "text": "Figure 8.6. Fee payments are always distributed proportionally to shares in the Facility."
+    }
+  },
+  {
+    "pageId": "pf77",
+    "dataPageNo": "77",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Breakthrough 126"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "calculations more expressive, concise, and easily combined."
+    }
+  },
+  {
+    "pageId": "pf78",
+    "dataPageNo": "78",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Breakthrough 127"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 135.831535,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "miration for the courage and trust it took for him to make that decision."
+    }
+  },
+  {
+    "pageId": "pf79",
+    "dataPageNo": "79",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Breakthrough 128"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 158.467766,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "plied by all those complicated methods."
+    }
+  },
+  {
+    "pageId": "pf7a",
+    "dataPageNo": "7a",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Breakthrough 129"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 504.787956,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "down in the mass and complexity of what has already been built."
+    }
+  },
+  {
+    "pageId": "pf7b",
+    "dataPageNo": "7b",
+    "top": {
+      "x": null,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "130"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 178.302764,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "you've always done before. The users correct you on the details of how the new model connects,"
+    }
+  },
+  {
+    "pageId": "pf7c",
+    "dataPageNo": "7c",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "Making Implicit Concepts Explicit 131"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 151.379796,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "Expert: They're going to need the whole itinerary for the Cargo. What information does it have now?"
+    }
+  },
+  {
+    "pageId": "pf7d",
+    "dataPageNo": "7d",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "Making Implicit Concepts Explicit 132"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 146.074429,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "experts when needed. They came up with the diagram in Figure 9.3."
+    }
+  },
+  {
+    "pageId": "pf7e",
+    "dataPageNo": "7e",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "Making Implicit Concepts Explicit 133"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 142.183827,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "new requirement seems to add complexity."
+    }
+  },
+  {
+    "pageId": "pf7f",
+    "dataPageNo": "7f",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "Making Implicit Concepts Explicit 134"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "Expert: What do you mean?"
+    }
+  },
+  {
+    "pageId": "pf80",
+    "dataPageNo": "80",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "Making Implicit Concepts Explicit 135"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 177.552938,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "period. And then we could just hang on to them all. How about this?"
+    }
+  },
+  {
+    "pageId": "pf81",
+    "dataPageNo": "81",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "Making Implicit Concepts Explicit 136"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 193.808582,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "in a few hours and had the new design working late the next day. She ended up with this."
+    }
+  },
+  {
+    "pageId": "pf82",
+    "dataPageNo": "82",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "Making Implicit Concepts Explicit 137"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 170.111277,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "of motion."
+    }
+  },
+  {
+    "pageId": "pf83",
+    "dataPageNo": "83",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "Making Implicit Concepts Explicit 138"
+    },
+    "bottom": {
+      "x": null,
+      "y": 181.797232,
+      "fs": 31.734672,
+      "ff": "ff20",
+      "m": "m1",
+      "text": "Figure 9.9. A somewhat deeper model based on book learning"
+    }
+  },
+  {
+    "pageId": "pf84",
+    "dataPageNo": "84",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "Making Implicit Concepts Explicit 139"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 165.541588,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "plicitly, and expressing them explicitly can greatly improve a design."
+    }
+  },
+  {
+    "pageId": "pf85",
+    "dataPageNo": "85",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "Making Implicit Concepts Explicit 140"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 185.999082,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "constraint can grow in complexity if need be."
+    }
+  },
+  {
+    "pageId": "pf86",
+    "dataPageNo": "86",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "Making Implicit Concepts Explicit 141"
+    },
+    "bottom": {
+      "x": 392.182609,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": " in the domain.)"
+    }
+  },
+  {
+    "pageId": "pf87",
+    "dataPageNo": "87",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "Making Implicit Concepts Explicit 142"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 152.087178,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "the logic paradigm."
+    }
+  },
+  {
+    "pageId": "pf88",
+    "dataPageNo": "88",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "Making Implicit Concepts Explicit 143"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 323.981059,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "means to be delinquent and that can evaluate any Invoice and make the determination."
+    }
+  },
+  {
+    "pageId": "pf89",
+    "dataPageNo": "89",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "Making Implicit Concepts Explicit 144"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 145.918805,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "tern allows a consistent model to be used, even when the implementation may have to diverge."
+    }
+  },
+  {
+    "pageId": "pf8a",
+    "dataPageNo": "8a",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "Making Implicit Concepts Explicit 145"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 190.93661,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "mentation issues are different."
+    }
+  },
+  {
+    "pageId": "pf8b",
+    "dataPageNo": "8b",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "Making Implicit Concepts Explicit 146"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 318.392739,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "Figure 9.15)."
+    }
+  },
+  {
+    "pageId": "pf8c",
+    "dataPageNo": "8c",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "Making Implicit Concepts Explicit 147"
+    },
+    "bottom": {
+      "x": 110.351627,
+      "y": 135.1383,
+      "fs": 28.446197,
+      "ff": "ff21",
+      "m": "m0",
+      "text": "}"
+    }
+  },
+  {
+    "pageId": "pf8d",
+    "dataPageNo": "8d",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "Making Implicit Concepts Explicit 148"
+    },
+    "bottom": {
+      "x": 110.351627,
+      "y": 214.350962,
+      "fs": 28.446197,
+      "ff": "ff21",
+      "m": "m0",
+      "text": "}"
+    }
+  },
+  {
+    "pageId": "pf8e",
+    "dataPageNo": "8e",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "Making Implicit Concepts Explicit 149"
+    },
+    "bottom": {
+      "x": 526.749344,
+      "y": 159.88253,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": ", discussed in Chapter 10.)"
+    }
+  },
+  {
+    "pageId": "pf8f",
+    "dataPageNo": "8f",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "Making Implicit Concepts Explicit 150"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 139.807023,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "look for the “armored” feature:"
+    }
+  },
+  {
+    "pageId": "pf90",
+    "dataPageNo": "90",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "Making Implicit Concepts Explicit 151"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 189.451107,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "out of the domain objects."
+    }
+  },
+  {
+    "pageId": "pf91",
+    "dataPageNo": "91",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "Making Implicit Concepts Explicit 152"
+    },
+    "bottom": {
+      "x": 110.351627,
+      "y": 147.305275,
+      "fs": 28.446197,
+      "ff": "ff21",
+      "m": "m0",
+      "text": "         Container container = (Container) it.next();"
+    }
+  },
+  {
+    "pageId": "pf92",
+    "dataPageNo": "92",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "Making Implicit Concepts Explicit 153"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 396.883871,
+      "fs": 37.727052,
+      "ff": "ff20",
+      "m": "m0",
+      "text": "be more coupled to the rest of the design), and in this case, would likely take longer to prototype."
+    }
+  },
+  {
+    "pageId": "pf93",
+    "dataPageNo": "93",
+    "top": {
+      "x": null,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "154"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 224.282608,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "legacy—demands a design that is a pleasure to work with, inviting to change. A supple design."
+    }
+  },
+  {
+    "pageId": "pf94",
+    "dataPageNo": "94",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 155"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 434.346834,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "give a feel for what a supple design is like and the kind of thinking that goes into it."
+    }
+  },
+  {
+    "pageId": "pf95",
+    "dataPageNo": "95",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 156"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 156.189995,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "abstraction of the system."
+    }
+  },
+  {
+    "pageId": "pf96",
+    "dataPageNo": "96",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 157"
+    },
+    "bottom": {
+      "x": 110.351627,
+      "y": 146.003691,
+      "fs": 28.446197,
+      "ff": "ff26",
+      "m": "m0",
+      "text": "    Paint blue = new Paint(100.0, 0, 0, 50);"
+    }
+  },
+  {
+    "pageId": "pf97",
+    "dataPageNo": "97",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 158"
+    },
+    "bottom": {
+      "x": 341.717961,
+      "y": 137.996124,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "."
+    }
+  },
+  {
+    "pageId": "pf98",
+    "dataPageNo": "98",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 159"
+    },
+    "bottom": {
+      "x": 207.237526,
+      "y": 148.564415,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "."
+    }
+  },
+  {
+    "pageId": "pf99",
+    "dataPageNo": "99",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 160"
+    },
+    "bottom": {
+      "x": 110.351627,
+      "y": 436.766081,
+      "fs": 28.446197,
+      "ff": "ff26",
+      "m": "m0",
+      "text": "}"
+    }
+  },
+  {
+    "pageId": "pf9a",
+    "dataPageNo": "9a",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 161"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 254.077548,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "the new color."
+    }
+  },
+  {
+    "pageId": "pf9b",
+    "dataPageNo": "9b",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 162"
+    },
+    "bottom": {
+      "x": null,
+      "y": 165.272783,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "   "
+    }
+  },
+  {
+    "pageId": "pf9c",
+    "dataPageNo": "9c",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 163"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 212.568359,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "then, after execution, the test checks to see if the post-conditions hold."
+    }
+  },
+  {
+    "pageId": "pf9d",
+    "dataPageNo": "9d",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 164"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 152.101326,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "This means we can repeat the calculation any time we need to. We should take advantage of that."
+    }
+  },
+  {
+    "pageId": "pf9e",
+    "dataPageNo": "9e",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 165"
+    },
+    "bottom": {
+      "x": 110.351627,
+      "y": 762.010525,
+      "fs": 28.446197,
+      "ff": "ff26",
+      "m": "m0",
+      "text": "}"
+    }
+  },
+  {
+    "pageId": "pf9f",
+    "dataPageNo": "9f",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 166"
+    },
+    "bottom": {
+      "x": null,
+      "y": 133.564375,
+      "fs": null,
+      "ff": "ff25",
+      "m": "m0",
+      "text": " pattern, by Ward Cunningham."
+    }
+  },
+  {
+    "pageId": "pfa0",
+    "dataPageNo": "a0",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 167"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 571.578985,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "cepts:"
+    }
+  },
+  {
+    "pageId": "pfa1",
+    "dataPageNo": "a1",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 168"
+    },
+    "bottom": {
+      "x": null,
+      "y": 363.948155,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "."
+    }
+  },
+  {
+    "pageId": "pfa2",
+    "dataPageNo": "a2",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 169"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 585.217315,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "elements would connect naturally to the single Payment class."
+    }
+  },
+  {
+    "pageId": "pfa3",
+    "dataPageNo": "a3",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 170"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 165.881132,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "three public integers representing red, yellow, and blue color values. The creation of the Pigment"
+    }
+  },
+  {
+    "pageId": "pfa4",
+    "dataPageNo": "a4",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 171"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 149.851851,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "be hard to grasp how powerful its little tricks are. But this one is used extensively in software designs"
+    }
+  },
+  {
+    "pageId": "pfa5",
+    "dataPageNo": "a5",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 172"
+    },
+    "bottom": {
+      "x": 110.351627,
+      "y": 169.290714,
+      "fs": 28.446197,
+      "ff": "ff26",
+      "m": "m0",
+      "text": "         [:anEmployee | anEmployee salary < 40000]."
+    }
+  },
+  {
+    "pageId": "pfa6",
+    "dataPageNo": "a6",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 173"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 148.903958,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "to declarative design. Unfortunately, subtle issues can undermine this intention."
+    }
+  },
+  {
+    "pageId": "pfa7",
+    "dataPageNo": "a7",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 174"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 216.840947,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "system."
+    }
+  },
+  {
+    "pageId": "pfa8",
+    "dataPageNo": "a8",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 175"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 215.313002,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Now, let's extend the Specification interface by adding the three new operations:"
+    }
+  },
+  {
+    "pageId": "pfa9",
+    "dataPageNo": "a9",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 176"
+    },
+    "bottom": {
+      "x": 110.351627,
+      "y": 146.838402,
+      "fs": 28.446197,
+      "ff": "ff26",
+      "m": "m0",
+      "text": "      one = x;"
+    }
+  },
+  {
+    "pageId": "pfaa",
+    "dataPageNo": "aa",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 177"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "plement only AND, if that is all you need."
+    }
+  },
+  {
+    "pageId": "pfab",
+    "dataPageNo": "ab",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 178"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 148.705891,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "ulations."
+    }
+  },
+  {
+    "pageId": "pfac",
+    "dataPageNo": "ac",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 179"
+    },
+    "bottom": {
+      "x": 149.024213,
+      "y": 146.894993,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": " can define their own subsumption rule."
+    }
+  },
+  {
+    "pageId": "pfad",
+    "dataPageNo": "ad",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 180"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 198.576338,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "carefully if the benefit is great enough to justify the difficulty."
+    }
+  },
+  {
+    "pageId": "pfae",
+    "dataPageNo": "ae",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 181"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 164.805911,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "money is, by default, prorated according to the lenders' shares in the loan."
+    }
+  },
+  {
+    "pageId": "pfaf",
+    "dataPageNo": "af",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 182"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 279.373536,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "modifies the Loan. Let's refactor to separate the query from the modifier."
+    }
+  },
+  {
+    "pageId": "pfb0",
+    "dataPageNo": "b0",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 183"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 310.993521,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "this concept explicit will let us express those rules and calculations more succinctly."
+    }
+  },
+  {
+    "pageId": "pfb1",
+    "dataPageNo": "b1",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 184"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 151.125139,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "that responsibility. Still, the calculations haven't really become more versatile or easier to use."
+    }
+  },
+  {
+    "pageId": "pfb2",
+    "dataPageNo": "b2",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 185"
+    },
+    "bottom": {
+      "x": 110.351627,
+      "y": 147.545784,
+      "fs": 28.446197,
+      "ff": "ff26",
+      "m": "m0",
+      "text": "   while(it.hasNext()) {"
+    }
+  },
+  {
+    "pageId": "pfb3",
+    "dataPageNo": "b3",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 186"
+    },
+    "bottom": {
+      "x": 110.351627,
+      "y": 137.260447,
+      "fs": 28.446197,
+      "ff": "ff26",
+      "m": "m0",
+      "text": "public class Loan {"
+    }
+  },
+  {
+    "pageId": "pfb4",
+    "dataPageNo": "b4",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "Supple Design 187"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 205.494536,
+      "fs": 37.727052,
+      "ff": "ff25",
+      "m": "m0",
+      "text": "make large and complex projects more tractable."
+    }
+  },
+  {
+    "pageId": "pfb5",
+    "dataPageNo": "b5",
+    "top": {
+      "x": null,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "188"
+    },
+    "bottom": {
+      "x": 267.800763,
+      "y": 170.182016,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "."
+    }
+  },
+  {
+    "pageId": "pfb6",
+    "dataPageNo": "b6",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Applying Analysis Patterns 189"
+    },
+    "bottom": {
+      "x": 124.499272,
+      "y": 346.122123,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "of the accounting models."
+    }
+  },
+  {
+    "pageId": "pfb7",
+    "dataPageNo": "b7",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Applying Analysis Patterns 190"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 344.551734,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "porating some of the model elements they've read about."
+    }
+  },
+  {
+    "pageId": "pfb8",
+    "dataPageNo": "b8",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Applying Analysis Patterns 191"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 242.844318,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Developer 1: Yes, we really needed a word like that. OK, how does this look?"
+    }
+  },
+  {
+    "pageId": "pfb9",
+    "dataPageNo": "b9",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Applying Analysis Patterns 192"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "With different infrastructure, they might have avoided this clumsy expansion."
+    }
+  },
+  {
+    "pageId": "pfba",
+    "dataPageNo": "ba",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Applying Analysis Patterns 193"
+    },
+    "bottom": {
+      "x": 124.499272,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "the tangle of dependencies is to make these rules explicit by introducing a new object."
+    }
+  },
+  {
+    "pageId": "pfbb",
+    "dataPageNo": "bb",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Applying Analysis Patterns 194"
+    },
+    "bottom": {
+      "x": null,
+      "y": 304.386571,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "]"
+    }
+  },
+  {
+    "pageId": "pfbc",
+    "dataPageNo": "bc",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Applying Analysis Patterns 195"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 134.968529,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "category the business applies to each Asset). That is one place I'm hoping this new model will help."
+    }
+  },
+  {
+    "pageId": "pfbd",
+    "dataPageNo": "bd",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Applying Analysis Patterns 196"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "direct and so they made a pragmatic decision."
+    }
+  },
+  {
+    "pageId": "pfbe",
+    "dataPageNo": "be",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Applying Analysis Patterns 197"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 417.36966,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "pensive if you have to discover them for yourself."
+    }
+  },
+  {
+    "pageId": "pfbf",
+    "dataPageNo": "bf",
+    "top": {
+      "x": null,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "198"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 368.447106,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "way. . . ."
+    }
+  },
+  {
+    "pageId": "pfc0",
+    "dataPageNo": "c0",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Relating Design Patterns to the Model 199"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 161.707577,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "tuned to find either the fastest route or the cheapest one."
+    }
+  },
+  {
+    "pageId": "pfc1",
+    "dataPageNo": "c1",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Relating Design Patterns to the Model 200"
+    },
+    "bottom": {
+      "x": 182.904992,
+      "y": 142.381894,
+      "fs": 31.734672,
+      "ff": null,
+      "m": "m1",
+      "text": "Figure 12.2. Options determined by choice of STRATEGY (POLICY) passed as argument"
+    }
+  },
+  {
+    "pageId": "pfc2",
+    "dataPageNo": "c2",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Relating Design Patterns to the Model 201"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 157.095445,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "cases, there is a sense in which the parts are the same kind of thing as the whole, only smaller."
+    }
+  },
+  {
+    "pageId": "pfc3",
+    "dataPageNo": "c3",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Relating Design Patterns to the Model 202"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 202.877222,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "strings of legs that assemble into a route."
+    }
+  },
+  {
+    "pageId": "pfc4",
+    "dataPageNo": "c4",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Relating Design Patterns to the Model 203"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "scheduled rail and ship transports."
+    }
+  },
+  {
+    "pageId": "pfc5",
+    "dataPageNo": "c5",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Relating Design Patterns to the Model 204"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 476.987834,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Figure 12.8.)"
+    }
+  },
+  {
+    "pageId": "pfc6",
+    "dataPageNo": "c6",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Relating Design Patterns to the Model 205"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 567.179068,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "the operational plan is simple again, as are other route-traversing operations."
+    }
+  },
+  {
+    "pageId": "pfc7",
+    "dataPageNo": "c7",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Relating Design Patterns to the Model 206"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 194.020797,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "pattern applies to both model and implementation, which is an essential trait of a domain pattern."
+    }
+  },
+  {
+    "pageId": "pfc8",
+    "dataPageNo": "c8",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Relating Design Patterns to the Model 207"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 962.055388,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "technical problem."
+    }
+  },
+  {
+    "pageId": "pfc9",
+    "dataPageNo": "c9",
+    "top": {
+      "x": null,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff32",
+      "m": "m0",
+      "text": "208"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 172.643706,
+      "fs": 37.727052,
+      "ff": "ff32",
+      "m": "m0",
+      "text": "people."
+    }
+  },
+  {
+    "pageId": "pfca",
+    "dataPageNo": "ca",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff32",
+      "m": "m0",
+      "text": "Refactoring Toward Deeper Insight 209"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 198.081171,
+      "fs": 37.727052,
+      "ff": "ff32",
+      "m": "m0",
+      "text": "tight and readily understood models."
+    }
+  },
+  {
+    "pageId": "pfcb",
+    "dataPageNo": "cb",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff32",
+      "m": "m0",
+      "text": "Refactoring Toward Deeper Insight 210"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 162.712059,
+      "fs": 37.727052,
+      "ff": "ff32",
+      "m": "m0",
+      "text": "lead to a deep model and supple design emerge from them."
+    }
+  },
+  {
+    "pageId": "pfcc",
+    "dataPageNo": "cc",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff32",
+      "m": "m0",
+      "text": "Refactoring Toward Deeper Insight 211"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 879.99905,
+      "fs": 37.727052,
+      "ff": "ff32",
+      "m": "m0",
+      "text": "then steady refinement starts again."
+    }
+  },
+  {
+    "pageId": "pfcd",
+    "dataPageNo": "cd",
+    "top": {
+      "x": null,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "214"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 205.183288,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "ment about the domain would be consistent."
+    }
+  },
+  {
+    "pageId": "pfce",
+    "dataPageNo": "ce",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 215"
+    },
+    "bottom": {
+      "x": null,
+      "y": 319.750913,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "."
+    }
+  },
+  {
+    "pageId": "pfcf",
+    "dataPageNo": "cf",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 216"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 166.079199,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "unpredictable."
+    }
+  },
+  {
+    "pageId": "pfd0",
+    "dataPageNo": "d0",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 217"
+    },
+    "bottom": {
+      "x": null,
+      "y": 223.73085,
+      "fs": 32.067994,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "actually make it harder to spot accidental model fragmentation."
+    }
+  },
+  {
+    "pageId": "pfd1",
+    "dataPageNo": "d1",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 218"
+    },
+    "bottom": {
+      "x": null,
+      "y": 158.80731,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "   "
+    }
+  },
+  {
+    "pageId": "pfd2",
+    "dataPageNo": "d2",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 219"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 390.489136,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "maining patterns in this chapter."
+    }
+  },
+  {
+    "pageId": "pfd3",
+    "dataPageNo": "d3",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 220"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 222.103871,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "(1) the integration of model concepts and (2) the integration of the implementation."
+    }
+  },
+  {
+    "pageId": "pfd4",
+    "dataPageNo": "d4",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 221"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 447.419257,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "interfaces. . . ."
+    }
+  },
+  {
+    "pageId": "pfd5",
+    "dataPageNo": "d5",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 222"
+    },
+    "bottom": {
+      "x": 137.232152,
+      "y": 156.317324,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": " clear."
+    }
+  },
+  {
+    "pageId": "pfd6",
+    "dataPageNo": "d6",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 223"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 464.396431,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "automatic routing of cargos at booking time. The model was something like this:"
+    }
+  },
+  {
+    "pageId": "pfd7",
+    "dataPageNo": "d7",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 224"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "two specific translations:"
+    }
+  },
+  {
+    "pageId": "pfd8",
+    "dataPageNo": "d8",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 225"
+    },
+    "bottom": {
+      "x": 221.836481,
+      "y": 133.850865,
+      "fs": 31.734672,
+      "ff": "ff34",
+      "m": "m1",
+      "text": "Figure 14.5. Translation of a route found by the Network Traversal Service"
+    }
+  },
+  {
+    "pageId": "pfd9",
+    "dataPageNo": "d9",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 226"
+    },
+    "bottom": {
+      "x": 110.351627,
+      "y": 147.941919,
+      "fs": 28.446197,
+      "ff": "ff36",
+      "m": "m0",
+      "text": "      translator.convertConstraints(spec);"
+    }
+  },
+  {
+    "pageId": "pfda",
+    "dataPageNo": "da",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 227"
+    },
+    "bottom": {
+      "x": 106.544637,
+      "y": 133.564375,
+      "fs": null,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Reagan translated an old Russian saying that summed up the heart of the matter for both sides—another metaphor for bridging contexts."
+    }
+  },
+  {
+    "pageId": "pfdb",
+    "dataPageNo": "db",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 228"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 497.218966,
+      "fs": 56.590578,
+      "ff": "ff33",
+      "m": "m0",
+      "text": "Shared Kernel"
+    }
+  },
+  {
+    "pageId": "pfdc",
+    "dataPageNo": "dc",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 229"
+    },
+    "bottom": {
+      "x": 168.912972,
+      "y": 429.366863,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": ") and make integration between the two subsystems relatively easy."
+    }
+  },
+  {
+    "pageId": "pfdd",
+    "dataPageNo": "dd",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 230"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 180.014629,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Therefore:"
+    }
+  },
+  {
+    "pageId": "pfde",
+    "dataPageNo": "de",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 231"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 179.689233,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "application."
+    }
+  },
+  {
+    "pageId": "pfdf",
+    "dataPageNo": "df",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 232"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 274.817994,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "different. . . ."
+    }
+  },
+  {
+    "pageId": "pfe0",
+    "dataPageNo": "e0",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 233"
+    },
+    "bottom": {
+      "x": 194.210375,
+      "y": 254.657601,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": " (see the pattern description later in this chapter)."
+    }
+  },
+  {
+    "pageId": "pfe1",
+    "dataPageNo": "e1",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 234"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "other side. . . ."
+    }
+  },
+  {
+    "pageId": "pfe2",
+    "dataPageNo": "e2",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 235"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 181.429393,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "And even if primitive data elements do have exactly the same meaning, it is usually a mistake to"
+    }
+  },
+  {
+    "pageId": "pfe3",
+    "dataPageNo": "e3",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 236"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 187.102599,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "written strictly in accordance with the other system's model. Otherwise, you will at best diffuse re-"
+    }
+  },
+  {
+    "pageId": "pfe4",
+    "dataPageNo": "e4",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 237"
+    },
+    "bottom": {
+      "x": null,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "."
+    }
+  },
+  {
+    "pageId": "pfe5",
+    "dataPageNo": "e5",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 238"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 207.984522,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "disruption from the chaos outside."
+    }
+  },
+  {
+    "pageId": "pfe6",
+    "dataPageNo": "e6",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 239"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 150.304575,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "logic, and an absolute minimum of data transfer through translation layers—preferably none."
+    }
+  },
+  {
+    "pageId": "pfe7",
+    "dataPageNo": "e7",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 240"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 142.16968,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "subsystems."
+    }
+  },
+  {
+    "pageId": "pfe8",
+    "dataPageNo": "e8",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 241"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 143.584444,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "the formal definition of a specialized domain language into which data can be translated. Industry"
+    }
+  },
+  {
+    "pageId": "pfe9",
+    "dataPageNo": "e9",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 242"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 135.831535,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "organic and inorganic molecules, protein sequences, spectra, or physical quantities."
+    }
+  },
+  {
+    "pageId": "pfea",
+    "dataPageNo": "ea",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 243"
+    },
+    "bottom": {
+      "x": 110.351627,
+      "y": 133.284959,
+      "fs": 22.756958,
+      "ff": "ff34",
+      "m": "m0",
+      "text": " "
+    }
+  },
+  {
+    "pageId": "pfeb",
+    "dataPageNo": "eb",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 244"
+    },
+    "bottom": {
+      "x": 303.444338,
+      "y": 318.237115,
+      "fs": 31.734672,
+      "ff": "ff34",
+      "m": "m1",
+      "text": "Figure 14.9. Four contexts: no integration"
+    }
+  },
+  {
+    "pageId": "pfec",
+    "dataPageNo": "ec",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 245"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 141.533036,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "fangs, or the ability to be detached from the body and rolled up into a compartment in a fire truck."
+    }
+  },
+  {
+    "pageId": "pfed",
+    "dataPageNo": "ed",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 246"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 154.42154,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "relationships between teams often determine how systems are integrated. A technically advanta-"
+    }
+  },
+  {
+    "pageId": "pfee",
+    "dataPageNo": "ee",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 247"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 171.200646,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "identify these immediately and prepare to segregate them from your design."
+    }
+  },
+  {
+    "pageId": "pfef",
+    "dataPageNo": "ef",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 248"
+    },
+    "bottom": {
+      "x": null,
+      "y": 169.785882,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "."
+    }
+  },
+  {
+    "pageId": "pff0",
+    "dataPageNo": "f0",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 249"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 239.10934,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "requiring full unification."
+    }
+  },
+  {
+    "pageId": "pff1",
+    "dataPageNo": "f1",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 250"
+    },
+    "bottom": {
+      "x": 230.047773,
+      "y": 166.588514,
+      "fs": 31.734672,
+      "ff": "ff34",
+      "m": "m1",
+      "text": "Figure 14.13. The relative demands of CONTEXT relationship patterns"
+    }
+  },
+  {
+    "pageId": "pff2",
+    "dataPageNo": "f2",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 251"
+    },
+    "bottom": {
+      "x": 137.232152,
+      "y": 198.052875,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "of starting out with a proven translation, plus you'll be thinning your translation layer."
+    }
+  },
+  {
+    "pageId": "pff3",
+    "dataPageNo": "f3",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 252"
+    },
+    "bottom": {
+      "x": 137.232152,
+      "y": 145.706591,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "integration procedures on the two teams so that everyone is doing things in the same way."
+    }
+  },
+  {
+    "pageId": "pff4",
+    "dataPageNo": "f4",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 253"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 185.348291,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "units, only waiting multiple iterations for deployment."
+    }
+  },
+  {
+    "pageId": "pff5",
+    "dataPageNo": "f5",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 254"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 195.223346,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "cation problems will at least be exposed so they can be dealt with."
+    }
+  },
+  {
+    "pageId": "pff6",
+    "dataPageNo": "f6",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "Maintaining Model Integrity 255"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 819.164179,
+      "fs": 37.727052,
+      "ff": "ff34",
+      "m": "m0",
+      "text": "two more broad principles: distillation and large-scale structure."
+    }
+  },
+  {
+    "pageId": "pff7",
+    "dataPageNo": "f7",
+    "top": {
+      "x": null,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "256"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 175.048805,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "what we are doing."
+    }
+  },
+  {
+    "pageId": "pff8",
+    "dataPageNo": "f8",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "Distillation 257"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 148.040952,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "can be obscured and neglected."
+    }
+  },
+  {
+    "pageId": "pff9",
+    "dataPageNo": "f9",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "Distillation 258"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 147.14965,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "sharp relief. Make the CORE small."
+    }
+  },
+  {
+    "pageId": "pffa",
+    "dataPageNo": "fa",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "Distillation 259"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 221.056945,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "cally challenging work when approached seriously, and developers can be found who see it this way."
+    }
+  },
+  {
+    "pageId": "pffb",
+    "dataPageNo": "fb",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "Distillation 260"
+    },
+    "bottom": {
+      "x": 307.69995,
+      "y": 176.859704,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": " that clarifies the meaning of each. . . ."
+    }
+  },
+  {
+    "pageId": "pffc",
+    "dataPageNo": "fc",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "Distillation 261"
+    },
+    "bottom": {
+      "x": 124.499272,
+      "y": 148.903958,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "homegrown implementation."
+    }
+  },
+  {
+    "pageId": "pffd",
+    "dataPageNo": "fd",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "Distillation 262"
+    },
+    "bottom": {
+      "x": 124.499272,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "important aspects need to be communicated."
+    }
+  },
+  {
+    "pageId": "pffe",
+    "dataPageNo": "fe",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "Distillation 263"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "build it themselves."
+    }
+  },
+  {
+    "pageId": "pfff",
+    "dataPageNo": "ff",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "Distillation 264"
+    },
+    "bottom": {
+      "x": null,
+      "y": 138.98646,
+      "fs": 30.181642,
+      "ff": null,
+      "m": "m0",
+      "text": "repositories of domain knowledge."
+    }
+  },
+  {
+    "pageId": "pf100",
+    "dataPageNo": "100",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "Distillation 265"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 203.994886,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "cannot succeed."
+    }
+  },
+  {
+    "pageId": "pf101",
+    "dataPageNo": "101",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "Distillation 266"
+    },
+    "bottom": {
+      "x": 110.351627,
+      "y": 150.587528,
+      "fs": 30.181642,
+      "ff": null,
+      "m": "m0",
+      "text": "Semiconductor Factory Automation Semiconductor Factory Automation"
+    }
+  },
+  {
+    "pageId": "pf102",
+    "dataPageNo": "102",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "Distillation 267"
+    },
+    "bottom": {
+      "x": null,
+      "y": 154.577164,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": " will do. Two specific techniques can represent this class of solutions."
+    }
+  },
+  {
+    "pageId": "pf103",
+    "dataPageNo": "103",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "Distillation 268"
+    },
+    "bottom": {
+      "x": 436.710905,
+      "y": 202.325464,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": " and get everyone's efforts focused on that."
+    }
+  },
+  {
+    "pageId": "pf104",
+    "dataPageNo": "104",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "Distillation 269"
+    },
+    "bottom": {
+      "x": null,
+      "y": 206.909301,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "   "
+    }
+  },
+  {
+    "pageId": "pf105",
+    "dataPageNo": "105",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "Distillation 270"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 176.859704,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "has authority to approve this?” or “Who, in this department, is capable of handling an issue like this?”"
+    }
+  },
+  {
+    "pageId": "pf106",
+    "dataPageNo": "106",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "Distillation 271"
+    },
+    "bottom": {
+      "x": 526.749344,
+      "y": 143.244901,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": ". I once worked on a project at"
+    }
+  },
+  {
+    "pageId": "pf107",
+    "dataPageNo": "107",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "Distillation 272"
+    },
+    "bottom": {
+      "x": null,
+      "y": 191.007348,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "...."
+    }
+  },
+  {
+    "pageId": "pf108",
+    "dataPageNo": "108",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "Distillation 273"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 178.614012,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "added of enterprise software comes from the enterprise-specific aspects of the model."
+    }
+  },
+  {
+    "pageId": "pf109",
+    "dataPageNo": "109",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "Distillation 274"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 568.749457,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "tion."
+    }
+  },
+  {
+    "pageId": "pf10a",
+    "dataPageNo": "10a",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "Distillation 275"
+    },
+    "bottom": {
+      "x": null,
+      "y": 767.3838,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": " in a new package called Delivery, as shown in Figure 15.3."
+    }
+  },
+  {
+    "pageId": "pf10b",
+    "dataPageNo": "10b",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "Distillation 276"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 189.083269,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "tomer is not as relevant to operations as the agreement itself. In the other model, the correct Cus-"
+    }
+  },
+  {
+    "pageId": "pf10c",
+    "dataPageNo": "10c",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "Distillation 277"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 696.079672,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "other refactorings to get more communicative packaging, as shown in Figure 15.4."
+    }
+  },
+  {
+    "pageId": "pf10d",
+    "dataPageNo": "10d",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "Distillation 278"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 331.974478,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "process."
+    }
+  },
+  {
+    "pageId": "pf10e",
+    "dataPageNo": "10e",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "Distillation 279"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 164.45222,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "and their interactions."
+    }
+  },
+  {
+    "pageId": "pf10f",
+    "dataPageNo": "10f",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "Distillation 280"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 277.647523,
+      "fs": 37.727052,
+      "ff": "ff38",
+      "m": "m0",
+      "text": "This is how to get the most bang for your refactoring buck."
+    }
+  },
+  {
+    "pageId": "pf110",
+    "dataPageNo": "110",
+    "top": {
+      "x": null,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "281"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 187.145041,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "was still more to build."
+    }
+  },
+  {
+    "pageId": "pf111",
+    "dataPageNo": "111",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Large-Scale Structure 282"
+    },
+    "bottom": {
+      "x": null,
+      "y": 137.246299,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": " fragments."
+    }
+  },
+  {
+    "pageId": "pf112",
+    "dataPageNo": "112",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Large-Scale Structure 283"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 137.444366,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "They often prevent the developers from creating designs and models that work well for the specifics"
+    }
+  },
+  {
+    "pageId": "pf113",
+    "dataPageNo": "113",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Large-Scale Structure 284"
+    },
+    "bottom": {
+      "x": 179.078055,
+      "y": 219.302637,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": " to vary the model in ways that address their local needs."
+    }
+  },
+  {
+    "pageId": "pf114",
+    "dataPageNo": "114",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Large-Scale Structure 285"
+    },
+    "bottom": {
+      "x": null,
+      "y": 133.564375,
+      "fs": null,
+      "ff": null,
+      "m": "m0",
+      "text": " finally made sense to me when I heard Ward Cunningham use this firewall example in a workshop lecture."
+    }
+  },
+  {
+    "pageId": "pf115",
+    "dataPageNo": "115",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Large-Scale Structure 286"
+    },
+    "bottom": {
+      "x": null,
+      "y": 136.510622,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "   "
+    }
+  },
+  {
+    "pageId": "pf116",
+    "dataPageNo": "116",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Large-Scale Structure 287"
+    },
+    "bottom": {
+      "x": null,
+      "y": 149.936736,
+      "fs": 32.067994,
+      "ff": null,
+      "m": "m0",
+      "text": "just the one immediately below."
+    }
+  },
+  {
+    "pageId": "pf117",
+    "dataPageNo": "117",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Large-Scale Structure 288"
+    },
+    "bottom": {
+      "x": null,
+      "y": 355.091729,
+      "fs": 31.734672,
+      "ff": null,
+      "m": "m1",
+      "text": "Figure 16.3. A basic shipping domain model for routing cargoes"
+    }
+  },
+  {
+    "pageId": "pf118",
+    "dataPageNo": "118",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Large-Scale Structure 289"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "now a requirement."
+    }
+  },
+  {
+    "pageId": "pf119",
+    "dataPageNo": "119",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Large-Scale Structure 290"
+    },
+    "bottom": {
+      "x": null,
+      "y": 238.798092,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": ", the model will have to be refactored."
+    }
+  },
+  {
+    "pageId": "pf11a",
+    "dataPageNo": "11a",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Large-Scale Structure 291"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 221.467227,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "would be helpful to have a tool for browsing classes by layer or at least for reporting them by layer."
+    }
+  },
+  {
+    "pageId": "pf11b",
+    "dataPageNo": "11b",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Large-Scale Structure 292"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 171.738257,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "face to include objects that policies might depend on. Here is a possible design."
+    }
+  },
+  {
+    "pageId": "pf11c",
+    "dataPageNo": "11c",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Large-Scale Structure 293"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 484.415348,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "A typical interaction is shown in Figure 16.12 on the next page."
+    }
+  },
+  {
+    "pageId": "pf11d",
+    "dataPageNo": "11d",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Large-Scale Structure 294"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 141.476445,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "pability” layer in the example) and an “Operations” layer."
+    }
+  },
+  {
+    "pageId": "pf11e",
+    "dataPageNo": "11e",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Large-Scale Structure 295"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 263.160335,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "down to keep things manageable."
+    }
+  },
+  {
+    "pageId": "pf11f",
+    "dataPageNo": "11f",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Large-Scale Structure 296"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "ferociously distilled."
+    }
+  },
+  {
+    "pageId": "pf120",
+    "dataPageNo": "120",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Large-Scale Structure 297"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 237.751166,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "standing and coding for all those quirks."
+    }
+  },
+  {
+    "pageId": "pf121",
+    "dataPageNo": "121",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Large-Scale Structure 298"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "The next model proposal is quite simple: just remove the constraints."
+    }
+  },
+  {
+    "pageId": "pf122",
+    "dataPageNo": "122",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Large-Scale Structure 299"
+    },
+    "bottom": {
+      "x": null,
+      "y": 241.471996,
+      "fs": 31.734672,
+      "ff": null,
+      "m": "m1",
+      "text": "Figure 16.19. The Type object allows requirements to be met."
+    }
+  },
+  {
+    "pageId": "pf123",
+    "dataPageNo": "123",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Large-Scale Structure 300"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 178.189582,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "be applied within the domain layer."
+    }
+  },
+  {
+    "pageId": "pf124",
+    "dataPageNo": "124",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Large-Scale Structure 301"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 263.499879,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "solve problems that are very hard to handle any other way."
+    }
+  },
+  {
+    "pageId": "pf125",
+    "dataPageNo": "125",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Large-Scale Structure 302"
+    },
+    "bottom": {
+      "x": 288.551113,
+      "y": 295.756508,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "."
+    }
+  },
+  {
+    "pageId": "pf126",
+    "dataPageNo": "126",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Large-Scale Structure 303"
+    },
+    "bottom": {
+      "x": null,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "   "
+    }
+  },
+  {
+    "pageId": "pf127",
+    "dataPageNo": "127",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Large-Scale Structure 304"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 277.30798,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "have followed after the full development of multiple specialized applications."
+    }
+  },
+  {
+    "pageId": "pf128",
+    "dataPageNo": "128",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Large-Scale Structure 305"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 311.814085,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "terfaces and the protocol for using them constitutes a tightly restrictive large-scale structure."
+    }
+  },
+  {
+    "pageId": "pf129",
+    "dataPageNo": "129",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Large-Scale Structure 306"
+    },
+    "bottom": {
+      "x": null,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "In constructing your panel you might want to use some of the following techniques:"
+    }
+  },
+  {
+    "pageId": "pf12a",
+    "dataPageNo": "12a",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Large-Scale Structure 307"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 182.518762,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "different implementation technologies, in a heterogeneous system."
+    }
+  },
+  {
+    "pageId": "pf12b",
+    "dataPageNo": "12b",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Large-Scale Structure 308"
+    },
+    "bottom": {
+      "x": 480.019675,
+      "y": 165.541588,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": " Obviously that is a lot of work."
+    }
+  },
+  {
+    "pageId": "pf12c",
+    "dataPageNo": "12c",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "Large-Scale Structure 309"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 414.540131,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "easier and safer."
+    }
+  },
+  {
+    "pageId": "pf12d",
+    "dataPageNo": "12d",
+    "top": {
+      "x": null,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff41",
+      "m": "m0",
+      "text": "310"
+    },
+    "bottom": {
+      "x": null,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": "ff41",
+      "m": "m0",
+      "text": "."
+    }
+  },
+  {
+    "pageId": "pf12e",
+    "dataPageNo": "12e",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff41",
+      "m": "m0",
+      "text": "Bringing the Strategy Together 311"
+    },
+    "bottom": {
+      "x": 277.135379,
+      "y": 228.541049,
+      "fs": 37.727052,
+      "ff": "ff41",
+      "m": "m0",
+      "text": " concisely describes a key aspect of its scope and role."
+    }
+  },
+  {
+    "pageId": "pf12f",
+    "dataPageNo": "12f",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff41",
+      "m": "m0",
+      "text": "Bringing the Strategy Together 312"
+    },
+    "bottom": {
+      "x": null,
+      "y": 139.552365,
+      "fs": 31.734672,
+      "ff": "ff41",
+      "m": "m1",
+      "text": "Figure 17.5. The same structure applied within a CONTEXT and across the CONTEXT MAP as a whole"
+    }
+  },
+  {
+    "pageId": "pf130",
+    "dataPageNo": "130",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff41",
+      "m": "m0",
+      "text": "Bringing the Strategy Together 313"
+    },
+    "bottom": {
+      "x": 291.39196,
+      "y": 197.925547,
+      "fs": 37.727052,
+      "ff": "ff41",
+      "m": "m0",
+      "text": " don't have meaning over much of the project."
+    }
+  },
+  {
+    "pageId": "pf131",
+    "dataPageNo": "131",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff41",
+      "m": "m0",
+      "text": "Bringing the Strategy Together 314"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 157.053002,
+      "fs": 37.727052,
+      "ff": "ff41",
+      "m": "m0",
+      "text": "made up of representatives of the various teams. After assessing the impact of the design, partici-"
+    }
+  },
+  {
+    "pageId": "pf132",
+    "dataPageNo": "132",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff41",
+      "m": "m0",
+      "text": "Bringing the Strategy Together 315"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 213.64358,
+      "fs": 37.727052,
+      "ff": "ff41",
+      "m": "m0",
+      "text": "various teams and facilitate the development of a generalized solution."
+    }
+  },
+  {
+    "pageId": "pf133",
+    "dataPageNo": "133",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff41",
+      "m": "m0",
+      "text": "Bringing the Strategy Together 316"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 196.666406,
+      "fs": 37.727052,
+      "ff": "ff41",
+      "m": "m0",
+      "text": "with an overbuilt architecture that is counterproductive."
+    }
+  },
+  {
+    "pageId": "pf134",
+    "dataPageNo": "134",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff41",
+      "m": "m0",
+      "text": "Bringing the Strategy Together 317"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 212.228815,
+      "fs": 37.727052,
+      "ff": "ff41",
+      "m": "m0",
+      "text": "(I've never managed to change such a team, I'm afraid.)"
+    }
+  },
+  {
+    "pageId": "pf135",
+    "dataPageNo": "135",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff41",
+      "m": "m0",
+      "text": "Bringing the Strategy Together 318"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 429.819588,
+      "fs": 37.727052,
+      "ff": "ff41",
+      "m": "m0",
+      "text": "stances."
+    }
+  },
+  {
+    "pageId": "pf136",
+    "dataPageNo": "136",
+    "top": {
+      "x": null,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff44",
+      "m": "m0",
+      "text": "319"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 407.862443,
+      "fs": 37.727052,
+      "ff": "ff44",
+      "m": "m0",
+      "text": "of client institutions, as well as being the largest revenue stream for the company."
+    }
+  },
+  {
+    "pageId": "pf137",
+    "dataPageNo": "137",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff44",
+      "m": "m0",
+      "text": "Conclusion 320"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 449.187713,
+      "fs": 37.727052,
+      "ff": "ff44",
+      "m": "m0",
+      "text": "team and stayed alive, continuing to evolve."
+    }
+  },
+  {
+    "pageId": "pf138",
+    "dataPageNo": "138",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff44",
+      "m": "m0",
+      "text": "Conclusion 321"
+    },
+    "bottom": {
+      "x": 353.502949,
+      "y": 206.569757,
+      "fs": 37.727052,
+      "ff": "ff44",
+      "m": "m0",
+      "text": " to their legacy."
+    }
+  },
+  {
+    "pageId": "pf139",
+    "dataPageNo": "139",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff44",
+      "m": "m0",
+      "text": "Conclusion 322"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 196.666406,
+      "fs": 37.727052,
+      "ff": "ff44",
+      "m": "m0",
+      "text": "comprehensible software design is an exciting challenge for strong technical people."
+    }
+  },
+  {
+    "pageId": "pf13a",
+    "dataPageNo": "13a",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff44",
+      "m": "m0",
+      "text": "Conclusion 323"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 795.113183,
+      "fs": 37.727052,
+      "ff": "ff44",
+      "m": "m0",
+      "text": "for its owners."
+    }
+  },
+  {
+    "pageId": "pf13b",
+    "dataPageNo": "13b",
+    "top": {
+      "x": null,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff46",
+      "m": "m0",
+      "text": "324"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 186.395216,
+      "fs": 37.727052,
+      "ff": "ff46",
+      "m": "m0",
+      "text": "frastructure (water and drainage) and both are used in private."
+    }
+  },
+  {
+    "pageId": "pf13c",
+    "dataPageNo": "13c",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff46",
+      "m": "m0",
+      "text": "The Use of Patterns in This Book 325"
+    },
+    "bottom": {
+      "x": 124.499272,
+      "y": 140.415372,
+      "fs": 37.727052,
+      "ff": "ff46",
+      "m": "m0",
+      "text": "Solution summary."
+    }
+  },
+  {
+    "pageId": "pf13d",
+    "dataPageNo": "13d",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff46",
+      "m": "m0",
+      "text": "The Use of Patterns in This Book 326"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 842.138539,
+      "fs": 37.727052,
+      "ff": "ff46",
+      "m": "m0",
+      "text": "terns.]"
+    }
+  },
+  {
+    "pageId": "pf13e",
+    "dataPageNo": "13e",
+    "top": {
+      "x": null,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff48",
+      "m": "m0",
+      "text": "327"
+    },
+    "bottom": {
+      "x": null,
+      "y": 141.122754,
+      "fs": 37.727052,
+      "ff": "ff48",
+      "m": "m0",
+      "text": "ware. An executable specification."
+    }
+  },
+  {
+    "pageId": "pf13f",
+    "dataPageNo": "13f",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff48",
+      "m": "m0",
+      "text": "GLOSSARY 328"
+    },
+    "bottom": {
+      "x": null,
+      "y": 168.371117,
+      "fs": 37.727052,
+      "ff": "ff48",
+      "m": "m0",
+      "text": "other things."
+    }
+  },
+  {
+    "pageId": "pf140",
+    "dataPageNo": "140",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff48",
+      "m": "m0",
+      "text": "GLOSSARY 329"
+    },
+    "bottom": {
+      "x": null,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": "ff48",
+      "m": "m0",
+      "text": "An object that describes some characteristic or attribute but carries no concept of identity."
+    }
+  },
+  {
+    "pageId": "pf141",
+    "dataPageNo": "141",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": "ff48",
+      "m": "m0",
+      "text": "GLOSSARY 330"
+    },
+    "bottom": {
+      "x": null,
+      "y": 1012.986484,
+      "fs": 37.727052,
+      "ff": "ff48",
+      "m": "m0",
+      "text": "An object that models a single, complete concept."
+    }
+  },
+  {
+    "pageId": "pf142",
+    "dataPageNo": "142",
+    "top": {
+      "x": null,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "331"
+    },
+    "bottom": {
+      "x": 152.961503,
+      "y": 134.41677,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "at the 210th ACS Meeting in Chicago on August 21, 1995. http://www.ch.ic.ac.uk/cml/"
+    }
+  },
+  {
+    "pageId": "pf143",
+    "dataPageNo": "143",
+    "top": {
+      "x": 101.863019,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "References 332"
+    },
+    "bottom": {
+      "x": 270.422321,
+      "y": 848.874232,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": ". Addison-Wesley."
+    }
+  },
+  {
+    "pageId": "pf144",
+    "dataPageNo": "144",
+    "top": {
+      "x": null,
+      "y": 1063.918004,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "333"
+    },
+    "bottom": {
+      "x": 101.863019,
+      "y": 475.771137,
+      "fs": 37.727052,
+      "ff": null,
+      "m": "m0",
+      "text": "AIDS Quilt (Chapter 16, page 439)"
+    }
+  }
+]

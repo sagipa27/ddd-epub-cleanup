@@ -1,0 +1,1547 @@
+[
+  {
+    "ff": "ff1",
+    "fs": 82.558862,
+    "m": "m0",
+    "count": 1,
+    "samples": [
+      "Chapter One. Crunching Knowledge"
+    ]
+  },
+  {
+    "ff": "ff5",
+    "fs": 82.558862,
+    "m": "m0",
+    "count": 2,
+    "samples": [
+      "Chapter Two. Communication and the Use of",
+      "Language"
+    ]
+  },
+  {
+    "ff": "ff7",
+    "fs": 82.558862,
+    "m": "m0",
+    "count": 2,
+    "samples": [
+      "Chapter Three. Binding Model and",
+      "Implementation"
+    ]
+  },
+  {
+    "ff": "null",
+    "fs": 82.558862,
+    "m": "m0",
+    "count": 9,
+    "samples": [
+      "Chapter Four. Isolating the Domain",
+      "Chapter Eight. Breakthrough",
+      "Chapter Nine. Making Implicit Concepts",
+      "Explicit"
+    ]
+  },
+  {
+    "ff": "ff10",
+    "fs": 82.558862,
+    "m": "m0",
+    "count": 1,
+    "samples": [
+      "Chapter Five. A Model Expressed in Software"
+    ]
+  },
+  {
+    "ff": "ff1",
+    "fs": 56.590578,
+    "m": "m0",
+    "count": 5,
+    "samples": [
+      "Ingredients of Effective Modeling",
+      "Knowledge Crunching",
+      "Continuous Learning",
+      "Knowledge-Rich Design"
+    ]
+  },
+  {
+    "ff": "ff5",
+    "fs": 56.590578,
+    "m": "m0",
+    "count": 5,
+    "samples": [
+      "Ubiquitous Language",
+      "Modeling Out Loud",
+      "One Team, One Language",
+      "Documents and Diagrams"
+    ]
+  },
+  {
+    "ff": "ff7",
+    "fs": 56.590578,
+    "m": "m0",
+    "count": 4,
+    "samples": [
+      "Model-Driven Design",
+      "Modeling Paradigms and Tool Support",
+      "Letting the Bones Show: Why Models Matter to Users",
+      "Hands-On Modelers"
+    ]
+  },
+  {
+    "ff": "null",
+    "fs": 56.590578,
+    "m": "m0",
+    "count": 25,
+    "samples": [
+      "Layered Architecture",
+      "The Domain Layer Is Where the Model Lives",
+      "The Smart UI “Anti-Pattern”",
+      "Other Kinds of Isolation"
+    ]
+  },
+  {
+    "ff": "ff1",
+    "fs": 45.272462,
+    "m": "m0",
+    "count": 2,
+    "samples": [
+      "Example",
+      "Extracting a Hidden Concept"
+    ]
+  },
+  {
+    "ff": "ff5",
+    "fs": 45.272462,
+    "m": "m0",
+    "count": 6,
+    "samples": [
+      "Example",
+      "Working Out a Cargo Router",
+      "Written Design Documents",
+      "Executable Bedrock"
+    ]
+  },
+  {
+    "ff": "ff7",
+    "fs": 45.272462,
+    "m": "m0",
+    "count": 3,
+    "samples": [
+      "A Medieval Sky Computer",
+      "Example",
+      "From Procedural to MODEL-DRIVEN"
+    ]
+  },
+  {
+    "ff": "null",
+    "fs": 45.272462,
+    "m": "m0",
+    "count": 52,
+    "samples": [
+      "Example",
+      "Partitioning Online Banking Functionality into Layers",
+      "Relating the Layers",
+      "Architectural Frameworks"
+    ]
+  },
+  {
+    "ff": "ff2",
+    "fs": 39.66834,
+    "m": "m1",
+    "count": 14,
+    "samples": [
+      "Binding the model and the implementation",
+      "Cultivating a language based on the model",
+      "Developing a knowledge-rich model",
+      "Distilling the model"
+    ]
+  },
+  {
+    "ff": "ff6",
+    "fs": 39.66834,
+    "m": "m1",
+    "count": 55,
+    "samples": [
+      "UBIQUITOUS LANGUAGE",
+      "LANGUAGE",
+      "CONTEXT MAPS",
+      "UBIQUITOUS LANGUAGE"
+    ]
+  },
+  {
+    "ff": "ff8",
+    "fs": 39.66834,
+    "m": "m1",
+    "count": 23,
+    "samples": [
+      "The astrolabe, used to compute star positions, is a mechanical implementation of",
+      "analysis model",
+      "ODEL-DRIVEN DESIGN",
+      "relevant"
+    ]
+  },
+  {
+    "ff": "null",
+    "fs": 39.66834,
+    "m": "m1",
+    "count": 493,
+    "samples": [
+      "LAYERED ARCHITECTURES",
+      "domain layer",
+      "MODEL-DRIVEN DESIGN",
+      "not the application layer"
+    ]
+  },
+  {
+    "ff": "ff2",
+    "fs": 37.727052,
+    "m": "m0",
+    "count": 302,
+    "samples": [
+      "A few years ago, I set out to design a specialized software tool for printed-cir",
+      "One catch: I didn't know anything about electronic hardware. I had access to som",
+      "of course, but they typically got my head spinning in three minutes. How was I g",
+      "enough to write this software? I certainly wasn't going to become an electrical "
+    ]
+  },
+  {
+    "ff": "ff6",
+    "fs": 37.727052,
+    "m": "m0",
+    "count": 474,
+    "samples": [
+      "A domain model can be the core of a common language for a software project. The ",
+      "of concepts built up in the heads of people on the project, with terms and relat",
+      "domain insight. These terms and  interrelationships  provide  the  semantics  of",
+      "tailored to the domain while being precise enough for technical development. Thi"
+    ]
+  },
+  {
+    "ff": "ff5",
+    "fs": 37.727052,
+    "m": "m0",
+    "count": 4,
+    "samples": [
+      "Scenario 1: Minimal Abstraction of the Domain",
+      "Scenario 2: Domain Model Enriched to Support Discussion",
+      "Documents Should Complement Code and Speech",
+      "Documents Should Work for a Living and Stay Current"
+    ]
+  },
+  {
+    "ff": "ff8",
+    "fs": 37.727052,
+    "m": "m0",
+    "count": 350,
+    "samples": [
+      "The first thing I saw as I walked through the door was a complete class diagram ",
+      "sheets of paper that covered a large wall. It was my first day on a project in w",
+      "spent months carefully researching and developing a detailed model of the domain",
+      "object in the model had intricate associations with three or four other objects,"
+    ]
+  },
+  {
+    "ff": "ff7",
+    "fs": 37.727052,
+    "m": "m0",
+    "count": 2,
+    "samples": [
+      "A Mechanistic Design",
+      "A Model-Driven Design"
+    ]
+  },
+  {
+    "ff": "null",
+    "fs": 37.727052,
+    "m": "m0",
+    "count": 2518,
+    "samples": [
+      "The part of the software that specifically solves problems from the domain usual",
+      "a small portion of the entire software system, although its importance is dispro",
+      "To apply our best thinking, we need to be able to look at the elements of our mo",
+      "as a system. We must not be forced to pick them out of a much larger mix of obje"
+    ]
+  },
+  {
+    "ff": "ff8",
+    "fs": 32.067994,
+    "m": "m0",
+    "count": 8,
+    "samples": [
+      "Ancient Greek astronomers devised the astrolabe, which was perfected by medieval",
+      "tating web (called a ",
+      ") represented the positions of the fixed stars on the celestial sphere. Intercha",
+      "plates engraved with a local spherical coordinate system represented the views f"
+    ]
+  },
+  {
+    "ff": "ff6",
+    "fs": 31.734672,
+    "m": "m1",
+    "count": 4,
+    "samples": [
+      "Lewis Carroll, “Poeta Fit, Non Nascitur”",
+      "Figure 2.3. UBIQUITOUS LANGUAGE is cultivated in the intersection of jargons.",
+      "Figure 2.4. A class diagram for a shipping route",
+      "Figure 2.5. An explanatory model for a shipping route"
+    ]
+  },
+  {
+    "ff": "ff8",
+    "fs": 31.734672,
+    "m": "m1",
+    "count": 2,
+    "samples": [
+      "Figure 3.2. An explanatory diagram of buses and nets",
+      "Figure 3.3. A class diagram oriented toward efficient assignment of layout rules"
+    ]
+  },
+  {
+    "ff": "null",
+    "fs": 31.734672,
+    "m": "m1",
+    "count": 77,
+    "samples": [
+      "Figure 4.1. Objects carry out responsibilities consistent with their layer and a",
+      "Figure 7.1. A class diagram representing a model of the shipping domain",
+      "role",
+      "goal"
+    ]
+  },
+  {
+    "ff": "ff6",
+    "fs": 30.181642,
+    "m": "m0",
+    "count": 1,
+    "samples": [
+      "—"
+    ]
+  },
+  {
+    "ff": "ff7",
+    "fs": 30.181642,
+    "m": "m0",
+    "count": 2,
+    "samples": [
+      "Service Responsibility",
+      "Class Responsibility"
+    ]
+  },
+  {
+    "ff": "null",
+    "fs": 30.181642,
+    "m": "m0",
+    "count": 139,
+    "samples": [
+      "Net List import Reads Net List file, creates instance of Net for each entry",
+      "Net Rule export Given a collection of Nets, writes all attached rules into the R",
+      "Net Repository Provides access to Nets by name",
+      "Inferred Bus Factory Given a collection of Nets, uses naming conventions to infe"
+    ]
+  },
+  {
+    "ff": "ff3",
+    "fs": 28.446197,
+    "m": "m0",
+    "count": 23,
+    "samples": [
+      "public int makeBooking(Cargo cargo, Voyage voyage) {",
+      "   int confirmation = orderConfirmationSequence.next();",
+      "   voyage.addCargo(cargo, confirmation);",
+      "   return confirmation;"
+    ]
+  },
+  {
+    "ff": "ff6",
+    "fs": 22.756958,
+    "m": "m0",
+    "count": 11,
+    "samples": [
+      "For first you write a sentence,",
+      " ",
+      "And then you chop it small;",
+      " "
+    ]
+  },
+  {
+    "ff": "ff8",
+    "fs": null,
+    "m": "m1",
+    "count": 1,
+    "samples": [
+      "rete"
+    ]
+  },
+  {
+    "ff": "null",
+    "fs": 28.446197,
+    "m": "m0",
+    "count": 88,
+    "samples": [
+      "Net Name    Component.Pin",
+      "--------    -------------",
+      "Xyz0        A.0, B.0",
+      "Xyz1        A.1, B.1"
+    ]
+  },
+  {
+    "ff": "ff8",
+    "fs": null,
+    "m": "m0",
+    "count": 2,
+    "samples": [
+      "1",
+      "Brian Marick mentioned this example to me."
+    ]
+  },
+  {
+    "ff": "ff16",
+    "fs": 82.558862,
+    "m": "m0",
+    "count": 2,
+    "samples": [
+      "Chapter Six. The Life Cycle of a Domain",
+      "Object"
+    ]
+  },
+  {
+    "ff": "ff19",
+    "fs": 82.558862,
+    "m": "m0",
+    "count": 2,
+    "samples": [
+      "Chapter Seven. Using the Language: An",
+      "Extended Example"
+    ]
+  },
+  {
+    "ff": "ff10",
+    "fs": 56.590578,
+    "m": "m0",
+    "count": 6,
+    "samples": [
+      "Associations",
+      "Entities (a.k.a. Reference Objects)",
+      "Value Objects",
+      "Services"
+    ]
+  },
+  {
+    "ff": "ff16",
+    "fs": 56.590578,
+    "m": "m0",
+    "count": 4,
+    "samples": [
+      "Aggregates",
+      "Factories",
+      "Repositories",
+      "Designing Objects for Relational Databases"
+    ]
+  },
+  {
+    "ff": "ff19",
+    "fs": 56.590578,
+    "m": "m0",
+    "count": 13,
+    "samples": [
+      "Introducing the Cargo Shipping System",
+      "Isolating the Domain: Introducing the Applications",
+      "Distinguishing ENTITIES and VALUE Objects",
+      "Designing Associations in the Shipping Domain"
+    ]
+  },
+  {
+    "ff": "ff10",
+    "fs": 45.272462,
+    "m": "m0",
+    "count": 20,
+    "samples": [
+      "Example",
+      "Associations in a Brokerage Account",
+      "Modeling ENTITIES",
+      "Designing the Identity Operation"
+    ]
+  },
+  {
+    "ff": "ff16",
+    "fs": 45.272462,
+    "m": "m0",
+    "count": 13,
+    "samples": [
+      "Example",
+      "Purchase Order Integrity",
+      "Choosing FACTORIES and Their Sites",
+      "When a Constructor Is All You Need"
+    ]
+  },
+  {
+    "ff": "ff19",
+    "fs": 45.272462,
+    "m": "m0",
+    "count": 14,
+    "samples": [
+      "Customer",
+      "Cargo",
+      "Handling Event and Carrier Movement",
+      "Location"
+    ]
+  },
+  {
+    "ff": "ff11",
+    "fs": 39.66834,
+    "m": "m1",
+    "count": 256,
+    "samples": [
+      "MODEL-DRIVEN DESIGN",
+      "MODEL-",
+      "DRIVEN DESIGN",
+      "ENTITIES"
+    ]
+  },
+  {
+    "ff": "ff17",
+    "fs": 39.66834,
+    "m": "m1",
+    "count": 288,
+    "samples": [
+      "MODEL-DRIVEN DESIGN",
+      "AGGREGATES",
+      "FACTORIES",
+      "AGGREGATES"
+    ]
+  },
+  {
+    "ff": "ff20",
+    "fs": 39.66834,
+    "m": "m1",
+    "count": 85,
+    "samples": [
+      "not",
+      "UBIQUITOUS LANGUAGE",
+      "Developer",
+      "looks thoughtful, then excited."
+    ]
+  },
+  {
+    "ff": "ff11",
+    "fs": 37.727052,
+    "m": "m0",
+    "count": 1103,
+    "samples": [
+      "To compromise in implementation without losing the punch of a ",
+      " requires",
+      "a reframing of the basics. Connecting model and implementation has to be done at",
+      "This chapter  focuses on those  individual model elements,  getting them in  sha"
+    ]
+  },
+  {
+    "ff": "ff17",
+    "fs": 37.727052,
+    "m": "m0",
+    "count": 970,
+    "samples": [
+      "Every object has a life cycle. An object is born, it likely goes through various",
+      "dies—being either  archived  or  deleted.  Of  course,  many  of  these are  sim",
+      "created with an easy call to their constructor, used in some computation, and th",
+      "the garbage collector. There is no need to complicate such objects. But other ob"
+    ]
+  },
+  {
+    "ff": "ff20",
+    "fs": 37.727052,
+    "m": "m0",
+    "count": 680,
+    "samples": [
+      "Deep modeling sounds great, but how do you actually do it? A deep model has powe",
+      "contains the central concepts and abstractions that can succinctly and flexibly ",
+      "knowledge of the users' activities, their problems, and their solutions. The fir",
+      "represent the essential concepts of the domain in the model. Refinement comes la"
+    ]
+  },
+  {
+    "ff": "ff21",
+    "fs": 37.727052,
+    "m": "m0",
+    "count": 6,
+    "samples": [
+      "Date() on that day's date. The script took the return value (the amount earned) ",
+      "ThroughDate(). The return value is a collection of Accruals, each of whose amoun",
+      "pourIn() method, in this case). This way, the caller stays simple and focused on",
+      "anInvoice.isOverdue(). In an Invoice class, the code in isOverdue() is an algori"
+    ]
+  },
+  {
+    "ff": "ff11",
+    "fs": 32.067994,
+    "m": "m0",
+    "count": 36,
+    "samples": [
+      "1",
+      "In software for a mail-order company, an address is needed to confirm the credit",
+      "parcel. But if a roommate also orders from the same company, it is not important",
+      "location. Address is a "
+    ]
+  },
+  {
+    "ff": "ff17",
+    "fs": 32.067994,
+    "m": "m0",
+    "count": 1,
+    "samples": [
+      "1"
+    ]
+  },
+  {
+    "ff": "null",
+    "fs": 32.067994,
+    "m": "m0",
+    "count": 17,
+    "samples": [
+      "A “facility” in this context is not a building. As on most projects, specialized",
+      "entered our  vocabulary  and became  part  of  the ",
+      ". In  the  domain of  commercial",
+      "banking, "
+    ]
+  },
+  {
+    "ff": "ff20",
+    "fs": 32.067994,
+    "m": "m0",
+    "count": 7,
+    "samples": [
+      "One team has to wait for working code from another in order to move forward. Bot",
+      "integration to exercise their components or get feedback from users. This kind o",
+      "eased by a ",
+      " prototype of a key component, even if it does not satisfy all requirements. Whe"
+    ]
+  },
+  {
+    "ff": "ff11",
+    "fs": 31.734672,
+    "m": "m1",
+    "count": 4,
+    "samples": [
+      "Figure 5.1. Some traversal directions reflect a natural bias in the domain.",
+      "Figure 5.2. Constrained associations communicate more knowledge and are more pra",
+      "Figure 5.5. Attributes associated with identity stay with the ENTITY.",
+      "Figure 5.6. A VALUE OBJECT can give information about an ENTITY. It should be co"
+    ]
+  },
+  {
+    "ff": "ff17",
+    "fs": 31.734672,
+    "m": "m1",
+    "count": 23,
+    "samples": [
+      "Figure 6.1. The life cycle of a domain object",
+      "Figure 6.2. Local versus global identity and object references",
+      "Figure 6.3. AGGREGATE invariants",
+      "Figure 6.4. A model for a purchase order system"
+    ]
+  },
+  {
+    "ff": "ff20",
+    "fs": 31.734672,
+    "m": "m1",
+    "count": 11,
+    "samples": [
+      "Figure 9.4. An awkward model",
+      "Figure 9.8. A deeper model after refactoring",
+      "All",
+      "Finance and Accounting: How to Keep Your Books and Manage Your Finances Without "
+    ]
+  },
+  {
+    "ff": "ff10",
+    "fs": 30.181642,
+    "m": "m0",
+    "count": 7,
+    "samples": [
+      "Table: BROKERAGE_ACCOUNT",
+      "Table: CUSTOMER",
+      "Table: INVESTMENT",
+      "Partitioning Services into Layers"
+    ]
+  },
+  {
+    "ff": "ff13",
+    "fs": 30.181642,
+    "m": "m0",
+    "count": 10,
+    "samples": [
+      "ACCOUNT_NUMBER CUSTOMER_SS_NUMBER",
+      "SS_NUMBER NAME",
+      "ACCOUNT_NUMBER STOCK_SYMBOL AMOUNT",
+      "• Digests input (such as an XML request)."
+    ]
+  },
+  {
+    "ff": "ff11",
+    "fs": 30.181642,
+    "m": "m0",
+    "count": 6,
+    "samples": [
+      "   ",
+      "   ",
+      "   ",
+      "   "
+    ]
+  },
+  {
+    "ff": "ff15",
+    "fs": 30.181642,
+    "m": "m0",
+    "count": 3,
+    "samples": [
+      "Funds Transfer App Service",
+      "Funds Transfer Domain Service",
+      "Send Notification Service"
+    ]
+  },
+  {
+    "ff": "ff12",
+    "fs": 28.446197,
+    "m": "m0",
+    "count": 69,
+    "samples": [
+      "public class BrokerageAccount {",
+      "    String accountNumber;",
+      "    Customer customer;",
+      "    Set investments;"
+    ]
+  },
+  {
+    "ff": "ff11",
+    "fs": null,
+    "m": "m0",
+    "count": 10,
+    "samples": [
+      "1",
+      "A model ",
+      " is not the same thing as a Java “entity bean.” Entity beans were meant as a fra",
+      ", more"
+    ]
+  },
+  {
+    "ff": "ff11",
+    "fs": null,
+    "m": "m1",
+    "count": 18,
+    "samples": [
+      "ENTITY",
+      "ENTITIES",
+      "ENTITIES",
+      "ENTITIES"
+    ]
+  },
+  {
+    "ff": "ff17",
+    "fs": null,
+    "m": "m0",
+    "count": 2,
+    "samples": [
+      "1",
+      "David Siegel devised and used this system on projects in the 1990s but has not p"
+    ]
+  },
+  {
+    "ff": "null",
+    "fs": null,
+    "m": "m1",
+    "count": 9,
+    "samples": [
+      "UBIQUITOUS LANGUAGE",
+      "a facility is a commitment by a company to lend",
+      "drawdown",
+      "YSTEM METAPHOR"
+    ]
+  },
+  {
+    "ff": "ff20",
+    "fs": 30.181642,
+    "m": "m0",
+    "count": 12,
+    "samples": [
+      "Accrual Basis Accounting. This method recognizes income when it is earned, even ",
+      " expenses",
+      "also show when they are incurred whether they have been paid for or billed to be",
+      "due, including taxes, will be shown as expense."
+    ]
+  },
+  {
+    "ff": "ff23",
+    "fs": 30.181642,
+    "m": "m0",
+    "count": 8,
+    "samples": [
+      "TNT Armored container",
+      "Sand",
+      "Biological Samples Must not share container with explosives",
+      "Ammonia Ventilated container"
+    ]
+  },
+  {
+    "ff": "ff21",
+    "fs": 28.446197,
+    "m": "m0",
+    "count": 214,
+    "samples": [
+      "class Bucket {",
+      "   private float capacity;",
+      "   private float contents;",
+      "   public void pourIn(float addedVolume) {"
+    ]
+  },
+  {
+    "ff": "ff20",
+    "fs": null,
+    "m": "m1",
+    "count": 1,
+    "samples": [
+      "MODEL-DRIVEN"
+    ]
+  },
+  {
+    "ff": "ff24",
+    "fs": 82.558862,
+    "m": "m0",
+    "count": 1,
+    "samples": [
+      "Chapter Ten. Supple Design"
+    ]
+  },
+  {
+    "ff": "ff31",
+    "fs": 82.558862,
+    "m": "m0",
+    "count": 2,
+    "samples": [
+      "Chapter Thirteen. Refactoring Toward Deeper",
+      "Insight"
+    ]
+  },
+  {
+    "ff": "ff33",
+    "fs": 82.558862,
+    "m": "m0",
+    "count": 2,
+    "samples": [
+      "Chapter Fourteen. Maintaining Model",
+      "Integrity"
+    ]
+  },
+  {
+    "ff": "ff37",
+    "fs": 82.558862,
+    "m": "m0",
+    "count": 1,
+    "samples": [
+      "Chapter Fifteen. Distillation"
+    ]
+  },
+  {
+    "ff": "ff40",
+    "fs": 82.558862,
+    "m": "m0",
+    "count": 2,
+    "samples": [
+      "Chapter Seventeen. Bringing the Strategy",
+      "Together"
+    ]
+  },
+  {
+    "ff": "ff43",
+    "fs": 82.558862,
+    "m": "m0",
+    "count": 1,
+    "samples": [
+      "Chapter . Conclusion"
+    ]
+  },
+  {
+    "ff": "ff45",
+    "fs": 82.558862,
+    "m": "m0",
+    "count": 1,
+    "samples": [
+      "The Use of Patterns in This Book"
+    ]
+  },
+  {
+    "ff": "ff47",
+    "fs": 82.558862,
+    "m": "m0",
+    "count": 1,
+    "samples": [
+      "GLOSSARY"
+    ]
+  },
+  {
+    "ff": "ff49",
+    "fs": 82.558862,
+    "m": "m0",
+    "count": 1,
+    "samples": [
+      "References"
+    ]
+  },
+  {
+    "ff": "ff24",
+    "fs": 56.590578,
+    "m": "m0",
+    "count": 9,
+    "samples": [
+      "Intention-Revealing Interfaces",
+      "Side -Effect-Free Functions",
+      "Assertions",
+      "Conceptual Contours"
+    ]
+  },
+  {
+    "ff": "ff31",
+    "fs": 56.590578,
+    "m": "m0",
+    "count": 6,
+    "samples": [
+      "Initiation",
+      "Exploration Teams",
+      "Prior Art",
+      "A Design for Developers"
+    ]
+  },
+  {
+    "ff": "ff33",
+    "fs": 56.590578,
+    "m": "m0",
+    "count": 14,
+    "samples": [
+      "Bounded Context",
+      "Continuous Integration",
+      "Context Map",
+      "Relationships Between BOUNDED CONTEXTS"
+    ]
+  },
+  {
+    "ff": "ff37",
+    "fs": 56.590578,
+    "m": "m0",
+    "count": 10,
+    "samples": [
+      "Core Domain",
+      "An Escalation of Distillations",
+      "Generic Subdomains",
+      "Domain Vision Statement"
+    ]
+  },
+  {
+    "ff": "ff40",
+    "fs": 56.590578,
+    "m": "m0",
+    "count": 5,
+    "samples": [
+      "Combining Large-Scale Structures and BOUNDED CONTEXTS",
+      "Combining Large-Scale Structures and Distillation",
+      "Assessment First",
+      "Who Sets the Strategy?"
+    ]
+  },
+  {
+    "ff": "ff43",
+    "fs": 56.590578,
+    "m": "m0",
+    "count": 2,
+    "samples": [
+      "Epilogues",
+      "Looking Forward"
+    ]
+  },
+  {
+    "ff": "ff45",
+    "fs": 56.590578,
+    "m": "m0",
+    "count": 1,
+    "samples": [
+      "Pattern Name"
+    ]
+  },
+  {
+    "ff": "ff24",
+    "fs": 45.272462,
+    "m": "m0",
+    "count": 19,
+    "samples": [
+      "Example",
+      "Refactoring: A Paint-Mixing Application",
+      "Example",
+      "Refactoring the Paint-Mixing Application Again"
+    ]
+  },
+  {
+    "ff": "ff33",
+    "fs": 45.272462,
+    "m": "m0",
+    "count": 34,
+    "samples": [
+      "BOUNDED CONTEXTS Are Not MODULES",
+      "Example",
+      "Booking Context",
+      "Recognizing Splinters Within a BOUNDED CONTEXT"
+    ]
+  },
+  {
+    "ff": "ff37",
+    "fs": 45.272462,
+    "m": "m0",
+    "count": 24,
+    "samples": [
+      "Choosing the CORE",
+      "Who Does the Work?",
+      "Option 1: An Off-the-Shelf Solution",
+      "Option 2: A Published Design or Model"
+    ]
+  },
+  {
+    "ff": "ff40",
+    "fs": 45.272462,
+    "m": "m0",
+    "count": 10,
+    "samples": [
+      "Emergent Structure from Application Development",
+      "A Customer Focused Architecture Team",
+      "Decisions must reach the entire team",
+      "The decision process must absorb feedback"
+    ]
+  },
+  {
+    "ff": "ff25",
+    "fs": 39.66834,
+    "m": "m1",
+    "count": 194,
+    "samples": [
+      "MODEL-DRIVEN DESIGN",
+      "or to use",
+      "same",
+      "INTENTION-RE-"
+    ]
+  },
+  {
+    "ff": "ff32",
+    "fs": 39.66834,
+    "m": "m1",
+    "count": 7,
+    "samples": [
+      "Self-determination",
+      "Scope and sleep",
+      "Exercising the ",
+      "UBIQUITOUS LANGUAGE"
+    ]
+  },
+  {
+    "ff": "ff34",
+    "fs": 39.66834,
+    "m": "m1",
+    "count": 413,
+    "samples": [
+      "different models",
+      "unification",
+      "BOUN-",
+      "DED CONTEXT"
+    ]
+  },
+  {
+    "ff": "ff38",
+    "fs": 39.66834,
+    "m": "m1",
+    "count": 259,
+    "samples": [
+      "LAYERED  ARCHITECTURE",
+      "Distillation",
+      "GENERIC SUBDOMAINS",
+      "COHERENT MECHANISMS"
+    ]
+  },
+  {
+    "ff": "ff41",
+    "fs": 39.66834,
+    "m": "m1",
+    "count": 50,
+    "samples": [
+      "CONTEXT MAP",
+      "BOUNDED CONTEXT,",
+      "CONTEXT MAP",
+      "RESPONSIBILITY LAYERS"
+    ]
+  },
+  {
+    "ff": "ff44",
+    "fs": 39.66834,
+    "m": "m1",
+    "count": 13,
+    "samples": [
+      "A Newly Planted Olive Grove",
+      "ABSTRACT CORE",
+      "UBIQUITOUS LANGUAGE",
+      "Seven Years Later"
+    ]
+  },
+  {
+    "ff": "ff46",
+    "fs": 39.66834,
+    "m": "m1",
+    "count": 2,
+    "samples": [
+      "FORMATTED IN SMALL",
+      "CAPS"
+    ]
+  },
+  {
+    "ff": "ff48",
+    "fs": 39.66834,
+    "m": "m1",
+    "count": 16,
+    "samples": [
+      "AGGREGATE",
+      "root.",
+      "AGGREGATE'S",
+      "ASSERTION"
+    ]
+  },
+  {
+    "ff": "ff25",
+    "fs": 37.727052,
+    "m": "m0",
+    "count": 975,
+    "samples": [
+      "The ultimate purpose of software is to serve users. But first, that same softwar",
+      "velopers. This is especially true in a process that emphasizes refactoring. As a",
+      "developers will rearrange and rewrite every part. They will integrate the domain",
+      "application  and  with  new  domain  objects.  Even  years  later,  maintenance "
+    ]
+  },
+  {
+    "ff": "ff26",
+    "fs": 37.727052,
+    "m": "m0",
+    "count": 5,
+    "samples": [
+      "p1.volume is increased by amount of p2.volume.",
+      "p2.volume is unchanged.",
+      "Principal() method does a dangerous thing: It calculates the shares for distribu",
+      "down(), calculateFeePaymentShares(), and so on. Each extension complicates the c"
+    ]
+  },
+  {
+    "ff": "ff24",
+    "fs": 37.727052,
+    "m": "m0",
+    "count": 9,
+    "samples": [
+      "We Can See Clearly Now",
+      "An Unanticipated Change",
+      "Combining SPECIFICATIONS Using Logical Operators",
+      "Subsumption"
+    ]
+  },
+  {
+    "ff": "ff32",
+    "fs": 37.727052,
+    "m": "m0",
+    "count": 128,
+    "samples": [
+      "Refactoring toward deeper insight is a multifaceted process. It will be helpful ",
+      "to pull together the major points. There are three things you have to focus on.",
+      "1. Live in the domain.",
+      "2. Keep looking at things a different way."
+    ]
+  },
+  {
+    "ff": "ff34",
+    "fs": 37.727052,
+    "m": "m0",
+    "count": 1658,
+    "samples": [
+      "I once worked on a project where several teams were working in parallel on a maj",
+      "One day, the team working on the customer-invoicing module was ready to implemen",
+      "they called Charge, when they discovered that another team had already built one",
+      "set out to reuse the existing object. They discovered it didn't have an “expense"
+    ]
+  },
+  {
+    "ff": "ff33",
+    "fs": 37.727052,
+    "m": "m0",
+    "count": 2,
+    "samples": [
+      "Favoring Larger BOUNDED CONTEXTS",
+      "Favoring Smaller BOUNDED CONTEXTS"
+    ]
+  },
+  {
+    "ff": "ff38",
+    "fs": 37.727052,
+    "m": "m0",
+    "count": 1000,
+    "samples": [
+      "How do you focus on your  central problem and keep from drowning in a  sea of si",
+      "  separates  domain  concepts  from  the technical logic  that  makes  a",
+      "computer system run, but in a large system, even the isolated domain may be unma",
+      "plex."
+    ]
+  },
+  {
+    "ff": "ff37",
+    "fs": 37.727052,
+    "m": "m0",
+    "count": 8,
+    "samples": [
+      "Advantages",
+      "Disadvantages",
+      "Advantages",
+      "Disadvantage"
+    ]
+  },
+  {
+    "ff": "ff41",
+    "fs": 37.727052,
+    "m": "m0",
+    "count": 252,
+    "samples": [
+      "The preceding three chapters presented many principles and techniques for domain",
+      "design. In a large, complex system, you may need to bring several of them to bea",
+      "design. How does a large-scale structure coexist with a ",
+      "? Where do the building"
+    ]
+  },
+  {
+    "ff": "ff40",
+    "fs": 37.727052,
+    "m": "m0",
+    "count": 1,
+    "samples": [
+      "Don't write frameworks for dummies"
+    ]
+  },
+  {
+    "ff": "ff44",
+    "fs": 37.727052,
+    "m": "m0",
+    "count": 159,
+    "samples": [
+      "Although it is very satisfying working on a cutting-edge project and experimenti",
+      "ideas and tools, for me it is a hollow experience if the software does not find ",
+      "the true test of success is how the software serves over a period of time. I hav",
+      "the stories of some of my former projects over the years."
+    ]
+  },
+  {
+    "ff": "ff46",
+    "fs": 37.727052,
+    "m": "m0",
+    "count": 94,
+    "samples": [
+      "My first “nice car,” which I was given shortly after college, was an eight-year-",
+      "called the “French Mercedes,” this car was well crafted, was a pleasure to drive",
+      "reliable. But by the time I got it, it was reaching the age when things start to",
+      "maintenance is required."
+    ]
+  },
+  {
+    "ff": "ff48",
+    "fs": 37.727052,
+    "m": "m0",
+    "count": 156,
+    "samples": [
+      "Here are brief definitions of selected terms, pattern names, and other concepts ",
+      "AGGREGATE",
+      "A cluster of associated objects that are treated as a unit for the purpose of da",
+      "ternal references are restricted to one member of the "
+    ]
+  },
+  {
+    "ff": "ff25",
+    "fs": 32.067994,
+    "m": "m0",
+    "count": 5,
+    "samples": [
+      "1",
+      "A different paradigm might handle domain-specific languages better than objects.",
+      "language, a representative of the “functional programming” family, something ver",
+      "programming style, so that the expressiveness of a domain-specific language can "
+    ]
+  },
+  {
+    "ff": "ff34",
+    "fs": 32.067994,
+    "m": "m0",
+    "count": 27,
+    "samples": [
+      "The issues are confused sometimes, but these are different patterns with differe",
+      "two sets of objects are recognized as making up different models, they are almos",
+      ". Doing so does provide different name spaces (essential for different ",
+      ") and some de-"
+    ]
+  },
+  {
+    "ff": "null",
+    "fs": 31.917086,
+    "m": "m0",
+    "count": 1,
+    "samples": [
+      "Here's How to Create a Panel for the Quilt"
+    ]
+  },
+  {
+    "ff": "ff25",
+    "fs": 31.734672,
+    "m": "m1",
+    "count": 7,
+    "samples": [
+      "Figure 10.1. Some patterns that contribute to supple design",
+      "Figure 10.5. The side effects of the ",
+      " method",
+      "Figure 10.12. This model accommodates adding new kinds of Accrual Schedules."
+    ]
+  },
+  {
+    "ff": "ff34",
+    "fs": 31.734672,
+    "m": "m1",
+    "count": 14,
+    "samples": [
+      "Figure 14.1. A navigation map for model integrity patterns",
+      "Figure 14.3. Two BOUNDED CONTEXTS formed to allow efficient routing algorithms t",
+      "Figure 14.4. Translation of a query to the Network Traversal Service",
+      "Figure 14.5. Translation of a route found by the Network Traversal Service"
+    ]
+  },
+  {
+    "ff": "ff38",
+    "fs": 31.734672,
+    "m": "m1",
+    "count": 7,
+    "samples": [
+      "These four equations, along with the definitions of their terms and the body of ",
+      "the entirety of classical nineteenth-century electromagnetism.",
+      "James Clerk Maxwell,",
+      ", 1873"
+    ]
+  },
+  {
+    "ff": "ff41",
+    "fs": 31.734672,
+    "m": "m1",
+    "count": 7,
+    "samples": [
+      "Figure 17.2. Structuring a model within a single BOUNDED CONTEXT",
+      "Figure 17.3. Structure imposed on the relationships of components of distinct BO",
+      "Figure 17.4. A structure that allows some components to span layers",
+      "Figure 17.5. The same structure applied within a CONTEXT and across the CONTEXT "
+    ]
+  },
+  {
+    "ff": "ff27",
+    "fs": 30.181642,
+    "m": "m0",
+    "count": 1,
+    "samples": [
+      "mixIn()"
+    ]
+  },
+  {
+    "ff": "ff25",
+    "fs": 30.181642,
+    "m": "m0",
+    "count": 6,
+    "samples": [
+      "Total volume of paint is unchanged by mixing.",
+      "If we take two real numbers and multiply them together, we get another real numb",
+      "the rational numbers and all the irrational numbers.] Because this is always tru",
+      "“closed under the operation  of multiplication”: there is no  way to escape the "
+    ]
+  },
+  {
+    "ff": "ff24",
+    "fs": 30.181642,
+    "m": "m0",
+    "count": 2,
+    "samples": [
+      "SPECIFICATION Stack Content for “Cheap Container”",
+      "Socrates on SPECIFICATIONS"
+    ]
+  },
+  {
+    "ff": "ff38",
+    "fs": 30.181642,
+    "m": "m0",
+    "count": 3,
+    "samples": [
+      "—",
+      " A Treatise on Electricity and Magnetism",
+      ". . . Increase visibility of operations and provide tools to fulfill customer re"
+    ]
+  },
+  {
+    "ff": "ff37",
+    "fs": 30.181642,
+    "m": "m0",
+    "count": 8,
+    "samples": [
+      "Shipping Project's Strategy Insurance Project's Strategy",
+      "Shipping Project's Strategy Insurance Project's Strategy",
+      "This is part of a DOMAIN VISION STATEMENT This, though important, is not part of",
+      "STATEMENT"
+    ]
+  },
+  {
+    "ff": "ff26",
+    "fs": 28.446197,
+    "m": "m0",
+    "count": 331,
+    "samples": [
+      "public void paint(Paint paint) {",
+      "   v = v + paint.getV(); //After mixing, volume is summed",
+      "   // Omitted many lines of complicated color mixing logic",
+      "   // ending with the assignment of new r, b, and y values."
+    ]
+  },
+  {
+    "ff": "ff25",
+    "fs": null,
+    "m": "m0",
+    "count": 3,
+    "samples": [
+      "1",
+      "The ",
+      " pattern, by Ward Cunningham."
+    ]
+  },
+  {
+    "ff": "ff25",
+    "fs": null,
+    "m": "m1",
+    "count": 3,
+    "samples": [
+      "WHOLE VALUE",
+      "↩",
+      "↩"
+    ]
+  },
+  {
+    "ff": "ff29",
+    "fs": 28.446197,
+    "m": "m0",
+    "count": 1,
+    "samples": [
+      "(Container)aContainer.getFeatures().contains(requiredFeature);"
+    ]
+  },
+  {
+    "ff": "ff27",
+    "fs": 28.446197,
+    "m": "m0",
+    "count": 2,
+    "samples": [
+      "between each owner's share.",
+      "each owner's share."
+    ]
+  },
+  {
+    "ff": "ff26",
+    "fs": 22.756958,
+    "m": "m0",
+    "count": 6,
+    "samples": [
+      "Specification manSpec = new ManSpecification();",
+      "Specification mortalSpec = new MortalSpecification();",
+      "assert manSpec.subsumes(mortalSpec);",
+      "Man socrates = new Man();"
+    ]
+  },
+  {
+    "ff": "ff34",
+    "fs": null,
+    "m": "m1",
+    "count": 15,
+    "samples": [
+      "MODULES",
+      "CONTEXTS",
+      "MODULES",
+      "CONTEXTS"
+    ]
+  },
+  {
+    "ff": "ff36",
+    "fs": 28.446197,
+    "m": "m0",
+    "count": 23,
+    "samples": [
+      "departureNode.shippingOperation.vesselVoyageId   leg.vesselVoyageId",
+      "departureNode.shippingOperation.date   leg.loadDate",
+      "departureNode.locationCode   leg.loadLocationCode",
+      "arrivalNode.shippingOperation.date   leg.unloadDate"
+    ]
+  },
+  {
+    "ff": "ff34",
+    "fs": null,
+    "m": "m0",
+    "count": 2,
+    "samples": [
+      "1",
+      "Reagan translated an old Russian saying that summed up the heart of the matter f"
+    ]
+  },
+  {
+    "ff": "ff34",
+    "fs": 30.181642,
+    "m": "m0",
+    "count": 2,
+    "samples": [
+      "—",
+      " Udana"
+    ]
+  },
+  {
+    "ff": "ff34",
+    "fs": 22.756958,
+    "m": "m0",
+    "count": 88,
+    "samples": [
+      " ",
+      "It was six men of Indostan",
+      " ",
+      "To learning much inclined,"
+    ]
+  },
+  {
+    "ff": "null",
+    "fs": null,
+    "m": "m0",
+    "count": 3,
+    "samples": [
+      "1",
+      "S",
+      " finally made sense to me when I heard Ward Cunningham use this firewall example"
+    ]
+  },
+  {
+    "ff": "ff41",
+    "fs": 30.181642,
+    "m": "m0",
+    "count": 24,
+    "samples": [
+      "Without a planning process of some kind, there is not a chance in the world that",
+      "come to possess an order anywhere near as deep and harmonious as the order that ",
+      "Cambridge.",
+      "The master plan has been the conventional way of approaching this difficulty. Th"
+    ]
+  },
+  {
+    "ff": "null",
+    "fs": 25.654395,
+    "m": "m0",
+    "count": 2,
+    "samples": [
+      "2",
+      "2"
+    ]
+  }
+]
