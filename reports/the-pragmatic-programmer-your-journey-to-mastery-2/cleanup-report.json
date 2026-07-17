@@ -1,0 +1,1692 @@
+{
+  "generatedAt": "2026-07-12T12:56:36.688Z",
+  "pagesProcessed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237,
+    238,
+    239,
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260,
+    261,
+    262,
+    263,
+    264,
+    265,
+    266,
+    267,
+    268,
+    269,
+    270,
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280,
+    281,
+    282,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289,
+    290,
+    291,
+    292,
+    293,
+    294,
+    295,
+    296,
+    297,
+    298,
+    299,
+    300,
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    307,
+    308,
+    309,
+    310,
+    311,
+    312,
+    313,
+    314,
+    315,
+    316,
+    317,
+    318,
+    319,
+    320,
+    321,
+    322,
+    323,
+    324,
+    325,
+    326,
+    327,
+    328,
+    329,
+    330,
+    331,
+    332,
+    333,
+    334,
+    335,
+    336,
+    337,
+    338,
+    339,
+    340,
+    341,
+    342,
+    343,
+    344,
+    345,
+    346,
+    347,
+    348,
+    349,
+    350,
+    351,
+    352,
+    353,
+    354,
+    355,
+    356,
+    357,
+    358,
+    359,
+    360,
+    361,
+    362,
+    363,
+    364,
+    365,
+    366,
+    367,
+    368,
+    369,
+    370,
+    371,
+    372,
+    373,
+    374,
+    375,
+    376,
+    377,
+    378,
+    379,
+    380,
+    381,
+    382,
+    383,
+    384,
+    385,
+    386,
+    387,
+    388,
+    389,
+    390,
+    391,
+    392,
+    393,
+    394,
+    395,
+    396,
+    397,
+    398,
+    399,
+    400,
+    401,
+    402,
+    403,
+    404,
+    405,
+    406,
+    407,
+    408,
+    409,
+    410,
+    411,
+    412,
+    413,
+    414,
+    415,
+    416,
+    417,
+    418,
+    419,
+    420,
+    421,
+    422,
+    423,
+    424,
+    425,
+    426,
+    427,
+    428,
+    429,
+    430,
+    431,
+    432,
+    433,
+    434,
+    435,
+    436,
+    437,
+    438,
+    439,
+    440,
+    441,
+    442,
+    443,
+    444,
+    445,
+    446,
+    447,
+    448,
+    449,
+    450,
+    451,
+    452,
+    453,
+    454,
+    455,
+    456,
+    457,
+    458,
+    459,
+    460,
+    461,
+    462,
+    463,
+    464,
+    465,
+    466,
+    467,
+    468,
+    469,
+    470,
+    471,
+    472,
+    473,
+    474,
+    475,
+    476,
+    477,
+    478,
+    479,
+    480,
+    481,
+    482,
+    483,
+    484,
+    485,
+    486,
+    487,
+    488,
+    489,
+    490,
+    491,
+    492,
+    493,
+    494,
+    495,
+    496,
+    497
+  ],
+  "headersRemoved": 1,
+  "headerSamples": [
+    {
+      "page": 235,
+      "text": "That Ruby code worked when we wrote the first edition, 20"
+    }
+  ],
+  "hyphenRepairs": [
+    {
+      "before": "d be impossible to keep up-to- / date and because it’s easier t"
+    },
+    {
+      "before": "pany will certainly have cash- / flow constraints. It would be "
+    },
+    {
+      "before": "year for the shiny, bells-and- / whistles version (and in fact "
+    },
+    {
+      "before": "or irrelevant. Given the ever- / increasing pace of change in o"
+    },
+    {
+      "before": "t be sure to bring your own e- / reader with you, or you might "
+    },
+    {
+      "before": "tabase schema. Adding context- / sensitive help should not chan"
+    },
+    {
+      "before": "e you have achieved an end-to- / end connection among the compo"
+    },
+    {
+      "before": ". People tend to produce wall- / sized charts of all the tasks "
+    },
+    {
+      "before": "ll chain, especially in event- / based systems."
+    },
+    {
+      "before": "s practice unit testing, test- / driven development (TDD), prop"
+    },
+    {
+      "before": "exceptions generated from DBC- / style assertions might be turn"
+    },
+    {
+      "before": " come from high-profile, hard- / to-predict, and rare events th"
+    },
+    {
+      "before": "n the code, and often in hard- / to-find places that only come "
+    },
+    {
+      "before": "the environment- and customer- / specific values outside the ap"
+    },
+    {
+      "before": "7/archeological-semiotics-the- / birth-of-the-pipeline-symbol-1"
+    },
+    {
+      "before": "speech recognition, knowledge- / based reasoning systems, and s"
+    },
+    {
+      "before": "ave the computer do some wide- / ranging testing for you and ho"
+    },
+    {
+      "before": "kely fields in a table of who- / watched-what: opened_video and"
+    },
+    {
+      "before": "ractice something called test- / driven development or TDD. You"
+    },
+    {
+      "before": "side running code is the ”hot- / key” sequence or magic URL. Wh"
+    },
+    {
+      "before": "d up doing is called property- / based testing."
+    },
+    {
+      "before": "ariants? Can you use property- / based testing framework to ver"
+    },
+    {
+      "before": "olithic, heavy-enough-to-stun- / an-ox, requirements document. "
+    },
+    {
+      "before": "remove the ring, or fit the T- / shaped pieces in the box, or"
+    },
+    {
+      "before": "experience, different problem- / solving techniques and approac"
+    },
+    {
+      "before": "re effective when spread team- / wide. Plan to do it, whether i"
+    },
+    {
+      "before": "eeting once a week, with four- / week iterations that often tur"
+    }
+  ],
+  "warnings": [
+    {
+      "type": "image-extraction-failed",
+      "detail": "timed out waiting for page object \"g_d1_img_p94_1\""
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "non",
+      "before": "skills you need, including those in non-",
+      "after": "technical areas."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "cross",
+      "before": "and new ways of doing things. The cross-",
+      "after": "pollination of ideas is important; try t"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "well",
+      "before": "not affect any of the others. In a well-",
+      "after": "designed system, the database code will "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "object",
+      "before": "erences in orthogonality between object-",
+      "after": "oriented and functional languages? Are t"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "self",
+      "before": "g, structuring, documentation, and self-",
+      "after": "checking that any piece of production co"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "low",
+      "before": "work well as the “glue’’ to combine low-",
+      "after": "level pieces into new combinations. Usin"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "third",
+      "before": "sts in the OS, the compiler, or a third-",
+      "after": "party product—but this should not be you"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "object",
+      "before": "nguage, whether it’s functional, object-",
+      "after": "oriented, or procedural, DBC forces you "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "object",
+      "before": " answer is no. To begin with, in object-",
+      "after": "oriented languages there probably is no "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "low",
+      "before": "the average distance illuminated by low-",
+      "after": "beam headlights is about 160 feet. Unfor"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "off",
+      "before": "ad into the future, and the further off-",
+      "after": "axis you look, the darker it gets. So Pr"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "object",
+      "before": "eper, too. If your background is object-",
+      "after": "oriented programming, then your reflexes"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "object",
+      "before": "Do you program in an object-",
+      "after": "oriented language? Do you use"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "non",
+      "before": "te leader of Russia has succeeded a non-",
+      "after": "bald (“hairy”) one, and vice versa, for "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "re",
+      "before": "evelopers are reluctant to go in and re-",
+      "after": "open a piece of code just because it isn"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "top",
+      "before": ", there were two schools of design: top-",
+      "after": "down and bottom-up. The top-down folks s"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "bottom",
+      "before": "rement up front: they can’t. The bottom-",
+      "after": "up folks assume they can build a list of"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "real",
+      "before": "cool details and instead look at a real-",
+      "after": "world example."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "well",
+      "before": "ere, rely only on reliable things: well-",
+      "after": "vetted, thoroughly examined, well-mainta"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "contextsensitive",
+      "suggestion": "context sensitive"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "phoenixframework",
+      "suggestion": "phoenix framework"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "enableassertions",
+      "suggestion": "enable assertions"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "customerspecific",
+      "suggestion": "customer specific"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "OVERSPECIFICATION",
+      "suggestion": "over specification"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "extremeprogramming",
+      "suggestion": "extreme programming"
+    }
+  ],
+  "imagesExtracted": [
+    {
+      "page": 1,
+      "file": "p1-fig1.png"
+    },
+    {
+      "page": 70,
+      "file": "p70-fig1.png"
+    },
+    {
+      "page": 70,
+      "file": "p70-fig2.png"
+    },
+    {
+      "page": 70,
+      "file": "p70-fig3.png"
+    },
+    {
+      "page": 70,
+      "file": "p70-fig4.png"
+    },
+    {
+      "page": 70,
+      "file": "p70-fig5.png"
+    },
+    {
+      "page": 70,
+      "file": "p70-fig6.png"
+    },
+    {
+      "page": 70,
+      "file": "p70-fig7.png"
+    },
+    {
+      "page": 70,
+      "file": "p70-fig8.png"
+    },
+    {
+      "page": 92,
+      "file": "p92-fig1.png"
+    },
+    {
+      "page": 125,
+      "file": "p125-fig1.png"
+    },
+    {
+      "page": 125,
+      "file": "p125-fig2.png"
+    },
+    {
+      "page": 125,
+      "file": "p125-fig3.png"
+    },
+    {
+      "page": 125,
+      "file": "p125-fig4.png"
+    },
+    {
+      "page": 125,
+      "file": "p125-fig5.png"
+    },
+    {
+      "page": 125,
+      "file": "p125-fig6.png"
+    },
+    {
+      "page": 125,
+      "file": "p125-fig7.png"
+    },
+    {
+      "page": 125,
+      "file": "p125-fig8.png"
+    },
+    {
+      "page": 126,
+      "file": "p126-fig1.png"
+    },
+    {
+      "page": 126,
+      "file": "p126-fig2.png"
+    },
+    {
+      "page": 126,
+      "file": "p126-fig3.png"
+    },
+    {
+      "page": 126,
+      "file": "p126-fig4.png"
+    },
+    {
+      "page": 126,
+      "file": "p126-fig5.png"
+    },
+    {
+      "page": 126,
+      "file": "p126-fig6.png"
+    },
+    {
+      "page": 126,
+      "file": "p126-fig7.png"
+    },
+    {
+      "page": 126,
+      "file": "p126-fig8.png"
+    },
+    {
+      "page": 149,
+      "file": "p149-fig1.png"
+    },
+    {
+      "page": 149,
+      "file": "p149-fig2.png"
+    },
+    {
+      "page": 149,
+      "file": "p149-fig3.png"
+    },
+    {
+      "page": 149,
+      "file": "p149-fig4.png"
+    },
+    {
+      "page": 149,
+      "file": "p149-fig5.png"
+    },
+    {
+      "page": 149,
+      "file": "p149-fig6.png"
+    },
+    {
+      "page": 149,
+      "file": "p149-fig7.png"
+    },
+    {
+      "page": 149,
+      "file": "p149-fig8.png"
+    },
+    {
+      "page": 161,
+      "file": "p161-fig1.png"
+    },
+    {
+      "page": 161,
+      "file": "p161-fig2.png"
+    },
+    {
+      "page": 161,
+      "file": "p161-fig3.png"
+    },
+    {
+      "page": 161,
+      "file": "p161-fig4.png"
+    },
+    {
+      "page": 161,
+      "file": "p161-fig5.png"
+    },
+    {
+      "page": 161,
+      "file": "p161-fig6.png"
+    },
+    {
+      "page": 161,
+      "file": "p161-fig7.png"
+    },
+    {
+      "page": 161,
+      "file": "p161-fig8.png"
+    },
+    {
+      "page": 162,
+      "file": "p162-fig1.png"
+    },
+    {
+      "page": 162,
+      "file": "p162-fig2.png"
+    },
+    {
+      "page": 162,
+      "file": "p162-fig3.png"
+    },
+    {
+      "page": 162,
+      "file": "p162-fig4.png"
+    },
+    {
+      "page": 162,
+      "file": "p162-fig5.png"
+    },
+    {
+      "page": 162,
+      "file": "p162-fig6.png"
+    },
+    {
+      "page": 162,
+      "file": "p162-fig7.png"
+    },
+    {
+      "page": 162,
+      "file": "p162-fig8.png"
+    },
+    {
+      "page": 164,
+      "file": "p164-fig1.png"
+    },
+    {
+      "page": 164,
+      "file": "p164-fig2.png"
+    },
+    {
+      "page": 164,
+      "file": "p164-fig3.png"
+    },
+    {
+      "page": 164,
+      "file": "p164-fig4.png"
+    },
+    {
+      "page": 164,
+      "file": "p164-fig5.png"
+    },
+    {
+      "page": 164,
+      "file": "p164-fig6.png"
+    },
+    {
+      "page": 164,
+      "file": "p164-fig7.png"
+    },
+    {
+      "page": 164,
+      "file": "p164-fig8.png"
+    },
+    {
+      "page": 165,
+      "file": "p165-fig1.png"
+    },
+    {
+      "page": 165,
+      "file": "p165-fig2.png"
+    },
+    {
+      "page": 165,
+      "file": "p165-fig3.png"
+    },
+    {
+      "page": 165,
+      "file": "p165-fig4.png"
+    },
+    {
+      "page": 165,
+      "file": "p165-fig5.png"
+    },
+    {
+      "page": 165,
+      "file": "p165-fig6.png"
+    },
+    {
+      "page": 165,
+      "file": "p165-fig7.png"
+    },
+    {
+      "page": 165,
+      "file": "p165-fig8.png"
+    },
+    {
+      "page": 195,
+      "file": "p195-fig1.png"
+    },
+    {
+      "page": 195,
+      "file": "p195-fig2.png"
+    },
+    {
+      "page": 195,
+      "file": "p195-fig3.png"
+    },
+    {
+      "page": 195,
+      "file": "p195-fig4.png"
+    },
+    {
+      "page": 195,
+      "file": "p195-fig5.png"
+    },
+    {
+      "page": 195,
+      "file": "p195-fig6.png"
+    },
+    {
+      "page": 195,
+      "file": "p195-fig7.png"
+    },
+    {
+      "page": 195,
+      "file": "p195-fig8.png"
+    },
+    {
+      "page": 196,
+      "file": "p196-fig1.png"
+    },
+    {
+      "page": 196,
+      "file": "p196-fig2.png"
+    },
+    {
+      "page": 196,
+      "file": "p196-fig3.png"
+    },
+    {
+      "page": 196,
+      "file": "p196-fig4.png"
+    },
+    {
+      "page": 196,
+      "file": "p196-fig5.png"
+    },
+    {
+      "page": 196,
+      "file": "p196-fig6.png"
+    },
+    {
+      "page": 196,
+      "file": "p196-fig7.png"
+    },
+    {
+      "page": 196,
+      "file": "p196-fig8.png"
+    },
+    {
+      "page": 198,
+      "file": "p198-fig1.png"
+    },
+    {
+      "page": 198,
+      "file": "p198-fig2.png"
+    },
+    {
+      "page": 198,
+      "file": "p198-fig3.png"
+    },
+    {
+      "page": 198,
+      "file": "p198-fig4.png"
+    },
+    {
+      "page": 198,
+      "file": "p198-fig5.png"
+    },
+    {
+      "page": 198,
+      "file": "p198-fig6.png"
+    },
+    {
+      "page": 198,
+      "file": "p198-fig7.png"
+    },
+    {
+      "page": 198,
+      "file": "p198-fig8.png"
+    },
+    {
+      "page": 210,
+      "file": "p210-fig1.png"
+    },
+    {
+      "page": 210,
+      "file": "p210-fig2.png"
+    },
+    {
+      "page": 210,
+      "file": "p210-fig3.png"
+    },
+    {
+      "page": 210,
+      "file": "p210-fig4.png"
+    },
+    {
+      "page": 210,
+      "file": "p210-fig5.png"
+    },
+    {
+      "page": 210,
+      "file": "p210-fig6.png"
+    },
+    {
+      "page": 210,
+      "file": "p210-fig7.png"
+    },
+    {
+      "page": 210,
+      "file": "p210-fig8.png"
+    },
+    {
+      "page": 211,
+      "file": "p211-fig1.png"
+    },
+    {
+      "page": 211,
+      "file": "p211-fig2.png"
+    },
+    {
+      "page": 211,
+      "file": "p211-fig3.png"
+    },
+    {
+      "page": 211,
+      "file": "p211-fig4.png"
+    },
+    {
+      "page": 211,
+      "file": "p211-fig5.png"
+    },
+    {
+      "page": 211,
+      "file": "p211-fig6.png"
+    },
+    {
+      "page": 211,
+      "file": "p211-fig7.png"
+    },
+    {
+      "page": 211,
+      "file": "p211-fig8.png"
+    },
+    {
+      "page": 216,
+      "file": "p216-fig1.png"
+    },
+    {
+      "page": 216,
+      "file": "p216-fig2.png"
+    },
+    {
+      "page": 216,
+      "file": "p216-fig3.png"
+    },
+    {
+      "page": 216,
+      "file": "p216-fig4.png"
+    },
+    {
+      "page": 216,
+      "file": "p216-fig5.png"
+    },
+    {
+      "page": 216,
+      "file": "p216-fig6.png"
+    },
+    {
+      "page": 216,
+      "file": "p216-fig7.png"
+    },
+    {
+      "page": 216,
+      "file": "p216-fig8.png"
+    },
+    {
+      "page": 263,
+      "file": "p263-fig1.png"
+    },
+    {
+      "page": 263,
+      "file": "p263-fig2.png"
+    },
+    {
+      "page": 263,
+      "file": "p263-fig3.png"
+    },
+    {
+      "page": 263,
+      "file": "p263-fig4.png"
+    },
+    {
+      "page": 263,
+      "file": "p263-fig5.png"
+    },
+    {
+      "page": 263,
+      "file": "p263-fig6.png"
+    },
+    {
+      "page": 263,
+      "file": "p263-fig7.png"
+    },
+    {
+      "page": 263,
+      "file": "p263-fig8.png"
+    },
+    {
+      "page": 287,
+      "file": "p287-fig1.png"
+    },
+    {
+      "page": 287,
+      "file": "p287-fig2.png"
+    },
+    {
+      "page": 287,
+      "file": "p287-fig3.png"
+    },
+    {
+      "page": 287,
+      "file": "p287-fig4.png"
+    },
+    {
+      "page": 287,
+      "file": "p287-fig5.png"
+    },
+    {
+      "page": 287,
+      "file": "p287-fig6.png"
+    },
+    {
+      "page": 287,
+      "file": "p287-fig7.png"
+    },
+    {
+      "page": 287,
+      "file": "p287-fig8.png"
+    },
+    {
+      "page": 288,
+      "file": "p288-fig1.png"
+    },
+    {
+      "page": 288,
+      "file": "p288-fig2.png"
+    },
+    {
+      "page": 288,
+      "file": "p288-fig3.png"
+    },
+    {
+      "page": 288,
+      "file": "p288-fig4.png"
+    },
+    {
+      "page": 288,
+      "file": "p288-fig5.png"
+    },
+    {
+      "page": 288,
+      "file": "p288-fig6.png"
+    },
+    {
+      "page": 288,
+      "file": "p288-fig7.png"
+    },
+    {
+      "page": 288,
+      "file": "p288-fig8.png"
+    },
+    {
+      "page": 295,
+      "file": "p295-fig1.png"
+    },
+    {
+      "page": 295,
+      "file": "p295-fig2.png"
+    },
+    {
+      "page": 295,
+      "file": "p295-fig3.png"
+    },
+    {
+      "page": 295,
+      "file": "p295-fig4.png"
+    },
+    {
+      "page": 295,
+      "file": "p295-fig5.png"
+    },
+    {
+      "page": 295,
+      "file": "p295-fig6.png"
+    },
+    {
+      "page": 295,
+      "file": "p295-fig7.png"
+    },
+    {
+      "page": 295,
+      "file": "p295-fig8.png"
+    },
+    {
+      "page": 296,
+      "file": "p296-fig1.png"
+    },
+    {
+      "page": 296,
+      "file": "p296-fig2.png"
+    },
+    {
+      "page": 296,
+      "file": "p296-fig3.png"
+    },
+    {
+      "page": 296,
+      "file": "p296-fig4.png"
+    },
+    {
+      "page": 296,
+      "file": "p296-fig5.png"
+    },
+    {
+      "page": 296,
+      "file": "p296-fig6.png"
+    },
+    {
+      "page": 296,
+      "file": "p296-fig7.png"
+    },
+    {
+      "page": 296,
+      "file": "p296-fig8.png"
+    },
+    {
+      "page": 359,
+      "file": "p359-fig1.png"
+    },
+    {
+      "page": 359,
+      "file": "p359-fig2.png"
+    },
+    {
+      "page": 359,
+      "file": "p359-fig3.png"
+    },
+    {
+      "page": 359,
+      "file": "p359-fig4.png"
+    },
+    {
+      "page": 359,
+      "file": "p359-fig5.png"
+    },
+    {
+      "page": 359,
+      "file": "p359-fig6.png"
+    },
+    {
+      "page": 359,
+      "file": "p359-fig7.png"
+    },
+    {
+      "page": 359,
+      "file": "p359-fig8.png"
+    },
+    {
+      "page": 365,
+      "file": "p365-fig1.png"
+    },
+    {
+      "page": 365,
+      "file": "p365-fig2.png"
+    },
+    {
+      "page": 365,
+      "file": "p365-fig3.png"
+    },
+    {
+      "page": 365,
+      "file": "p365-fig4.png"
+    },
+    {
+      "page": 365,
+      "file": "p365-fig5.png"
+    },
+    {
+      "page": 365,
+      "file": "p365-fig6.png"
+    },
+    {
+      "page": 365,
+      "file": "p365-fig7.png"
+    },
+    {
+      "page": 365,
+      "file": "p365-fig8.png"
+    },
+    {
+      "page": 366,
+      "file": "p366-fig1.png"
+    },
+    {
+      "page": 366,
+      "file": "p366-fig2.png"
+    },
+    {
+      "page": 366,
+      "file": "p366-fig3.png"
+    },
+    {
+      "page": 366,
+      "file": "p366-fig4.png"
+    },
+    {
+      "page": 366,
+      "file": "p366-fig5.png"
+    },
+    {
+      "page": 366,
+      "file": "p366-fig6.png"
+    },
+    {
+      "page": 366,
+      "file": "p366-fig7.png"
+    },
+    {
+      "page": 366,
+      "file": "p366-fig8.png"
+    },
+    {
+      "page": 372,
+      "file": "p372-fig1.png"
+    },
+    {
+      "page": 372,
+      "file": "p372-fig2.png"
+    },
+    {
+      "page": 372,
+      "file": "p372-fig3.png"
+    },
+    {
+      "page": 372,
+      "file": "p372-fig4.png"
+    },
+    {
+      "page": 372,
+      "file": "p372-fig5.png"
+    },
+    {
+      "page": 372,
+      "file": "p372-fig6.png"
+    },
+    {
+      "page": 372,
+      "file": "p372-fig7.png"
+    },
+    {
+      "page": 372,
+      "file": "p372-fig8.png"
+    },
+    {
+      "page": 391,
+      "file": "p391-fig1.png"
+    },
+    {
+      "page": 391,
+      "file": "p391-fig2.png"
+    },
+    {
+      "page": 391,
+      "file": "p391-fig3.png"
+    },
+    {
+      "page": 391,
+      "file": "p391-fig4.png"
+    },
+    {
+      "page": 391,
+      "file": "p391-fig5.png"
+    },
+    {
+      "page": 391,
+      "file": "p391-fig6.png"
+    },
+    {
+      "page": 391,
+      "file": "p391-fig7.png"
+    },
+    {
+      "page": 391,
+      "file": "p391-fig8.png"
+    },
+    {
+      "page": 392,
+      "file": "p392-fig1.png"
+    },
+    {
+      "page": 392,
+      "file": "p392-fig2.png"
+    },
+    {
+      "page": 392,
+      "file": "p392-fig3.png"
+    },
+    {
+      "page": 392,
+      "file": "p392-fig4.png"
+    },
+    {
+      "page": 392,
+      "file": "p392-fig5.png"
+    },
+    {
+      "page": 392,
+      "file": "p392-fig6.png"
+    },
+    {
+      "page": 392,
+      "file": "p392-fig7.png"
+    },
+    {
+      "page": 392,
+      "file": "p392-fig8.png"
+    },
+    {
+      "page": 397,
+      "file": "p397-fig1.png"
+    },
+    {
+      "page": 397,
+      "file": "p397-fig2.png"
+    },
+    {
+      "page": 397,
+      "file": "p397-fig3.png"
+    },
+    {
+      "page": 397,
+      "file": "p397-fig4.png"
+    },
+    {
+      "page": 397,
+      "file": "p397-fig5.png"
+    },
+    {
+      "page": 397,
+      "file": "p397-fig6.png"
+    },
+    {
+      "page": 397,
+      "file": "p397-fig7.png"
+    },
+    {
+      "page": 397,
+      "file": "p397-fig8.png"
+    },
+    {
+      "page": 398,
+      "file": "p398-fig1.png"
+    },
+    {
+      "page": 398,
+      "file": "p398-fig2.png"
+    },
+    {
+      "page": 398,
+      "file": "p398-fig3.png"
+    },
+    {
+      "page": 398,
+      "file": "p398-fig4.png"
+    },
+    {
+      "page": 398,
+      "file": "p398-fig5.png"
+    },
+    {
+      "page": 398,
+      "file": "p398-fig6.png"
+    },
+    {
+      "page": 398,
+      "file": "p398-fig7.png"
+    },
+    {
+      "page": 398,
+      "file": "p398-fig8.png"
+    },
+    {
+      "page": 425,
+      "file": "p425-fig1.png"
+    },
+    {
+      "page": 425,
+      "file": "p425-fig2.png"
+    },
+    {
+      "page": 425,
+      "file": "p425-fig3.png"
+    },
+    {
+      "page": 425,
+      "file": "p425-fig4.png"
+    },
+    {
+      "page": 425,
+      "file": "p425-fig5.png"
+    },
+    {
+      "page": 425,
+      "file": "p425-fig6.png"
+    },
+    {
+      "page": 425,
+      "file": "p425-fig7.png"
+    },
+    {
+      "page": 425,
+      "file": "p425-fig8.png"
+    },
+    {
+      "page": 449,
+      "file": "p449-fig1.png"
+    },
+    {
+      "page": 449,
+      "file": "p449-fig2.png"
+    },
+    {
+      "page": 449,
+      "file": "p449-fig3.png"
+    },
+    {
+      "page": 449,
+      "file": "p449-fig4.png"
+    },
+    {
+      "page": 449,
+      "file": "p449-fig5.png"
+    },
+    {
+      "page": 449,
+      "file": "p449-fig6.png"
+    },
+    {
+      "page": 449,
+      "file": "p449-fig7.png"
+    },
+    {
+      "page": 449,
+      "file": "p449-fig8.png"
+    }
+  ],
+  "blocksByType": {
+    "figure": 234,
+    "h1": 17,
+    "p": 2591,
+    "h2": 13,
+    "attribution": 2490,
+    "ol": 35,
+    "h3": 12,
+    "dialogue": 1
+  },
+  "textLengthBefore": 573483,
+  "textLengthAfter": 586447
+}

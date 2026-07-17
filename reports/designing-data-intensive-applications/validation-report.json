@@ -1,0 +1,258 @@
+{
+  "file": "cleaned-html/designing-data-intensive-applications/all.xhtml",
+  "generatedAt": "2026-07-12T12:57:54.624Z",
+  "bodyTextLength": 1410887,
+  "errors": [],
+  "warnings": [
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "vii"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Preface"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Acknowledgments"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Reliability"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Scalability"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Maintainability"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Summary"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "References"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Summary"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "References"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "B-Trees"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Summary"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "References"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Avro"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Summary"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "References"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "References"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Replication"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Summary"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "References"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Partitioning"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Summary"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "References"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Transactions"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Atomicity"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Consistency"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Isolation"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Durability"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Compare-and-set"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Serializability"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Partitioning"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "x"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Summary"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "References"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Summary"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "References"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Linearizability"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "viii"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "xi"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Summary"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "References"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Summary"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "References"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "i"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Idempotence"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Summary"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "References"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Surveillance"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Summary"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "References"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Glossary"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "atomic"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "deterministic"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "distributed"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "durable"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "ETL"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "skew"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Index"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "H"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "K"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "W"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Colophon"
+    }
+  ],
+  "errorCount": 0,
+  "warningCount": 62
+}

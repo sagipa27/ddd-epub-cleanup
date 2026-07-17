@@ -1,0 +1,1355 @@
+{
+  "generatedAt": "2026-07-16T22:06:47.690Z",
+  "pagesProcessed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237,
+    238,
+    239,
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260,
+    261,
+    262,
+    263,
+    264,
+    265,
+    266,
+    267,
+    268,
+    269,
+    270,
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280,
+    281,
+    282,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289,
+    290,
+    291,
+    292,
+    293,
+    294,
+    295,
+    296,
+    297,
+    298,
+    299,
+    300,
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    307,
+    308,
+    309,
+    310,
+    311,
+    312,
+    313,
+    314,
+    315,
+    316,
+    317,
+    318,
+    319,
+    320,
+    321,
+    322,
+    323,
+    324,
+    325,
+    326,
+    327,
+    328,
+    329,
+    330,
+    331,
+    332,
+    333,
+    334,
+    335,
+    336,
+    337,
+    338,
+    339,
+    340,
+    341,
+    342,
+    343,
+    344,
+    345,
+    346,
+    347,
+    348,
+    349,
+    350,
+    351,
+    352,
+    353,
+    354,
+    355,
+    356,
+    357,
+    358,
+    359,
+    360,
+    361,
+    362,
+    363,
+    364,
+    365,
+    366,
+    367,
+    368,
+    369,
+    370,
+    371,
+    372,
+    373,
+    374,
+    375,
+    376,
+    377,
+    378,
+    379,
+    380,
+    381,
+    382,
+    383,
+    384,
+    385,
+    386,
+    387,
+    388,
+    389,
+    390,
+    391,
+    392,
+    393,
+    394,
+    395,
+    396,
+    397,
+    398,
+    399,
+    400,
+    401,
+    402,
+    403,
+    404,
+    405,
+    406,
+    407,
+    408,
+    409,
+    410,
+    411,
+    412,
+    413,
+    414,
+    415,
+    416,
+    417,
+    418,
+    419,
+    420,
+    421,
+    422,
+    423,
+    424,
+    425,
+    426,
+    427,
+    428,
+    429,
+    430,
+    431,
+    432,
+    433,
+    434,
+    435,
+    436,
+    437,
+    438,
+    439,
+    440,
+    441,
+    442,
+    443,
+    444,
+    445,
+    446,
+    447,
+    448,
+    449,
+    450,
+    451,
+    452,
+    453,
+    454,
+    455,
+    456,
+    457,
+    458,
+    459,
+    460,
+    461,
+    462,
+    463,
+    464,
+    465,
+    466,
+    467,
+    468,
+    469,
+    470,
+    471,
+    472,
+    473,
+    474,
+    475,
+    476,
+    477,
+    478,
+    479,
+    480,
+    481,
+    482,
+    483,
+    484,
+    485,
+    486,
+    487,
+    488,
+    489,
+    490,
+    491,
+    492,
+    493,
+    494,
+    495,
+    496,
+    497,
+    498,
+    499,
+    500,
+    501,
+    502,
+    503,
+    504,
+    505,
+    506,
+    507,
+    508,
+    509,
+    510,
+    511,
+    512,
+    513,
+    514,
+    515,
+    516,
+    517,
+    518,
+    519,
+    520,
+    521,
+    522,
+    523,
+    524,
+    525,
+    526,
+    527,
+    528,
+    529,
+    530,
+    531,
+    532,
+    533,
+    534,
+    535,
+    536,
+    537,
+    538,
+    539,
+    540,
+    541,
+    542,
+    543,
+    544,
+    545,
+    546,
+    547,
+    548,
+    549,
+    550,
+    551,
+    552,
+    553,
+    554,
+    555,
+    556,
+    557,
+    558,
+    559,
+    560,
+    561,
+    562,
+    563,
+    564,
+    565,
+    566,
+    567,
+    568,
+    569,
+    570,
+    571,
+    572,
+    573,
+    574,
+    575,
+    576,
+    577,
+    578,
+    579,
+    580,
+    581,
+    582,
+    583,
+    584,
+    585,
+    586,
+    587,
+    588,
+    589,
+    590,
+    591,
+    592,
+    593,
+    594,
+    595,
+    596,
+    597,
+    598,
+    599,
+    600,
+    601,
+    602
+  ],
+  "headersRemoved": 8,
+  "headerSamples": [
+    {
+      "page": 7,
+      "text": "Staying in the Loop 61"
+    },
+    {
+      "page": 8,
+      "text": "Remove Roadblocks 96"
+    },
+    {
+      "page": 11,
+      "text": "The Limits of Automated Testing 229"
+    },
+    {
+      "page": 12,
+      "text": "Fakes Should Be Tested 272"
+    },
+    {
+      "page": 15,
+      "text": "Dealing with Modules and Dependencies 390"
+    },
+    {
+      "page": 16,
+      "text": "Conclusion 428"
+    },
+    {
+      "page": 17,
+      "text": "Language Support 471"
+    },
+    {
+      "page": 18,
+      "text": "Writing Software for Managed Compute 523"
+    }
+  ],
+  "hyphenRepairs": [
+    {
+      "before": "nd exercises tend to be write- / once, with little to no refact"
+    },
+    {
+      "before": " will need to weigh the trade- / offs between that value and th"
+    },
+    {
+      "before": "ases. Teams depend on an ever- / increasing number of Widgets, "
+    },
+    {
+      "before": "portional to the count of SWE- / months over time. If your task"
+    },
+    {
+      "before": "ine we made an explicit trade- / off: it is far more important "
+    },
+    {
+      "before": "w to provision and run global- / scale services. We often say, "
+    },
+    {
+      "before": "gs of a proof-of-concept Unix- / like kernel and show it to an "
+    },
+    {
+      "before": "oo. The phenomenon of “techie- / celebrity” has almost spilled "
+    },
+    {
+      "before": "arage with a radical new gear- / shifting mechanism. Turns out "
+    },
+    {
+      "before": "ability comes with some trade- / offs: it might be more general"
+    },
+    {
+      "before": "t asking questions and up-and- / coming experts feel empowered "
+    },
+    {
+      "before": "sually answered quickly. Team- / oriented chats, on the other h"
+    },
+    {
+      "before": "clumsy for the quick back-and- / forth exchanges at which group"
+    },
+    {
+      "before": "ture You!). In terms of trade- / offs, code comments are subjec"
+    },
+    {
+      "before": "16/7/204032-why-google-stores- / billions-of-lines-of-code-in-a"
+    },
+    {
+      "before": "ause it is a notion of within- / repository consistency."
+    },
+    {
+      "before": " likely calmer and more panic- / free. You had a list of work t"
+    },
+    {
+      "before": "ly and work only on important- / but-not-urgent things—things l"
+    },
+    {
+      "before": "lized team can focus on broad- / based solutions to complex pro"
+    },
+    {
+      "before": "ps://github.com/abseil/abseil- / cpp/blob/master/absl/utility/u"
+    },
+    {
+      "before": "are subject to final decision- / making approval."
+    },
+    {
+      "before": "automatically verified. Error- / checking tools take a set of r"
+    },
+    {
+      "before": "ensure that it follows agreed- / on best practices for that par"
+    },
+    {
+      "before": " still results in many end-to- / end test failures that could h"
+    },
+    {
+      "before": "act, it is one of the longest- / running orientation classes in"
+    },
+    {
+      "before": " also began including an hour- / long discussion of the value o"
+    },
+    {
+      "before": " for functions that are state- / changing. Performing interacti"
+    },
+    {
+      "before": " script to bring up an end-to- / end Gmail environment locally "
+    },
+    {
+      "before": "ry likely to introduce out-of- / band coordination to decide wh"
+    },
+    {
+      "before": "nt is inherently a branch-and- / merge process, both when coord"
+    },
+    {
+      "before": "ve correlation between “trunk- / based development,” “no long-l"
+    },
+    {
+      "before": "s of changes, finding an ever- / expanding set of hidden branch"
+    },
+    {
+      "before": "elerate) has shown that trunk- / based development is a predict"
+    },
+    {
+      "before": "lize efficiently with a token- / based index when dealing with "
+    },
+    {
+      "before": "build scripts imposed by task- / based build systems are often "
+    },
+    {
+      "before": "er, in the same way that task- / based build systems let progra"
+    },
+    {
+      "before": "blem by requiring a workspace- / wide manifest file that lists "
+    },
+    {
+      "before": "lack of flexibility: artifact- / based systems don’t let you wr"
+    },
+    {
+      "before": "e dependencies in an artifact- / based world. We came to the co"
+    },
+    {
+      "before": "was important to have side-by- / side diffs to make the review "
+    },
+    {
+      "before": "it clear where in the comment- / and-iterate phase a change is "
+    },
+    {
+      "before": "ture also emphasizes the turn- / based nature of code review; i"
+    },
+    {
+      "before": "ty of our internal dependency- / management story isn’t really "
+    },
+    {
+      "before": "ased development: where trunk- / based development talks about "
+    },
+    {
+      "before": "strictly additive, or non-API- / impacting. If SemVer is a perf"
+    },
+    {
+      "before": "nsitively. In most constraint- / satisfaction/version-selection"
+    },
+    {
+      "before": "management systems/dependency- / management ecosystems allow yo"
+    },
+    {
+      "before": "implification to this version- / selection strategy would seem "
+    },
+    {
+      "before": "n tweaking observable-but-not- / documented pieces of the inter"
+    },
+    {
+      "before": "000 tests and create one uber- / change from all of them: “the "
+    },
+    {
+      "before": "s of the code. All of the LSC- / generation tools run the autom"
+    },
+    {
+      "before": "es to look as much like human- / generated changes as possible."
+    },
+    {
+      "before": "problematic changes and cache- / miss only when a request has c"
+    },
+    {
+      "before": " reduce instability in larger- / scoped tests and help isolate "
+    },
+    {
+      "before": " must stop and we must cherry- / pick the feature into the bina"
+    },
+    {
+      "before": "there is a complicated, human- / implemented “sign up” file to "
+    },
+    {
+      "before": "s, which results in less-than- / optimal scheduling, and increa"
+    },
+    {
+      "before": "is so horrible that an out-of- / memory kill and a migration to"
+    },
+    {
+      "before": "lp with idempotency is client- / assigned identifiers: if you a"
+    },
+    {
+      "before": "u choose a specific container- / based solution, teams will cal"
+    },
+    {
+      "before": "also offers considerable user- / facing benefits because it mea"
+    },
+    {
+      "before": " inches tall, and their black- / tipped wingspan extends approx"
+    }
+  ],
+  "warnings": [
+    {
+      "type": "image-extraction-failed",
+      "detail": "timed out waiting for page object \"g_d3_img_p81_1\""
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": " possible, but most of the time, a high-",
+      "after": "performance desktop development machine "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": "n by teams, not individuals, and a high-",
+      "after": "bandwidth, readily available connection "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "non",
+      "before": "large offices) to make it easy (and non-",
+      "after": "embarrassing) for spontaneous conversati"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "self",
+      "before": "people who are more concerned with self-",
+      "after": "promotion."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "well",
+      "before": "e endeavor—of almost any size—is a well-",
+      "after": "functioning team. Although the Genius My"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "self",
+      "before": "asily learn without directed help, self-",
+      "after": "serve mediums like documentation or reco"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "self",
+      "before": "friend who is being managed is not self-",
+      "after": "managing and is not a hard worker, it ca"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "self",
+      "before": "neering processes, and a positive, self-",
+      "after": "perpetuating culture that persists over "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "self",
+      "before": "elegation. You must build a set of self-",
+      "after": "sufficient leaders, and delegation is ab"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "meta",
+      "before": " through the forest. Building that meta-",
+      "after": "strategy is incredibly important, but al"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "large",
+      "before": "nascent infrastructure for making large-",
+      "after": "scale changes greatly accelerated this e"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "well",
+      "before": "ce from an implementation within a well-",
+      "after": "designed API, you should avoid discussin"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "end",
+      "before": " different story! But, ideally, the end-",
+      "after": "user experience should be the same for e"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "well",
+      "before": " difficult-to-manage dependencies. Well-",
+      "after": "designed code should be modular, avoidin"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "in",
+      "before": "a filesystem if they use a hermetic, in-",
+      "after": "memory implementation."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "low",
+      "before": "re breaking an unintended contract. Low-",
+      "after": "level libraries will often invest signif"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "non",
+      "before": " testing on both state-changing and non-",
+      "after": "state-changing functions."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "end",
+      "before": "n tests and moving away from manual end-",
+      "after": "to-end tests. We succeeded by making uni"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "well",
+      "before": "g. Deprecating in an organized and well-",
+      "after": "managed fashion is often overlooked as a"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": "ion to undo a mistake” as a weird, high-",
+      "after": "overhead luxury."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "long",
+      "before": " community that depends heavily on long-",
+      "after": "lived development branches, it isn’t dif"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "one",
+      "before": "ss than 5,000 developers), just the one-",
+      "after": "second latency argument is something of "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": "seem harmful to somewhat over-show high-",
+      "after": "scoring items: they are simply ignored w"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "low",
+      "before": " the cache is lost or if you make a low-",
+      "after": "level change that requires everything to"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "built",
+      "before": "ages like Java that have a strong built-",
+      "after": "in notion of packaging, each directory u"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "third",
+      "before": "eces of code to depend on them as third-",
+      "after": "party rather than internal dependencies."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "third",
+      "before": "cies. Depending on artifacts from third-",
+      "after": "party sources is inherently risky. There"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "low",
+      "before": "base is so large, there is a lot of low-",
+      "after": "hanging fruit in terms of bugs to find. "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "large",
+      "before": "-specific presubmits can make the large-",
+      "after": "scale change (LSC) process (see Chapter "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "closed",
+      "before": ". (This tooling is essential for closed-",
+      "after": "source downstream consumers: the goal is"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "mid",
+      "before": "nly two functions, Foo and Bar. Our mid-",
+      "after": "level dependencies liba and libb use onl"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "closed",
+      "before": "s an open source release or as a closed-",
+      "after": "source library release, is not a simple "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "non",
+      "before": "w systems and migrate users to them non-",
+      "after": "atomically. For languages that lack thes"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "large",
+      "before": "ility. Another option is to allow large-",
+      "after": "scoped tests to be unreliable on presubm"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "post",
+      "before": "esubmit as well as continuously on post-",
+      "after": "submit. Since the time that system was c"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "post",
+      "before": "s decentralization in a clever new post-",
+      "after": "submit failure-isolation strategy. For e"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "rt plug-ins, with product-specific data-",
+      "after": "fetching code, directly into Takeout’s b"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "short",
+      "before": "riod. However, this only provides short-",
+      "after": "term stability gains, and over time it s"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "well",
+      "before": "e able to do so requires a robust, well-",
+      "after": "documented continuous deployment process"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "long",
+      "before": "the cache, like the aforementioned long-",
+      "after": "tail search serving jobs. Thus, the bene"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "well",
+      "before": "381 limitations on new and not-yet-well-",
+      "after": "understood features, 152"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "withinrepository",
+      "suggestion": "within repository"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "nondeterministically",
+      "suggestion": "non deterministically"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "overspecification",
+      "suggestion": "over specification"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "gerritcodereview",
+      "suggestion": "ger rit code review"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "dependencymanagement",
+      "suggestion": "dependency management"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "overconstraining",
+      "suggestion": "over constraining"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "constraintsatisfaction",
+      "suggestion": "constraint satisfaction"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "versionselection",
+      "suggestion": "version selection"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "humanimplemented",
+      "suggestion": "human implemented"
+    }
+  ],
+  "imagesExtracted": [
+    {
+      "page": 1,
+      "file": "p1-fig1.png"
+    },
+    {
+      "page": 1,
+      "file": "p1-fig2.png"
+    },
+    {
+      "page": 1,
+      "file": "p1-fig3.png"
+    },
+    {
+      "page": 1,
+      "file": "p1-fig4.png"
+    },
+    {
+      "page": 1,
+      "file": "p1-fig5.png"
+    },
+    {
+      "page": 1,
+      "file": "p1-fig6.png"
+    },
+    {
+      "page": 1,
+      "file": "p1-fig7.png"
+    },
+    {
+      "page": 1,
+      "file": "p1-fig8.png"
+    },
+    {
+      "page": 1,
+      "file": "p1-fig9.png"
+    },
+    {
+      "page": 2,
+      "file": "p2-fig1.png"
+    },
+    {
+      "page": 24,
+      "file": "p24-fig1.png"
+    },
+    {
+      "page": 25,
+      "file": "p25-fig1.png"
+    },
+    {
+      "page": 35,
+      "file": "p35-fig1.png"
+    },
+    {
+      "page": 45,
+      "file": "p45-fig1.png"
+    },
+    {
+      "page": 139,
+      "file": "p139-fig1.png"
+    },
+    {
+      "page": 145,
+      "file": "p145-fig1.png"
+    },
+    {
+      "page": 239,
+      "file": "p239-fig1.png"
+    },
+    {
+      "page": 243,
+      "file": "p243-fig1.png"
+    },
+    {
+      "page": 248,
+      "file": "p248-fig1.png"
+    },
+    {
+      "page": 249,
+      "file": "p249-fig1.png"
+    },
+    {
+      "page": 310,
+      "file": "p310-fig1.png"
+    },
+    {
+      "page": 315,
+      "file": "p315-fig1.png"
+    },
+    {
+      "page": 316,
+      "file": "p316-fig1.png"
+    },
+    {
+      "page": 317,
+      "file": "p317-fig1.png"
+    },
+    {
+      "page": 318,
+      "file": "p318-fig1.png"
+    },
+    {
+      "page": 321,
+      "file": "p321-fig1.png"
+    },
+    {
+      "page": 365,
+      "file": "p365-fig1.png"
+    },
+    {
+      "page": 380,
+      "file": "p380-fig1.png"
+    },
+    {
+      "page": 385,
+      "file": "p385-fig1.png"
+    },
+    {
+      "page": 386,
+      "file": "p386-fig1.png"
+    },
+    {
+      "page": 386,
+      "file": "p386-fig2.png"
+    },
+    {
+      "page": 405,
+      "file": "p405-fig1.png"
+    },
+    {
+      "page": 415,
+      "file": "p415-fig1.png"
+    },
+    {
+      "page": 416,
+      "file": "p416-fig1.png"
+    },
+    {
+      "page": 417,
+      "file": "p417-fig1.png"
+    },
+    {
+      "page": 420,
+      "file": "p420-fig1.png"
+    },
+    {
+      "page": 429,
+      "file": "p429-fig1.png"
+    },
+    {
+      "page": 431,
+      "file": "p431-fig1.png"
+    },
+    {
+      "page": 433,
+      "file": "p433-fig1.png"
+    },
+    {
+      "page": 433,
+      "file": "p433-fig2.png"
+    },
+    {
+      "page": 435,
+      "file": "p435-fig1.png"
+    },
+    {
+      "page": 437,
+      "file": "p437-fig1.png"
+    },
+    {
+      "page": 438,
+      "file": "p438-fig1.png"
+    },
+    {
+      "page": 439,
+      "file": "p439-fig1.png"
+    },
+    {
+      "page": 449,
+      "file": "p449-fig1.png"
+    },
+    {
+      "page": 452,
+      "file": "p452-fig1.png"
+    },
+    {
+      "page": 460,
+      "file": "p460-fig1.png"
+    },
+    {
+      "page": 509,
+      "file": "p509-fig1.png"
+    },
+    {
+      "page": 513,
+      "file": "p513-fig1.png"
+    },
+    {
+      "page": 527,
+      "file": "p527-fig1.png"
+    },
+    {
+      "page": 529,
+      "file": "p529-fig1.png"
+    },
+    {
+      "page": 530,
+      "file": "p530-fig1.png"
+    },
+    {
+      "page": 602,
+      "file": "p602-fig1.png"
+    }
+  ],
+  "blocksByType": {
+    "figure": 53,
+    "p": 3897,
+    "h1": 1,
+    "dialogue": 102,
+    "ol": 47,
+    "ul": 160,
+    "code": 91,
+    "attribution": 57,
+    "h2": 5,
+    "h3": 1
+  },
+  "textLengthBefore": 1390417,
+  "textLengthAfter": 1410749
+}

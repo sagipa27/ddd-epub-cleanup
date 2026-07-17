@@ -1,0 +1,2270 @@
+{
+  "file": "cleaned-html/the-pragmatic-programmer-your-journey-to-mastery-2/all.xhtml",
+  "generatedAt": "2026-07-12T12:57:55.038Z",
+  "bodyTextLength": 585660,
+  "errors": [],
+  "warnings": [
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "informit.com/aw"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Foreword"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "—"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "—"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "—"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "—"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "—"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "—"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Footnotes"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Inquisitive"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Realistic"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[3]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[6]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Diversify"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "GOALS"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[10]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[11]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "DOCUMENTATION"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "SUMMARY"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "ithin teams, including The Mythical Man-"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "s at Trust and team performance: A meta-"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[13]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[14]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "else"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "else"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "else"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "else"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "else"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "#"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "f"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "fees"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "};"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "};"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "calculateLength();"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "};"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "DESIGN"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "images/layer-diagram.png"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CODING"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "TESTING"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "DOCUMENTATION"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[17]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Challenges"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Exercises"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "or"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "REVERSIBILITY"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "images/layer-diagram-tracer.png"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Architecture"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Correctness"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Completeness"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Robustness"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Style"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "EXERCISES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "RSpec"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Cucumber"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Background:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[20]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Ansible"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[22]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[23]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "descriptions:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "---"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "notify:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "EXERCISES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "EXERCISES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Field19=467abe"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "<FIELD10>123-45-6789</FIELD10>"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "<FIELD10>567-89-0123</FIELD10>"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "<FIELD10>901-23-4567</FIELD10>"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "AC27123456789B11P"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "XY43567890123QTYL"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "6T2190123456788AM"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "<SOCIAL-SECURITY-NO>123-45-6789</SOCIAL-SECURITY-NO>"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Leverage"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "sh/packages.sh"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "future:"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "mmand you’re entering and offer context-"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "EXERCISES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[29]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "DBC"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Preconditions"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Postconditions"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": ": Assert failed: (account-open? account-"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "id)"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Deposits.accept_deposit/2"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Assertions"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "EXERCISES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "add_score_to_board(score);"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "raise"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "raise"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "raise"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "add_score_to_board(score);"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "assert(is_sorted?(books))"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "@customer_file.rewind"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "@customer_file.close"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "read_customer"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "write_customer"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "read_customer"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "write_customer"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "read_customer"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "write_customer"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "else"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "@balance=BigDecimal(file.gets)"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "file.rewind"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "{"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "try"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "catch"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "finally"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "begin"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "process(thing)"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "finally"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "deallocate(thing)"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "begin"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "process(thing)"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "finally"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "deallocate(thing)"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "usability"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "images/links-01.png"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "images/links-02.png"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": ".orders"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": ".find(order_id)"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": ".getTotals();"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "customer"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": ".orders"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": ".find(order_id)"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": ".getTotals()"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": ".applyDiscount(discount);"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "customer"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": ".findOrder(order_id)"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": ".getTotals()"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": ".applyDiscount(discount);"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "customer"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": ".findOrder(order_id)"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": ".applyDiscount(discount);"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "people"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": ".first(10)"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[38]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "EVENTS"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "images/events_simple_fsm.png"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "images/event_simple_fsm_table.png"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "event/simple_fsm.rb"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "1:"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "-"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "-"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "-"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "5:"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "-"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "-"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "-"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "-"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "10:"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "-"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "images/event_string_fsm.png"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "event/strings_fsm.rb"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "#---------------------------------------------------------"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "},"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "},"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "},"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "event/strings_fsm.rb"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "event/observer.rb"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[39]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "exit!(exit_status)"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Terminator.exit(99)"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "PUBLISH/SUBSCRIBE"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "event/rx0/index.js"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "images/events_rxjs_0.png"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "event/rx1/index.js"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": ")"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "result.subscribe("
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": ")"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "images/events_three_users.png"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "EXERCISES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "images/wc-pipeline.png"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "p"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "word"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Comb.subsets(String.codepoints(\"vinyl\"))"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "function-pipelines/anagrams/lib/anagrams.ex"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "subsets"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "function-pipelines/anagrams/lib/anagrams.ex"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "signatures"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "function-pipelines/anagrams/lib/anagrams.ex"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "words"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "function-pipelines/anagrams/lib/anagrams.ex"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "%{"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "word"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "function-pipelines/anagrams/lib/grep.ex"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "function-pipelines/anagrams/lib/grep.ex"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "content"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "lines"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "function-pipelines/anagrams/lib/grep1.ex"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "File.read(file_name)"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "content"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "lines"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "EXERCISES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": ".find_matching_lines(pattern)"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": ".truncate_lines()"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "my_ride.move_at(30)"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Delegation"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "print(item.getLocation().asString());"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "items.forEach(printLocation);"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Delegation"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "@repo.save()"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "created"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "details"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "on)"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CONFIGURATION-AS-A-SERVICE"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[45]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "images/dodo.png"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "n-Kay-think-about-inheritance-in-object-"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "oriented-programming"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[46]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "images/pina-colada.png"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "images/pie_case.png"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "promise_pie_to_customer()"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "display_case.take_pie()"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "give_pie_to_customer()"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "case_semaphore.lock()"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "promise_pie_to_customer()"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "display_case.take_pie()"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "give_pie_to_customer()"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[47]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "case_semaphore.unlock()"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "give_pie_to_customer()"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "@case_semaphore.lock()"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "update_sales_data(:pie)"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "else"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "false"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "@case_semaphore.unlock()"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "@case_semaphore.lock()"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "update_sales_data(:pie)"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "else"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "@case_semaphore.unlock()"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "update_sales_data(:pie)"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "else"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "false"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "give_order_to_customer()"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "give_order_to_customer()"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "freezer.give_back(scoop)"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "display_case.give_back(slice)"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "concurrency/actors/index.js"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "},"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[48]"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "concurrency/actors/index.js"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "dispatch(state.pieCase,"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "},"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "),"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "${msg.msg}`)"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "};"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "concurrency/actors/index.js"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "dispatch(msg.waiter,"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "dispatch(msg.customer,"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "dispatch(msg.waiter,"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "actorSystem,"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "'pie-case',"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "pieCaseActor,"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "actorSystem,"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "'waiter',"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "waiterActor,"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "concurrency/actors/index.js"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "sleep(500)"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "stop(actorSystem);"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "})"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[49]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "images/blackboard.png"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "EXERCISES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "paint();"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "invalidate();"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "validate();"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "revalidate();"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "repaint();"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "paintImmediately();"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[51]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[53]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "EXERCISES"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "["
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Combinatoric"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "EXERCISES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Duplication"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Usage"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Performance"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[57]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[60]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "pre-conditions:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "post-conditions:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "proptest/sort.py"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "@given(some.lists(some.integers()))"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "a_list.sort()"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "@given(some.lists(some.text()))"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "a_list.sort()"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "========================"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "====================="
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "@given(some.integers())"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "2))"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "proptest/stock.py"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "else:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "proptest/stock.py"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "proptest/stock.py"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "else:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "proptest/stock.py"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "quantity):"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "stock.py:72:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "else:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "test_stock_level_plus_quantity_equals_original_stock_level("
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "proptest/stock1.py"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "»"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "quantity)"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "proptest/stock1.py"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "»"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "else:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "EXERCISES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "safety/taint.rb"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "safety/taint.rb"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "»"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "images/stroop_color.png"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[67]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[68]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CONSISTENCY"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "[54] https://media-"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "origin.pragprog.com/titles/tpp20/code/algorithm_speed/sort/src/main.rs"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "You:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Client:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "You:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Client:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "You:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "Client:"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "OVERSPECIFICATION"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "EXERCISES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[74]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "blog/your-brain-work/201209/stop-trying-"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "solve-problems"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "AUTOMATION"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "images/delivery_times.png"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[83]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "CHALLENGES"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "images/dave_and_andy.png"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[84]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[ADSS18"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[And10]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[Arm07]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[BR89]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[Bro96]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[CN91]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[Con68]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[DL13]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[Fow00]"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "ming: An Evolutionary Approach. Addison-"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[Fow19]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[GHJV9"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "5]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[Hol92]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[Hun08]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[Joi94]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[Knu11]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[Knu98]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[Knu98a"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[Knu98b"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[KP99]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[Mey97]"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "ndard Object Modeling Language. Addison-"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "me 2: Seminumerical Algorithms. Addison-"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[Str35]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[SW11]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[Tal10]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[WH82]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[YC79]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "[You95]"
+    },
+    {
+      "type": "trailing-hyphen-paragraph",
+      "text": "ck and Kevin Wayne. Algorithms. Addison-"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "lang/turtle.c"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "};"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "lang/turtle.c"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "continue;"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "lang/turtle.c"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "lang/peg_parser/time_parser.pegjs"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "time"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "ampm"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "hour"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "digit"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "two_hour_digits"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "lang/peg_parser/test_time_parser.js"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "//"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "//"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "//"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "//"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "t.end()"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "});"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "lang/re_parser/time_parser.rb"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "(?<digit>[0-9]){0}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "(?<h_ten>[0-1]){0}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "(?<m_ten>[0-6]){0}"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "\\A("
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": ")\\Z"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "}x"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "/**"
+    },
+    {
+      "type": "suspicious-one-char-paragraph",
+      "text": "*"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "*/"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "/**"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "*/"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "/**"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "*/"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "/**"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "*/"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "event/strings_ex_1.rb"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "TRANSITIONS[@state][:default]"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "end"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "images/alg-speed-rust-results.png"
+    },
+    {
+      "type": "suspicious-one-word-paragraph",
+      "text": "images/four_dots_answer.png"
+    }
+  ],
+  "errorCount": 0,
+  "warningCount": 565
+}

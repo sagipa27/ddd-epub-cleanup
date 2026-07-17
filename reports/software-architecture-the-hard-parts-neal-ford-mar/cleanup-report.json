@@ -1,0 +1,176 @@
+{
+  "generatedAt": "2026-07-16T22:06:21.527Z",
+  "pagesProcessed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47
+  ],
+  "headersRemoved": 3,
+  "headerSamples": [
+    {
+      "page": 9,
+      "text": "Fitness Functions for Governance 129"
+    },
+    {
+      "page": 11,
+      "text": "Replicated Caching Pattern 288"
+    },
+    {
+      "page": 12,
+      "text": "Definition of Data Mesh 389"
+    }
+  ],
+  "hyphenRepairs": [
+    {
+      "before": "of sanity-preserving and idea- / sparking groups that have name"
+    },
+    {
+      "before": "enterprises was orchestration- / driven, service-oriented archi"
+    },
+    {
+      "before": "oduction of cycles by trigger- / happy developers. This is a gr"
+    },
+    {
+      "before": "rupted a small group of archi- / tects in the cafeteria, discus"
+    },
+    {
+      "before": "ices to wire together transac- / tions?” asked Austen. “That wa"
+    },
+    {
+      "before": "pled that nothing can communi- / cate with anything else—it’s h"
+    },
+    {
+      "before": " things, coupling isn’t inher- / ently bad; architects just hav"
+    },
+    {
+      "before": "seems a pervasive problem—too- / small services create transact"
+    }
+  ],
+  "warnings": [
+    {
+      "type": "image-extraction-failed",
+      "detail": "timed out waiting for page object \"g_d2_img_p19_1\""
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "non",
+      "before": "e itself has provided many hours of non-",
+      "after": "productive conversation among its practi"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "anti",
+      "before": "llustrates a particularly damaging anti-",
+      "after": "pattern that architects aspire to avoid."
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "architecturethehard",
+      "suggestion": "architecture the hard"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "orchestrationdriven",
+      "suggestion": "orchestration driven"
+    }
+  ],
+  "imagesExtracted": [
+    {
+      "page": 1,
+      "file": "p1-fig1.png"
+    },
+    {
+      "page": 2,
+      "file": "p2-fig1.png"
+    },
+    {
+      "page": 14,
+      "file": "p14-fig1.png"
+    },
+    {
+      "page": 15,
+      "file": "p15-fig1.png"
+    },
+    {
+      "page": 27,
+      "file": "p27-fig1.png"
+    },
+    {
+      "page": 28,
+      "file": "p28-fig1.png"
+    },
+    {
+      "page": 36,
+      "file": "p36-fig1.png"
+    },
+    {
+      "page": 38,
+      "file": "p38-fig1.png"
+    },
+    {
+      "page": 43,
+      "file": "p43-fig1.png"
+    },
+    {
+      "page": 45,
+      "file": "p45-fig1.png"
+    }
+  ],
+  "blocksByType": {
+    "h1": 1,
+    "p": 322,
+    "figure": 10,
+    "dialogue": 9,
+    "h2": 1,
+    "ol": 18,
+    "code": 26,
+    "attribution": 13,
+    "h3": 1
+  },
+  "textLengthBefore": 80817,
+  "textLengthAfter": 82013
+}

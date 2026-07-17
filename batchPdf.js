@@ -31,11 +31,21 @@ function parseArgs(argv) {
   return args;
 }
 
+// Capped well under Windows' ~260-char MAX_PATH: the slug gets used *twice*
+// in the full output path (once as the book's own folder name, once again
+// as its .epub filename inside that folder), so a long book title can
+// blow past the limit even though no individual segment looks unreasonable
+// on its own - which is exactly what happened with a title-length slug for
+// "The Pragmatic Programmer Your Journey to Mastery, 20th Anniversary
+// Edition..." (ebook-convert failed with a plain, if truncated-looking,
+// "No such file or directory").
+const MAX_SLUG_LEN = 50;
 function slugify(name) {
-  return name
+  const slug = name
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '') || 'book';
+    .replace(/^-+|-+$/g, '');
+  return (slug.slice(0, MAX_SLUG_LEN).replace(/-+$/, '')) || 'book';
 }
 
 function findCalibre() {
@@ -78,12 +88,22 @@ async function processOne(pdfFile, args, calibreAvailable) {
       epubPath = path.join(bookOutput, `${slug}.epub`);
       const convertArgs = [xhtmlPath, epubPath, '--title', title];
       if (result.metadata.author) convertArgs.push('--authors', result.metadata.author);
-      try {
-        execFileSync('ebook-convert', convertArgs, { stdio: 'ignore' });
-      } catch (e) {
-        epubPath = null;
-        epubError = `ebook-convert failed: ${String(e && e.message || e).slice(0, 200)}`;
+      // ebook-convert has occasionally failed once and then succeeded
+      // immediately on an unmodified retry (seen on long, deeply-nested
+      // Windows paths - possibly a transient temp-file/lock hiccup on
+      // calibre's side rather than anything wrong with our XHTML), so one
+      // retry is worth it before giving up and reporting a real failure.
+      for (let attempt = 1; attempt <= 2; attempt++) {
+        try {
+          execFileSync('ebook-convert', convertArgs, { stdio: ['ignore', 'ignore', 'pipe'] });
+          epubError = null;
+          break;
+        } catch (e) {
+          const stderrTail = (e && e.stderr ? e.stderr.toString('utf8') : String((e && e.message) || e)).slice(-300);
+          epubError = `ebook-convert failed (attempt ${attempt}/2): ${stderrTail}`;
+        }
       }
+      if (epubError) epubPath = null;
     }
   }
 

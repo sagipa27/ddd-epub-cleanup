@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-11T18:59:32.513Z",
+  "generatedAt": "2026-07-16T22:16:10.185Z",
   "results": [
     {
-      "file": "pdfs\\Patterns of Enterprise Application Architecture - Martin Fowler.pdf",
-      "slug": "patterns-of-enterprise-application-architecture-martin-fowler",
-      "title": "Patterns of Enterprise Application Architecture",
-      "pages": 559,
+      "file": "pdfs\\Andrew Hoffman - Web Application Security_ Exploitation and Countermeasures for Modern Web Applications-O'Reilly Media (2020).pdf",
+      "slug": "andrew-hoffman-web-application-security-exploitati",
+      "title": "Web Application Security",
+      "pages": 331,
       "chapters": 1,
-      "warnings": 114,
-      "hyphenRepairs": 1125,
-      "imagesExtracted": 3,
-      "xhtml": "cleaned-html\\patterns-of-enterprise-application-architecture-martin-fowler\\all.xhtml",
-      "epub": "cleaned-html\\patterns-of-enterprise-application-architecture-martin-fowler\\patterns-of-enterprise-application-architecture-martin-fowler.epub",
+      "warnings": 23,
+      "hyphenRepairs": 44,
+      "imagesExtracted": 63,
+      "xhtml": "cleaned-html\\andrew-hoffman-web-application-security-exploitati\\all.xhtml",
+      "epub": "cleaned-html\\andrew-hoffman-web-application-security-exploitati\\andrew-hoffman-web-application-security-exploitati.epub",
       "epubError": null
     }
   ]
