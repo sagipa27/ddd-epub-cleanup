@@ -1,0 +1,609 @@
+{
+  "generatedAt": "2026-07-30T22:53:27.783Z",
+  "pagesProcessed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237,
+    238,
+    239,
+    240,
+    241,
+    242,
+    243,
+    244
+  ],
+  "headersRemoved": 0,
+  "headerSamples": [],
+  "hyphenRepairs": [
+    {
+      "before": " guidelines. It contains hard- / earned wisdom and knowledge th"
+    },
+    {
+      "before": "few months later I got a full- / time second-shift job at ASC o"
+    },
+    {
+      "before": "Paula into trying for the six- / week deadline. Mike is not evi"
+    },
+    {
+      "before": " know if a reference was read- / only without following the log"
+    },
+    {
+      "before": "my twenties I spent a signifi- / cant amount of time writing si"
+    },
+    {
+      "before": "ly practice programs, program- / mers in general did not practi"
+    },
+    {
+      "before": "can spin around the red-green- / refactor loop in seconds."
+    },
+    {
+      "before": "ompiles take almost no measur- / able time at all. Partial test"
+    },
+    {
+      "before": "com/2010/10/craftsman-62-dark- / path.html"
+    },
+    {
+      "before": "on using a game known as ping- / pong. The two partners choose "
+    },
+    {
+      "before": "tions role as well as a devel- / opment role. Remember that gar"
+    },
+    {
+      "before": " with assistance from develop- / ment. They are composed in a c"
+    },
+    {
+      "before": "sted with GUI testing environ- / ments such as Selenium or Wati"
+    },
+    {
+      "before": "rchy of unit, component, inte- / gration, system, and explorato"
+    },
+    {
+      "before": "already be done for the candi- / date items. Assessment of busi"
+    },
+    {
+      "before": "re efficient use of our focus- / manna by consuming moderate am"
+    },
+    {
+      "before": "bles. All functions were poly- / morphically deployed. And, yes"
+    },
+    {
+      "before": "s. They communicate the proba- / bility distribution of their e"
+    },
+    {
+      "before": "ary of probability and statis- / tics. The concept is not hard "
+    },
+    {
+      "before": "not necessarily accept commit- / ments made for them by the bus"
+    },
+    {
+      "before": "lops to the inputs of the and- / gates. You could also connect "
+    },
+    {
+      "before": "hree sparse pages. Their step- / by-step walk-through of the eq"
+    },
+    {
+      "before": " gotten the idea that program- / mers are programmers, and that"
+    },
+    {
+      "before": " are supervised by young team- / leads, who are supervised by p"
+    },
+    {
+      "before": "y idealized program of appren- / ticeship is the focus on techn"
+    },
+    {
+      "before": "hink about the next few trans- / formations you need to make. I"
+    },
+    {
+      "before": "tests passed quickly and unam- / biguously. If you have to read"
+    },
+    {
+      "before": "hed. This meant that any char- / acter could be converted to a "
+    }
+  ],
+  "warnings": [
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "self",
+      "before": " attitude of honesty, of honor, of self-",
+      "after": "respect, and of pride. It is a willingne"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "super",
+      "before": "e crab nebula is the remnant of a super-",
+      "after": "nova that blew its guts all over the sky"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "two",
+      "before": "e corner, that they can finish that two-",
+      "after": "week task in one week instead, but we sh"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "well",
+      "before": "t system. The dependencies must be well-",
+      "after": "managed. In short, your code needs to fo"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": "ped the crazy hours. I stopped the high-",
+      "after": "stress lifestyle. I stopped throwing pen"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "pearsontechgroup",
+      "suggestion": "pear son tech group"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "unprofessionalism",
+      "suggestion": "unprofessional ism"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "softwarecraftsmanship",
+      "suggestion": "software craftsmanship"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "mountaingoatsoftware",
+      "suggestion": "mountain goat software"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "renaissancesoftware",
+      "suggestion": "renaissance software"
+    }
+  ],
+  "imagesExtracted": [
+    {
+      "page": 1,
+      "file": "p1-fig1.png"
+    },
+    {
+      "page": 4,
+      "file": "p4-fig1.png"
+    },
+    {
+      "page": 5,
+      "file": "p5-fig1.png"
+    },
+    {
+      "page": 20,
+      "file": "p20-fig1.png"
+    },
+    {
+      "page": 30,
+      "file": "p30-fig1.png"
+    },
+    {
+      "page": 32,
+      "file": "p32-fig1.png"
+    },
+    {
+      "page": 34,
+      "file": "p34-fig1.png"
+    },
+    {
+      "page": 40,
+      "file": "p40-fig1.png"
+    },
+    {
+      "page": 56,
+      "file": "p56-fig1.png"
+    },
+    {
+      "page": 78,
+      "file": "p78-fig1.png"
+    },
+    {
+      "page": 110,
+      "file": "p110-fig1.png"
+    },
+    {
+      "page": 118,
+      "file": "p118-fig1.png"
+    },
+    {
+      "page": 128,
+      "file": "p128-fig1.png"
+    },
+    {
+      "page": 137,
+      "file": "p137-fig1.png"
+    },
+    {
+      "page": 146,
+      "file": "p146-fig1.png"
+    },
+    {
+      "page": 149,
+      "file": "p149-fig1.png"
+    },
+    {
+      "page": 149,
+      "file": "p149-fig2.png"
+    },
+    {
+      "page": 149,
+      "file": "p149-fig3.png"
+    },
+    {
+      "page": 150,
+      "file": "p150-fig1.png"
+    },
+    {
+      "page": 150,
+      "file": "p150-fig2.png"
+    },
+    {
+      "page": 150,
+      "file": "p150-fig3.png"
+    },
+    {
+      "page": 150,
+      "file": "p150-fig4.png"
+    },
+    {
+      "page": 150,
+      "file": "p150-fig5.png"
+    },
+    {
+      "page": 150,
+      "file": "p150-fig6.png"
+    },
+    {
+      "page": 150,
+      "file": "p150-fig7.png"
+    },
+    {
+      "page": 150,
+      "file": "p150-fig8.png"
+    },
+    {
+      "page": 150,
+      "file": "p150-fig9.png"
+    },
+    {
+      "page": 150,
+      "file": "p150-fig10.png"
+    },
+    {
+      "page": 150,
+      "file": "p150-fig11.png"
+    },
+    {
+      "page": 150,
+      "file": "p150-fig12.png"
+    },
+    {
+      "page": 150,
+      "file": "p150-fig13.png"
+    },
+    {
+      "page": 150,
+      "file": "p150-fig14.png"
+    },
+    {
+      "page": 150,
+      "file": "p150-fig15.png"
+    },
+    {
+      "page": 150,
+      "file": "p150-fig16.png"
+    },
+    {
+      "page": 150,
+      "file": "p150-fig17.png"
+    },
+    {
+      "page": 150,
+      "file": "p150-fig18.png"
+    },
+    {
+      "page": 150,
+      "file": "p150-fig19.png"
+    },
+    {
+      "page": 150,
+      "file": "p150-fig20.png"
+    },
+    {
+      "page": 150,
+      "file": "p150-fig21.png"
+    },
+    {
+      "page": 150,
+      "file": "p150-fig22.png"
+    },
+    {
+      "page": 150,
+      "file": "p150-fig23.png"
+    },
+    {
+      "page": 150,
+      "file": "p150-fig24.png"
+    },
+    {
+      "page": 154,
+      "file": "p154-fig1.png"
+    },
+    {
+      "page": 168,
+      "file": "p168-fig1.png"
+    },
+    {
+      "page": 182,
+      "file": "p182-fig1.png"
+    },
+    {
+      "page": 190,
+      "file": "p190-fig1.png"
+    },
+    {
+      "page": 200,
+      "file": "p200-fig1.png"
+    },
+    {
+      "page": 206,
+      "file": "p206-fig1.png"
+    },
+    {
+      "page": 225,
+      "file": "p225-fig1.png"
+    },
+    {
+      "page": 226,
+      "file": "p226-fig1.png"
+    }
+  ],
+  "blocksByType": {
+    "figure": 50,
+    "p": 1567,
+    "h3": 1,
+    "ol": 50,
+    "attribution": 269,
+    "h2": 20,
+    "ul": 29,
+    "h1": 15,
+    "code": 13
+  },
+  "textLengthBefore": 375698,
+  "textLengthAfter": 382162
+}
