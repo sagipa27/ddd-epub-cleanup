@@ -1,0 +1,2308 @@
+{
+  "generatedAt": "2026-07-27T21:50:20.132Z",
+  "pagesProcessed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237,
+    238,
+    239,
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260,
+    261,
+    262,
+    263,
+    264,
+    265,
+    266,
+    267,
+    268,
+    269,
+    270,
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280,
+    281,
+    282,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289,
+    290,
+    291,
+    292,
+    293,
+    294,
+    295,
+    296,
+    297,
+    298,
+    299,
+    300,
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    307,
+    308,
+    309,
+    310,
+    311,
+    312,
+    313,
+    314,
+    315,
+    316,
+    317,
+    318,
+    319,
+    320,
+    321,
+    322,
+    323,
+    324,
+    325,
+    326,
+    327,
+    328,
+    329,
+    330,
+    331,
+    332,
+    333,
+    334,
+    335,
+    336,
+    337,
+    338,
+    339,
+    340,
+    341,
+    342,
+    343,
+    344,
+    345,
+    346,
+    347,
+    348,
+    349,
+    350,
+    351,
+    352,
+    353,
+    354,
+    355,
+    356,
+    357,
+    358,
+    359,
+    360,
+    361,
+    362,
+    363,
+    364,
+    365,
+    366,
+    367,
+    368,
+    369,
+    370,
+    371,
+    372,
+    373,
+    374,
+    375,
+    376,
+    377,
+    378,
+    379,
+    380,
+    381,
+    382,
+    383,
+    384,
+    385,
+    386,
+    387,
+    388,
+    389,
+    390,
+    391,
+    392,
+    393,
+    394,
+    395,
+    396,
+    397,
+    398,
+    399,
+    400,
+    401,
+    402,
+    403,
+    404,
+    405,
+    406,
+    407,
+    408,
+    409,
+    410,
+    411,
+    412,
+    413,
+    414,
+    415,
+    416,
+    417,
+    418,
+    419,
+    420,
+    421,
+    422,
+    423,
+    424,
+    425,
+    426,
+    427,
+    428,
+    429,
+    430,
+    431,
+    432,
+    433,
+    434,
+    435,
+    436,
+    437,
+    438,
+    439,
+    440,
+    441,
+    442,
+    443,
+    444,
+    445,
+    446,
+    447,
+    448,
+    449,
+    450,
+    451,
+    452,
+    453,
+    454,
+    455,
+    456,
+    457,
+    458,
+    459,
+    460,
+    461,
+    462,
+    463,
+    464,
+    465,
+    466,
+    467,
+    468,
+    469,
+    470,
+    471,
+    472,
+    473,
+    474,
+    475,
+    476,
+    477,
+    478,
+    479,
+    480,
+    481,
+    482,
+    483,
+    484,
+    485,
+    486,
+    487,
+    488,
+    489,
+    490,
+    491,
+    492,
+    493,
+    494,
+    495,
+    496,
+    497,
+    498,
+    499,
+    500,
+    501,
+    502,
+    503,
+    504,
+    505,
+    506,
+    507,
+    508,
+    509,
+    510,
+    511,
+    512,
+    513,
+    514,
+    515,
+    516,
+    517,
+    518,
+    519,
+    520,
+    521,
+    522,
+    523,
+    524,
+    525,
+    526,
+    527,
+    528,
+    529,
+    530,
+    531,
+    532,
+    533,
+    534,
+    535,
+    536,
+    537,
+    538,
+    539,
+    540,
+    541,
+    542,
+    543,
+    544,
+    545,
+    546,
+    547,
+    548,
+    549,
+    550,
+    551,
+    552,
+    553,
+    554,
+    555,
+    556,
+    557,
+    558,
+    559,
+    560,
+    561,
+    562,
+    563,
+    564,
+    565,
+    566,
+    567,
+    568,
+    569,
+    570,
+    571,
+    572,
+    573,
+    574,
+    575,
+    576,
+    577,
+    578,
+    579,
+    580,
+    581,
+    582,
+    583,
+    584,
+    585,
+    586,
+    587,
+    588,
+    589,
+    590,
+    591,
+    592,
+    593,
+    594,
+    595,
+    596,
+    597,
+    598,
+    599,
+    600,
+    601,
+    602,
+    603,
+    604,
+    605,
+    606,
+    607,
+    608,
+    609,
+    610,
+    611,
+    612,
+    613,
+    614,
+    615,
+    616,
+    617,
+    618,
+    619,
+    620,
+    621,
+    622,
+    623,
+    624,
+    625,
+    626,
+    627,
+    628,
+    629,
+    630,
+    631,
+    632,
+    633,
+    634,
+    635,
+    636,
+    637,
+    638,
+    639,
+    640,
+    641,
+    642,
+    643,
+    644,
+    645,
+    646,
+    647,
+    648,
+    649,
+    650,
+    651,
+    652,
+    653,
+    654,
+    655,
+    656,
+    657,
+    658,
+    659,
+    660,
+    661,
+    662,
+    663,
+    664,
+    665,
+    666,
+    667,
+    668,
+    669,
+    670,
+    671,
+    672,
+    673,
+    674,
+    675,
+    676,
+    677,
+    678,
+    679,
+    680,
+    681,
+    682,
+    683,
+    684,
+    685,
+    686,
+    687,
+    688,
+    689,
+    690,
+    691,
+    692,
+    693,
+    694,
+    695,
+    696,
+    697,
+    698,
+    699,
+    700,
+    701,
+    702,
+    703,
+    704,
+    705,
+    706,
+    707,
+    708,
+    709,
+    710,
+    711,
+    712,
+    713,
+    714,
+    715,
+    716,
+    717,
+    718,
+    719,
+    720,
+    721,
+    722,
+    723,
+    724,
+    725,
+    726,
+    727,
+    728,
+    729,
+    730,
+    731,
+    732,
+    733,
+    734,
+    735,
+    736,
+    737,
+    738,
+    739,
+    740,
+    741,
+    742,
+    743,
+    744,
+    745,
+    746,
+    747,
+    748,
+    749,
+    750,
+    751,
+    752,
+    753,
+    754,
+    755,
+    756,
+    757,
+    758,
+    759,
+    760,
+    761,
+    762,
+    763,
+    764,
+    765,
+    766,
+    767,
+    768,
+    769,
+    770,
+    771,
+    772,
+    773,
+    774,
+    775,
+    776,
+    777,
+    778,
+    779,
+    780,
+    781,
+    782,
+    783,
+    784,
+    785,
+    786,
+    787,
+    788,
+    789,
+    790,
+    791,
+    792,
+    793,
+    794,
+    795,
+    796,
+    797,
+    798,
+    799,
+    800,
+    801,
+    802,
+    803,
+    804,
+    805,
+    806,
+    807,
+    808,
+    809,
+    810,
+    811,
+    812,
+    813,
+    814,
+    815,
+    816,
+    817,
+    818,
+    819,
+    820,
+    821,
+    822,
+    823,
+    824,
+    825,
+    826,
+    827,
+    828,
+    829,
+    830,
+    831,
+    832,
+    833,
+    834,
+    835,
+    836,
+    837,
+    838,
+    839,
+    840,
+    841,
+    842,
+    843,
+    844,
+    845,
+    846,
+    847,
+    848,
+    849,
+    850,
+    851,
+    852,
+    853,
+    854,
+    855,
+    856,
+    857,
+    858,
+    859,
+    860,
+    861,
+    862,
+    863,
+    864,
+    865,
+    866,
+    867,
+    868,
+    869,
+    870,
+    871,
+    872,
+    873,
+    874,
+    875,
+    876,
+    877,
+    878,
+    879,
+    880,
+    881,
+    882,
+    883,
+    884,
+    885,
+    886,
+    887,
+    888,
+    889,
+    890,
+    891,
+    892,
+    893,
+    894,
+    895,
+    896,
+    897,
+    898,
+    899,
+    900,
+    901,
+    902,
+    903,
+    904,
+    905,
+    906,
+    907,
+    908,
+    909,
+    910,
+    911,
+    912,
+    913,
+    914,
+    915,
+    916,
+    917,
+    918,
+    919,
+    920,
+    921,
+    922,
+    923,
+    924,
+    925,
+    926,
+    927,
+    928,
+    929,
+    930,
+    931,
+    932,
+    933,
+    934,
+    935,
+    936,
+    937,
+    938,
+    939,
+    940,
+    941,
+    942,
+    943,
+    944,
+    945,
+    946,
+    947,
+    948,
+    949,
+    950,
+    951,
+    952,
+    953,
+    954,
+    955,
+    956,
+    957,
+    958,
+    959,
+    960,
+    961,
+    962,
+    963,
+    964,
+    965,
+    966,
+    967,
+    968,
+    969,
+    970,
+    971,
+    972,
+    973,
+    974,
+    975,
+    976,
+    977,
+    978,
+    979,
+    980,
+    981,
+    982,
+    983,
+    984,
+    985,
+    986,
+    987,
+    988,
+    989,
+    990,
+    991
+  ],
+  "headersRemoved": 5,
+  "headerSamples": [
+    {
+      "page": 154,
+      "text": "1.4 trillion tokens for Llama 1"
+    },
+    {
+      "page": 163,
+      "text": "In language modeling, a drop in cross entropy loss from about 3.4 to 2.8"
+    },
+    {
+      "page": 361,
+      "text": "Llama 2 Community License Agreement and Llama 3 under the Llama 3"
+    },
+    {
+      "page": 574,
+      "text": "2. Different models have different tool preferences. For example, GPT-4"
+    },
+    {
+      "page": 713,
+      "text": "tokens, respectively. If each example is 2,000 tokens, it’d be equivalent to 1"
+    }
+  ],
+  "hyphenRepairs": [
+    {
+      "before": "s page at https://oreil.ly/ai- / engineering."
+    },
+    {
+      "before": "n translations for an English- / to-Latin model is more expensi"
+    },
+    {
+      "before": "e still many benefits to task- / specific models, for example, "
+    },
+    {
+      "before": "book banned accounts using AI- / generated profile photos for s"
+    },
+    {
+      "before": "f internet content will be AI- / generated, and it’ll be pretty"
+    },
+    {
+      "before": " high, for example, 95% of AI- / suggested responses to simple "
+    },
+    {
+      "before": " is ML knowledge is a nice-to- / training required for training"
+    },
+    {
+      "before": "lly, ML engineering is Python- / centric. Before foundation mod"
+    },
+    {
+      "before": "gnificant improvement on then- / challenging tasks: machine tra"
+    },
+    {
+      "before": "f zero-value parameters. A 7B- / parameter model that is 90% sp"
+    },
+    {
+      "before": "ty in recent years is mixture- / of-experts (MoE) (Shazeer et a"
+    },
+    {
+      "before": "re the same as a 12.9-billion- / parameter model."
+    },
+    {
+      "before": " training new AI models on AI- / generated data causes the new "
+    },
+    {
+      "before": "proach is also called feature- / based transfer and is discusse"
+    },
+    {
+      "before": " chaotic, which enables lower- / probability tokens to surface."
+    },
+    {
+      "before": "ght also come across bits-per- / character (BPC) and bits-per-b"
+    },
+    {
+      "before": ", if the answer to a multiple- / choice question is A and you p"
+    },
+    {
+      "before": "rics that don’t are reference- / free."
+    },
+    {
+      "before": "reasingly by AIs. Using human- / generated data as the referenc"
+    },
+    {
+      "before": "te reference data instead. AI- / generated data might still nee"
+    },
+    {
+      "before": " measure what percentage of n- / grams in reference responses i"
+    },
+    {
+      "before": "rong contenders for reference- / based metrics in terms of corr"
+    },
+    {
+      "before": "n also reduce costs with spot- / checking: evaluating only a su"
+    },
+    {
+      "before": " The name is inspired by test- / driven development in software"
+    },
+    {
+      "before": "ion, sentiment analysis, next- / action prediction, etc. It’s m"
+    },
+    {
+      "before": "n criteria for RAG, retrieval- / augmented generation, systems."
+    },
+    {
+      "before": "l benchmarks, his one-million- / parameter model was able to ac"
+    },
+    {
+      "before": " Twenty Questions, in the BIG- / bench benchmark suite. One ins"
+    },
+    {
+      "before": "s in Eleuther’s lm-evaluation- / harness, the median number of "
+    },
+    {
+      "before": "onal system using one- or few- / dimensional scores. Evaluating"
+    },
+    {
+      "before": "xample is provided, it’s zero- / shot learning."
+    },
+    {
+      "before": " when they asked ChatGPT (GPT- / turbo-3.5) to repeat the word "
+    },
+    {
+      "before": "h prompts) and PlexPt/awesome- / chatgpt-prompts-zh (Chinese pr"
+    },
+    {
+      "before": "ruction are RAG, or retrieval- / augmented generation, and agen"
+    },
+    {
+      "before": ". Term-based versus embedding- / based division avoids this mis"
+    },
+    {
+      "before": "he”, “and”, “is”, etc.). Term- / based retrieval solutions ofte"
+    },
+    {
+      "before": "tors. The naive solution is k- / nearest neighbors (k-NN), whic"
+    },
+    {
+      "before": "or into a much simpler, lower- / dimensional representation by "
+    },
+    {
+      "before": "ill be slower and more memory- / consuming. Imagine building an"
+    },
+    {
+      "before": "al approaches. Combining term- / based retrieval and embedding-"
+    },
+    {
+      "before": "e queries and generate higher- / quality responses. Would givin"
+    },
+    {
+      "before": "el plan, such as a quarter-to- / quarter plan. Then, for each q"
+    },
+    {
+      "before": "which increases cost and user- / perceived latency, especially "
+    },
+    {
+      "before": "a table into the context line- / by-line, but there’s no guaran"
+    },
+    {
+      "before": "e strong baselines. Embedding- / based retrievers are more comp"
+    },
+    {
+      "before": "rmation can help. Information- / based failures happen when the"
+    },
+    {
+      "before": "AG methods, such as embedding- / based retrieval."
+    },
+    {
+      "before": "eck for operating them. A 70B- / parameter model with 2 bytes p"
+    },
+    {
+      "before": "t formats, averaging 3.5 bits- / per-weight. Also in 2024, in a"
+    },
+    {
+      "before": "ision. You can also have less- / sensitive weight values comput"
+    },
+    {
+      "before": "his section focuses on memory- / efficient finetuning technique"
+    },
+    {
+      "before": "ory footprint, it’s parameter- / inefficient. Partial finetunin"
+    },
+    {
+      "before": " generally not only parameter- / efficient but also sample-effi"
+    },
+    {
+      "before": "ng vectors, and are not human- / readable."
+    },
+    {
+      "before": "erized by a series of similar- / sounding techniques that can b"
+    },
+    {
+      "before": "arameter-efficient and sample- / efficient. The factorization e"
+    },
+    {
+      "before": " ReLoRA works for transformer- / based models of up to 1.3B par"
+    },
+    {
+      "before": ". This led them to develop AI- / assisted annotation tools to e"
+    },
+    {
+      "before": "e final model mix is the best- / guess mix derived from the exp"
+    },
+    {
+      "before": " (such as JSON outputs or yes- / or-no answers)."
+    },
+    {
+      "before": "o be of lower quality than AI- / generated data. One example is"
+    },
+    {
+      "before": "ated by Mixtral-8x7B-Instruct- / v0.1 (Jiang et al., 2024)."
+    },
+    {
+      "before": "ty of data. The quality of AI- / generated data can be measured"
+    },
+    {
+      "before": "probably the highest value-to- / prestige ratio of any activity"
+    },
+    {
+      "before": "become useless—imagine a next- / day stock price prediction mod"
+    },
+    {
+      "before": " refer to tasks whose time-to- / complete is constrained by mem"
+    },
+    {
+      "before": "ute-bound or memory bandwidth- / bound based on its arithmetic "
+    },
+    {
+      "before": "lobal attention captures task- / specific information across th"
+    },
+    {
+      "before": "e layers sharing the same key- / value vectors means reducing t"
+    },
+    {
+      "before": "del-level techniques, service- / level techniques don’t modify "
+    },
+    {
+      "before": "akes this operation bandwidth- / heavy. Because the model can p"
+    },
+    {
+      "before": "iability versus latency trade- / off. While acknowledging the i"
+    },
+    {
+      "before": "r for applications with usage- / based billing than those with "
+    },
+    {
+      "before": " together. I used the step-by- / step approach in building this"
+    },
+    {
+      "before": "Against Prompt Attacks-System- / level defense"
+    },
+    {
+      "before": "ing-based retrieval-Embedding- / based retrieval"
+    },
+    {
+      "before": "ollowing criteria-Instruction- / following criteria"
+    },
+    {
+      "before": "Against Prompt Attacks-System- / level defense"
+    },
+    {
+      "before": "ing-based retrieval-Embedding- / based retrieval"
+    },
+    {
+      "before": "eters, Pruning redundant task- / specific parameters"
+    }
+  ],
+  "warnings": [
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "cross",
+      "before": "ges the collaboration gap between cross-",
+      "after": "functional teams, making it a must-read "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": " worry—this book has either brief, high-",
+      "after": "level explanations or pointers to resour"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "non",
+      "before": "nguage models are commonly used for non-",
+      "after": "generative tasks such as sentiment analy"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "time",
+      "before": "hat data labeling is expensive and time-",
+      "after": "consuming. If it costs 5 cents for one p"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "self",
+      "before": "e the data labeling bottleneck. In self-",
+      "after": "supervision, instead of requiring explic"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "self",
+      "before": "odal models need data to scale up. Self-",
+      "after": "supervision works for multimodal models "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "co",
+      "before": " they found (image, text) pairs that co-",
+      "after": "occurred on the internet. They were able"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "in",
+      "before": "ion-making processes is called human-in-",
+      "after": "the-loop."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "domain",
+      "before": "datasets. One of the most famous domain-",
+      "after": "specific models is perhaps DeepMind’s Al"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "long",
+      "before": "dard language model benchmarks and long-",
+      "after": "context evaluations for up to a context "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": "rained model. Let’s say that you’ve pre-",
+      "after": "trained a foundation model using self-su"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "self",
+      "before": "l typically has two issues. First, self-",
+      "after": "supervision optimizes the model for text"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": " Finetune the pre-trained model on high-",
+      "after": "quality instruction data to optimize mod"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": "ll portion of resources compared to pre-",
+      "after": "training (InstructGPT used only 2% of co"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "self",
+      "before": "model, effectively eliminating the self-",
+      "after": "supervised pre-training step. However, t"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": "ng data and self-supervision during pre-",
+      "after": "training, the resulting model might prod"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "time",
+      "before": "ry: evaluation can be so much more time-",
+      "after": "consuming for sophisticated tasks. You c"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "non",
+      "before": "ecessarily transitive. In addition, non-",
+      "after": "transitivity can happen because differen"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "open",
+      "before": " on how to evaluate the quality of open-",
+      "after": "ended outputs. The subfield that studies"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "self",
+      "before": "s and cons of using model APIs and self-",
+      "after": "hosting models."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "time",
+      "before": "proach is more accurate but can be time-",
+      "after": "consuming and expensive to run because y"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "back",
+      "before": "y chatbot-like applications, allow back-",
+      "after": "and-forth between the user and the appli"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "post",
+      "before": "g training—including pre-training, post-",
+      "after": "training, and finetuning—which involves "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "in",
+      "before": "u’d have to retrain this model. With in-",
+      "after": "context learning, you can include the ne"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "self",
+      "before": "n using chain-of-thought (CoT) and self-",
+      "after": "critique prompting."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "in",
+      "before": "scusses the anatomy of a prompt, why in-",
+      "after": "context learning works, and best prompt "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "real",
+      "before": "workflow shown here is simplified. Real-",
+      "after": "world semantic retrieval systems might c"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "long",
+      "before": " be stored in a memory system with long-",
+      "after": "term memories."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "long",
+      "before": "ormation relevant to the task from long-",
+      "after": "term memory."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "self",
+      "before": "labeled data. For language models, self-",
+      "after": "supervised data is typically just sequen"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": "such as for a classification task. High-",
+      "after": "quality instruction data can be challeng"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "post",
+      "before": " during training or post-training. Post-",
+      "after": "training quantization (PTQ) means quanti"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "low",
+      "before": "ence. With QAT, the model simulates low-",
+      "after": "precision (e.g., 8-bit) behavior during "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": "er pre-training. This suggests that pre-",
+      "after": "training acts as a compression framework"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "post",
+      "before": "principle. This chapter focuses on post-",
+      "after": "training data because that’s more releva"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "g AI development has given rise to data-",
+      "after": "centric AI, as opposed to model-centric "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "model",
+      "before": "learning, many AI benchmarks were model-",
+      "after": "centric. Given a dataset like ImageNet, "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": "f knowledge a model acquires during pre-",
+      "after": "training, many models might intuitively "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "post",
+      "before": "ing. While this chapter focuses on post-",
+      "after": "training data, it’s useful to look at th"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "real",
+      "before": "a mix that accurately reflects the real-",
+      "after": "world application usage. You can also us"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": " leaves you with 6,000 examples of high-",
+      "after": "quality instructions and high-quality re"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "low",
+      "before": "e languages to help train models in low-",
+      "after": "resource languages. This is useful for t"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": "nt, it’s harder for AI to generate high-",
+      "after": "quality long responses than short instru"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "back",
+      "before": "ds together—code translation, code back-",
+      "after": "translation, and code generation—Llama 3"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": " whereas improbable events become under-",
+      "after": "represented in the generated data. This "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "non",
+      "before": "to detect low-quality data might be non-",
+      "after": "obvious. For example, Kern et al. (2024)"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": "trained on grabs headlines, having high-",
+      "after": "quality data with sufficient coverage is"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": "arly high-end ones, often use HBM (high-",
+      "after": "bandwidth memory), which has a 3D stacke"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": " handling large data transfers and high-",
+      "after": "throughput tasks. A consumer GPU has aro"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "multi",
+      "before": "al., 2023) is a generalization of multi-",
+      "after": "query attention. Instead of using only o"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": "d on this API. Figure 10-6 shows a high-",
+      "after": "level visualization of a model gateway."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "well",
+      "before": ",” or “filter bubbles,” and it’s a well-",
+      "after": "studied problem."
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "underperformance",
+      "suggestion": "under performance"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "billionparameter",
+      "suggestion": "billion parameter"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "lowerprobability",
+      "suggestion": "lower probability"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "retrievalaugmented",
+      "suggestion": "retrieval augmented"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "millionparameter",
+      "suggestion": "million parameter"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "evaluationharness",
+      "suggestion": "evaluation harness"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "miscategorization",
+      "suggestion": "mis categorization"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "lowerdimensional",
+      "suggestion": "lower dimensional"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "autoregressively",
+      "suggestion": "auto regressively"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "Informationbased",
+      "suggestion": "information based"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "parameterefficient",
+      "suggestion": "parameter efficient"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "transformerbased",
+      "suggestion": "transformer based"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "Instructionfollowing",
+      "suggestion": "instruction following"
+    }
+  ],
+  "imagesExtracted": [
+    {
+      "page": 1,
+      "file": "p1-fig1.png"
+    },
+    {
+      "page": 5,
+      "file": "p5-fig1.png"
+    },
+    {
+      "page": 35,
+      "file": "p35-fig1.png"
+    },
+    {
+      "page": 38,
+      "file": "p38-fig1.png"
+    },
+    {
+      "page": 46,
+      "file": "p46-fig1.png"
+    },
+    {
+      "page": 49,
+      "file": "p49-fig1.png"
+    },
+    {
+      "page": 53,
+      "file": "p53-fig1.png"
+    },
+    {
+      "page": 55,
+      "file": "p55-fig1.png"
+    },
+    {
+      "page": 63,
+      "file": "p63-fig1.png"
+    },
+    {
+      "page": 64,
+      "file": "p64-fig1.png"
+    },
+    {
+      "page": 67,
+      "file": "p67-fig1.png"
+    },
+    {
+      "page": 72,
+      "file": "p72-fig1.png"
+    },
+    {
+      "page": 89,
+      "file": "p89-fig1.png"
+    },
+    {
+      "page": 92,
+      "file": "p92-fig1.png"
+    },
+    {
+      "page": 93,
+      "file": "p93-fig1.png"
+    },
+    {
+      "page": 95,
+      "file": "p95-fig1.png"
+    },
+    {
+      "page": 96,
+      "file": "p96-fig1.png"
+    },
+    {
+      "page": 113,
+      "file": "p113-fig1.png"
+    },
+    {
+      "page": 128,
+      "file": "p128-fig1.png"
+    },
+    {
+      "page": 129,
+      "file": "p129-fig1.png"
+    },
+    {
+      "page": 132,
+      "file": "p132-fig1.png"
+    },
+    {
+      "page": 137,
+      "file": "p137-fig1.png"
+    },
+    {
+      "page": 141,
+      "file": "p141-fig1.png"
+    },
+    {
+      "page": 145,
+      "file": "p145-fig1.png"
+    },
+    {
+      "page": 150,
+      "file": "p150-fig1.png"
+    },
+    {
+      "page": 161,
+      "file": "p161-fig1.png"
+    },
+    {
+      "page": 166,
+      "file": "p166-fig1.png"
+    },
+    {
+      "page": 171,
+      "file": "p171-fig1.png"
+    },
+    {
+      "page": 172,
+      "file": "p172-fig1.png"
+    },
+    {
+      "page": 174,
+      "file": "p174-fig1.png"
+    },
+    {
+      "page": 184,
+      "file": "p184-fig1.png"
+    },
+    {
+      "page": 189,
+      "file": "p189-fig1.png"
+    },
+    {
+      "page": 190,
+      "file": "p190-fig1.png"
+    },
+    {
+      "page": 194,
+      "file": "p194-fig1.png"
+    },
+    {
+      "page": 195,
+      "file": "p195-fig1.png"
+    },
+    {
+      "page": 198,
+      "file": "p198-fig1.png"
+    },
+    {
+      "page": 204,
+      "file": "p204-fig1.png"
+    },
+    {
+      "page": 209,
+      "file": "p209-fig1.png"
+    },
+    {
+      "page": 212,
+      "file": "p212-fig1.png"
+    },
+    {
+      "page": 214,
+      "file": "p214-fig1.png"
+    },
+    {
+      "page": 217,
+      "file": "p217-fig1.png"
+    },
+    {
+      "page": 221,
+      "file": "p221-fig1.png"
+    },
+    {
+      "page": 222,
+      "file": "p222-fig1.png"
+    },
+    {
+      "page": 224,
+      "file": "p224-fig1.png"
+    },
+    {
+      "page": 237,
+      "file": "p237-fig1.png"
+    },
+    {
+      "page": 238,
+      "file": "p238-fig1.png"
+    },
+    {
+      "page": 240,
+      "file": "p240-fig1.png"
+    },
+    {
+      "page": 243,
+      "file": "p243-fig1.png"
+    },
+    {
+      "page": 264,
+      "file": "p264-fig1.png"
+    },
+    {
+      "page": 270,
+      "file": "p270-fig1.png"
+    },
+    {
+      "page": 274,
+      "file": "p274-fig1.png"
+    },
+    {
+      "page": 281,
+      "file": "p281-fig1.png"
+    },
+    {
+      "page": 295,
+      "file": "p295-fig1.png"
+    },
+    {
+      "page": 297,
+      "file": "p297-fig1.png"
+    },
+    {
+      "page": 332,
+      "file": "p332-fig1.png"
+    },
+    {
+      "page": 336,
+      "file": "p336-fig1.png"
+    },
+    {
+      "page": 338,
+      "file": "p338-fig1.png"
+    },
+    {
+      "page": 348,
+      "file": "p348-fig1.png"
+    },
+    {
+      "page": 358,
+      "file": "p358-fig1.png"
+    },
+    {
+      "page": 362,
+      "file": "p362-fig1.png"
+    },
+    {
+      "page": 368,
+      "file": "p368-fig1.png"
+    },
+    {
+      "page": 372,
+      "file": "p372-fig1.png"
+    },
+    {
+      "page": 386,
+      "file": "p386-fig1.png"
+    },
+    {
+      "page": 392,
+      "file": "p392-fig1.png"
+    },
+    {
+      "page": 418,
+      "file": "p418-fig1.png"
+    },
+    {
+      "page": 429,
+      "file": "p429-fig1.png"
+    },
+    {
+      "page": 430,
+      "file": "p430-fig1.png"
+    },
+    {
+      "page": 430,
+      "file": "p430-fig2.png"
+    },
+    {
+      "page": 433,
+      "file": "p433-fig1.png"
+    },
+    {
+      "page": 449,
+      "file": "p449-fig1.png"
+    },
+    {
+      "page": 455,
+      "file": "p455-fig1.png"
+    },
+    {
+      "page": 456,
+      "file": "p456-fig1.png"
+    },
+    {
+      "page": 457,
+      "file": "p457-fig1.png"
+    },
+    {
+      "page": 467,
+      "file": "p467-fig1.png"
+    },
+    {
+      "page": 473,
+      "file": "p473-fig1.png"
+    },
+    {
+      "page": 474,
+      "file": "p474-fig1.png"
+    },
+    {
+      "page": 479,
+      "file": "p479-fig1.png"
+    },
+    {
+      "page": 480,
+      "file": "p480-fig1.png"
+    },
+    {
+      "page": 482,
+      "file": "p482-fig1.png"
+    },
+    {
+      "page": 485,
+      "file": "p485-fig1.png"
+    },
+    {
+      "page": 496,
+      "file": "p496-fig1.png"
+    },
+    {
+      "page": 499,
+      "file": "p499-fig1.png"
+    },
+    {
+      "page": 508,
+      "file": "p508-fig1.png"
+    },
+    {
+      "page": 525,
+      "file": "p525-fig1.png"
+    },
+    {
+      "page": 529,
+      "file": "p529-fig1.png"
+    },
+    {
+      "page": 531,
+      "file": "p531-fig1.png"
+    },
+    {
+      "page": 534,
+      "file": "p534-fig1.png"
+    },
+    {
+      "page": 538,
+      "file": "p538-fig1.png"
+    },
+    {
+      "page": 549,
+      "file": "p549-fig1.png"
+    },
+    {
+      "page": 561,
+      "file": "p561-fig1.png"
+    },
+    {
+      "page": 566,
+      "file": "p566-fig1.png"
+    },
+    {
+      "page": 570,
+      "file": "p570-fig1.png"
+    },
+    {
+      "page": 571,
+      "file": "p571-fig1.png"
+    },
+    {
+      "page": 573,
+      "file": "p573-fig1.png"
+    },
+    {
+      "page": 575,
+      "file": "p575-fig1.png"
+    },
+    {
+      "page": 584,
+      "file": "p584-fig1.png"
+    },
+    {
+      "page": 601,
+      "file": "p601-fig1.png"
+    },
+    {
+      "page": 611,
+      "file": "p611-fig1.png"
+    },
+    {
+      "page": 616,
+      "file": "p616-fig1.png"
+    },
+    {
+      "page": 622,
+      "file": "p622-fig1.png"
+    },
+    {
+      "page": 627,
+      "file": "p627-fig1.png"
+    },
+    {
+      "page": 629,
+      "file": "p629-fig1.png"
+    },
+    {
+      "page": 642,
+      "file": "p642-fig1.png"
+    },
+    {
+      "page": 643,
+      "file": "p643-fig1.png"
+    },
+    {
+      "page": 647,
+      "file": "p647-fig1.png"
+    },
+    {
+      "page": 648,
+      "file": "p648-fig1.png"
+    },
+    {
+      "page": 650,
+      "file": "p650-fig1.png"
+    },
+    {
+      "page": 658,
+      "file": "p658-fig1.png"
+    },
+    {
+      "page": 668,
+      "file": "p668-fig1.png"
+    },
+    {
+      "page": 669,
+      "file": "p669-fig1.png"
+    },
+    {
+      "page": 670,
+      "file": "p670-fig1.png"
+    },
+    {
+      "page": 673,
+      "file": "p673-fig1.png"
+    },
+    {
+      "page": 674,
+      "file": "p674-fig1.png"
+    },
+    {
+      "page": 677,
+      "file": "p677-fig1.png"
+    },
+    {
+      "page": 678,
+      "file": "p678-fig1.png"
+    },
+    {
+      "page": 679,
+      "file": "p679-fig1.png"
+    },
+    {
+      "page": 712,
+      "file": "p712-fig1.png"
+    },
+    {
+      "page": 715,
+      "file": "p715-fig1.png"
+    },
+    {
+      "page": 718,
+      "file": "p718-fig1.png"
+    },
+    {
+      "page": 720,
+      "file": "p720-fig1.png"
+    },
+    {
+      "page": 743,
+      "file": "p743-fig1.png"
+    },
+    {
+      "page": 757,
+      "file": "p757-fig1.png"
+    },
+    {
+      "page": 757,
+      "file": "p757-fig2.png"
+    },
+    {
+      "page": 776,
+      "file": "p776-fig1.png"
+    },
+    {
+      "page": 779,
+      "file": "p779-fig1.png"
+    },
+    {
+      "page": 781,
+      "file": "p781-fig1.png"
+    },
+    {
+      "page": 791,
+      "file": "p791-fig1.png"
+    },
+    {
+      "page": 796,
+      "file": "p796-fig1.png"
+    },
+    {
+      "page": 800,
+      "file": "p800-fig1.png"
+    },
+    {
+      "page": 805,
+      "file": "p805-fig1.png"
+    },
+    {
+      "page": 808,
+      "file": "p808-fig1.png"
+    },
+    {
+      "page": 813,
+      "file": "p813-fig1.png"
+    },
+    {
+      "page": 817,
+      "file": "p817-fig1.png"
+    },
+    {
+      "page": 820,
+      "file": "p820-fig1.png"
+    },
+    {
+      "page": 821,
+      "file": "p821-fig1.png"
+    },
+    {
+      "page": 827,
+      "file": "p827-fig1.png"
+    },
+    {
+      "page": 832,
+      "file": "p832-fig1.png"
+    },
+    {
+      "page": 835,
+      "file": "p835-fig1.png"
+    },
+    {
+      "page": 836,
+      "file": "p836-fig1.png"
+    },
+    {
+      "page": 839,
+      "file": "p839-fig1.png"
+    },
+    {
+      "page": 843,
+      "file": "p843-fig1.png"
+    },
+    {
+      "page": 844,
+      "file": "p844-fig1.png"
+    },
+    {
+      "page": 853,
+      "file": "p853-fig1.png"
+    },
+    {
+      "page": 856,
+      "file": "p856-fig1.png"
+    },
+    {
+      "page": 858,
+      "file": "p858-fig1.png"
+    },
+    {
+      "page": 863,
+      "file": "p863-fig1.png"
+    },
+    {
+      "page": 866,
+      "file": "p866-fig1.png"
+    },
+    {
+      "page": 867,
+      "file": "p867-fig1.png"
+    },
+    {
+      "page": 870,
+      "file": "p870-fig1.png"
+    },
+    {
+      "page": 875,
+      "file": "p875-fig1.png"
+    },
+    {
+      "page": 876,
+      "file": "p876-fig1.png"
+    },
+    {
+      "page": 877,
+      "file": "p877-fig1.png"
+    },
+    {
+      "page": 888,
+      "file": "p888-fig1.png"
+    },
+    {
+      "page": 899,
+      "file": "p899-fig1.png"
+    },
+    {
+      "page": 905,
+      "file": "p905-fig1.png"
+    },
+    {
+      "page": 910,
+      "file": "p910-fig1.png"
+    },
+    {
+      "page": 911,
+      "file": "p911-fig1.png"
+    },
+    {
+      "page": 912,
+      "file": "p912-fig1.png"
+    },
+    {
+      "page": 913,
+      "file": "p913-fig1.png"
+    },
+    {
+      "page": 916,
+      "file": "p916-fig1.png"
+    },
+    {
+      "page": 917,
+      "file": "p917-fig1.png"
+    },
+    {
+      "page": 919,
+      "file": "p919-fig1.png"
+    },
+    {
+      "page": 920,
+      "file": "p920-fig1.png"
+    }
+  ],
+  "blocksByType": {
+    "figure": 163,
+    "h1": 72,
+    "p": 3059,
+    "attribution": 765,
+    "code": 137,
+    "h2": 112,
+    "h3": 152,
+    "figure-caption": 161,
+    "ol": 106,
+    "dialogue": 6
+  },
+  "textLengthBefore": 1060966,
+  "textLengthAfter": 1078557
+}

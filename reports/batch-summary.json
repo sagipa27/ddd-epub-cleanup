@@ -1,75 +1,20 @@
 {
-  "generatedAt": "2026-07-20T22:23:39.395Z",
+  "generatedAt": "2026-07-30T20:36:27.643Z",
   "results": [
     {
-      "file": "pdfs\\A Philosophy of Software Design - John Ousterhout.pdf",
-      "slug": "a-philosophy-of-software-design-john-ousterhout",
-      "title": "A Philosophy of Software Design",
-      "pages": 188,
+      "file": "pdfs\\The_Software_Engineers_Guidebook_Navigating_senior_tech_lead_and_staff_engineer_Gergely_Orosz.pdf",
+      "slug": "the-software-engineers-guidebook-navigating-senior",
+      "title": "The Software Engineer's Guidebook",
+      "pages": 487,
       "chapters": 42,
-      "warnings": 8,
-      "hyphenRepairs": 28,
-      "imagesExtracted": 18,
-      "xhtml": "cleaned-html\\a-philosophy-of-software-design-john-ousterhout\\all.xhtml",
-      "epub": "cleaned-html\\a-philosophy-of-software-design-john-ousterhout\\a-philosophy-of-software-design-john-ousterhout.epub",
+      "warnings": 41,
+      "hyphenRepairs": 34,
+      "imagesExtracted": 44,
+      "xhtml": "cleaned-html\\the-software-engineers-guidebook-navigating-senior\\all.xhtml",
+      "epub": "cleaned-html\\the-software-engineers-guidebook-navigating-senior\\the-software-engineers-guidebook-navigating-senior.epub",
       "epubError": null,
-      "coverExtracted": true
-    },
-    {
-      "file": "pdfs\\Alex Petrov - Database Internals_ A Deep Dive into How Distributed Data Systems Work-O'Reilly Media (2019).pdf",
-      "slug": "alex-petrov-database-internals-a-deep-dive-into-ho",
-      "title": "Book",
-      "pages": 371,
-      "chapters": 1,
-      "warnings": 51,
-      "hyphenRepairs": 63,
-      "imagesExtracted": 131,
-      "xhtml": "cleaned-html\\alex-petrov-database-internals-a-deep-dive-into-ho\\all.xhtml",
-      "epub": "cleaned-html\\alex-petrov-database-internals-a-deep-dive-into-ho\\alex-petrov-database-internals-a-deep-dive-into-ho.epub",
-      "epubError": null,
-      "coverExtracted": true
-    },
-    {
-      "file": "pdfs\\Martin Fowler - Refactoring - Improving the Design of Existing Code.pdf",
-      "slug": "martin-fowler-refactoring-improving-the-design-of",
-      "title": "Book",
-      "pages": 455,
-      "chapters": 1,
-      "warnings": 6,
-      "hyphenRepairs": 0,
-      "imagesExtracted": 70,
-      "xhtml": "cleaned-html\\martin-fowler-refactoring-improving-the-design-of\\all.xhtml",
-      "epub": "cleaned-html\\martin-fowler-refactoring-improving-the-design-of\\martin-fowler-refactoring-improving-the-design-of.epub",
-      "epubError": null,
-      "coverExtracted": true
-    },
-    {
-      "file": "pdfs\\Why_Programs_Fail_Second_Edition_A_Guide_to_Systematic_Debugging__2009by-Andreas_Zeller.pdf",
-      "slug": "why-programs-fail-second-edition-a-guide-to-system",
-      "title": "Book",
-      "pages": 388,
-      "chapters": 17,
-      "warnings": 33,
-      "hyphenRepairs": 510,
-      "imagesExtracted": 79,
-      "xhtml": "cleaned-html\\why-programs-fail-second-edition-a-guide-to-system\\all.xhtml",
-      "epub": "cleaned-html\\why-programs-fail-second-edition-a-guide-to-system\\why-programs-fail-second-edition-a-guide-to-system.epub",
-      "epubError": null,
-      "coverExtracted": true
-    },
-    {
-      "file": "pdfs\\mythical-man-month.pdf",
-      "slug": "mythical-man-month",
-      "title": "The Mythical Man Month",
-      "pages": 212,
-      "chapters": 1,
-      "warnings": 1,
-      "hyphenRepairs": 0,
-      "imagesExtracted": 415,
-      "xhtml": "cleaned-html\\mythical-man-month\\all.xhtml",
-      "epub": "cleaned-html\\mythical-man-month\\mythical-man-month.epub",
-      "epubError": null,
-      "coverExtracted": true
+      "coverExtracted": true,
+      "coverSource": "from PDF"
     }
   ]
 }

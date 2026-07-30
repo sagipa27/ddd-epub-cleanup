@@ -1,0 +1,994 @@
+{
+  "generatedAt": "2026-07-29T22:06:07.989Z",
+  "pagesProcessed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237,
+    238,
+    239,
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260,
+    261,
+    262,
+    263,
+    264,
+    265,
+    266,
+    267,
+    268,
+    269,
+    270,
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280,
+    281,
+    282,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289,
+    290,
+    291,
+    292,
+    293,
+    294,
+    295,
+    296,
+    297,
+    298,
+    299,
+    300,
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    307,
+    308,
+    309,
+    310,
+    311,
+    312,
+    313,
+    314,
+    315,
+    316,
+    317,
+    318,
+    319,
+    320,
+    321,
+    322,
+    323,
+    324,
+    325,
+    326,
+    327,
+    328,
+    329,
+    330,
+    331,
+    332,
+    333,
+    334,
+    335,
+    336,
+    337,
+    338,
+    339,
+    340,
+    341,
+    342,
+    343,
+    344,
+    345,
+    346,
+    347,
+    348,
+    349,
+    350,
+    351,
+    352,
+    353,
+    354,
+    355,
+    356,
+    357,
+    358,
+    359,
+    360,
+    361,
+    362,
+    363,
+    364,
+    365,
+    366,
+    367,
+    368,
+    369,
+    370,
+    371,
+    372,
+    373,
+    374,
+    375,
+    376,
+    377,
+    378,
+    379,
+    380,
+    381,
+    382,
+    383,
+    384,
+    385,
+    386,
+    387,
+    388,
+    389,
+    390
+  ],
+  "headersRemoved": 2,
+  "headerSamples": [
+    {
+      "page": 337,
+      "text": "https://journals.uvic.ca/index.php/peninsula/article/view/11518"
+    },
+    {
+      "page": 348,
+      "text": "2019. https://www.commerce.senate.gov/services/files/96E3"
+    }
+  ],
+  "hyphenRepairs": [
+    {
+      "before": "I sat down opposite the sixty- / six-year-old, I explained I wa"
+    },
+    {
+      "before": "c term for it is ‘detecting n- / grams’ – that can spot the ris"
+    },
+    {
+      "before": "ing, that’s just wasted brain- / processing time.’ This means t"
+    },
+    {
+      "before": "ou ‘spend a lot of this brain- / processing time switching and "
+    },
+    {
+      "before": "mperature compared to the web- / based ones I had lost. No stra"
+    },
+    {
+      "before": "lyi (pronounced cheek-sent-me- / high-ee) was born in 1934 in F"
+    },
+    {
+      "before": "me sleep quality as an active- / duty soldier or a parent of a "
+    },
+    {
+      "before": "takes place – when our screen- / reading contaminates our book-"
+    },
+    {
+      "before": "nnections – in a single three- / hour walk than I usually had i"
+    },
+    {
+      "before": "ch into this very topic: mind- / wandering."
+    },
+    {
+      "before": "It is true of life. Some mind- / wandering is essential for thi"
+    },
+    {
+      "before": "taring out of the window mind- / wandering might be doing the m"
+    },
+    {
+      "before": "con Valley, and this grab-and- / raid approach to our focus was"
+    },
+    {
+      "before": "ad-apple factory. We’re a bad- / apple farm.’"
+    },
+    {
+      "before": "d see the deeper way the rage- / driven algorithms of social me"
+    },
+    {
+      "before": "if you spend more than thirty- / five hours on Facebook a week,"
+    },
+    {
+      "before": "eir thinking. It’s the twenty- / first-century version of Marie"
+    },
+    {
+      "before": " British public – but its day- / to-day running is independent "
+    },
+    {
+      "before": "between twenty-five and fifty- / eight, and told them: for the "
+    },
+    {
+      "before": "llenged the logic of our ever- / accelerating society. We live "
+    },
+    {
+      "before": " by another child, a ten-year- / old boy wearing a yellow sash "
+    },
+    {
+      "before": " since I was at school twenty- / five years ago, education has "
+    },
+    {
+      "before": "vented from carrying out near- / term actions like this."
+    },
+    {
+      "before": " about the importance of mind- / wandering. I realised that let"
+    },
+    {
+      "before": "acked and monitored by social- / media sites designed to figure"
+    },
+    {
+      "before": "g in a chemical soup of brain- / inflaming toxins every day – t"
+    },
+    {
+      "before": ".stophateforprofit.org/backup- / week-of-action-toolkit"
+    },
+    {
+      "before": "schools.org/less-testing-more- / learning-ma-campaign/sign-the-"
+    },
+    {
+      "before": "he-less-testing-more-learning- / petition-today/"
+    },
+    {
+      "before": "nology (ESE): https://www.ese- / hormones.org/"
+    },
+    {
+      "before": "iance (HEAL): https://www.env- / health.org/"
+    },
+    {
+      "before": " additional research and fact- / checking, but much more than t"
+    },
+    {
+      "before": " with, using her sinister NSA- / like powers of detection."
+    },
+    {
+      "before": "tolenfocusbook.com/additional- / endnotes/"
+    },
+    {
+      "before": "usinessjournal/23146/too-many- / interruptions-work.aspx"
+    },
+    {
+      "before": " texting made me do it: Media- / induced task-switching while s"
+    },
+    {
+      "before": "com/944128/worker-interrupted- / cost- task-switching"
+    },
+    {
+      "before": "om/communication-multitasking- / switches/"
+    },
+    {
+      "before": "://blog.rescuetime.com/screen- / time-stats-2018/"
+    },
+    {
+      "before": "er.com/dscout-research-people- / touch-cell-phones-2617-times-a"
+    },
+    {
+      "before": "heter/2005/06/med-eit-muntert- / blikk-paa-styre-og-stell.html"
+    },
+    {
+      "before": "s/multitasking-why-your-brain- / cant-do-it-and-what-you-should"
+    },
+    {
+      "before": "om/communication-multitasking- / switches/"
+    },
+    {
+      "before": "echnolog/students-cant-resist- / distraction-two-minutes-neithe"
+    },
+    {
+      "before": "news_releases/drivers-on-cell- / phones-are-as- bad-as-drunks/"
+    },
+    {
+      "before": "Everyday Experience (Abingdon- / on-Thames: Routledge, 1990)."
+    },
+    {
+      "before": "average child has lost eighty- / five minutes of sleep every ni"
+    },
+    {
+      "before": "/metro/2018/08/17/sleep-final- / frontier-this-guy-studies-here"
+    },
+    {
+      "before": "his-guy-studies-here-what-has- / say/MCII4NnJyK6tbOHpvdLgQN/sto"
+    },
+    {
+      "before": "ll/16582/about-half-americans- / reading-book.aspx"
+    },
+    {
+      "before": ".org/fact-tank/2019/09/26/who- / doesnt-read-books-in-america/"
+    },
+    {
+      "before": "t.com/article/americans-spend- / far-more-time-on-their-smartph"
+    },
+    {
+      "before": "om/books/2017/dec/15/literary- / fiction-in-crisis-as-sale-drop"
+    },
+    {
+      "before": "rop-dramatically-arts-council- / england-reports."
+    },
+    {
+      "before": "19/09/24/the-tim-ferriss-show- / transcripts-tristan-harris-fig"
+    },
+    {
+      "before": "ghting-skynet-and-firewalling- / attention-387/"
+    },
+    {
+      "before": "1843magazine.com/features/the- / scientists-who-make- apps-addi"
+    },
+    {
+      "before": "com/2018/5/10/17333574/google- / android-p- update-tristan-harr"
+    },
+    {
+      "before": "/humane-a-new-agenda-for-tech- / speed- summary-and-video/"
+    },
+    {
+      "before": "/257466/time-coms-bounce-rate- / down-15-percentage-points-sinc"
+    },
+    {
+      "before": "e.com/2017/11/9/16627724/sean- / parker-facebook-childrens-brai"
+    },
+    {
+      "before": "ernews.com/many-many-facebook- / users-still-dont-know-that-the"
+    },
+    {
+      "before": "er available here: http://www- / personal.umich.edu/~csandvig/r"
+    },
+    {
+      "before": "/article/craigsilverman/viral- / fake-election-news-outperforme"
+    },
+    {
+      "before": "hosis-conspiracies-sandy-hook- / hoax"
+    },
+    {
+      "before": "usiness/hiltzik/la-fi-hiltzik- / tristan-tech-20190510-story.ht"
+    },
+    {
+      "before": "://www.voxpol.eu/download/vox- / pol_publication/AltRightTwitte"
+    },
+    {
+      "before": "tps://time.com/3630922/brazil- / politics- congresswoman-rape-c"
+    },
+    {
+      "before": "o.uk/news/world/americas/jair- / bolsonaro-who-is-quotes-brazil"
+    },
+    {
+      "before": "crunch.com/2012/03/25/want-to- / hook-your-users-drive-them-cra"
+    },
+    {
+      "before": "01/09/opinion/diet-resolution- / new-years.html, as accessed 12"
+    },
+    {
+      "before": "tatistics/544060/share-of-the- / population-with-overweight-in-"
+    },
+    {
+      "before": "s-mori/en-uk/bbc-most-trusted- / news-source-2020; W. Turvill, "
+    },
+    {
+      "before": "uk/survey-americans-trust-the- / bbc-more-than-new-york-times-w"
+    },
+    {
+      "before": "m.com/2014/04/infographic-web- / performance-impacts-conversion"
+    },
+    {
+      "before": "tps://onezero.medium.com/does- / youtube-radicalize-a-debate-be"
+    },
+    {
+      "before": "-between-kevin-roose-and-mark- / ledwich-1b99651c7bb; W. Feuer,"
+    },
+    {
+      "before": "c.com/2019/12/30/critics-slam- / youtube-study-showing-no-ties-"
+    },
+    {
+      "before": "www.wsj.com/articles/facebook- / knows-it-encourages-division-t"
+    },
+    {
+      "before": "2017/08/Researchers-Link-ADHD- / with-Childhood-Trauma; K. Szym"
+    },
+    {
+      "before": "ama and T. Someya, ‘Attention- / deficit/hyperactivity disorder"
+    },
+    {
+      "before": " if you are put under mild-to- / moderate stress, you will perf"
+    },
+    {
+      "before": "ne.com/2015/05/the-science-of- / scarcity; Sendhil Mullainathan"
+    },
+    {
+      "before": "com/article/2193136-universal- / income-study-finds-money-for-n"
+    },
+    {
+      "before": "for-nothing-wont-make-us-work- / less/"
+    },
+    {
+      "before": "k/british-employees-work- for- / just-three-hours-a-day/59742/"
+    },
+    {
+      "before": "in-covid-era-means-three-more- / hours-on-the-job"
+    },
+    {
+      "before": "m/hr/longer-hours-and-loss-of- / creative-discussions-among-hom"
+    },
+    {
+      "before": "phic-detail/2020/11/24/people- / are-working-longer-hours-durin"
+    },
+    {
+      "before": "m/blog/teamwork/data-analysis- / length-of-workday-covid"
+    },
+    {
+      "before": "o-disconnect-after-hours-work- / emails/55879/, citing W. J. Be"
+    },
+    {
+      "before": "ww.nhs.uk/live-well/sleep-and- / tiredness/eight-energy-stealer"
+    },
+    {
+      "before": "mmunity: a randomised, double- / blinded, placebo-controlled tr"
+    },
+    {
+      "before": "ycyclic aromatic hydrocarbons- / aromatic DNA adducts in cord b"
+    },
+    {
+      "before": "‘Associations between traffic- / related black carbon exposure "
+    },
+    {
+      "before": "/wp-content/uploads/chemtrust- / nobrainer-mar17.pdf; House of "
+    },
+    {
+      "before": "health/archive/2013/04/why-it- / took-decades-of-blaming-parent"
+    },
+    {
+      "before": "parents-before-we-banned-lead- / paint/275169/"
+    },
+    {
+      "before": "/news/articles/2016-02-09/the- / politics-of-lead-poisoning-a-l"
+    },
+    {
+      "before": "05/480595028/lead-poisoning-a- / doctors-lifelong-crusade-to-sa"
+    },
+    {
+      "before": "com/politics/2013/10/american- / council- science-health-leaked"
+    },
+    {
+      "before": "ranasal methamphetamine and d- / amphetamine self-administratio"
+    },
+    {
+      "before": "/2018/03/16/consistent-use-of- / adhd-medication-may-stun-growt"
+    },
+    {
+      "before": "rowth-by-2-inches-large-study- / finds/; A. Poulton, ‘Growth on"
+    },
+    {
+      "before": "f inattention and impulsivity- / hyperactivity’, Journal of the"
+    },
+    {
+      "before": "logspot.com/2020/04/levels-of- / identity-confusion-and_21.html"
+    },
+    {
+      "before": "sion.blogspot.com/2020/06/its- / time-to-abandon-classical-twin"
+    },
+    {
+      "before": "2002, available at: www.naecs- / sde.org/recessplay.pdf; O. Jar"
+    },
+    {
+      "before": "help-kids-find-their- passion- / give-them-free-time/."
+    }
+  ],
+  "warnings": [
+    {
+      "type": "image-extraction-failed",
+      "detail": "timed out waiting for page object \"g_d0_img_p5_1\""
+    },
+    {
+      "type": "image-extraction-failed",
+      "detail": "timed out waiting for page object \"g_d0_img_p27_1\""
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": " before they went into the lab, to ‘pre-",
+      "after": "commit’ – to resolve, out loud, that the"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "non",
+      "before": "thirty-nine, and I had been working non-",
+      "after": "stop since I was twenty-one. I had taken"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "non",
+      "before": "players. He only looked at first at non-",
+      "after": "professionals. Often they were doing thi"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "long",
+      "before": "ed you? Charles Czeisler – a tall, long-",
+      "after": "limbed man with wire-framed glasses and "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "long",
+      "before": "ways in the lab, these people with long-",
+      "after": "standing meth addictions responded in al"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "short",
+      "before": "we currently operate under is the short-",
+      "after": "term benefit.’"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "non",
+      "before": "th it too? Then they take a pair of non-",
+      "after": "identical twins. If one of them has been"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "non",
+      "before": "etically similar to each other than non-",
+      "after": "identical twins, so if you discover that"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "self",
+      "before": "d the brain chemicals that support self-",
+      "after": "regulation and executive functioning’. E"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": "nt to stop switching tasks so much. Pre-",
+      "after": "commitment is when you realise that if y"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "self",
+      "before": "ing myself? Environment, habit and self-",
+      "after": "interruption’, in Proceedings of the 201"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": "A. Blaszczynski and D. R. Lalande, ‘Pre-",
+      "after": "commitment in gambling: a review of the "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "meta",
+      "before": "lder adults: systematic review and meta-",
+      "after": "analysis’, Journal of the American Geria"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "self",
+      "before": "ing myself? Environment, habit and self-",
+      "after": "interruption’, in Proceedings of the 201"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "time",
+      "before": "re-reading-in-the-u-s-is-at-an-all-time-",
+      "after": "low/https://www.bls.gov/tus/"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "long",
+      "before": "st.com/news/wonk/wp/2016/09/07/the-long-",
+      "after": "steady-decline-of-literary-reading/?"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "two",
+      "before": "ol children, it’s the equivalent of two-",
+      "after": "thirds of a year’s growth in reading com"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "off",
+      "before": "uotes-brazil-president-election-run-off-",
+      "after": "latest-a8573901.html"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "in",
+      "before": "foodsafetynews.com/2018/09/bpa-rules-in-",
+      "after": "european-union-now-in-force-limit-streng"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "everaccelerating",
+      "suggestion": "ever accelerating"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "chasingthescream",
+      "suggestion": "chasing the scream"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "stophateforprofit",
+      "suggestion": "stop hate for profit"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "citizensforpublicschools",
+      "suggestion": "citizens for public schools"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "learningpetition",
+      "suggestion": "learning petition"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "healthiergeneration",
+      "suggestion": "healthier generation"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "healthyschoolscampaign",
+      "suggestion": "healthy schools campaign"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "projectsandcampaigns",
+      "suggestion": "project sand campaigns"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "childrensfoodcampaign",
+      "suggestion": "child rens food campaign"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "schoolfoodmatters",
+      "suggestion": "school food matters"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "littlethingsmatter",
+      "suggestion": "little thing smatter"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "additionalendnotes",
+      "suggestion": "additional endnotes"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "manyinterruptions",
+      "suggestion": "many interruptions"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "multitaskingswitches",
+      "suggestion": "multitasking switches"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "resistdistraction",
+      "suggestion": "resist distraction"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "firewallingattention",
+      "suggestion": "firewalling attention"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "minimizedistraction",
+      "suggestion": "minimize distraction"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "digitalwellbeing",
+      "suggestion": "digital wellbeing"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "childrenshospitals",
+      "suggestion": "child rens hospitals"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "Attentiondeficit",
+      "suggestion": "attention deficit"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "hydrocarbonsaromatic",
+      "suggestion": "hydrocarbons aromatic"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "impulsivityhyperactivity",
+      "suggestion": "impulsivity hyperactivity"
+    }
+  ],
+  "imagesExtracted": [
+    {
+      "page": 1,
+      "file": "p1-fig1.png"
+    },
+    {
+      "page": 5,
+      "file": "p5-fig1.png"
+    },
+    {
+      "page": 27,
+      "file": "p27-fig1.png"
+    }
+  ],
+  "blocksByType": {
+    "figure": 3,
+    "h2": 3,
+    "p": 310,
+    "attribution": 12,
+    "h1": 22,
+    "ol": 10,
+    "dialogue": 7
+  },
+  "textLengthBefore": 661589,
+  "textLengthAfter": 672311
+}

@@ -1,0 +1,94 @@
+/* EPUB-friendly stylesheet: relative units only, no fixed page dimensions.
+   Intentionally minimal — the source PDF's visual design was page-layout
+   driven and does not carry over to a reflowable format. */
+
+body {
+  font-family: serif;
+  line-height: 1.4;
+  margin: 0;
+  padding: 0 5%;
+}
+
+h1, h2, h3 {
+  page-break-after: avoid;
+  break-after: avoid;
+  line-height: 1.2;
+  margin: 1.2em 0 0.6em;
+}
+
+h1 { font-size: 1.6em; }
+h2 { font-size: 1.3em; }
+h3 { font-size: 1.1em; }
+
+p {
+  margin: 0 0 0.8em;
+  text-align: justify;
+  orphans: 2;
+  widows: 2;
+}
+
+p.dialogue {
+  margin: 0 0 0.6em;
+}
+
+p.attribution {
+  margin: 0.2em 0 1em;
+  text-align: right;
+}
+
+p.caption,
+figcaption {
+  font-size: 0.9em;
+  text-align: center;
+  margin: 0.4em 0 1em;
+}
+
+ul, ol {
+  margin: 0 0 0.8em;
+  padding-left: 1.5em;
+}
+
+li {
+  margin: 0 0 0.3em;
+}
+
+blockquote {
+  margin: 0 1.5em 0.8em;
+  font-style: italic;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+figure {
+  margin: 1em 0;
+  text-align: center;
+}
+
+pre {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  font-family: monospace;
+  font-size: 0.85em;
+  background: #f5f5f5;
+  padding: 0.6em;
+  margin: 0 0 0.8em;
+}
+
+pre.table-like {
+  background: #fafafa;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 0 0 1em;
+}
+
+th, td {
+  border: 1px solid #999;
+  padding: 0.3em 0.5em;
+  text-align: left;
+}
