@@ -1,0 +1,1136 @@
+{
+  "generatedAt": "2026-08-28T22:48:51.724Z",
+  "pagesProcessed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237,
+    238,
+    239,
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260,
+    261,
+    262,
+    263,
+    264,
+    265,
+    266,
+    267,
+    268,
+    269,
+    270,
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280,
+    281,
+    282,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289,
+    290,
+    291,
+    292,
+    293,
+    294,
+    295,
+    296,
+    297,
+    298,
+    299,
+    300,
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    307,
+    308,
+    309,
+    310,
+    311,
+    312,
+    313,
+    314,
+    315,
+    316,
+    317,
+    318,
+    319,
+    320,
+    321,
+    322,
+    323,
+    324,
+    325,
+    326,
+    327,
+    328,
+    329,
+    330,
+    331,
+    332,
+    333,
+    334,
+    335,
+    336,
+    337,
+    338,
+    339,
+    340,
+    341,
+    342,
+    343,
+    344,
+    345,
+    346,
+    347,
+    348,
+    349,
+    350,
+    351,
+    352,
+    353,
+    354,
+    355,
+    356,
+    357,
+    358,
+    359,
+    360,
+    361,
+    362,
+    363,
+    364,
+    365,
+    366,
+    367,
+    368,
+    369,
+    370,
+    371,
+    372,
+    373,
+    374,
+    375,
+    376,
+    377,
+    378,
+    379,
+    380,
+    381,
+    382,
+    383,
+    384,
+    385,
+    386,
+    387,
+    388,
+    389,
+    390,
+    391,
+    392,
+    393,
+    394,
+    395,
+    396,
+    397,
+    398,
+    399,
+    400,
+    401,
+    402,
+    403,
+    404,
+    405,
+    406,
+    407,
+    408,
+    409,
+    410,
+    411,
+    412,
+    413,
+    414,
+    415,
+    416,
+    417,
+    418,
+    419,
+    420,
+    421,
+    422,
+    423,
+    424,
+    425,
+    426,
+    427,
+    428,
+    429,
+    430,
+    431,
+    432,
+    433,
+    434,
+    435,
+    436,
+    437,
+    438,
+    439,
+    440,
+    441,
+    442,
+    443,
+    444,
+    445,
+    446,
+    447,
+    448,
+    449,
+    450,
+    451,
+    452,
+    453,
+    454,
+    455,
+    456,
+    457,
+    458,
+    459,
+    460,
+    461,
+    462,
+    463,
+    464,
+    465,
+    466,
+    467,
+    468,
+    469,
+    470,
+    471,
+    472,
+    473,
+    474,
+    475,
+    476,
+    477,
+    478,
+    479,
+    480,
+    481,
+    482,
+    483,
+    484,
+    485,
+    486,
+    487,
+    488,
+    489,
+    490,
+    491,
+    492,
+    493,
+    494,
+    495,
+    496,
+    497,
+    498,
+    499,
+    500,
+    501,
+    502
+  ],
+  "headersRemoved": 0,
+  "headerSamples": [],
+  "hyphenRepairs": [
+    {
+      "before": "ur company: built a retrieval- / augmented generation (RAG) app"
+    },
+    {
+      "before": "s://oreil.ly/hands-on-rag-for- / production."
+    },
+    {
+      "before": ": how often do I need to fine- / tune? If your dataset is stati"
+    },
+    {
+      "before": " a great approach for mission- / critical and large-scale enter"
+    },
+    {
+      "before": "emini are not useful as stand- / alone tools for employees—they"
+    },
+    {
+      "before": "refreshed and up to date, RAG- / based knowledge management sys"
+    },
+    {
+      "before": "ation embedding model, gemini- / embedding-002. So in the case "
+    },
+    {
+      "before": "; more detection can be error- / aware) coherent chunks; prone;"
+    },
+    {
+      "before": "ion is also the most resource- / intensive and time-consuming m"
+    },
+    {
+      "before": "or parallel processing, stage- / specific optimizations, and ma"
+    },
+    {
+      "before": "into memory at once is a near- / certain way to cause an out-of"
+    },
+    {
+      "before": "mmender systems, and question- / answering systems, and of cour"
+    },
+    {
+      "before": "offer managed APIs with usage- / based pricing, simplifying dep"
+    },
+    {
+      "before": "uments associated with out-of- / stock items or prioritize docu"
+    },
+    {
+      "before": "plication built using vectara- / answer."
+    },
+    {
+      "before": ", and that provides a mission- / critical service to your compa"
+    },
+    {
+      "before": " heavily on infrastructure-as- / code, complex orchestration, a"
+    },
+    {
+      "before": "caling: each service (the CPU- / bound orchestrator, the input/"
+    },
+    {
+      "before": "aking your orchestrator’s fan- / out strategy viable."
+    },
+    {
+      "before": ", and implementing privacy-by- / design principles to minimize "
+    },
+    {
+      "before": "ata leaks that are permission- / related is to integrate a perm"
+    },
+    {
+      "before": "deal with scaling (e.g., auto- / scaling, horizontal scaling)?"
+    },
+    {
+      "before": "rantee (provided in a service- / level agreement, or SLA)? What"
+    },
+    {
+      "before": " as a decoupled, microservice- / based system. This architectur"
+    },
+    {
+      "before": "e LLMs OpenAI GPT- OpenAI GPT- / that are 4o 5.1"
+    },
+    {
+      "before": "ready to roll it organization- / wide. What comes next?"
+    },
+    {
+      "before": "a strong alternative to build- / your-own. In this case, the ve"
+    },
+    {
+      "before": "use, it usually provides fine- / grained control over indexing "
+    },
+    {
+      "before": "s fine-tuned over an industry- / specific dataset may be benefi"
+    },
+    {
+      "before": "id “shadow IT” (the use of IT- / related hardware or software b"
+    },
+    {
+      "before": ". With scalability and future- / proofing in mind, RAG platform"
+    },
+    {
+      "before": "pipelines often rely on cloud- / based OCR or parsing APIs, and"
+    },
+    {
+      "before": "fits) and another from a risk- / assessment document outlining "
+    },
+    {
+      "before": " faithful but custom LLM-as-a- / failure doesn’t answer judge r"
+    },
+    {
+      "before": "or this approach is “LLM-as-a- / judge”: taking advantage of an"
+    },
+    {
+      "before": "cify “golden chunks” (a human- / curated, ranked list of releva"
+    },
+    {
+      "before": "rk integrates novel, research- / backed metrics, most of which "
+    },
+    {
+      "before": "s novel approach to reference- / free RAG evaluation, along wit"
+    },
+    {
+      "before": "h allows for custom, criteria- / based evaluations. The main ad"
+    },
+    {
+      "before": "trongly correlate with thumbs- / down ratings? If so, your auto"
+    },
+    {
+      "before": "gh-performing, and production- / ready AI systems. As you’ve se"
+    },
+    {
+      "before": "ities, acting more as a voice- / activated remote control than "
+    },
+    {
+      "before": "ext window, leading to higher- / quality synthesis and more rob"
+    },
+    {
+      "before": "ed path for a stable and cost- / effective production deploymen"
+    },
+    {
+      "before": "ture concepts like Kubernetes- / hosted control planes, MCP del"
+    },
+    {
+      "before": "querying” agent and a “report- / writing” agent. This enhances "
+    },
+    {
+      "before": "r synthesis. This “mixture-of- / agents” approach can reduce to"
+    },
+    {
+      "before": " them week-over-week or month- / over-month so that you can ide"
+    },
+    {
+      "before": "ased RAG, where the knowledge- / grounding responses were confi"
+    },
+    {
+      "before": "lity answers grounded in text- / based documents, but provide l"
+    },
+    {
+      "before": "slate non-text data into text- / based structured representatio"
+    },
+    {
+      "before": "he bitmap and are not machine- / readable without OCR. Furtherm"
+    },
+    {
+      "before": "e formats: from the consensus- / building nods in a Zoom strate"
+    },
+    {
+      "before": "ree primary strategies: fixed- / interval frame extraction, tem"
+    },
+    {
+      "before": " rapidly evolving from “image- / adaptation” (treating video as"
+    },
+    {
+      "before": "argely rely on adapting image- / based techniques to video data"
+    },
+    {
+      "before": "ts caption, and is not layout- / aware. By respecting the docum"
+    },
+    {
+      "before": "-a-judge. Similar to LLM-as-a- / judge, here you construct a te"
+    },
+    {
+      "before": " it does not follow a step-by- / step chain of relationships."
+    },
+    {
+      "before": "at Complex; requires “text-to- / for minimal viable Cypher” or "
+    },
+    {
+      "before": "al viable Cypher” or “text-to- / product SPARQL” tuning"
+    },
+    {
+      "before": "files or chat logs), an event- / driven pattern is preferred. W"
+    },
+    {
+      "before": "nce, or unlocking new revenue- / generating features?"
+    },
+    {
+      "before": "of the variable cost of token- / based pricing, you shift to a "
+    },
+    {
+      "before": "check” with strict evaluation- / driven development. As discuss"
+    },
+    {
+      "before": "t RAG User Experience-Vectara- / answer"
+    },
+    {
+      "before": "uage models (LLMs), retrieval- / augmented generation (RAG), an"
+    }
+  ],
+  "warnings": [
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "real",
+      "before": "the need to handle multimodal RAG, real-",
+      "after": "time context retrieval, and the integrat"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "open",
+      "before": "amples in this book, which are all open-",
+      "after": "source and available online at https://g"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "domain",
+      "before": "ms that can reason over private, domain-",
+      "after": "specific, and constantly updated data th"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": "ining past the initial large-scale “pre-",
+      "after": "training,” including techniques like sup"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "multi",
+      "before": "ion enables the system to support multi-",
+      "after": "hop reasoning (connecting different piec"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": " built to manage, store, and query high-",
+      "after": "dimensional embeddings, and primarily im"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "time",
+      "before": "include authors of this book, is a time-",
+      "after": "tested model to judge faithfulness. It w"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "cross",
+      "before": "sformer-based models—for example, cross-",
+      "after": "encoders—as they can capture subtle sema"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "mid",
+      "before": "hat is the process for conducting a mid-",
+      "after": "year performance review?” The initial re"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": "hances that the LLM will produce a high-",
+      "after": "quality, relevant response increase dram"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "low",
+      "before": " various factors that may result in low-",
+      "after": "quality responses, so that you can ident"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "low",
+      "before": " to be properly indexed to maintain low-",
+      "after": "latency responses."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "post",
+      "before": "es to arise in the first two weeks post-",
+      "after": "deployment—things you didn’t expect, or "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": " solves this by providing a single, pre-",
+      "after": "configured “golden path.” It would enfor"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "over",
+      "before": "ration—for example, is your system over-",
+      "after": "relying on a set of documents (and thus "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "first",
+      "before": "ction environments where “time-to-first-",
+      "after": "token” is a critical KPI, such as basic "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "time",
+      "before": "nitoring are traditionally manual, time-",
+      "after": "consuming, and susceptible to human erro"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": "f information required to create a high-",
+      "after": "quality investment memo."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": "allows developers to focus more on high-",
+      "after": "level system design, architecture, and c"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "open",
+      "before": "h other, let’s look at some of the open-",
+      "after": "source and commercial tools that you mig"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "one",
+      "before": "aware instead of being a stateless “one-",
+      "after": "shot” responder."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "well",
+      "before": "s. They excel at tracking a set of well-",
+      "after": "defined, system-level metrics: CPU and m"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "data",
+      "before": "lex, and the solution is typically data-",
+      "after": "dependent. For example, you might filter"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": "type of data is that it provides a high-",
+      "after": "quality, pre-resolved core knowledge gra"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": "stantial cost (and time) of upfront pre-",
+      "after": "processing."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "time",
+      "before": "ll with questions that incorporate time-",
+      "after": "bound facts, multi-hop logic, or overlap"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": "forming the retrieval layer into a high-",
+      "after": "precision instrument that can deliver ac"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "retrievalaugmented",
+      "suggestion": "retrieval augmented"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "resourceintensive",
+      "suggestion": "resource intensive"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "questionanswering",
+      "suggestion": "question answering"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "Electrotechnical",
+      "suggestion": "electro technical"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "permissionrelated",
+      "suggestion": "permission related"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "nondifferentiated",
+      "suggestion": "non differentiated"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "microservicebased",
+      "suggestion": "micro service based"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "organizationwide",
+      "suggestion": "organization wide"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "industryspecific",
+      "suggestion": "industry specific"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "knowledgegrounding",
+      "suggestion": "knowledge grounding"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "consensusbuilding",
+      "suggestion": "consensus building"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "revenuegenerating",
+      "suggestion": "revenue generating"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "evaluationdriven",
+      "suggestion": "evaluation driven"
+    }
+  ],
+  "imagesExtracted": [
+    {
+      "page": 1,
+      "file": "p1-fig1.png"
+    },
+    {
+      "page": 4,
+      "file": "p4-fig1.png"
+    },
+    {
+      "page": 27,
+      "file": "p27-fig1.png"
+    },
+    {
+      "page": 29,
+      "file": "p29-fig1.png"
+    },
+    {
+      "page": 45,
+      "file": "p45-fig1.png"
+    },
+    {
+      "page": 47,
+      "file": "p47-fig1.png"
+    },
+    {
+      "page": 56,
+      "file": "p56-fig1.png"
+    },
+    {
+      "page": 59,
+      "file": "p59-fig1.png"
+    },
+    {
+      "page": 88,
+      "file": "p88-fig1.png"
+    },
+    {
+      "page": 126,
+      "file": "p126-fig1.png"
+    },
+    {
+      "page": 153,
+      "file": "p153-fig1.png"
+    },
+    {
+      "page": 155,
+      "file": "p155-fig1.png"
+    },
+    {
+      "page": 157,
+      "file": "p157-fig1.png"
+    },
+    {
+      "page": 188,
+      "file": "p188-fig1.png"
+    },
+    {
+      "page": 191,
+      "file": "p191-fig1.png"
+    },
+    {
+      "page": 205,
+      "file": "p205-fig1.png"
+    },
+    {
+      "page": 220,
+      "file": "p220-fig1.png"
+    },
+    {
+      "page": 222,
+      "file": "p222-fig1.png"
+    },
+    {
+      "page": 266,
+      "file": "p266-fig1.png"
+    },
+    {
+      "page": 281,
+      "file": "p281-fig1.png"
+    },
+    {
+      "page": 284,
+      "file": "p284-fig1.png"
+    },
+    {
+      "page": 287,
+      "file": "p287-fig1.png"
+    },
+    {
+      "page": 289,
+      "file": "p289-fig1.png"
+    },
+    {
+      "page": 303,
+      "file": "p303-fig1.png"
+    },
+    {
+      "page": 307,
+      "file": "p307-fig1.png"
+    },
+    {
+      "page": 310,
+      "file": "p310-fig1.png"
+    },
+    {
+      "page": 310,
+      "file": "p310-fig2.png"
+    },
+    {
+      "page": 310,
+      "file": "p310-fig3.png"
+    },
+    {
+      "page": 310,
+      "file": "p310-fig4.png"
+    },
+    {
+      "page": 310,
+      "file": "p310-fig5.png"
+    },
+    {
+      "page": 310,
+      "file": "p310-fig6.png"
+    },
+    {
+      "page": 310,
+      "file": "p310-fig7.png"
+    },
+    {
+      "page": 310,
+      "file": "p310-fig8.png"
+    },
+    {
+      "page": 344,
+      "file": "p344-fig1.png"
+    },
+    {
+      "page": 359,
+      "file": "p359-fig1.png"
+    },
+    {
+      "page": 360,
+      "file": "p360-fig1.png"
+    },
+    {
+      "page": 362,
+      "file": "p362-fig1.png"
+    },
+    {
+      "page": 372,
+      "file": "p372-fig1.png"
+    },
+    {
+      "page": 373,
+      "file": "p373-fig1.png"
+    },
+    {
+      "page": 374,
+      "file": "p374-fig1.png"
+    },
+    {
+      "page": 389,
+      "file": "p389-fig1.png"
+    },
+    {
+      "page": 401,
+      "file": "p401-fig1.png"
+    },
+    {
+      "page": 411,
+      "file": "p411-fig1.png"
+    },
+    {
+      "page": 414,
+      "file": "p414-fig1.png"
+    },
+    {
+      "page": 448,
+      "file": "p448-fig1.png"
+    }
+  ],
+  "blocksByType": {
+    "figure": 45,
+    "p": 3588,
+    "h1": 13,
+    "h3": 73,
+    "attribution": 54,
+    "code": 201,
+    "figure-caption": 35,
+    "ol": 26,
+    "dialogue": 22
+  },
+  "textLengthBefore": 733157,
+  "textLengthAfter": 747444
+}

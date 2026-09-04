@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-26T19:38:54.938Z",
+  "generatedAt": "2026-08-28T22:49:13.550Z",
   "results": [
     {
-      "file": "pdfs\\building-generative-ai-services-with-fastapi.pdf",
-      "slug": "building-generative-ai-services-with-fastapi",
-      "title": "Building Generative AI Services with FastAPI",
-      "pages": 720,
-      "chapters": 19,
-      "warnings": 55,
-      "hyphenRepairs": 47,
-      "imagesExtracted": 137,
-      "xhtml": "cleaned-html\\building-generative-ai-services-with-fastapi\\all.xhtml",
-      "epub": "cleaned-html\\building-generative-ai-services-with-fastapi\\building-generative-ai-services-with-fastapi.epub",
+      "file": "pdfs\\Hands-On RAG for Production Design, Develop, and Deploy Production-Ready RAG Applications (Ofer Mendelevitch, Forrest Bao)_bibis.ir.pdf",
+      "slug": "hands-on-rag-for-production-design-develop-and-dep",
+      "title": "Hands-On RAG for Production",
+      "pages": 502,
+      "chapters": 13,
+      "warnings": 40,
+      "hyphenRepairs": 67,
+      "imagesExtracted": 45,
+      "xhtml": "cleaned-html\\hands-on-rag-for-production-design-develop-and-dep\\all.xhtml",
+      "epub": "cleaned-html\\hands-on-rag-for-production-design-develop-and-dep\\hands-on-rag-for-production-design-develop-and-dep.epub",
       "epubError": null,
       "coverExtracted": true,
       "coverSource": "from PDF"
