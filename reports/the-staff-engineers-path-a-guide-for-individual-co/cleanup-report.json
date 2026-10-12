@@ -1,0 +1,4064 @@
+{
+  "generatedAt": "2026-09-20T21:05:48.160Z",
+  "pagesProcessed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237,
+    238,
+    239,
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260,
+    261,
+    262,
+    263,
+    264,
+    265,
+    266,
+    267,
+    268,
+    269,
+    270,
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280,
+    281,
+    282,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289,
+    290,
+    291,
+    292,
+    293,
+    294,
+    295,
+    296,
+    297,
+    298,
+    299,
+    300,
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    307,
+    308,
+    309,
+    310,
+    311,
+    312,
+    313,
+    314,
+    315,
+    316,
+    317,
+    318,
+    319,
+    320,
+    321,
+    322,
+    323,
+    324,
+    325,
+    326,
+    327,
+    328,
+    329,
+    330,
+    331,
+    332,
+    333,
+    334,
+    335,
+    336,
+    337,
+    338,
+    339,
+    340,
+    341,
+    342,
+    343,
+    344,
+    345,
+    346,
+    347,
+    348,
+    349,
+    350,
+    351,
+    352,
+    353,
+    354,
+    355,
+    356,
+    357,
+    358,
+    359
+  ],
+  "headersRemoved": 155,
+  "headerSamples": [
+    {
+      "page": 27,
+      "text": "WHAT WOULD YOU SAY YOU DO HERE? | 5"
+    },
+    {
+      "page": 29,
+      "text": "WHAT WOULD YOU SAY YOU DO HERE? | 7"
+    },
+    {
+      "page": 31,
+      "text": "WHAT WOULD YOU SAY YOU DO HERE? | 9"
+    },
+    {
+      "page": 33,
+      "text": "WHAT WOULD YOU SAY YOU DO HERE? | 11"
+    },
+    {
+      "page": 35,
+      "text": "WHAT WOULD YOU SAY YOU DO HERE? | 13"
+    },
+    {
+      "page": 37,
+      "text": "WHAT WOULD YOU SAY YOU DO HERE? | 15"
+    },
+    {
+      "page": 39,
+      "text": "WHAT WOULD YOU SAY YOU DO HERE? | 17"
+    },
+    {
+      "page": 41,
+      "text": "WHAT WOULD YOU SAY YOU DO HERE? | 19"
+    },
+    {
+      "page": 43,
+      "text": "WHAT WOULD YOU SAY YOU DO HERE? | 21"
+    },
+    {
+      "page": 45,
+      "text": "WHAT WOULD YOU SAY YOU DO HERE? | 23"
+    },
+    {
+      "page": 47,
+      "text": "WHAT WOULD YOU SAY YOU DO HERE? | 25"
+    },
+    {
+      "page": 49,
+      "text": "WHAT WOULD YOU SAY YOU DO HERE? | 27"
+    },
+    {
+      "page": 51,
+      "text": "WHAT WOULD YOU SAY YOU DO HERE? | 29"
+    },
+    {
+      "page": 55,
+      "text": "THREE MAPS | 33"
+    },
+    {
+      "page": 57,
+      "text": "THREE MAPS | 35"
+    },
+    {
+      "page": 59,
+      "text": "THREE MAPS | 37"
+    },
+    {
+      "page": 61,
+      "text": "THREE MAPS | 39"
+    },
+    {
+      "page": 63,
+      "text": "THREE MAPS | 41"
+    },
+    {
+      "page": 65,
+      "text": "THREE MAPS | 43"
+    },
+    {
+      "page": 67,
+      "text": "THREE MAPS | 45"
+    },
+    {
+      "page": 69,
+      "text": "THREE MAPS | 47"
+    },
+    {
+      "page": 71,
+      "text": "THREE MAPS | 49"
+    },
+    {
+      "page": 73,
+      "text": "THREE MAPS | 51"
+    },
+    {
+      "page": 75,
+      "text": "THREE MAPS | 53"
+    },
+    {
+      "page": 77,
+      "text": "THREE MAPS | 55"
+    }
+  ],
+  "hyphenRepairs": [
+    {
+      "before": "orts to ensure that the infor- / mation and instructions contai"
+    },
+    {
+      "before": " publisher and the author dis- / claim all responsibility for e"
+    },
+    {
+      "before": "f the information and instruc- / tions contained in this work i"
+    },
+    {
+      "before": "of career growth for the indi- / vidual contributor, the staff+"
+    },
+    {
+      "before": " management path despite know- / ing they would rather not have"
+    },
+    {
+      "before": "sticism about the staff+ engi- / neering career path that ignor"
+    },
+    {
+      "before": " that lead to successful tech- / nical leaders."
+    },
+    {
+      "before": "al leadership, and it is obvi- / ous that she wants to correct "
+    },
+    {
+      "before": "of articulating these underly- / ing skills that are so crucial"
+    },
+    {
+      "before": "gineers. She provides a frame- / work that shows how, using the"
+    },
+    {
+      "before": " beyond your individual hands- / on contributions."
+    },
+    {
+      "before": " each level above senior engi- / neer. Instead, she wisely focu"
+    },
+    {
+      "before": " leading big projects success- / fully and going from mentor to"
+    },
+    {
+      "before": "crease your impact on the suc- / cess of your company beyond wr"
+    },
+    {
+      "before": " great opportunities and chal- / lenges of your life, and the e"
+    },
+    {
+      "before": "the working world. This guide- / book shows you the skills you’"
+    },
+    {
+      "before": "), two distinct paths stretch- / ing ahead. On one, you take on"
+    },
+    {
+      "before": " role often called staff engi- / neer. If you really could see "
+    },
+    {
+      "before": ". Becoming a manager is a com- / mon, and perhaps default, care"
+    },
+    {
+      "before": " they did right or wrong. Man- / agement is a well-studied disc"
+    },
+    {
+      "before": "e some idea of what your jour- / ney will be like."
+    },
+    {
+      "before": "t seems like unattainable wiz- / ardry. (It’s not. It’s all lea"
+    },
+    {
+      "before": "ou’re expected to be a techni- / cal leader, make good business"
+    },
+    {
+      "before": "ils and understanding the con- / text that you’re working in. I"
+    },
+    {
+      "before": "foundation of technical knowl- / edge and experience. This foun"
+    },
+    {
+      "before": "aving good judgment. When exe- / cuting on projects, your solut"
+    },
+    {
+      "before": " element when leading and fin- / ishing big projects, but find "
+    },
+    {
+      "before": "e between two strategic direc- / tions. Others may have strong "
+    },
+    {
+      "before": "Chapter 2, we’ll zoom out fur- / ther and get some perspective."
+    },
+    {
+      "before": " of leading projects and solv- / ing problems. In Chapter 4, we"
+    },
+    {
+      "before": "l in a way that doesn’t dimin- / ish it. In Chapter 5 I’ll disc"
+    },
+    {
+      "before": "the right decisions, and keep- / ing information flowing. Chapt"
+    },
+    {
+      "before": "ishes successfully, and retro- / specting (but still celebratin"
+    },
+    {
+      "before": "ultural change. Finally, Chap- / ter 9 will explore how to leve"
+    },
+    {
+      "before": "k about staying on the techni- / cal track. It is not a technic"
+    },
+    {
+      "before": "need a solid technical founda- / tion to become a staff enginee"
+    },
+    {
+      "before": "ls are the only ones that mat- / ter, you’re unlikely to find w"
+    },
+    {
+      "before": "eilly Media has provided tech- / nology and business training, "
+    },
+    {
+      "before": "or, Josh Olejarz; Susan Thomp- / son, who created the incredibl"
+    },
+    {
+      "before": "ent and support, and for help- / ing the staff engineering comm"
+    },
+    {
+      "before": "both for showing what sponsor- / ship looks like."
+    },
+    {
+      "before": "na Sostek, this book is infin- / itely better for your review a"
+    },
+    {
+      "before": "e parts that didn’t work. Con- / structive criticism is always "
+    },
+    {
+      "before": " Franklin Angulo, Jackie Beno- / witz, Kristina Bennett, Silvia"
+    },
+    {
+      "before": "i Gutman, Liz Hetherston, Moj- / taba Hosseini, Cate Huston, Jo"
+    },
+    {
+      "before": "ryone on the #staff-principal- / engineering channel on Rands L"
+    },
+    {
+      "before": "uge appreciation to my collea- / gues at Squarespace and to the"
+    },
+    {
+      "before": "good dog. I’m lucky and privi- / leged to have you as friends. "
+    },
+    {
+      "before": "ard to decades more of friend- / ship and watching your baby oa"
+    },
+    {
+      "before": "maning skills are “flying but- / tresses”), thank you for great"
+    },
+    {
+      "before": "ck”, is new to a lot of compa- / nies. Organizations differ on "
+    },
+    {
+      "before": "o I’ll talk about how to char- / acterize and describe a staff "
+    },
+    {
+      "before": "scope, depth, reporting struc- / ture, primary focus, and other"
+    },
+    {
+      "before": "k on aligning your understand- / ing with that of other key peo"
+    },
+    {
+      "before": "ff.” Chaos. The acquiring com- / pany changed all “staff” to “p"
+    },
+    {
+      "before": "technical” or “individual con- / tributor” track, allowing care"
+    },
+    {
+      "before": "lel to manager roles. The lad- / der on the right in Figure 1-1"
+    },
+    {
+      "before": "conscious. As Dr. Kipp Krukow- / ski, clinical professor of ent"
+    },
+    {
+      "before": " be more senior, more “techni- / cal,” and better at coding, wh"
+    },
+    {
+      "before": "se have to spend proving them- / selves again and again. It giv"
+    },
+    {
+      "before": "ll recruiting email that invi- / ted me to interview for a more"
+    },
+    {
+      "before": " let’s look at why the techni- / cal leadership levels exist. I"
+    },
+    {
+      "before": "g decisions: choosing technol- / ogy, deciding what to build, i"
+    },
+    {
+      "before": "he pros and cons of a particu- / lar technology isn’t enough—yo"
+    },
+    {
+      "before": "hat’s the context of the deci- / sion."
+    },
+    {
+      "before": "often controversial, so essen- / tial to making the decision is"
+    },
+    {
+      "before": "decisions and technical direc- / tion. In a small company, a CT"
+    },
+    {
+      "before": "pments, and anyone who is man- / aging to stay deeply “in the w"
+    },
+    {
+      "before": "ams don’t need a lot of atten- / tion to continue on a successf"
+    },
+    {
+      "before": "gain when we’re talking strat- / egy in Chapter 3."
+    },
+    {
+      "before": "uld interlock like jigsaw puz- / zle pieces, covering all aspec"
+    },
+    {
+      "before": " and each team is wholly dedi- / cated to that project. Team bo"
+    },
+    {
+      "before": "rrespond exactly with the com- / ponents of the desired archite"
+    },
+    {
+      "before": "nd professional glory of solv- / ing them."
+    },
+    {
+      "before": "ant. They’ll discover unexpec- / ted dependencies midway throug"
+    },
+    {
+      "before": "ch problems: they involve spe- / lunking through legacy code, n"
+    },
+    {
+      "before": "closely at the design documen- / tation, you might find that it"
+    },
+    {
+      "before": "it. They maintain a high engi- / neering standard, using their "
+    },
+    {
+      "before": "lap in responsibilities. Ulti- / mately, though, TPMs are respo"
+    },
+    {
+      "before": " not design, and not engineer- / ing quality. TPMs make sure th"
+    },
+    {
+      "before": "s. Staff engineers are respon- / sible for ensuring the resulti"
+    },
+    {
+      "before": "and fit well with the technol- / ogy landscape of the company. "
+    },
+    {
+      "before": "et project standards for test- / ing or code review, and no one"
+    },
+    {
+      "before": "s for good, if sobering, read- / ing. We’ve learned from plane "
+    },
+    {
+      "before": " system failures, and malfunc- / tioning medical equipment that"
+    },
+    {
+      "before": " bigger software-related trag- / edies coming in our future. We"
+    },
+    {
+      "before": " only a finite number of expe- / riences to reflect on. That me"
+    },
+    {
+      "before": "s can have huge impact by con- / ducting code and design review"
+    },
+    {
+      "before": "tural best practices, and cre- / ating the kinds of tooling tha"
+    },
+    {
+      "before": "en senior people vocally cele- / brate other people’s work, tre"
+    },
+    {
+      "before": "pect, and ask clarifying ques- / tions, it’s easier for everyon"
+    },
+    {
+      "before": "ould do this big-picture, big- / project, good-influence stuff,"
+    },
+    {
+      "before": "u’re writing strategy, review- / ing project designs, or settin"
+    },
+    {
+      "before": " coding, architecting new sys- / tems, or doing a lot of the wo"
+    },
+    {
+      "before": "to be part of the job descrip- / tion of the person doing it. I"
+    },
+    {
+      "before": "er there’s a feeling of “some- / one should do something here,”"
+    },
+    {
+      "before": " to go further. Aren’t techni- / cal skills enough? If you’re t"
+    },
+    {
+      "before": " though. A staff engineer usu- / ally doesn’t have direct repor"
+    },
+    {
+      "before": "ineers need to be “people peo- / ple.” Staff engineering has pl"
+    },
+    {
+      "before": "age of the difficult, unpleas- / ant software engineer, whose c"
+    },
+    {
+      "before": " Smith, SRE manager at Square- / space, gives concrete advice o"
+    },
+    {
+      "before": "odel them when you build some- / thing. Your reviews of code or"
+    },
+    {
+      "before": "tter. When you’re making tech- / nical decisions, you need to u"
+    },
+    {
+      "before": " into the details where neces- / sary, ask the right questions,"
+    },
+    {
+      "before": " take on the design or leader- / ship work that only you can do"
+    },
+    {
+      "before": "ity for less experienced engi- / neers (sometimes with support "
+    },
+    {
+      "before": " should be bringing you infor- / mation and sharing context, bu"
+    },
+    {
+      "before": "hing, you’ll bring your exper- / tise to the decision. You’ll w"
+    },
+    {
+      "before": " time commitment, and the ben- / efits—including the relationsh"
+    },
+    {
+      "before": " is to make sure the organiza- / tion has a good technical dire"
+    },
+    {
+      "before": " product or service your orga- / nization provides is a host of"
+    },
+    {
+      "before": " to ensure there is an agreed- / upon, well-understood solution"
+    },
+    {
+      "before": "needs of your company or orga- / nization, and will also be inf"
+    },
+    {
+      "before": " will affect the level of sup- / port you receive, the informat"
+    },
+    {
+      "before": "t be helpful for career devel- / opment: chances are that they "
+    },
+    {
+      "before": "with a case of the local maxi- / mum issues I mentioned earlier"
+    },
+    {
+      "before": ". If you find that these argu- / ments are happening a lot, you"
+    },
+    {
+      "before": "elationships that make it eas- / ier to get things done (and th"
+    },
+    {
+      "before": "er who can do a large percent- / age of the design and technica"
+    },
+    {
+      "before": "lems, nobody else gets experi- / ence in doing that."
+    },
+    {
+      "before": "ion to a straightforward prob- / lem, that’s often the work of "
+    },
+    {
+      "before": "’re aiming to become an indus- / try expert in a particular tec"
+    },
+    {
+      "before": "ing—whatever a typical practi- / tioner of the role works on"
+    },
+    {
+      "before": " your mix of these skills cor- / responds with your job title: "
+    },
+    {
+      "before": "these skills. As a staff engi- / neer, you’ll use all of them. "
+    },
+    {
+      "before": "s this path “the true individ- / ual contributor track”, noting"
+    },
+    {
+      "before": "he company, the “hyperspecial- / ist” path may be considered a "
+    },
+    {
+      "before": " out of date. Some staff engi- / neers find that they end up re"
+    },
+    {
+      "before": "s and leaving the bigger prob- / lems to fend for themselves."
+    },
+    {
+      "before": "oesn’t have any built-in feed- / back loops to tell you whether"
+    },
+    {
+      "before": "e of years, then a staff engi- / neer role, going back and fort"
+    },
+    {
+      "before": "e not intended to be prescrip- / tive; they give us concepts to"
+    },
+    {
+      "before": "de, and where in the organiza- / tion you sit. We’ve also looke"
+    },
+    {
+      "before": " interview for. There’s a dep- / recation that would be making "
+    },
+    {
+      "before": " it had a staff engineer drum- / ming up senior sponsorship. An"
+    },
+    {
+      "before": ". To use an idiom my kid drop- / ped profoundly one day, “You d"
+    },
+    {
+      "before": "lowed by an extra leader join- / ing. In general, if there are "
+    },
+    {
+      "before": " needs you and that will bene- / fit from your attention. Chapt"
+    },
+    {
+      "before": "ger’s and colleagues’ expecta- / tions may differ wildly from y"
+    },
+    {
+      "before": "ions. If you’re joining a com- / pany as a staff engineer, it’s"
+    },
+    {
+      "before": "rk over the next year. My pri- / mary focus is the success of t"
+    },
+    {
+      "before": "ty work (interviewing, mentor- / ing senior engineers). As part"
+    },
+    {
+      "before": "g technical direction, contri- / buting to org goal setting, an"
+    },
+    {
+      "before": "ier for the success of NewMer- / chandising. Identify risks or "
+    },
+    {
+      "before": " by participating in architec- / ture reviews for other sales g"
+    },
+    {
+      "before": "t needs to be successful, con- / sider doing it."
+    },
+    {
+      "before": "c, of course. It can mean hav- / ing a dozen conversations to u"
+    },
+    {
+      "before": "nition. It’s up to you to dis- / cover and decide what your rol"
+    },
+    {
+      "before": "cture view of what staff engi- / neers are and why organization"
+    },
+    {
+      "before": " means knowing about your sur- / roundings, too."
+    },
+    {
+      "before": "y out some techniques for get- / ting that perspective. You’ll "
+    },
+    {
+      "before": "on, the weird political bound- / aries in places nobody would p"
+    },
+    {
+      "before": " skeletons of previous travel- / ers, you’ll want to mark those"
+    },
+    {
+      "before": "ble to see whether you’re get- / ting any closer to that huge r"
+    },
+    {
+      "before": "t, learning how your new orga- / nization works, and uncovering"
+    },
+    {
+      "before": " the fog and get a better pic- / ture of the terrain, learning "
+    },
+    {
+      "before": "iful. But my friends were see- / ing more than I was. They’d pa"
+    },
+    {
+      "before": "ffect your projects or organi- / zation. And that means continu"
+    },
+    {
+      "before": "anization are ready for oppor- / tunities to stretch their skil"
+    },
+    {
+      "before": "ls, and regrettable @here mes- / sages on Slack, there’s a lot "
+    },
+    {
+      "before": "oint of view is heavily influ- / enced by where you’re standing"
+    },
+    {
+      "before": "f you huge and squeezes every- / thing else into the periphery."
+    },
+    {
+      "before": "ther people will all be influ- / enced by your perspective. Tha"
+    },
+    {
+      "before": "ard work meant that the archi- / tecture had vastly improved. W"
+    },
+    {
+      "before": "d and ask, “What’s really hap- / pening here? Is any of this wo"
+    },
+    {
+      "before": "isions only make sense to peo- / ple who have forgotten that th"
+    },
+    {
+      "before": "om of the stack in infrastruc- / ture roles, it was a shock to "
+    },
+    {
+      "before": "irst worked with product engi- / neering teams. They moved fast"
+    },
+    {
+      "before": "tures having rock-solid relia- / bility. Our debates shook some"
+    },
+    {
+      "before": "ey to pay everyone,” and “hav- / ing a good reputation.” My col"
+    },
+    {
+      "before": "eploying it shouldn’t be pain- / fully slow. Know your implicit"
+    },
+    {
+      "before": "y attention to all-hands meet- / ings for your group and others"
+    },
+    {
+      "before": "refers to service level objec- / tives (SLOs), a common mechani"
+    },
+    {
+      "before": "you don’t understand your cus- / tomer, you don’t have real per"
+    },
+    {
+      "before": "able for architecture, techni- / cal leadership and software re"
+    },
+    {
+      "before": "ctive, but I think it’s excel- / lent!"
+    },
+    {
+      "before": " Leadership Slack: the #archi- / tecture and #staff-principal-e"
+    },
+    {
+      "before": "I read the Raw Signal newslet- / ter for a weekly dose of a man"
+    },
+    {
+      "before": "e pieces of the earth’s litho- / sphere (see Figure 2-6) move a"
+    },
+    {
+      "before": "hquake that reshapes the land- / scape overnight. Navigating an"
+    },
+    {
+      "before": "ns knowing how to build momen- / tum within your organization: "
+    },
+    {
+      "before": ". The mechanics of your organ- / ization’s planning cycles will"
+    },
+    {
+      "before": "umans who are part of the sys- / tem, being clear about the pro"
+    },
+    {
+      "before": ", understanding long-term con- / sequences, and making trade-of"
+    },
+    {
+      "before": "iatives come from. This knowl- / edge will set your expectation"
+    },
+    {
+      "before": "eflected in what actually hap- / pens every day."
+    },
+    {
+      "before": "n secret organizations, infor- / mation is currency and nobody "
+    },
+    {
+      "before": " Everyone’s calendars are pri- / vate. Slack channels are invit"
+    },
+    {
+      "before": "or really understand why some- / thing’s not working."
+    },
+    {
+      "before": "sing which information to con- / sume. You might not know which"
+    },
+    {
+      "before": "s’s trust if you reshare some- / thing they told you in confide"
+    },
+    {
+      "before": "tion or don’t make sure every- / one knows what’s going on."
+    },
+    {
+      "before": "d in decisions? In some compa- / nies, it’s typical to make a b"
+    },
+    {
+      "before": "take the time to write a deci- / sion down—and a design documen"
+    },
+    {
+      "before": "page just won’t get read. Big- / ger and more mature companies "
+    },
+    {
+      "before": "they think are important. How- / ever, when those initiatives n"
+    },
+    {
+      "before": "they slow down. If teams disa- / gree about direction or priori"
+    },
+    {
+      "before": "company will find it much eas- / ier to choose initiatives and "
+    },
+    {
+      "before": "ck in. If you’re used to seek- / ing permission or having work "
+    },
+    {
+      "before": "d you move to a bottom-up com- / pany, you’ll be seen as having"
+    },
+    {
+      "before": "anies tend to make rapid deci- / sions and pivot abruptly to tr"
+    },
+    {
+      "before": "e considered rude to ask ques- / tions out of turn, and people "
+    },
+    {
+      "before": " with, but they have a differ- / ent problem: underallocated en"
+    },
+    {
+      "before": " Cambrian explosion of compet- / ing novel grassroots initiativ"
+    },
+    {
+      "before": "h with a small number of devo- / tees. You’ll have more impact "
+    },
+    {
+      "before": "airly fixed structure for com- / municating, making decisions, "
+    },
+    {
+      "before": " be realistic about that: suc- / cess still depends on having a"
+    },
+    {
+      "before": "tism, and other cognitive bia- / ses. (See the website Is Tech "
+    },
+    {
+      "before": " on something that’s been ear- / marked as a promotion project "
+    },
+    {
+      "before": " you’re trying to cause a cul- / ture change, it’s often possib"
+    },
+    {
+      "before": "nisational Cultures”, sociolo- / gist Ron Westrum wrote:"
+    },
+    {
+      "before": "n moves through standard chan- / nels and change is difficult; "
+    },
+    {
+      "before": "eration culture where informa- / tion flows freely; Westrum cal"
+    },
+    {
+      "before": "rising that an increasing num- / ber of software companies aim "
+    },
+    {
+      "before": "ve culture. That means encour- / aging cooperative cross-functi"
+    },
+    {
+      "before": "d around power, rules, or mis- / sion, you’ll find it easier to"
+    },
+    {
+      "before": ". Understanding your organiza- / tion’s culture gives you a rou"
+    },
+    {
+      "before": " make it difficult to communi- / cate, make decisions, and reso"
+    },
+    {
+      "before": "hitecture high and keep every- / one safe."
+    },
+    {
+      "before": "need to bring a token of spon- / sorship from someone the gatek"
+    },
+    {
+      "before": "y checklists or capacity esti- / mates, or replying to huge num"
+    },
+    {
+      "before": " and losing access to any wis- / dom the gatekeeper would have "
+    },
+    {
+      "before": " a wall. Ownership of the sys- / tem was smeared across three t"
+    },
+    {
+      "before": "could speak for the whole sys- / tem, I went around in circles "
+    },
+    {
+      "before": "tion styles that would be per- / fectly fine in another company"
+    },
+    {
+      "before": "rtography is inherently polit- / ical: what you choose to inclu"
+    },
+    {
+      "before": "reorgs, acquisitions, individ- / ual personalities, and, in som"
+    },
+    {
+      "before": " your life. They’re well adap- / ted for questions like “What w"
+    },
+    {
+      "before": "perating without enough infor- / mation. If you find yourself h"
+    },
+    {
+      "before": "lan of record. Suddenly every- / one’s using a new acronym or h"
+    },
+    {
+      "before": "t hope and promise is now dis- / missed as likely to fail. Ever"
+    },
+    {
+      "before": "rverless, or they think a mod- / ular monolith is just pragmati"
+    },
+    {
+      "before": "id all of these decisions hap- / pen? Was there a memo?"
+    },
+    {
+      "before": "make peace with: being techni- / cally correct about a directio"
+    },
+    {
+      "before": "ryone is advocating for a dif- / ferent path. If you consistent"
+    },
+    {
+      "before": "ikely want to have some influ- / ence on them too. Let’s start "
+    },
+    {
+      "before": "ending on where in the organi- / zational hierarchy you sit. So"
+    },
+    {
+      "before": "reporting chain or other chan- / nels. But decisions are also b"
+    },
+    {
+      "before": "erhaps there’s a weekly manag- / ers’ meeting that’s intended t"
+    },
+    {
+      "before": " to consensus on the path for- / ward. If you’re not seeing how"
+    },
+    {
+      "before": "story for why that should hap- / pen. It seems obvious, but you"
+    },
+    {
+      "before": "about impact to your organiza- / tion, not to you personally. N"
+    },
+    {
+      "before": "g you will make your organiza- / tion better at achieving its g"
+    },
+    {
+      "before": "endees’ willingness to be vul- / nerable or brutally honest. If"
+    },
+    {
+      "before": "regret inviting you. Will Lar- / son’s article “Getting in the "
+    },
+    {
+      "before": " things. Understand the situa- / tion, be kind, and, as I said "
+    },
+    {
+      "before": "echnical decisions are happen- / ing in the same room as those "
+    },
+    {
+      "before": "ions, you could suggest split- / ting the topics into separate "
+    },
+    {
+      "before": "alistic about what you’re ask- / ing for access to."
+    },
+    {
+      "before": " how everyone approaches know- / ing things, and a common threa"
+    },
+    {
+      "before": "ing that smells like “network- / ing.” It makes us think of sma"
+    },
+    {
+      "before": "f the organization that other- / wise would have enormous infor"
+    },
+    {
+      "before": " email summary nobody is send- / ing, introducing two people wh"
+    },
+    {
+      "before": " shows where we are. The topo- / graphic map shows how we can n"
+    },
+    {
+      "before": "his? To be clear, I’m not say- / ing you shouldn’t look for sho"
+    },
+    {
+      "before": " and full of discussion. Some- / times navigating around diffic"
+    },
+    {
+      "before": "husiasm around completely dif- / ferent directions. They’re all"
+    },
+    {
+      "before": " A team that’s used to iterat- / ing on short, clearly specifie"
+    },
+    {
+      "before": "ns along the way, while remem- / bering that there is a long-te"
+    },
+    {
+      "before": "oose to research various tech- / nologies. The set of available"
+    },
+    {
+      "before": "You’re not building a new ser- / vice mesh for the joy of build"
+    },
+    {
+      "before": "ion or misalignment. By spell- / ing the facts out and sharing "
+    },
+    {
+      "before": "re multiple competing destina- / tions."
+    },
+    {
+      "before": " map. We’ll draw that in Chap- / ter 9."
+    },
+    {
+      "before": "sing a big picture. An organi- / zation I was in had an upcomin"
+    },
+    {
+      "before": " supports it and adding repli- / cas to help it scale. We don’t"
+    },
+    {
+      "before": "ce plans next quarter. If any- / one wants to join the working "
+    },
+    {
+      "before": "lear, or that the plan is dis- / puted. If that’s the situation"
+    },
+    {
+      "before": "lk about creating the big pic- / ture. When the path is undefin"
+    },
+    {
+      "before": "te challenges and achieve spe- / cific goals. I’ll open by desc"
+    },
+    {
+      "before": "spoke sock manufacturers, per- / sonalized sock recommendations"
+    },
+    {
+      "before": ". It’s all built around a sin- / gle central database and data "
+    },
+    {
+      "before": "tastore, which includes sensi- / tive personally identifiable i"
+    },
+    {
+      "before": "s a special case of the exist- / ing sock-matching functionalit"
+    },
+    {
+      "before": "matching, several senior engi- / neers argued that it was time "
+    },
+    {
+      "before": " specifying the number of but- / tons in a set and the number o"
+    },
+    {
+      "before": "The billing code, personaliza- / tion subsystem, and other comp"
+    },
+    {
+      "before": "ct will have different charac- / teristics from existing ones. "
+    },
+    {
+      "before": " and their lids aren’t identi- / cal. The team will need differ"
+    },
+    {
+      "before": " versioned, and so it’s diffi- / cult to change it; with new in"
+    },
+    {
+      "before": "n the market and makes custom- / ers happy, but there are times"
+    },
+    {
+      "before": "ing the APIs, extracting func- / tionality from the monolith, a"
+    },
+    {
+      "before": "succeed. The engineering orga- / nization can’t seem to get mom"
+    },
+    {
+      "before": "mework or stick with the popu- / lar deprecated one? Maybe each"
+    },
+    {
+      "before": "ke the best decision. The peo- / ple taking action might be dif"
+    },
+    {
+      "before": " solved. Describing how every- / thing will be after the work i"
+    },
+    {
+      "before": "ineer who can see the big pic- / ture, you can probably imagine"
+    },
+    {
+      "before": " your architecture, code, pro- / cesses, technology, and teams."
+    },
+    {
+      "before": "scussed!) as well as the chal- / lenges in your path. When I us"
+    },
+    {
+      "before": " should address specific chal- / lenges in realistic ways, prov"
+    },
+    {
+      "before": "hatever difficulties are stop- / ping the group from getting to"
+    },
+    {
+      "before": "cally the channels #technical- / strategy and #books-good-strat"
+    },
+    {
+      "before": "ons that will bypass the chal- / lenges. Let’s look at each one"
+    },
+    {
+      "before": "cteristics so that it’s possi- / ble to really comprehend it. T"
+    },
+    {
+      "before": "a signpost, marking the direc- / tion forward.”"
+    },
+    {
+      "before": " writing an engineering strat- / egy for a company, he looked t"
+    },
+    {
+      "before": "ems, he told me: lack of tool- / ing, too many incidents, and p"
+    },
+    {
+      "before": "en more time, creating a posi- / tive feedback loop that made t"
+    },
+    {
+      "before": "o get a group together to cre- / ate an abstract high-level vis"
+    },
+    {
+      "before": "ad. Create what your organiza- / tion needs and no more."
+    },
+    {
+      "before": " able to convince your organi- / zation to do isn’t a good use "
+    },
+    {
+      "before": " Enterprise is saved with sec- / onds to spare. Phew!"
+    },
+    {
+      "before": "What if we <extreme technobab- / ble>” actually is the answer: "
+    },
+    {
+      "before": "nnovation.” If you write some- / thing interesting, it’s probab"
+    },
+    {
+      "before": "others, make sure your organi- / zation recognizes that leaders"
+    },
+    {
+      "before": "ject without taking over. Sug- / gest a formal split that gives"
+    },
+    {
+      "before": "e. Being the grizzled, experi- / enced best supporting actor is"
+    },
+    {
+      "before": " systems can incentivize engi- / neers to feel like they need t"
+    },
+    {
+      "before": " dominance plays and politick- / ing, where each person tries t"
+    },
+    {
+      "before": "itial approach, someone trust- / worthy leading a project will "
+    },
+    {
+      "before": "an setting up a competing ini- / tiative from scratch: you’ll h"
+    },
+    {
+      "before": "rategy can begin without spon- / sorship, but turning it into r"
+    },
+    {
+      "before": "ng is implicitly the organiza- / tion’s treasure map, not just "
+    },
+    {
+      "before": "ess criteria and act as a tie- / breaker when decisions are stu"
+    },
+    {
+      "before": "es are busy and you’re implic- / itly asking them to commit res"
+    },
+    {
+      "before": "posal that’s good for the com- / pany is a great start, you’ll "
+    },
+    {
+      "before": "lissa kindly took the opportu- / nity to coach: “The way you’re"
+    },
+    {
+      "before": "’ll have to work to get every- / one aligned, but since ultimat"
+    },
+    {
+      "before": "lign with your whole organiza- / tion, getting your core group "
+    },
+    {
+      "before": "eam, you can offer more light- / weight involvement: you’ll int"
+    },
+    {
+      "before": " even is your job?” introspec- / tion earlier in the book, your"
+    },
+    {
+      "before": "estions to you. Offer opportu- / nities to lead, and make sure "
+    },
+    {
+      "before": "s you’re trying to solve, con- / sider how much they sprawl acr"
+    },
+    {
+      "before": "olve your problem, but be con- / scious of your skill level and"
+    },
+    {
+      "before": " outside your sphere of influ- / ence, make sure you have a spo"
+    },
+    {
+      "before": "f those parts of the organiza- / tion."
+    },
+    {
+      "before": "n of the future involves some- / thing entirely out of your con"
+    },
+    {
+      "before": "for just your part of the com- / pany, understand that a higher"
+    },
+    {
+      "before": "pt yours. Even if you’re writ- / ing something engineering-wide"
+    },
+    {
+      "before": "you intend to create. I recom- / mend starting by having each o"
+    },
+    {
+      "before": " are enthusiastic about a par- / ticular approach, soul-search "
+    },
+    {
+      "before": "ake, or massive technical dif- / ficulties? Having one or two p"
+    },
+    {
+      "before": " with someone who’s done some- / thing similar before. Ask some"
+    },
+    {
+      "before": "g a vision/strategy and I cur- / rently see three problems ahea"
+    },
+    {
+      "before": " could be solved, but not cur- / rently by you. Is there a coac"
+    },
+    {
+      "before": "n your knowledge of your orga- / nization: think about the topo"
+    },
+    {
+      "before": "If you set everyone’s expecta- / tions, you’re less likely to m"
+    },
+    {
+      "before": "ent regularly to see what con- / text has changed. If you’ve mi"
+    },
+    {
+      "before": " initially thinking about cre- / ating a vision or strategy. Th"
+    },
+    {
+      "before": "w? If your teams are complain- / ing about being blocked by dep"
+    },
+    {
+      "before": " the CI/CD system, or discard- / ing a test framework that can "
+    },
+    {
+      "before": "uthor’s interests and affilia- / tions. Reviewers and editors w"
+    },
+    {
+      "before": "feel strongly about some deci- / sions or have even chosen arbi"
+    },
+    {
+      "before": "Make absolutely sure that any- / one who has more knowledge tha"
+    },
+    {
+      "before": "is system will feel safe disa- / greeing with you. “Strong idea"
+    },
+    {
+      "before": "ly the experiences of the peo- / ple in that group. You might n"
+    },
+    {
+      "before": "don’t know about what’s diffi- / cult in teams other than yours"
+    },
+    {
+      "before": " you might scope the conversa- / tion by describing how you’re "
+    },
+    {
+      "before": "write. You’ll hear about prob- / lems that you hadn’t considere"
+    },
+    {
+      "before": "u about what the biggest prob- / lems are. Have an open mind an"
+    },
+    {
+      "before": "ormation (whiteboarding, writ- / ing, drawing diagrams, structu"
+    },
+    {
+      "before": "eagues, asking ourselves ques- / tions and trying to pick apart"
+    },
+    {
+      "before": " decisions: what kind of docu- / ment to create, who to get inv"
+    },
+    {
+      "before": "and decide which group of peo- / ple won’t get their wish."
+    },
+    {
+      "before": " is more important than agree- / ment.” In other words, take th"
+    },
+    {
+      "before": "re OK with that. Mark Notting- / ham’s foreword to Learning HTT"
+    },
+    {
+      "before": "uthority and can act as a tie- / breaker. If there’s nobody in "
+    },
+    {
+      "before": "l as the uncertainty that sur- / rounds it. While keeping your "
+    },
+    {
+      "before": "for any of the possible direc- / tions you might end up choosin"
+    },
+    {
+      "before": "’t need to make the best deci- / sion, just a good enough decis"
+    },
+    {
+      "before": "tponing a decision. The excel- / lent decision-making website T"
+    },
+    {
+      "before": " any of the benefits the deci- / sion will give you, when getti"
+    },
+    {
+      "before": "decide. You add “make no deci- / sion (status quo)” to your lis"
+    },
+    {
+      "before": "luding the trade-offs you con- / sidered and how you got to the"
+    },
+    {
+      "before": "pany? People outside your com- / pany? Think about how you can "
+    },
+    {
+      "before": "re too futuristic for the peo- / ple you need to believe in the"
+    },
+    {
+      "before": " Be aware of what your organi- / zation will accept, and don’t "
+    },
+    {
+      "before": "s and adjust your plan as nec- / essary before the decision mak"
+    },
+    {
+      "before": "ns so that by the time a deci- / sion is made, there’s already "
+    },
+    {
+      "before": "e document with the whole com- / pany, she had complete buy-in "
+    },
+    {
+      "before": "t’s pretty compelling…for peo- / ple on your team. If achieving"
+    },
+    {
+      "before": "nd make sure the story is com- / fortable. A compelling story t"
+    },
+    {
+      "before": " the plan too. As Mojtaba Hos- / seini told me, “When it gets d"
+    },
+    {
+      "before": "eks or months creating a docu- / ment, but not everyone will be"
+    },
+    {
+      "before": " Don’t be offended! While peo- / ple may have the best intentio"
+    },
+    {
+      "before": " your points clear and memora- / ble, more people will grasp th"
+    },
+    {
+      "before": "t an all-hands meeting or sim- / ilar, you’ll want a slide deck"
+    },
+    {
+      "before": "etailed essay-style or bullet- / pointed document and also a on"
+    },
+    {
+      "before": "ed with the people whose opin- / ions matter, that person might"
+    },
+    {
+      "before": "n you chose was wrong. It hap- / pens. Be prepared to revisit y"
+    },
+    {
+      "before": "er solving your business prob- / lems, don’t be afraid to itera"
+    },
+    {
+      "before": "d. If you don’t have a compel- / ling reason to believe that yo"
+    },
+    {
+      "before": " who have taken a run at rear- / chitecting the monolith in the"
+    },
+    {
+      "before": "who have opinions about “solv- / ing” the monolith, you notice "
+    },
+    {
+      "before": "he’s not interested in commit- / ting anyone to this work."
+    },
+    {
+      "before": "aking on the food storage con- / tainer launch. With this high-"
+    },
+    {
+      "before": " online, Jesse might have eas- / ier access to staffing and, if"
+    },
+    {
+      "before": " a nice future, but food stor- / age needs to launch this year;"
+    },
+    {
+      "before": " his heart into making a thor- / ough solution and meeting with"
+    },
+    {
+      "before": "at least two months. One engi- / neer, Fran, agrees; the other "
+    },
+    {
+      "before": "oject is inclined to see prob- / lems as easier to solve than t"
+    },
+    {
+      "before": "ock matching code is very ten- / ured and very influential. If "
+    },
+    {
+      "before": "el. You commit to making occa- / sional lower-level technical d"
+    },
+    {
+      "before": " official is to add an organi- / zational OKR for it, with your"
+    },
+    {
+      "before": "hat you want to talk with peo- / ple who have opinions, and are"
+    },
+    {
+      "before": "evel one-year technical strat- / egy for enabling the food stor"
+    },
+    {
+      "before": "lving our core monolith archi- / tecture” needs more clarity, b"
+    },
+    {
+      "before": "aged too much: that’s not sus- / tainable and needs to change."
+    },
+    {
+      "before": "at’s great as it is. You imag- / ine your future selves looking"
+    },
+    {
+      "before": "ebase with twice as many engi- / neers and another five product"
+    },
+    {
+      "before": "ad, you go chat with some mem- / bers of your product teams, as"
+    },
+    {
+      "before": "eaders and practitioners, aim- / ing to understand what’s impor"
+    },
+    {
+      "before": "ous attempts to improve relia- / bility have centered on adding"
+    },
+    {
+      "before": " that your change isn’t break- / ing someone else, and getting "
+    },
+    {
+      "before": "ure changes come with a corre- / sponding change in one or both"
+    },
+    {
+      "before": "pected side effects while mak- / ing even simple changes."
+    },
+    {
+      "before": "the facts and tell a much sim- / pler story."
+    },
+    {
+      "before": "nges in a set of shared compo- / nents. Modifying these compone"
+    },
+    {
+      "before": "hem without development grind- / ing to a halt."
+    },
+    {
+      "before": "nful parts of writing a strat- / egy. In this case, the unversi"
+    },
+    {
+      "before": "he table: some of your collea- / gues are pushing to completely"
+    },
+    {
+      "before": "olith. They say that the rear- / chitecture would make it easie"
+    },
+    {
+      "before": "So, while “let’s run microser- / vices instead” might be the pe"
+    },
+    {
+      "before": " a company with different con- / straints, it doesn’t acknowled"
+    },
+    {
+      "before": "uld choose by setting configu- / ration options. The personaliz"
+    },
+    {
+      "before": "are big, risky changes. Refac- / toring these core components i"
+    },
+    {
+      "before": "n the meantime. The personali- / zation and billing teams are w"
+    },
+    {
+      "before": "ke on both isolation and inte- / gration work at once with thei"
+    },
+    {
+      "before": "onboard the food storage prod- / uct into their systems, then m"
+    },
+    {
+      "before": "he work they think should hap- / pen to make the monolith healt"
+    },
+    {
+      "before": "ent is honest about the trade- / offs of your plan as well as t"
+    },
+    {
+      "before": "u tell it. You share the docu- / ment with progressively broade"
+    },
+    {
+      "before": "r document isn’t more “vision- / ary” than any of the ideas the"
+    },
+    {
+      "before": "g! Some insist that this prob- / lem didn’t need a strategy; yo"
+    },
+    {
+      "before": "me load off the monolith main- / tenance team without needing a"
+    },
+    {
+      "before": "t from them, so Jody unexpect- / edly offers some of their help"
+    },
+    {
+      "before": "a successful launch, the prod- / uct team announces a new effor"
+    },
+    {
+      "before": " to use the new isolated func- / tionality and just start build"
+    },
+    {
+      "before": "ediment for growth, and a bar- / rier that was slowing everyone"
+    },
+    {
+      "before": "tions of talking to other peo- / ple, refining your ideas, maki"
+    },
+    {
+      "before": " whether to take on a particu- / lar side project. Not everythi"
+    },
+    {
+      "before": "t support your growth, reputa- / tion, and happiness can feel a"
+    },
+    {
+      "before": "nergy, quality of life, credi- / bility, social capital, and sk"
+    },
+    {
+      "before": "ct them and how you can delib- / erately choose a project engag"
+    },
+    {
+      "before": " positives, decrease the nega- / tives, or just say no and deci"
+    },
+    {
+      "before": "of this tendency and to remem- / ber that I have finite time."
+    },
+    {
+      "before": " put nonmeetings in the calen- / dar too. And I don’t just mean"
+    },
+    {
+      "before": "und noise of working in a cor- / porate environment: all-hands "
+    },
+    {
+      "before": " documents, building relation- / ships, keeping up to date with"
+    },
+    {
+      "before": " in the company and the indus- / try, mentoring, coaching, nudg"
+    },
+    {
+      "before": "redicted, you might find your- / self oversubscribed. So, when "
+    },
+    {
+      "before": "chedule, think about how vola- / tile your incoming workload mi"
+    },
+    {
+      "before": "it, by definition you’re drop- / ping something important. If y"
+    },
+    {
+      "before": "nd have each engineer continu- / ally take the next item from t"
+    },
+    {
+      "before": "o game The Sims, you’ll remem- / ber that each little simulated"
+    },
+    {
+      "before": "by different things. I’m abso- / lutely wiped by one-on-one mee"
+    },
+    {
+      "before": "cause it’s a step toward some- / thing you want and you’re opti"
+    },
+    {
+      "before": " day. If you’re bored or work- / ing with people who treat you "
+    },
+    {
+      "before": " megacorp and getting the big- / gest bucks might not make me p"
+    },
+    {
+      "before": " someone believes you can suc- / ceed at it. And any change you"
+    },
+    {
+      "before": "ther engineers see staff engi- / neers as working in an ivory t"
+    },
+    {
+      "before": "or work that doesn’t feel val- / uable, it’s even more importan"
+    },
+    {
+      "before": "ou out a lot, or are they con- / tinuously asking you for favor"
+    },
+    {
+      "before": "e talk about it or not, every- / one has a bank account of capi"
+    },
+    {
+      "before": "need more of it with some peo- / ple than others. In general, y"
+    },
+    {
+      "before": "asking for something. As Alex- / andre Dumas said, nothing succ"
+    },
+    {
+      "before": "ecomes less relevant and even- / tually gets out of date. Our i"
+    },
+    {
+      "before": "ll you want to hone, the easi- / est way to practice it will be"
+    },
+    {
+      "before": "get through a crisis is impor- / tant to you. Or maybe you work"
+    },
+    {
+      "before": "sizes, filling your time effi- / ciently isn’t easy. Figure 4-8"
+    },
+    {
+      "before": "ecially when the task in ques- / tion will only take an hour or"
+    },
+    {
+      "before": "it’s easier to plan and evalu- / ate your work if you’re clear "
+    },
+    {
+      "before": "and some of their characteris- / tics."
+    },
+    {
+      "before": "he words and narrative to con- / vince other people to care, es"
+    },
+    {
+      "before": "e regression, or a scary inci- / dent—and you could save the da"
+    },
+    {
+      "before": ", then returning to your regu- / lar project schedule (as in Fi"
+    },
+    {
+      "before": "y API or some wodge of techni- / cal debt, you might find it ha"
+    },
+    {
+      "before": " the company is already inves- / ted in. Joining a group like t"
+    },
+    {
+      "before": "volve horrible levels of poli- / ticking, cruft, or tedium, con"
+    },
+    {
+      "before": "u’re not “lobbing a water bal- / loon”: getting involved long e"
+    },
+    {
+      "before": "start small but hit an inflec- / tion point (such as project ap"
+    },
+    {
+      "before": "use the other three hours pro- / ductively?"
+    },
+    {
+      "before": " lead get started. Exit crite- / ria are especially important f"
+    },
+    {
+      "before": "exively volunteering or agree- / ing to do something."
+    },
+    {
+      "before": "ing to take a gazillion white- / board conversations to build u"
+    },
+    {
+      "before": "lem, but if you never eat any- / thing of substance you’ll suff"
+    },
+    {
+      "before": "and people management. Depend- / ing on who else is on your pro"
+    },
+    {
+      "before": "s, writing articles, or other- / wise publicly sharing what you"
+    },
+    {
+      "before": "erent skills, and doing diffi- / cult things gives you more cre"
+    },
+    {
+      "before": "ur manager considers appropri- / ate for your level (or for a l"
+    },
+    {
+      "before": " promoted to). If you’re some- / where a staff engineer isn’t c"
+    },
+    {
+      "before": "Machiavellian, I want to reit- / erate that this is just one as"
+    },
+    {
+      "before": "project, that will build good- / will and they’ll be more incli"
+    },
+    {
+      "before": " they think you’re doing some- / thing pointless, misguided, or"
+    },
+    {
+      "before": "y sponsoring people like your- / self. Watch out for implicit b"
+    },
+    {
+      "before": " his previous project had suc- / ceeded, and we had high hopes "
+    },
+    {
+      "before": "revious priorities, and every- / thing went back to normal—exce"
+    },
+    {
+      "before": "ocial capital. And be deliber- / ate when you spend it to help "
+    },
+    {
+      "before": " an example of debugging some- / thing difficult, driving a maj"
+    },
+    {
+      "before": " setting out to teach you any- / thing: they’re so competent th"
+    },
+    {
+      "before": "r engineer is emoting unhappi- / ness with their work. That doe"
+    },
+    {
+      "before": "er time to something more com- / patible. If you have been very"
+    },
+    {
+      "before": "e wrong team or the wrong com- / pany."
+    },
+    {
+      "before": "ne. I’m told that bullet jour- / naling is helpful for letting "
+    },
+    {
+      "before": "ing time for it, you’ll proba- / bly need to move something els"
+    },
+    {
+      "before": "skills, quality of life, cred- / ibility, and social capital, a"
+    },
+    {
+      "before": "s kind of work: “You’re demon- / strating trust by giving them "
+    },
+    {
+      "before": "eet once. If you aren’t avail- / able to review a proposed desi"
+    },
+    {
+      "before": "leagues who seem to do it suc- / cessfully, and see if you can "
+    },
+    {
+      "before": "ed about doing something simi- / lar. It feels so good when the"
+    },
+    {
+      "before": " it’ll mean creating a presen- / tation deck when you’d planned"
+    },
+    {
+      "before": " you really need this particu- / lar win, I’d look at who else "
+    },
+    {
+      "before": "ugh to compensate for the neg- / atives? Do it if the idea of d"
+    },
+    {
+      "before": "’ve done a lot of work to mod- / ernize architecture and proces"
+    },
+    {
+      "before": "ness, you’ll end up in a meet- / ing about it. You’ve got a lon"
+    },
+    {
+      "before": "you could learn the base tech- / nology, and you know you could"
+    },
+    {
+      "before": "tting nonmeetings in your cal- / endar will be crucial: if your"
+    },
+    {
+      "before": "’s still helpful for your man- / ager? Would you be interested "
+    },
+    {
+      "before": "hey’ll think of you when some- / thing new comes up."
+    },
+    {
+      "before": " who would have a helpful per- / spective. I cast around for le"
+    },
+    {
+      "before": "e agrees yet on what that man- / date is or whether they’re sup"
+    },
+    {
+      "before": "hiteboard scrawl, or—frustrat- / ingly often—a bunch of long em"
+    },
+    {
+      "before": "ct to solve a poorly articula- / ted, unscoped problem. Almost "
+    },
+    {
+      "before": " all agree on what you’re try- / ing to achieve. It’s a lot to "
+    },
+    {
+      "before": "rt is called learning”. Manag- / ing the discomfort is a skill "
+    },
+    {
+      "before": "nomenon known as imposter syn- / drome. Emotional overwhelm can"
+    },
+    {
+      "before": "dle ambiguity when I internal- / ize that this is the nature of"
+    },
+    {
+      "before": "mors, leads to follow, remind- / ers, bullet points, to-dos, an"
+    },
+    {
+      "before": "t was important. Putting abso- / lutely everything in one place"
+    },
+    {
+      "before": "d with a clear (ideally, writ- / ten) description of what you t"
+    },
+    {
+      "before": "hing more for months (a horri- / ble way to work, but it does h"
+    },
+    {
+      "before": "ussed in Chapter 2 can be per- / fect here. Choose a sounding b"
+    },
+    {
+      "before": "er admit weakness or just try- / ing to solve your problems for"
+    },
+    {
+      "before": "is this the one that’s happen- / ing? The “why” is going to be "
+    },
+    {
+      "before": "on’t understand what your cus- / tomers need, you’re not going "
+    },
+    {
+      "before": "duct teams, caring about busi- / ness context, key metrics, and"
+    },
+    {
+      "before": "ccess, like a product require- / ments document (PRD). If not, "
+    },
+    {
+      "before": "are projects sometimes implic- / itly measure progress by how m"
+    },
+    {
+      "before": "g 150+ Microservices to Kuber- / netes”, microservices expert S"
+    },
+    {
+      "before": "strong, you can sometimes con- / vince other people to get behi"
+    },
+    {
+      "before": " see how the project is trend- / ing. As Chapter 4 explained, y"
+    },
+    {
+      "before": "ct sponsor? If there’s a prod- / uct requirements document, thi"
+    },
+    {
+      "before": "ou can walk in and start solv- / ing big problems, unconstraine"
+    },
+    {
+      "before": "ers who disagree on the direc- / tion.” Similarly, creating an "
+    },
+    {
+      "before": " could prevent you from reach- / ing your goals on deadline? Ar"
+    },
+    {
+      "before": "sted effort, of creating some- / thing that ends up never getti"
+    },
+    {
+      "before": "there might be leftover compo- / nents you’ll be expected to us"
+    },
+    {
+      "before": "jump in. Have a lot of conver- / sations. Find out what half-bu"
+    },
+    {
+      "before": "ions and structure and follow- / ing a plan can be time-consumi"
+    },
+    {
+      "before": "e all aligned on your expecta- / tions. These structures will a"
+    },
+    {
+      "before": "r into each other: the differ- / ence between, say, a very seni"
+    },
+    {
+      "before": "neering manager, and a techni- / cal program manager might not "
+    },
+    {
+      "before": "ay out each leader’s responsi- / bilities. Rather than waiting "
+    },
+    {
+      "before": "omes from the four key respon- / sibilities most typically used"
+    },
+    {
+      "before": "you can set everyone’s expect- / ations even more clearly. It c"
+    },
+    {
+      "before": "ided some (fairly uncontrover- / sial) structure for people."
+    },
+    {
+      "before": "a whole lot of anxiety by hav- / ing a direct conversation abou"
+    },
+    {
+      "before": ", you are ultimately responsi- / ble for the project. That mean"
+    },
+    {
+      "before": "you. If nobody is project man- / aging, that’s you as well. It "
+    },
+    {
+      "before": "wn skill set. If you’re a big- / picture person, look for someo"
+    },
+    {
+      "before": "Dev in October 2020, “Sustain- / ing and Growing Motivation Acr"
+    },
+    {
+      "before": "ooking for leads, you’re look- / ing for people that don’t just"
+    },
+    {
+      "before": "flict resolution, good at com- / munication. You want people th"
+    },
+    {
+      "before": "achieve your goals. Their suc- / cess is your success, and thei"
+    },
+    {
+      "before": " the project management trian- / gle, which balances a project’"
+    },
+    {
+      "before": "ially change the user require- / ments for the next one, becaus"
+    },
+    {
+      "before": "’t start until others are com- / pletely finished, but usually "
+    },
+    {
+      "before": "t stage of the project. Split- / ting the work up like this mak"
+    },
+    {
+      "before": "our project into phases, work- / streams, or milestones. If eve"
+    },
+    {
+      "before": "mas give in The Pragmatic Pro- / grammer (O’Reilly): “We find t"
+    },
+    {
+      "before": "et at it, so practice estimat- / ing even when it doesn’t matte"
+    },
+    {
+      "before": "the company wiki or documenta- / tion platform? If not, create "
+    },
+    {
+      "before": "he thing you’ve asked for mat- / ters. Be explicit about what y"
+    },
+    {
+      "before": "sive: it’s an active, deliber- / ate, mindful role. It means ch"
+    },
+    {
+      "before": "lities of a project lead: mak- / ing sure decisions get made. W"
+    },
+    {
+      "before": "now at some of the other chal- / lenges you might encounter on "
+    },
+    {
+      "before": " of what you’re trying to ach- / ieve, what will be different o"
+    },
+    {
+      "before": "ou don’t know about, or unspo- / ken assumptions about the dire"
+    },
+    {
+      "before": "he use cases, or expect a dif- / ferent scope than you do. They"
+    },
+    {
+      "before": "start building up a crisp def- / inition of what you’re doing. "
+    },
+    {
+      "before": "uch a difficult mental adjust- / ment that I’ve seen project le"
+    },
+    {
+      "before": "’re less interesting or conve- / nient than creating something "
+    },
+    {
+      "before": ", I talked about building per- / spective by studying and learn"
+    },
+    {
+      "before": " workable one. Learn from his- / tory: understand whether simil"
+    },
+    {
+      "before": "ned, operated, deployed, moni- / tored, and someday deleted. If"
+    },
+    {
+      "before": "igh that up when you’re choos- / ing your approach."
+    },
+    {
+      "before": " a historic building in a for- / eign land. He writes about vis"
+    },
+    {
+      "before": "ept onto their existing knowl- / edge? How can I make it releva"
+    },
+    {
+      "before": " imagine the behavior of some- / thing you already know: “Think"
+    },
+    {
+      "before": "to describe concepts. Connect- / ing an abstract idea back to s"
+    },
+    {
+      "before": "e a much more powerful conver- / sation about where we actually"
+    },
+    {
+      "before": "n finance, marketing, or engi- / neering. Take the time to unde"
+    },
+    {
+      "before": "lossary, or at least be delib- / erate about describing what yo"
+    },
+    {
+      "before": "sing a stick figure or smiley- / face emoji is clearer than jus"
+    },
+    {
+      "before": "s a datastore. If you use col- / ors, some of your audience wil"
+    },
+    {
+      "before": "2), it’s easy to see what suc- / cess will look like. Similarly"
+    },
+    {
+      "before": "reeing on whether you’re solv- / ing the right problem at all a"
+    },
+    {
+      "before": "nt companies will have differ- / ent levels of detail and forma"
+    },
+    {
+      "before": "a lot to remember when design- / ing a complex system or proces"
+    },
+    {
+      "before": "talk to each other, avoid com- / mon mistakes, and make the rig"
+    },
+    {
+      "before": "then you should go a step fur- / ther and answer that question "
+    },
+    {
+      "before": "e right problem. If they disa- / gree, that’s great—you found o"
+    },
+    {
+      "before": "setting out to make it server- / less, so you’ve already made a"
+    },
+    {
+      "before": "rks. “The data will be encryp- / ted in transit [by zombies].” "
+    },
+    {
+      "before": "st your approach. Having disa- / greements about your design do"
+    },
+    {
+      "before": "nent will unpack the JSON pay- / load.”"
+    },
+    {
+      "before": "tside world? How are you stor- / ing any keys or passwords you’"
+    },
+    {
+      "before": "gh. Why wouldn’t simpler solu- / tions or off-the-shelf product"
+    },
+    {
+      "before": "ite code, or if you need secu- / rity, legal, or comms to appro"
+    },
+    {
+      "before": "ill run it? How will you moni- / tor it? If it will need backup"
+    },
+    {
+      "before": " simpler one. How could previ- / ous teams have put thousands o"
+    },
+    {
+      "before": "ruitment system, or even some- / thing to correctly share on-ca"
+    },
+    {
+      "before": "scratch,” be honest with your- / self and admit it."
+    },
+    {
+      "before": "much easier to discuss a triv- / ial issue than a difficult one"
+    },
+    {
+      "before": "rwise and helps you spot prob- / lems. What’s more, “If spendin"
+    },
+    {
+      "before": " add useful comments and docu- / mentation, and be very careful"
+    },
+    {
+      "before": " if you’re not talking to peo- / ple outside the project, your "
+    },
+    {
+      "before": " or standups. The goal is com- / fortable familiarity."
+    },
+    {
+      "before": ": stakeholders, sponsors, cus- / tomer teams who are waiting fo"
+    },
+    {
+      "before": "know: more information is bet- / ter, right? Not necessarily! T"
+    },
+    {
+      "before": "you go into the project assum- / ing something is going to go w"
+    },
+    {
+      "before": "eaking the news to your stake- / holders that the goal is now u"
+    },
+    {
+      "before": "em that’s going to be impossi- / ble to solve, the project stat"
+    },
+    {
+      "before": "to figure out how you can nav- / igate around it. The bigger th"
+    },
+    {
+      "before": " everyone safely to the desti- / nation. But there are a lot of"
+    },
+    {
+      "before": "arious people in the car disa- / gree about where you’re going."
+    },
+    {
+      "before": "mall change away from succeed- / ing, one quick modification aw"
+    },
+    {
+      "before": "ith your organizational privi- / lege, relationships you’ve bui"
+    },
+    {
+      "before": "on’s procrastination can some- / times be enough to miss an imp"
+    },
+    {
+      "before": "d when the project is a migra- / tion or a deprecation, success"
+    },
+    {
+      "before": "an show that it’s an organiza- / tional objective. You’ll demon"
+    },
+    {
+      "before": "o your emails and you’re piec- / ing together what’s going on. "
+    },
+    {
+      "before": "ect C is Team 2’s highest pri- / ority, and they’re focused on "
+    },
+    {
+      "before": " why the other team isn’t mov- / ing. Do they not understand wh"
+    },
+    {
+      "before": "ell you whether that’s realis- / tic, or whether there’s someth"
+    },
+    {
+      "before": "es to suggest, or may be will- / ing to have some of those conv"
+    },
+    {
+      "before": "ould they lay out their archi- / tecture, APIs, or data structu"
+    },
+    {
+      "before": "n the details, and it’s diffi- / cult to make progress without "
+    },
+    {
+      "before": "ering. But it will feel terri- / ble if you have to throw your "
+    },
+    {
+      "before": " else) can’t make a snap deci- / sion any more than you can. Or"
+    },
+    {
+      "before": "ing for information from some- / one they depend on before they"
+    },
+    {
+      "before": "sking. This is especially com- / mon when you have engineers ex"
+    },
+    {
+      "before": "ngineering problem to nonengi- / neers. I’ve seen an engineer a"
+    },
+    {
+      "before": "the words? Are there easy mis- / understandings? Think about wh"
+    },
+    {
+      "before": "And if some parts of the deci- / sion are more important than o"
+    },
+    {
+      "before": " out a way to replace our man- / ual steps with something self-"
+    },
+    {
+      "before": "rocess, and that you’re apolo- / getically asking to circumvent"
+    },
+    {
+      "before": "d the scripts didn’t material- / ize, and my urge to just write"
+    },
+    {
+      "before": "a sense for whether it’s some- / thing you’ll be able to help w"
+    },
+    {
+      "before": "t happen until their work hap- / pens. If they have a heavy wor"
+    },
+    {
+      "before": " an alternative. Consider set- / ting an earlier go/no-go deadl"
+    },
+    {
+      "before": "ts and a Call to Action” tech- / nique for asking for something"
+    },
+    {
+      "before": "ion” method that Brian Fitzpa- / trick and Ben Collins-Sussman "
+    },
+    {
+      "before": "timately difficult but learna- / ble. Help them, but try not to"
+    },
+    {
+      "before": "s the solution for the collea- / gue I mentioned earlier: pairi"
+    },
+    {
+      "before": " other approaches before esca- / lating, ultimately someone is "
+    },
+    {
+      "before": "b, and that’s a people manage- / ment issue. Having a difficult"
+    },
+    {
+      "before": "g about it and have many opin- / ions on any RFC—but none of th"
+    },
+    {
+      "before": "that work is unowned, particu- / larly when there are a lot of "
+    },
+    {
+      "before": "ou won’t uncover any misunder- / standings unless you remove th"
+    },
+    {
+      "before": " “the art of the rollup”: sum- / marizing all of the informatio"
+    },
+    {
+      "before": " as a shock to some. By spell- / ing it out, you give everyone "
+    },
+    {
+      "before": "e to learn from a staff+ engi- / neer can be an incentive that "
+    },
+    {
+      "before": "er team members they’re invit- / ing to join."
+    },
+    {
+      "before": " on this project will be advo- / cating for organizational supp"
+    },
+    {
+      "before": " or if it’s always “next quar- / ter” without any specifics abo"
+    },
+    {
+      "before": "g stream of upgrades, replace- / ments, and process changes tha"
+    },
+    {
+      "before": " situation isn’t good for any- / one: teams need to spend time "
+    },
+    {
+      "before": "derstanding which to use, par- / ticularly if the migration sta"
+    },
+    {
+      "before": "n can get lost, and I’ve some- / times heard a migration framed"
+    },
+    {
+      "before": "qually, I’ve heard “that prod- / uct team doesn’t care about pa"
+    },
+    {
+      "before": "et started on their own objec- / tives. Understand both sides a"
+    },
+    {
+      "before": "there’s any step you can auto- / mate, automate it. If you can "
+    },
+    {
+      "before": "u have the organizational sup- / port for it, consider an allow"
+    },
+    {
+      "before": "ou can’t convince your leader- / ship that your migration shoul"
+    },
+    {
+      "before": "might have trouble making pro- / gress: you’re just lost. It’s "
+    },
+    {
+      "before": "y about! Everyone has an opin- / ion. Everyone’s sure they know"
+    },
+    {
+      "before": "lete agreement: you will ulti- / mately make a decision about w"
+    },
+    {
+      "before": "our project sponsor or organi- / zational lead to be clear that"
+    },
+    {
+      "before": " and that it can’t make every- / one happy. You’ll pick a small"
+    },
+    {
+      "before": "rs who are eager to start cod- / ing in the service of the goal"
+    },
+    {
+      "before": " problem to solve is by choos- / ing a stakeholder to make happ"
+    },
+    {
+      "before": "und getting something to some- / one. Aim to solve in “vertical"
+    },
+    {
+      "before": "depth, particularly when some- / thing is going wrong. Or, ther"
+    },
+    {
+      "before": " statement of what you’re try- / ing to do. If you’re strugglin"
+    },
+    {
+      "before": "Schedule yourself some dedica- / ted time to really unpack the "
+    },
+    {
+      "before": "lly and externally. Don’t for- / get that you can learn from do"
+    },
+    {
+      "before": " Another angle is to ask your- / self whether you really need t"
+    },
+    {
+      "before": " for help from coworkers, men- / tors, or local experts. If you"
+    },
+    {
+      "before": " there was a company announce- / ment that listed all of the im"
+    },
+    {
+      "before": " have it listed on the organi- / zation’s goals. You might not "
+    },
+    {
+      "before": "ergy, you may need to deliber- / ately build that back up again"
+    },
+    {
+      "before": "oject” is somehow more motiva- / tional than “Let’s keep doing "
+    },
+    {
+      "before": "but I swear it will be differ- / ent this time.” If you can add"
+    },
+    {
+      "before": " approvals, updating the docu- / mentation, making it run for r"
+    },
+    {
+      "before": "eo game doesn’t care what lan- / guage the code is in or which "
+    },
+    {
+      "before": "ng through the cracks by look- / ing at the big picture of the "
+    },
+    {
+      "before": " celebrate, and then get frus- / trated that nobody seems to wa"
+    },
+    {
+      "before": ". Unfortunately, internal sol- / utions are often marketed like"
+    },
+    {
+      "before": "oblem don’t suggest this solu- / tion. I call these “Beware of "
+    },
+    {
+      "before": "omeone standing up a fake ser- / vice at the misspelled place."
+    },
+    {
+      "before": "ng solutions and then not mar- / keting them at all. He says it"
+    },
+    {
+      "before": "eering all-hands. Offer white- / glove service to specific cust"
+    },
+    {
+      "before": "d hopefully fixed) those prob- / lems. Be persistent and keep t"
+    },
+    {
+      "before": " cheaply and quickly as possi- / ble. When there’s a competitiv"
+    },
+    {
+      "before": "he same is true for every tem- / porary hack: if you don’t have"
+    },
+    {
+      "before": "n’t have a robust testing cul- / ture, start nudging it in the "
+    },
+    {
+      "before": "ing standards and causing cul- / ture change in Chapter 8."
+    },
+    {
+      "before": ". Even teams that build light- / weight first versions to get e"
+    },
+    {
+      "before": "eal ways. You can help by mak- / ing sure the user stories for "
+    },
+    {
+      "before": "in engineering knows is neces- / sary."
+    },
+    {
+      "before": ", or walking away from a half- / migration. If you’re all good,"
+    },
+    {
+      "before": "they’d realized that the tech- / nology couldn’t work for them "
+    },
+    {
+      "before": "ut how people view the invest- / ments of time, money, and ener"
+    },
+    {
+      "before": "ecutive has a different direc- / tion in mind, the market has c"
+    },
+    {
+      "before": "ill, a mass email, or the com- / pany all-hands meeting."
+    },
+    {
+      "before": " the chances of this resurrec- / tion happening, though.) Consi"
+    },
+    {
+      "before": "ve actually reached the desti- / nation. Are your measurable go"
+    },
+    {
+      "before": "pany blog. And consider a ret- / rospective: they’re not just f"
+    },
+    {
+      "before": " to enforce, like people help- / ing each other or communicatin"
+    },
+    {
+      "before": "he ways that it showed up dur- / ing the project. Shout out peo"
+    },
+    {
+      "before": " organizational support, esca- / lating, or making alternative "
+    },
+    {
+      "before": "truly complete. Code complete- / ness is just one milestone."
+    },
+    {
+      "before": "leagues how to be a good engi- / neer. Later, in Chapter 8, we’"
+    },
+    {
+      "before": "hapter is about passive influ- / ence, the kind that you have j"
+    },
+    {
+      "before": "t level through “heroic” soli- / tary efforts. If your engineer"
+    },
+    {
+      "before": "ou’re talking to computer sys- / tems; it’s also about how you "
+    },
+    {
+      "before": "o sometimes being a good engi- / neer boils down to being a goo"
+    },
+    {
+      "before": "be louder than you’re comfort- / able with, or throw your weigh"
+    },
+    {
+      "before": "me! We’ll discuss how in Chap- / ter 8.) That’s what being a ro"
+    },
+    {
+      "before": "sense to know when the conven- / tional wisdom is wrong."
+    },
+    {
+      "before": " parallels between the founda- / tional skills needed for her j"
+    },
+    {
+      "before": " born a skilled computer engi- / neer.”"
+    },
+    {
+      "before": "ict engineer, engineering man- / ager): 10+ years"
+    },
+    {
+      "before": " levels vary a lot across com- / panies. Most places don’t cons"
+    },
+    {
+      "before": "like management or staff engi- / neering, relatively early in t"
+    },
+    {
+      "before": "ck on. Apart from being a lit- / tle dismissive, it claims to d"
+    },
+    {
+      "before": " mobile development, algorith- / mic computer science, or netwo"
+    },
+    {
+      "before": "tion. While you might not rec- / ognize the specifics of the pr"
+    },
+    {
+      "before": "s of drawing systems on white- / boards and asking, “Is there a"
+    },
+    {
+      "before": "r business domain, be deliber- / ate about learning quickly. Le"
+    },
+    {
+      "before": "ou build instincts and experi- / ence, so you can become as com"
+    },
+    {
+      "before": "ven if you don’t know the lat- / est, hottest tool or practice,"
+    },
+    {
+      "before": "h. I’ll talk more about learn- / ing in Chapter 9."
+    },
+    {
+      "before": " you know a lot and are unusu- / ally skilled. Be confident abo"
+    },
+    {
+      "before": "Hey, aren’t you great at regu- / lar expressions”? Volunteer th"
+    },
+    {
+      "before": "other influencers of team cul- / ture. I love asking for an “EL"
+    },
+    {
+      "before": "a conversation bluff or disen- / gage a bit because they don’t "
+    },
+    {
+      "before": "! It requires more understand- / ing of the topic and more self"
+    },
+    {
+      "before": "plain language, so that nonex- / perts can hook it onto somethi"
+    },
+    {
+      "before": " what happened, how you recov- / ered, and what you learned. Be"
+    },
+    {
+      "before": "le. One of the biggest compli- / ments I give is, “Alex is goin"
+    },
+    {
+      "before": " thing will happen. The situa- / tion will be managed. I don’t "
+    },
+    {
+      "before": "eth Ayer, a product and deliv- / ery advisor, offers a more ope"
+    },
+    {
+      "before": "radiating intent: “The ‘radia- / tor’ keeps responsibility if t"
+    },
+    {
+      "before": "ructural integrity of a build- / ing, for example. By doing so,"
+    },
+    {
+      "before": " they’ve made. They’re person- / ally on the hook for that deci"
+    },
+    {
+      "before": "ons in their design documenta- / tion. (Or they genuinely consi"
+    },
+    {
+      "before": "bit viral. OK, we’re not talk- / ing otters holding hands viral"
+    },
+    {
+      "before": "ut the leadership and adminis- / trative tasks that aren’t on a"
+    },
+    {
+      "before": "nders, mentoring, and schedul- / ing. I called this kind of wor"
+    },
+    {
+      "before": "much administrative or leader- / ship work and not enough techn"
+    },
+    {
+      "before": "eryone knows you’re coordinat- / ing. If you don’t take charge "
+    },
+    {
+      "before": "art of conversation for sysad- / mins and software engineers: “"
+    },
+    {
+      "before": "her. Every time someone apolo- / gizes for asking a basic quest"
+    },
+    {
+      "before": " agenda: collect items to dis- / cuss at the start of the meeti"
+    },
+    {
+      "before": " worth getting together? Meet- / ing notes are a great example "
+    },
+    {
+      "before": "e the first to frame the deci- / sion. Then you can invite ever"
+    },
+    {
+      "before": "to praise in public and criti- / cize in private, this is a tim"
+    },
+    {
+      "before": "he adds, “Almost always, some- / body thanks me later for havin"
+    },
+    {
+      "before": "uild, and use that as a refer- / ence. For example, “You all kn"
+    },
+    {
+      "before": "I get using humor in hard sit- / uations, but let’s be mindful "
+    },
+    {
+      "before": " a big, loud issue, so be cer- / tain that you have all of the "
+    },
+    {
+      "before": "to ask them to carry your con- / cerns, and you’re amplifying t"
+    },
+    {
+      "before": "ng context. They might reflex- / ively react and amplify someth"
+    },
+    {
+      "before": "t plans, they prioritize some- / thing else. It’s chaotic. You "
+    },
+    {
+      "before": " safety and calm by being con- / sistent and predictable. Your "
+    },
+    {
+      "before": "iness context (and budget con- / text) to your decisions and so"
+    },
+    {
+      "before": "g beautiful code and architec- / ture. Similarly, if you’re shi"
+    },
+    {
+      "before": "end on headcount, vendor tool- / ing, and so on."
+    },
+    {
+      "before": "s “spending” that finite head- / count wisely."
+    },
+    {
+      "before": " tokens”: that is, your compa- / ny’s “limited capacity to do s"
+    },
+    {
+      "before": "he vendor explained how a fea- / ture we’d been asking for was "
+    },
+    {
+      "before": "sing Chrome. It works on Fire- / fox and Internet Explorer.” (Y"
+    },
+    {
+      "before": " where the team can’t get any- / thing done when you’re not ava"
+    },
+    {
+      "before": " priority will be to get some- / thing to market quickly, most "
+    },
+    {
+      "before": "anning for a longer time hori- / zon. The code and architecture"
+    },
+    {
+      "before": " make up your production envi- / ronment may last much longer, "
+    },
+    {
+      "before": "ount of work now will set peo- / ple’s expectations, save their"
+    },
+    {
+      "before": "ory in their brains. But even- / tually, inevitably, you’ll hav"
+    },
+    {
+      "before": " record of how the site relia- / bility organization had evolve"
+    },
+    {
+      "before": "emory, he wrote in-depth arti- / cles about the parts of the ec"
+    },
+    {
+      "before": "he obvious things that “every- / one knows,” and code comments "
+    },
+    {
+      "before": "ntext on what’s going on. How- / ever you create the history, i"
+    },
+    {
+      "before": "own by an AWS outage. The rea- / son I love this one is that Ho"
+    },
+    {
+      "before": "toring, logging, business con- / tinuity, scaling, and so on. E"
+    },
+    {
+      "before": "are: think of all the old sys- / tems that needed to be updated"
+    },
+    {
+      "before": "ort IPv6 or HTTPS, or for com- / pliance concerns like SOX, GDP"
+    },
+    {
+      "before": ", you went too far. We’re aim- / ing for understandability, not"
+    },
+    {
+      "before": "ion data moves); links to any- / thing they might wonder about."
+    },
+    {
+      "before": " doing, through tooling, trac- / ing, or useful status messages"
+    },
+    {
+      "before": "ool can write code that a com- / puter can understand. Good pro"
+    },
+    {
+      "before": "eople create complicated solu- / tions to prove that they’re do"
+    },
+    {
+      "before": "logic or performance optimiza- / tions. Make it so that someone"
+    },
+    {
+      "before": " that going to be for the peo- / ple working on it then? Will t"
+    },
+    {
+      "before": "ed to decommission this compo- / nent in 10 years. Future You w"
+    },
+    {
+      "before": "k with you is a direct indica- / tion of how successful you’ll "
+    },
+    {
+      "before": "r as an engineer. Be the engi- / neer that everyone wants to wo"
+    },
+    {
+      "before": "th you. If they don’t, reeval- / uate your approach."
+    },
+    {
+      "before": "s changing. Even if your engi- / neering organization is on the"
+    },
+    {
+      "before": "describe three tiers of influ- / ence (see Figure 8-1):"
+    },
+    {
+      "before": "t your positive influence con- / tinue even after you step away"
+    },
+    {
+      "before": "d unsolicited. At the individ- / ual level, this can mean mento"
+    },
+    {
+      "before": "dback, or just answering ques- / tions. You can scale your advi"
+    },
+    {
+      "before": "aking it easy for your collea- / gues to advise each other."
+    },
+    {
+      "before": "scale to groups using onboard- / ing materials, codelabs, class"
+    },
+    {
+      "before": ". The catalyst level is teach- / ing other people to teach, set"
+    },
+    {
+      "before": "gn review, and how to be some- / one’s project guardrail. For g"
+    },
+    {
+      "before": "by matching them with opportu- / nities that will help them lea"
+    },
+    {
+      "before": "r groups, the biggest opportu- / nity you can give your team mi"
+    },
+    {
+      "before": "gh they’re framed as a hierar- / chy, don’t skip past the “smal"
+    },
+    {
+      "before": "education initiative. Navigat- / ing a single team through a di"
+    },
+    {
+      "before": "k about whether the other per- / son is asking for them. Think "
+    },
+    {
+      "before": "u’re asking, but that job sit- / uation you described doesn’t s"
+    },
+    {
+      "before": " individual advice on a situa- / tion they’re in. These include"
+    },
+    {
+      "before": "o: sit next to someone, intro- / duce yourself, and answer thei"
+    },
+    {
+      "before": "ctor Neha Batra describes men- / toring as “sharing your experi"
+    },
+    {
+      "before": "technology stack) of the expe- / rience you had might not map w"
+    },
+    {
+      "before": "r, would do in the same situa- / tion. It’s kinder (if more dif"
+    },
+    {
+      "before": "n give either comfort and val- / idation or solutions as reques"
+    },
+    {
+      "before": "entees with decades of experi- / ence as well as mentors of my "
+    },
+    {
+      "before": "likely to find yourselves sit- / ting in a room staring at each"
+    },
+    {
+      "before": "ryone’s afraid to ask you any- / thing, your knowledge will sta"
+    },
+    {
+      "before": "frustrating to get a bare com- / ment like “The Foo library als"
+    },
+    {
+      "before": "to be a test audience for col- / leagues doing conference talks"
+    },
+    {
+      "before": " parts I found funny, insight- / ful, or educational. But I als"
+    },
+    {
+      "before": "t’s a more difficult conversa- / tion. But you won’t help your "
+    },
+    {
+      "before": "they need to help your collea- / gue grow and to notice pattern"
+    },
+    {
+      "before": "ng. If you find yourself hold- / ing back on describing an area"
+    },
+    {
+      "before": "r that what works for one per- / son might be terrible advice f"
+    },
+    {
+      "before": "others in trouble. It’s a com- / mon joke in tech women circles"
+    },
+    {
+      "before": "onsensus building” or “indeci- / siveness”? Were they “refreshi"
+    },
+    {
+      "before": "roject Include offer more rec- / ommendations for providing fee"
+    },
+    {
+      "before": "something that applies to peo- / ple outside your company, cons"
+    },
+    {
+      "before": "l things you can do is encour- / age people to write things dow"
+    },
+    {
+      "before": "y setting up a mentorship pro- / gram. Be warned: the administr"
+    },
+    {
+      "before": "sidered to be part of an engi- / neer’s job. If you can find a "
+    },
+    {
+      "before": " I’ll have a much clearer pic- / ture of how their systems inte"
+    },
+    {
+      "before": "and I’ll have made my own dia- / gram to refer back to or to ad"
+    },
+    {
+      "before": "done within the regular struc- / tures of working together: pai"
+    },
+    {
+      "before": "to draw the system on a white- / board and describe it to someo"
+    },
+    {
+      "before": " together. It’s another oppor- / tunity for role modeling, but "
+    },
+    {
+      "before": "out and suggest safer alterna- / tives. You also get to encoura"
+    },
+    {
+      "before": "ienced, it can be hard to cal- / ibrate the advice you’re given"
+    },
+    {
+      "before": "ings in this file are in Amer- / ican English, so let’s call th"
+    },
+    {
+      "before": "s a lot of work, the most con- / structive approach might not b"
+    },
+    {
+      "before": "s than they will from you giv- / ing them the answers."
+    },
+    {
+      "before": "e what they’ve said. The feel- / ing of being understood can be"
+    },
+    {
+      "before": "e on short-term residency pro- / grams. Many were new to the co"
+    },
+    {
+      "before": "’d watch it running in produc- / tion, and look at its UI and t"
+    },
+    {
+      "before": "ng for it to repay our invest- / ment."
+    },
+    {
+      "before": " people to teach them. Differ- / ent teachers have different st"
+    },
+    {
+      "before": "g process, evangelizing learn- / ing paths, or setting up a fra"
+    },
+    {
+      "before": "ou going over the edge. Guard- / rails encourage autonomy, expl"
+    },
+    {
+      "before": "gns and changes, and by offer- / ing support through scary proj"
+    },
+    {
+      "before": "olve? Are they using a techni- / cal solution to solve a proble"
+    },
+    {
+      "before": "ses, malformed input, the net- / work randomly disappearing, lo"
+    },
+    {
+      "before": "n’t know everything. Ask ques- / tions and be constructive. A g"
+    },
+    {
+      "before": "ning to balance these two con- / flicting business priorities?”"
+    },
+    {
+      "before": "ause an outage or public rela- / tions mess. And so a process i"
+    },
+    {
+      "before": ". Others will insist that peo- / ple should think instead of mi"
+    },
+    {
+      "before": "case, you end up with a three- / ring binder of policy and lega"
+    },
+    {
+      "before": "y correct answers to some fre- / quently asked questions. These"
+    },
+    {
+      "before": "idelines are wrong a lot, pro- / pose a change.)"
+    },
+    {
+      "before": "ot of ground, from naming con- / ventions to error handling to "
+    },
+    {
+      "before": " “Every team should run a ret- / rospective after an outage.” I"
+    },
+    {
+      "before": "ays to make it as easy as pos- / sible for people to remember t"
+    },
+    {
+      "before": "better, have an automated sys- / tem do the right thing so huma"
+    },
+    {
+      "before": "n that puts it in their calen- / dar or DMs them about it. The "
+    },
+    {
+      "before": "s before committing them? Goo- / gle’s data center safety syste"
+    },
+    {
+      "before": "mple: it allows setting guard- / rails like “No more than 5% of"
+    },
+    {
+      "before": "force your message scales fur- / ther than being a guardrail fo"
+    },
+    {
+      "before": " for granted today were intro- / duced by people who cared enou"
+    },
+    {
+      "before": " up on whether everyone’s fol- / lowing exactly the same proces"
+    },
+    {
+      "before": " you’re trying to change. Con- / sult the shadow org chart you "
+    },
+    {
+      "before": " is finding people the experi- / ences they need to grow. Peopl"
+    },
+    {
+      "before": "a chance for visibility, rela- / tionships, and résumé lines, a"
+    },
+    {
+      "before": " where you can help other peo- / ple find opportunities to grow"
+    },
+    {
+      "before": "ctly offer projects and learn- / ing experiences through delega"
+    },
+    {
+      "before": "nd walking away: you’re inves- / ted in the outcome. That might"
+    },
+    {
+      "before": "pted to micromanage or to han- / dle all of the difficult parts"
+    },
+    {
+      "before": " offer people a step up, some- / thing slightly scary."
+    },
+    {
+      "before": "ned it into “beautifully pack- / aged, cleanly wrapped gifts.” "
+    },
+    {
+      "before": "e their problem-solving abili- / ties, build their own support "
+    },
+    {
+      "before": "e looking for someone to dele- / gate to, think beyond the most"
+    },
+    {
+      "before": "e them like that can be a tre- / mendous boost to their confide"
+    },
+    {
+      "before": " long as they’re going to ach- / ieve the goals, let them do it"
+    },
+    {
+      "before": "erson, not proxying the infor- / mation. That is: when someone "
+    },
+    {
+      "before": "ing your time and social capi- / tal in their growth."
+    },
+    {
+      "before": "criticized; changing any nega- / tive perceptions of them"
+    },
+    {
+      "before": " your social capital by recom- / mending them, so don’t waste t"
+    },
+    {
+      "before": "Watch out for in-group favori- / tism, though, a cognitive bias"
+    },
+    {
+      "before": "uate other people more favora- / bly if they’re like you. In th"
+    },
+    {
+      "before": "alley, when really it’s a mir- / rortocracy, as people tend to "
+    },
+    {
+      "before": "ities that will help your col- / leagues. You can remember that"
+    },
+    {
+      "before": "described give people visibil- / ity and opportunities to learn"
+    },
+    {
+      "before": "he resourceful and knowledgea- / ble senior person who’s leadin"
+    },
+    {
+      "before": "ndidates to suggest for oppor- / tunities. Some ideas include: "
+    },
+    {
+      "before": "try is by empowering your col- / leagues to become great engine"
+    },
+    {
+      "before": "hings. As you offer opportuni- / ties that turn your midlevels "
+    },
+    {
+      "before": " your growth. If you can dele- / gate, you’ll be able to take r"
+    },
+    {
+      "before": "rails using processes, automa- / tion, and culture change."
+    },
+    {
+      "before": "he monsters and clear the dun- / geon,” he said, “and eventuall"
+    },
+    {
+      "before": "a clear destination with mile- / stones along the way. Maybe yo"
+    },
+    {
+      "before": "Or maybe you’re not going any- / where in particular: you’re ju"
+    },
+    {
+      "before": "r maybe you just want a sched- / ule that gives you lots of fre"
+    },
+    {
+      "before": "rojects, things you find ener- / gizing and fun."
+    },
+    {
+      "before": "ou really care about: succeed- / ing in a music career, say, or"
+    },
+    {
+      "before": "e for: making friends, travel- / ing the world, taking care of "
+    },
+    {
+      "before": "t be able to find the nonobvi- / ous paths, and the trails will"
+    },
+    {
+      "before": "reer, but that’s never guaran- / teed, and especially now. At s"
+    },
+    {
+      "before": "id they get to know? Ask your- / self these questions as you de"
+    },
+    {
+      "before": "e about, say, technical strat- / egy, or influencing people, or"
+    },
+    {
+      "before": "something that makes you nerv- / ous, and show yourself that it"
+    },
+    {
+      "before": "or a project needs a paid con- / sultant, the participants will"
+    },
+    {
+      "before": "teraction in software and hop- / ing they’re Doing Social prope"
+    },
+    {
+      "before": " Van Edwards’s Science of Peo- / ple website for learning some "
+    },
+    {
+      "before": "insightful questions, or show- / ing up with a clear strategy w"
+    },
+    {
+      "before": "rking on something that’s rel- / evant to both of you."
+    },
+    {
+      "before": "oups, articles, podcasts, vid- / eos, conference talks, and so "
+    },
+    {
+      "before": "’re going to get good at writ- / ing storage systems: you’ll ha"
+    },
+    {
+      "before": "es on your résumé. When an ex- / colleague is hiring a storage "
+    },
+    {
+      "before": "mpletely different set of cre- / dentials. It’s easy to get typ"
+    },
+    {
+      "before": " has been the single most val- / uable thing I’ve done througho"
+    },
+    {
+      "before": "s? Might it be doing the oppo- / site? Experienced engineering "
+    },
+    {
+      "before": "offers five metrics for evalu- / ating your job health:"
+    },
+    {
+      "before": " the skills to get hired some- / where else. As a result, they "
+    },
+    {
+      "before": "ometimes five years of experi- / ence is just…the same year of "
+    },
+    {
+      "before": "gineers, but think beyond pol- / ished people with expensive ha"
+    },
+    {
+      "before": " but often it is not, and peo- / ple realize that too late.”"
+    },
+    {
+      "before": "ias and let you look at a big- / ger picture over time. If you "
+    },
+    {
+      "before": "k yourself about bad relation- / ships: “If things stayed exact"
+    },
+    {
+      "before": "oing good in the world. Learn- / ing the most can mean not taki"
+    },
+    {
+      "before": "y, domain knowledge, and rela- / tionships that you build over "
+    },
+    {
+      "before": "ay also get to see the collea- / gues you leveled up become sen"
+    },
+    {
+      "before": "how to navigate your organiza- / tion, you have a skill set tha"
+    },
+    {
+      "before": ". Once you’ve collected every- / thing available, you might be "
+    },
+    {
+      "before": "er salaries. While some compa- / nies stay up to date with thei"
+    },
+    {
+      "before": "ren’t the ones that your lead- / ership wants to invest in, or "
+    },
+    {
+      "before": "ss will change, and even lead- / ership skills can slowly becom"
+    },
+    {
+      "before": " next level up. As your influ- / ence, knowledge, and impact ex"
+    },
+    {
+      "before": "tually looking for cash, pres- / tige, interesting challenges, "
+    },
+    {
+      "before": "some employers may be interes- / ted in retaining your skills f"
+    },
+    {
+      "before": "unt of your context, relation- / ships, credibility, and social"
+    },
+    {
+      "before": "r begin putting a lot of abil- / ity points into something enti"
+    },
+    {
+      "before": " moving from being a “product- / minded engineer” to officially"
+    },
+    {
+      "before": "hile. One staff software engi- / neer at a huge company told me"
+    },
+    {
+      "before": "eadership to technical leader- / ship or vice versa: each will "
+    },
+    {
+      "before": "f you’ve built up your experi- / ence as both team manager and "
+    },
+    {
+      "before": "ent experience, you’ll eventu- / ally need to start building th"
+    },
+    {
+      "before": "you might decide that the man- / agement track will give you mo"
+    },
+    {
+      "before": "nd are interested in the busi- / ness problems of the next leve"
+    },
+    {
+      "before": "ing on a more senior organiza- / tional role: “Just as having b"
+    },
+    {
+      "before": "r helps me be better at manag- / ing software engineers, having"
+    },
+    {
+      "before": "ling over the two year commit- / ment, maybe now is not the tim"
+    },
+    {
+      "before": "focus on the skills of manage- / ment, and that requires giving"
+    },
+    {
+      "before": "article I mentioned last chap- / ter!) says that careers come i"
+    },
+    {
+      "before": " or burnt out, you have a ten- / dency to pick a ‘rebound job.’"
+    },
+    {
+      "before": "ps you get out of a bad situa- / tion.”"
+    },
+    {
+      "before": " just jump for the first good- / enough recruiter mail that cro"
+    },
+    {
+      "before": "what you’d do in various lead- / ership scenarios, or “Tell me "
+    },
+    {
+      "before": "emember that you’re interview- / ing your interviewers too."
+    },
+    {
+      "before": ", the health care or construc- / tion industry."
+    },
+    {
+      "before": "s and corresponding downlevel- / ing. Going down a level can of"
+    },
+    {
+      "before": "hout decreasing your compensa- / tion, and it can let you shore"
+    },
+    {
+      "before": "increasingly limit your oppor- / tunities. Being in this new en"
+    },
+    {
+      "before": "ave more and different experi- / ence than I do.”"
+    },
+    {
+      "before": "s interested in starting some- / thing myself because it seemed"
+    },
+    {
+      "before": " benefits from a strong preex- / isting network, so potential c"
+    },
+    {
+      "before": "lamorous as many find it (usu- / ally less money than a stable "
+    },
+    {
+      "before": "ackground to solving a differ- / ent kind of problem."
+    },
+    {
+      "before": " with his partner, chef Chris- / tella Kay, and set up a retrea"
+    },
+    {
+      "before": " a different place and differ- / ent context. You’ll need to bu"
+    },
+    {
+      "before": "ics and draw a new topographi- / cal map. You’ll need a new tre"
+    },
+    {
+      "before": "y Sridharan warns against try- / ing to do a new job using the "
+    },
+    {
+      "before": "rely committed to or feel com- / fortable turning themselves in"
+    },
+    {
+      "before": "ver the past years. Many lead- / ers take the opposite approach"
+    },
+    {
+      "before": "e who try to learn the organi- / zational ropes and tailor thei"
+    },
+    {
+      "before": "to fit the organizational cul- / ture."
+    },
+    {
+      "before": "s for previous technical deci- / sions—everything has trade-off"
+    },
+    {
+      "before": "bout your job as a senior per- / son in the industry:"
+    },
+    {
+      "before": " skills, visibility, relation- / ships, and experiences."
+    },
+    {
+      "before": "levels (see discomfort manage- / career change, 308 ment)"
+    },
+    {
+      "before": "skills required of staff engi- / neers)"
+    },
+    {
+      "before": "erial as job change not promo- / tion, 302"
+    },
+    {
+      "before": "erial as job change not promo- / defending your time, 149 tion,"
+    },
+    {
+      "before": "amentals of Software Architec- / about, 120 ture (Richards and "
+    },
+    {
+      "before": "Hitchhiker’s Guide to the Gal- / credibility, 123 axy (Adams), "
+    },
+    {
+      "before": "skills required of staff engi- / advocating for someone, 279-28"
+    },
+    {
+      "before": "y in vision and strategy docu- / topographic maps ments, 88"
+    },
+    {
+      "before": "Think About When I Edit” (Par- / budget and headcount, 100 ish)"
+    },
+    {
+      "before": "gy as a senior principal engi- / neer at Squarespace. Previousl"
+    },
+    {
+      "before": "ference and a frequent confer- / ence and keynote speaker. Orig"
+    }
+  ],
+  "warnings": [
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "in",
+      "before": "and access to live training courses, in-",
+      "after": "depth learning paths, interactive coding"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "over",
+      "before": "er time investment for the company over-",
+      "after": "all. B is only slightly worse for the te"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "multi",
+      "before": "iew—who can consider the goals of multi-",
+      "after": "ple teams at once and choose a path that"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "over",
+      "before": "roject. Their team boundaries have over-",
+      "after": "laps and gaps that leak into the archite"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "over",
+      "before": "ption. No matter how carefully you over-",
+      "after": "lay teams onto a huge project, some resp"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": "o be the author or coauthor of the high-",
+      "after": "level system design and a main point of "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": "ersa. The better you are at being under-",
+      "after": "stood, the easier your job will be."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "long",
+      "before": "e some influence on short-term and long-",
+      "after": "term goals. You should be aware of the m"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": "d Cian Synnott is to write out my under-",
+      "after": "standing of my job and share it with my "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": "ake longer—but it will also be more pre-",
+      "after": "dictable and fair."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "out",
+      "before": "ng new design documents, announcing out-",
+      "after": "ages, or linking change-management ticke"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": "ment tickets give everyone an easy high-",
+      "after": "level view of what’s going on. If these "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "out",
+      "before": "nt from the people experiencing the out-",
+      "after": "comes, or might be separated in time fro"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": "chnology choices, or it could stay high-",
+      "after": "level and leave all of the details to wh"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": ", any big effort that doesn’t have high-",
+      "after": "level support is unlikely to succeed. A "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "in",
+      "before": "king about the topic, sharing a work-in-",
+      "after": "progress document, or asking for their r"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "inter",
+      "before": "tatus quo. Take a tactic from the Inter-",
+      "after": "net Engineering Task Force (IETF), whose"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": "make it easy to read, or share the high-",
+      "after": "lights in another way. Avoid dense walls"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "cross",
+      "before": "f you’ve proposed new projects or cross-",
+      "after": "organization work, you may need headcoun"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": "e problems, collecting links to the pre-",
+      "after": "vious efforts and the working group’s no"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "self",
+      "before": "on subsystems to allow easy, safe, self-",
+      "after": "service additions of new matchable items"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "low",
+      "before": " But if you move entirely away from low-",
+      "after": "level technical problems, other engineer"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": "ke it easier for everyone else to under-",
+      "after": "stand. You’ll lose credibility when you’"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "back",
+      "before": "trust. I’ve seen many disapproving back-",
+      "after": "channel conversations along the lines of"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": " putting the work in perspective; under-",
+      "after": "standing the goals, constraints, and his"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "inter",
+      "before": "l? What do they want? Is there an inter-",
+      "after": "mediate person between you and the origi"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": "rt in perfect synchronization, with pre-",
+      "after": "dictable availability of time and energy"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "sub",
+      "before": "a new project gets even worse. As a sub-",
+      "after": "lead for a project more than a decade ag"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "cross",
+      "before": " manager who has led several huge cross-",
+      "after": "organization projects, told me that she "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": "n’t assume everyone you work with under-",
+      "after": "stands or agrees with those ideas. Even "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "short",
+      "before": "ave two boxes left. To solve this short-",
+      "after": "age, we should order more."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "over",
+      "before": "’s great, do it, but watch out for over-",
+      "after": "engineered solutions that are much more "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": "eeded? Is something in their way? Under-",
+      "after": "standing means talking to each other. If"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "inter",
+      "before": "lowness or even turning it off at inter-",
+      "after": "vals? Don’t do this without strong organ"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "non",
+      "before": "self: for me that means good sleep, non-",
+      "after": "stodgy food, plenty of water, and a room"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": "ing up posters! Get testimonials. Under-",
+      "after": "stand what anyone might be wary of, or u"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": " so that some future engineer can under-",
+      "after": "stand what you were trying to do. (Be re"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "low",
+      "before": "lt in a mechanism to keep the rules low-",
+      "after": "stakes too: “The social rules are lightw"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": "a tense news story, show that you under-",
+      "after": "stand why someone would joke just then. "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": "r new revenue are considered big. Under-",
+      "after": "stand how your company makes money and k"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": "day it’s created. If it’s hard to under-",
+      "after": "stand then, good luck in two years, when"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": "ammers write code that humans can under-",
+      "after": "stand.” Senior engineers sometimes think"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": "logic and tracing through code to under-",
+      "after": "stand what data they’re accessing? Or wi"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "mid",
+      "before": "our components will settle into the mid-",
+      "after": "dle. While it might be faster now for yo"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "one",
+      "before": "sk for advice. It’s not necessarily one-",
+      "after": "way either. Your mentee might give you a"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": "connect to the topic at hand. But under-",
+      "after": "stand what advice is being implicitly so"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": "es on one-on-one conversations to under-",
+      "after": "stand how anything works, one of the mos"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "inter",
+      "before": " just receive the information but inter-",
+      "after": "nalize it for themselves."
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": "’s scheduled at the same time as a high-",
+      "after": "profile launch?"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": " Ideally, your allies will include high-",
+      "after": "level sponsors and influencers in the or"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "meta",
+      "before": "give one final tortured video game meta-",
+      "after": "phor, think about games like Final Fanta"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "back",
+      "before": "eeds a lead, there’ll be a buzz of back-",
+      "after": "channel conversation among the nearby fo"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "self",
+      "before": "rowing toward your goals, and your self-",
+      "after": "confidence and abilities stay high. A ba"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "under",
+      "before": "get. It takes time to intuitively under-",
+      "after": "stand something so well that you can bui"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "out",
+      "before": "ning transferable skills. The world out-",
+      "after": "side can shift, and you can get left beh"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "life",
+      "before": "e that are hallmarks of some other life-",
+      "after": "critical engineering disciplines. Canadi"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "principalengineering",
+      "suggestion": "principal engineering"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "hyperspecialists",
+      "suggestion": "hyper specialists"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "technicalstrategy",
+      "suggestion": "technical strategy"
+    }
+  ],
+  "imagesExtracted": [
+    {
+      "page": 1,
+      "file": "p1-fig1.png"
+    },
+    {
+      "page": 1,
+      "file": "p1-fig2.png"
+    },
+    {
+      "page": 1,
+      "file": "p1-fig3.png"
+    },
+    {
+      "page": 1,
+      "file": "p1-fig4.png"
+    },
+    {
+      "page": 1,
+      "file": "p1-fig5.png"
+    },
+    {
+      "page": 1,
+      "file": "p1-fig6.png"
+    },
+    {
+      "page": 2,
+      "file": "p2-fig1.png"
+    },
+    {
+      "page": 5,
+      "file": "p5-fig1.png"
+    },
+    {
+      "page": 14,
+      "file": "p14-fig1.png"
+    },
+    {
+      "page": 17,
+      "file": "p17-fig1.png"
+    },
+    {
+      "page": 18,
+      "file": "p18-fig1.png"
+    },
+    {
+      "page": 20,
+      "file": "p20-fig1.png"
+    },
+    {
+      "page": 26,
+      "file": "p26-fig1.png"
+    },
+    {
+      "page": 30,
+      "file": "p30-fig1.png"
+    },
+    {
+      "page": 40,
+      "file": "p40-fig1.png"
+    },
+    {
+      "page": 57,
+      "file": "p57-fig1.png"
+    },
+    {
+      "page": 59,
+      "file": "p59-fig1.png"
+    },
+    {
+      "page": 62,
+      "file": "p62-fig1.png"
+    },
+    {
+      "page": 62,
+      "file": "p62-fig2.png"
+    },
+    {
+      "page": 63,
+      "file": "p63-fig1.png"
+    },
+    {
+      "page": 66,
+      "file": "p66-fig1.png"
+    },
+    {
+      "page": 66,
+      "file": "p66-fig2.png"
+    },
+    {
+      "page": 72,
+      "file": "p72-fig1.png"
+    },
+    {
+      "page": 74,
+      "file": "p74-fig1.png"
+    },
+    {
+      "page": 77,
+      "file": "p77-fig1.png"
+    },
+    {
+      "page": 84,
+      "file": "p84-fig1.png"
+    },
+    {
+      "page": 85,
+      "file": "p85-fig1.png"
+    },
+    {
+      "page": 88,
+      "file": "p88-fig1.png"
+    },
+    {
+      "page": 89,
+      "file": "p89-fig1.png"
+    },
+    {
+      "page": 97,
+      "file": "p97-fig1.png"
+    },
+    {
+      "page": 111,
+      "file": "p111-fig1.png"
+    },
+    {
+      "page": 118,
+      "file": "p118-fig1.png"
+    },
+    {
+      "page": 139,
+      "file": "p139-fig1.png"
+    },
+    {
+      "page": 140,
+      "file": "p140-fig1.png"
+    },
+    {
+      "page": 141,
+      "file": "p141-fig1.png"
+    },
+    {
+      "page": 142,
+      "file": "p142-fig1.png"
+    },
+    {
+      "page": 143,
+      "file": "p143-fig1.png"
+    },
+    {
+      "page": 143,
+      "file": "p143-fig2.png"
+    },
+    {
+      "page": 149,
+      "file": "p149-fig1.png"
+    },
+    {
+      "page": 150,
+      "file": "p150-fig1.png"
+    },
+    {
+      "page": 152,
+      "file": "p152-fig1.png"
+    },
+    {
+      "page": 153,
+      "file": "p153-fig1.png"
+    },
+    {
+      "page": 154,
+      "file": "p154-fig1.png"
+    },
+    {
+      "page": 155,
+      "file": "p155-fig1.png"
+    },
+    {
+      "page": 158,
+      "file": "p158-fig1.png"
+    },
+    {
+      "page": 167,
+      "file": "p167-fig1.png"
+    },
+    {
+      "page": 168,
+      "file": "p168-fig1.png"
+    },
+    {
+      "page": 169,
+      "file": "p169-fig1.png"
+    },
+    {
+      "page": 170,
+      "file": "p170-fig1.png"
+    },
+    {
+      "page": 182,
+      "file": "p182-fig1.png"
+    },
+    {
+      "page": 196,
+      "file": "p196-fig1.png"
+    },
+    {
+      "page": 212,
+      "file": "p212-fig1.png"
+    },
+    {
+      "page": 214,
+      "file": "p214-fig1.png"
+    },
+    {
+      "page": 220,
+      "file": "p220-fig1.png"
+    },
+    {
+      "page": 224,
+      "file": "p224-fig1.png"
+    },
+    {
+      "page": 235,
+      "file": "p235-fig1.png"
+    },
+    {
+      "page": 277,
+      "file": "p277-fig1.png"
+    },
+    {
+      "page": 287,
+      "file": "p287-fig1.png"
+    },
+    {
+      "page": 308,
+      "file": "p308-fig1.png"
+    },
+    {
+      "page": 312,
+      "file": "p312-fig1.png"
+    },
+    {
+      "page": 318,
+      "file": "p318-fig1.png"
+    },
+    {
+      "page": 359,
+      "file": "p359-fig1.png"
+    }
+  ],
+  "blocksByType": {
+    "p": 1187,
+    "h1": 1,
+    "figure": 62,
+    "h2": 1,
+    "attribution": 354,
+    "ul": 60,
+    "figure-caption": 49,
+    "ol": 2,
+    "h3": 1
+  },
+  "textLengthBefore": 707190,
+  "textLengthAfter": 712640
+}

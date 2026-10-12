@@ -1,0 +1,542 @@
+{
+  "generatedAt": "2026-09-22T14:15:16.772Z",
+  "pagesProcessed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165
+  ],
+  "headersRemoved": 2,
+  "headerSamples": [
+    {
+      "page": 7,
+      "text": "Documenting Your Containers 18"
+    },
+    {
+      "page": 8,
+      "text": "Hands On: Deploying an Ambassador and Memcache for a Sharded Cache 63"
+    }
+  ],
+  "hyphenRepairs": [
+    {
+      "before": "as container images with HTTP- / based interfaces means they ca"
+    },
+    {
+      "before": "of microservices, these micro- / containers rely on APIs to ens"
+    },
+    {
+      "before": "rface expected by the general- / purpose monitoring system."
+    },
+    {
+      "before": "d a few large caches, your IP- / address-based affinity may in "
+    },
+    {
+      "before": ") is serverless but not event- / driven. Conversely, an open so"
+    },
+    {
+      "before": "re ideal candidates for event- / driven and FaaS architectures."
+    },
+    {
+      "before": "tion, fire it into a function- / based handler that takes the c"
+    },
+    {
+      "before": "tionality. This microservices- / based approach is simple to wr"
+    },
+    {
+      "before": "that passes through the event- / driven workflow. The simplest "
+    },
+    {
+      "before": "services (see replicated load- / for MySQL, 37-39 balanced serv"
+    }
+  ],
+  "warnings": [
+    {
+      "type": "image-extraction-failed",
+      "detail": "timed out waiting for page object \"g_d2_img_p41_1\""
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "object",
+      "before": "th the concept of objects within object-",
+      "after": "oriented programming, these containerize"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "time",
+      "before": "e programs on a single machine via time-",
+      "after": "sharing operating systems, but these mac"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "object",
+      "before": "amming led to the development of object-",
+      "after": "oriented programming languages, which el"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "single",
+      "before": "attern. The sidecar pattern is a single-",
+      "after": "node pattern made up of two containers. "
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": " the sidecar pattern can help adapt pre-",
+      "after": "existing applications to more cloud-nati"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": " just like achieving modularity in high-",
+      "after": "quality software development requires fo"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "re",
+      "before": " pattern can help provide a modular, re-",
+      "after": "usable design for both of these situatio"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "inter",
+      "before": " like disk, network interface, or inter-",
+      "after": "process communications. Such collections"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "over",
+      "before": ". Assuming that you are willing to over-",
+      "after": "provision shard capacity, this means tha"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "high",
+      "before": "anguages include a wide variety of high-",
+      "after": "quality hash functions. However, the out"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": "you can speed up your deployment by pre-",
+      "after": "pulling the new image onto the machine b"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "pre",
+      "before": "e a key as the name of the lock and pre-",
+      "after": "condition writes to ensure that only one"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "long",
+      "before": "r batch processing. In contrast to long-",
+      "after": "running applications, batch processes ar"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "multi",
+      "before": "vious chapters. In this case, the multi-",
+      "after": "worker pattern transforms a collection o"
+    },
+    {
+      "type": "ambiguous-hyphen",
+      "prefix": "multi",
+      "before": " single container group using the multi-",
+      "after": "worker pattern described in the previous"
+    },
+    {
+      "type": "possible-run-together-words",
+      "text": "microservicesbased",
+      "suggestion": "micro services based"
+    }
+  ],
+  "imagesExtracted": [
+    {
+      "page": 1,
+      "file": "p1-fig1.png"
+    },
+    {
+      "page": 1,
+      "file": "p1-fig2.png"
+    },
+    {
+      "page": 2,
+      "file": "p2-fig1.png"
+    },
+    {
+      "page": 12,
+      "file": "p12-fig1.png"
+    },
+    {
+      "page": 12,
+      "file": "p12-fig2.png"
+    },
+    {
+      "page": 13,
+      "file": "p13-fig1.png"
+    },
+    {
+      "page": 19,
+      "file": "p19-fig1.png"
+    },
+    {
+      "page": 26,
+      "file": "p26-fig1.png"
+    },
+    {
+      "page": 27,
+      "file": "p27-fig1.png"
+    },
+    {
+      "page": 28,
+      "file": "p28-fig1.png"
+    },
+    {
+      "page": 31,
+      "file": "p31-fig1.png"
+    },
+    {
+      "page": 36,
+      "file": "p36-fig1.png"
+    },
+    {
+      "page": 37,
+      "file": "p37-fig1.png"
+    },
+    {
+      "page": 41,
+      "file": "p41-fig1.png"
+    },
+    {
+      "page": 47,
+      "file": "p47-fig1.png"
+    },
+    {
+      "page": 57,
+      "file": "p57-fig1.png"
+    },
+    {
+      "page": 57,
+      "file": "p57-fig2.png"
+    },
+    {
+      "page": 60,
+      "file": "p60-fig1.png"
+    },
+    {
+      "page": 61,
+      "file": "p61-fig1.png"
+    },
+    {
+      "page": 63,
+      "file": "p63-fig1.png"
+    },
+    {
+      "page": 65,
+      "file": "p65-fig1.png"
+    },
+    {
+      "page": 65,
+      "file": "p65-fig2.png"
+    },
+    {
+      "page": 66,
+      "file": "p66-fig1.png"
+    },
+    {
+      "page": 67,
+      "file": "p67-fig1.png"
+    },
+    {
+      "page": 70,
+      "file": "p70-fig1.png"
+    },
+    {
+      "page": 74,
+      "file": "p74-fig1.png"
+    },
+    {
+      "page": 75,
+      "file": "p75-fig1.png"
+    },
+    {
+      "page": 86,
+      "file": "p86-fig1.png"
+    },
+    {
+      "page": 89,
+      "file": "p89-fig1.png"
+    },
+    {
+      "page": 91,
+      "file": "p91-fig1.png"
+    },
+    {
+      "page": 92,
+      "file": "p92-fig1.png"
+    },
+    {
+      "page": 95,
+      "file": "p95-fig1.png"
+    },
+    {
+      "page": 100,
+      "file": "p100-fig1.png"
+    },
+    {
+      "page": 109,
+      "file": "p109-fig1.png"
+    },
+    {
+      "page": 119,
+      "file": "p119-fig1.png"
+    },
+    {
+      "page": 124,
+      "file": "p124-fig1.png"
+    },
+    {
+      "page": 125,
+      "file": "p125-fig1.png"
+    },
+    {
+      "page": 125,
+      "file": "p125-fig2.png"
+    },
+    {
+      "page": 128,
+      "file": "p128-fig1.png"
+    },
+    {
+      "page": 134,
+      "file": "p134-fig1.png"
+    },
+    {
+      "page": 137,
+      "file": "p137-fig1.png"
+    },
+    {
+      "page": 138,
+      "file": "p138-fig1.png"
+    },
+    {
+      "page": 139,
+      "file": "p139-fig1.png"
+    },
+    {
+      "page": 140,
+      "file": "p140-fig1.png"
+    },
+    {
+      "page": 141,
+      "file": "p141-fig1.png"
+    },
+    {
+      "page": 141,
+      "file": "p141-fig2.png"
+    },
+    {
+      "page": 142,
+      "file": "p142-fig1.png"
+    },
+    {
+      "page": 143,
+      "file": "p143-fig1.png"
+    },
+    {
+      "page": 144,
+      "file": "p144-fig1.png"
+    },
+    {
+      "page": 148,
+      "file": "p148-fig1.png"
+    },
+    {
+      "page": 150,
+      "file": "p150-fig1.png"
+    },
+    {
+      "page": 154,
+      "file": "p154-fig1.png"
+    },
+    {
+      "page": 155,
+      "file": "p155-fig1.png"
+    }
+  ],
+  "blocksByType": {
+    "figure": 53,
+    "h1": 1,
+    "p": 881,
+    "h2": 1,
+    "dialogue": 35,
+    "ol": 16,
+    "code": 130,
+    "attribution": 16,
+    "ul": 12,
+    "h3": 3
+  },
+  "textLengthBefore": 267627,
+  "textLengthAfter": 272265
+}
