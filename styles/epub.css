@@ -1,28 +1,35 @@
 /* EPUB-friendly stylesheet: relative units only, no fixed page dimensions.
    Intentionally minimal — the source PDF's visual design was page-layout
-   driven and does not carry over to a reflowable format. */
+   driven and does not carry over to a reflowable format.
+
+   Tuned for e-ink Kindles (Paperwhite): no body font-family or text-align,
+   so the reader's own font and justification settings stay in charge; no
+   background tints (they render as muddy grey or vanish on e-ink) - boxes
+   and code use rules and borders instead. */
 
 body {
-  font-family: serif;
   line-height: 1.4;
   margin: 0;
-  padding: 0 5%;
+  padding: 0 2%;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4, h5 {
   page-break-after: avoid;
   break-after: avoid;
+  page-break-inside: avoid;
   line-height: 1.2;
-  margin: 1.2em 0 0.6em;
+  text-align: left;
+  font-weight: bold;
 }
 
-h1 { font-size: 1.6em; }
-h2 { font-size: 1.3em; }
-h3 { font-size: 1.1em; }
+h1 { font-size: 1.6em; margin: 0 0 1em; page-break-before: always; }
+h2 { font-size: 1.3em; margin: 1.6em 0 0.6em; }
+h3 { font-size: 1.12em; margin: 1.4em 0 0.5em; }
+h4 { font-size: 1em; margin: 1.2em 0 0.4em; }
+h5 { font-size: 1em; margin: 1em 0 0.3em; font-style: italic; }
 
 p {
   margin: 0 0 0.8em;
-  text-align: justify;
   orphans: 2;
   widows: 2;
 }
@@ -37,8 +44,10 @@ p.attribution {
 }
 
 p.caption,
-figcaption {
+figcaption,
+caption {
   font-size: 0.9em;
+  font-style: italic;
   text-align: center;
   margin: 0.4em 0 1em;
 }
@@ -52,9 +61,44 @@ li {
   margin: 0 0 0.3em;
 }
 
+dl {
+  margin: 0 0 0.8em;
+}
+
+dt {
+  margin: 0.6em 0 0.2em;
+  font-weight: bold;
+  page-break-after: avoid;
+  break-after: avoid;
+}
+
+dd {
+  margin: 0 0 0.5em 1.5em;
+}
+
 blockquote {
   margin: 0 1.5em 0.8em;
   font-style: italic;
+}
+
+/* Sidebars and TIP/NOTE/WARNING callouts. */
+div.sidebar,
+div.note {
+  border: 1px solid #000;
+  padding: 0.4em 0.8em;
+  margin: 1em 0;
+}
+
+div.note {
+  border-width: 1px 0;
+}
+
+p.box-title {
+  font-weight: bold;
+  text-align: center;
+  margin: 0.2em 0 0.6em;
+  page-break-after: avoid;
+  break-after: avoid;
 }
 
 img {
@@ -65,6 +109,11 @@ img {
 figure {
   margin: 1em 0;
   text-align: center;
+  page-break-inside: avoid;
+}
+
+code {
+  font-family: monospace;
 }
 
 pre {
@@ -72,23 +121,30 @@ pre {
   overflow-wrap: anywhere;
   font-family: monospace;
   font-size: 0.85em;
-  background: #f5f5f5;
-  padding: 0.6em;
+  border-left: 3px solid #000;
+  padding: 0.2em 0 0.2em 0.6em;
   margin: 0 0 0.8em;
+  text-align: left;
 }
 
 pre.table-like {
-  background: #fafafa;
+  border-left-style: dotted;
 }
 
 table {
   border-collapse: collapse;
   width: 100%;
   margin: 0 0 1em;
+  font-size: 0.85em;
 }
 
 th, td {
-  border: 1px solid #999;
-  padding: 0.3em 0.5em;
+  border: 1px solid #000;
+  padding: 0.25em 0.4em;
   text-align: left;
+  vertical-align: top;
+}
+
+th {
+  font-weight: bold;
 }

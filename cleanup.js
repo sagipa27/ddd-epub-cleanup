@@ -23,6 +23,7 @@ function parseArgs(argv) {
     if (k === 'write') args.mode = 'write';
     else if (k === 'dry-run') args.mode = 'dry-run';
     else if (k === 'preview') args.mode = 'preview';
+    else if (k === 'color') args.color = v !== 'false'; // keep PDF images in color (default: grayscale)
     else args[k] = v;
   }
   // --pdf=<file> selects the generic any-PDF path (lib/pdfPipeline.js);
@@ -148,7 +149,8 @@ async function main() {
 
   const scopeSlug = args.scope.replace(/[^a-z0-9]+/gi, '-');
   const outFile = path.join(args.output, `${scopeSlug}.xhtml`);
-  const fullDoc = wrapXhtml(title || 'Chapter', bodyHtml, 'styles/epub.css');
+  const fallbackTitle = args.pdf ? path.basename(args.pdf, path.extname(args.pdf)) : 'Chapter';
+  const fullDoc = wrapXhtml(title || fallbackTitle, bodyHtml, 'styles/epub.css');
 
   if (args.mode === 'write') {
     fs.mkdirSync(args.output, { recursive: true });

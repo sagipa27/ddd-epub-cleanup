@@ -7,7 +7,7 @@
     "clean:chapter5": "node cleanup.js --write --scope=chapter:5 --input=source/book.html --output=cleaned-html --reportDir=reports",
     "clean:all": "node cleanup.js --write --scope=all --input=source/book.html --output=cleaned-html --reportDir=reports",
     "clean:pdf": "node cleanup.js --write --scope=all --output=cleaned-html --reportDir=reports",
-    "process:pdfs": "node batchPdf.js --dir=pdfs --output=cleaned-html --reportDir=reports"
+    "process:pdfs": "node batchPdf.js --dir=pdfs --output=epubs"
   },
   "keywords": [],
   "author": "",

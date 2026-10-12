@@ -5,3 +5,7 @@ node_modules/
 # kept via .gitkeep. Remove this line if you do want your PDFs in git
 # (source/book.html, the original example input, is tracked this way).
 pdfs/*.pdf
+
+# Converted PDFs are moved here by batchPdf.js once their EPUB is built;
+# same reasoning as pdfs/ above.
+processed-pdf/*.pdf
